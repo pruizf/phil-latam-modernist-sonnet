@@ -124,13 +124,13 @@ This will generate per-author files that contain at:
 
 #### TEI Per-sonnet files
 
-- With saxon and `../xslt/per-sonnet.xsl` based on the per-author files above
+- With saxon and `xslt/per-sonnet.xsl` based on the per-author files above
 
 #### Text versions
 
 Two XSLT for this:
-  - `../xslt/tei2txt_per-author.xsl`: Generates per-author directories in the TXT distribution of the corpus (under `per-author`, one directory per author, named by author ID, and all poems by the author inside it)
-  - `../xslt/tei2txt_per-sonnet.xsl`: Generates per-sonnet TXT files
+  - `xslt/tei2txt_per-author.xsl`: Generates per-author directories in the TXT distribution of the corpus (under `per-author`, one directory per author, named by author ID, and all poems by the author inside it)
+  - `xslt/tei2txt_per-sonnet.xsl`: Generates per-sonnet TXT files
     
 Both take the per-sonnet TEI directories as their input.
 
