@@ -138,14 +138,6 @@ Both take the per-sonnet TEI directories as their input.
 
 Some textual errors were corrected by Clara in the dataframe with the metrics results, these corrections were reflected back into the TEI corpus with `source_corrections.py`.
 
-### Metadata tables and documentation
-
-Note that these metadata creation scripts do not affect the TEI and some of these scripts may read off the directories for the public repository, or a local directory structure that closely follows it (they do not necessarily read off the results available here)
-
-- `create_incipit_table.py`: Its result is what gets published as `poem_metadata.tsv` in the public repo
-- `create_distribution_table.py`: Outputs the corpus distribution used in the public [README](https://github.com/pruizf/disco#data-distribution). Reads sonnet IDs among other metdata in the per-author files to get the counts 
-- `extract_prosopography.py`: The teiHeader now contains all the personography information (unlike early versions of the corpus), but we're still keeping the external personography. So this reproduces teiHeader information into `md/prosopography.xml`
-
 ### Public versions
 
 - The TEI were copied to the public repository, but the author ID for Chocano was modified prior to that (which affects file names for this author, their content and the content of metadata tables). This was done to maintain the same practice as in earlier releases, where authors some of whose production takes place up to 1936 are kept together with other 19th-century authors. Given this, his ID was changed to `592n` (a 19th-century ID in this corpus) instead of `010t` and (in `create_corpus.sh`) the files were copied to the `19th` directories.
