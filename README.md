@@ -40,6 +40,8 @@ See script for other options (`-t` creates text versions (per-author and per-son
 
 To create the annotation dataframe, do `python extract_annotations_to_df.py`. This outputs `out/h23-df.tsv`.
 
+However, as said above, manual corrections were carried out for the automatic annotations. The final data (including manual corrections) are at [`out/2023-02-03-h23-df-plus-jumper.ods`](out/2023-02-03-h23-df-plus-jumper.ods).
+
 Dataframe fields are the following:
 
 |field|meaning|
