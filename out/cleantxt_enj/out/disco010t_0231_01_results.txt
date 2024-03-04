@@ -1,0 +1,14 @@
+{¡ O} {Oh O} {, O} {selva N} {virginal G} {! O} {El D} {arte N} {es V} {huella N}	B	sirrem_noun_prep	pp06.1
+{De P} {explorador N} {en P} {selva N} {enmarañada G}	IB	sirrem_noun_prep;enlace_od_verb	pp06.1;ld02
+{Tal Q} {el D} {rayo N} {de P} {sol N} {de P} {una D} {mirada N}	I	enlace_od_verb	ld02
+{Penetra R} {el D} {corazón N} {de P} {una D} {doncella N} {. O}	O		
+{¡ O} {Oh O} {selva N} {virginal G} {! O} {Óyense G} {en P} {ella Q}	O		
+{De P} {la D} {fiera N} {que Q} {corre V} {la D} {pisada N} {, O}	O		
+{Del P} {río N} {que Q} {se Q} {va V} {la D} {carcajada N} {, O}	O		
+{De P} {la D} {hoja N} {que Q} {cae V} {la D} {querella N} {... O}	O		
+{Allí A} {, O} {cuando C} {la D} {lira N} {ensaya P} {un D} {beso N}	B	enlace_subj_verb	ld01
+{Y C} {rompe V} {desde P} {el D} {árbol N} {de P} {la D} {vida N} {, O}	I	enlace_subj_verb	ld01
+{En P} {nuevos G} {cantos N} {de P} {rarezas N} {sumas G} {, O}	O		
+{Huye R} {... O} {y C} {se Q} {pierde V} {entre P} {lo D} {más A} {espeso G}	B	enlace_od_verb	ld02
+{Una D} {musa N} {pagana G} {, O} {perseguida G}	IB	enlace_od_verb;sirrem_adj_prep	ld02;pd01
+{Por P} {un D} {salvaje G} {de P} {pintadas G} {plumas N} {. O}	I	sirrem_adj_prep	pd01

@@ -1,0 +1,14 @@
+{El D t1} {dómine N t2} {paciente G t3} {y C t4} {circunflejo G t5} {, O t6}
+{de P t7} {calado N t8} {birrete G t9} {, O t10} {se Q t11} {pasea V t12} {; O t13}
+{y C t14} {medita V t15} {y C t16} {trabaja V t17} {en P t18} {una D t19} {idea N t20} {, O t21}
+{con P t22} {febril G t23} {ademán N t24} {y C t25} {hosco N t26} {entrecejo G t27} {. O t28}
+{Mientras C t29} {uno Q t30} {decora V t31} {con P t32} {despejo N t33} {, O t34}
+{otro D t35} {alumno N t36} {cantando V t37} {deletrea G t38} {; O t39}
+{y C t40} {la D t41} {tropa N t42} {infanlil G t43} {chilla G t44} {y C t45} {vocea G t46} {, O t47}
+{fija G t48} {y C t49} {pendiente G t50} {del P t51} {callado G t52} {viejo G t53} {. O t54}
+{¿ O t55} {En P t56} {qué Q t57} {piensa V t58} {el D t59} {señor N t60} {? O t61} {Pierna V t62} {que C t63} {todo Q t64}
+{a P t65} {golpe N t66} {de P t67} {palmeta N t68} {y C t69} {por P t70} {espanto N t71} {, O t72}
+{si C t73} {no A t74} {cambia V t75} {de P t76} {ser V t77} {, O t78} {cambia V t79} {de P t80} {modo N t81} {; O t82}
+{y C t83} {piensa V t84} {que C t85} {no A t86} {hay V t87} {acto N t88} {ni C t89} {hay V t90} {objeto N t91} {, O t92}
+{que Q t93} {no A t94} {se Q t95} {encierre V t96} {en P t97} {la D t98} {lección N t99} {de P t100} {canto N t101}
+{de P t102} {la D t103} {escala N t104} {inmortal G t105} {del P t106} {alfabeto N t107} {. O t108}

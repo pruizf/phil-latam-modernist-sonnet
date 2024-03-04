@@ -1,0 +1,14 @@
+{Yo Q} {soy V} {un D} {semi-centauro N} {, O}	O		
+{de P} {semblante G} {avieso N} {y C} {duro G} {, O}	O		
+{que Q} {remedo V} {a P} {Minotauro R}	O		
+{y C} {me Q} {copio V} {de P} {Epicuro R} {. O}	O		
+{A P} {mi D} {frente A} {agobia V} {un D} {lauro N}	B	oracional	cp01
+{que Q} {predice V} {mi D} {futuro N} {, O}	I	oracional	cp01
+{y C} {en P} {la D} {vida N} {soy V} {un D} {Tauro R}	B	oracional	cp01
+{que Q} {derriba V} {fuerte G} {muro N} {. O}	I	oracional	cp01
+{Yo Q} {le Q} {canto N} {a P} {Proserpina R} {, O}	O		
+{la D} {que Q} {quema N} {corazones N}	O		
+{en P} {su D} {cálida N} {piscina N} {. O}	O		
+{Soy V} {Satán R} {y C} {soy V} {Cristo R}	B	oracional	cp01
+{que Q} {agoniza V} {entre P} {ladrones N} {... O}	I	oracional	cp01
+{¡ O} {No A} {comprendo V} {dónde Q} {existo G} {! O}	O		

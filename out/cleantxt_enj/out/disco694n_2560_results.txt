@@ -1,0 +1,14 @@
+{Entre P} {la D} {barbarie N} {que C} {las D} {garras N} {saca V}	O		
+{cuando C} {ve V} {el D} {reflejo N} {de P} {sedas N} {fulgentes G} {; O}	O		
+{entre P} {el D} {que Q} {desdora A} {, O} {desluce V} {y C} {ataca V} {, O}	O		
+{eriza V} {las D} {cerdas N} {y C} {muestra V} {los D} {dientes N}	O		
+{cuando C} {ve V} {mi D} {gema N} {, O} {mi D} {biombo N} {, O} {mi D} {laca N} {, O}	O		
+{o C} {mis D} {raras G} {musas N} {, O} {terror N} {de P} {las D} {gentes N} {, O}	O		
+{terror N} {de P} {la D} {gente N} {calmuca N} {y C} {canaca N}	B	oracional	cp01
+{que Q} {mancha V} {la D} {gloria N} {de P} {los D} {continentes N} {... O} {, O}	I	oracional	cp01
+{suele V} {haber V} {un D} {cisne N} {, O} {o C} {un D} {águila N} {bella G} {, O}	O		
+{o C} {un D} {lirio N} {, O} {o C} {un D} {trueno N} {, O} {o C} {una D} {blanca G} {estrella N} {, O}	O		
+{o C} {un D} {iris Q} {que Q} {muda V} {la D} {noche N} {que Q} {mata V} {, O}	O		
+{o C} {una D} {espada N} {de P} {oro N} {, O} {o C} {un D} {casco N} {de P} {plata N} {, O}	O		
+{o C} {una D} {rosa N} {pura G} {, O} {o C} {una D} {noble G} {rosa N} {... O} {, O}	O		
+{toda D} {como C} {tu D} {alma N} {, O} {Carlos R} {Romagosa R} {! O}	O		

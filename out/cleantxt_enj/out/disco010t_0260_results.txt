@@ -1,0 +1,14 @@
+{La D} {aldea N} {ayer A} {no A} {más A} {entristecida G}	B	enlace_subj_verb	ld01
+{cobra V} {hoy A} {nuevo G} {placer N} {; O} {que C} {en P} {torno N} {vierte V}	IB	enlace_subj_verb;enlace_od_verb	ld01;ld02
+{alborozada G} {luz N} {la D} {misma D} {Muerte R}	I	enlace_od_verb	ld02
+{desde P} {el D} {cénit N} {de P} {la D} {perpetua G} {Vida R} {. O}	O		
+{Como C} {corcel Q} {que Q} {destrozó V} {la D} {brida N} {, O}	O		
+{el D} {alma N} {deja V} {la D} {materia N} {inerte G} {; O}	O		
+{y C} {entre P} {los D} {bruscos N} {cambios N} {de P} {la D} {suerte N}	B	sirrem_adj_noun	pp02
+{brota G} {transfigurada G} {y C} {desprendida G} {. O}	I	sirrem_adj_noun	pp02
+{Es V} {la D} {Resurrección R} {. O} {Mientras C} {que C} {llena V}	B	enlace_od_verb	ld02
+{la D} {Pascua R} {todo Q} {de P} {inefable G} {brillo N} {, O}	I	enlace_od_verb	ld02
+{surge V} {el D} {aldeano N} {en P} {traje N} {dominguero G} {; O}	O		
+{y C} {luego A} {, O} {en P} {aras N} {de P} {la D} {alegre G} {cena N} {, O}	O		
+{se Q} {inclina V} {a P} {la D} {amenaza N} {del P} {cuchillo N}	B	enlace_subj_verb	ld01
+{la D} {humilde G} {frente A} {del P} {pascual N} {cordero G} {... O}	I	enlace_subj_verb	ld01

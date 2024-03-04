@@ -1,0 +1,14 @@
+{¡ O t1} {Llena G t2} {eres V t3} {de P t4} {gracia N t5} {, O t6} {madre N t7} {Naturaleza R t8} {! O t9}
+{Tú Q t10} {pones V t11} {en P t12} {mis D t13} {ojos N t14} {este D t15} {Edén R t16} {no A t17} {perdido G t18} {; O t19}
+{tú Q t20} {pones N t21} {las D t22} {más A t23} {hondas G t24} {palabras N t25} {en P t26} {mi D t27} {oído N t28} {: O t29}
+{tú Q t30} {pones N t31} {el D t32} {más A t33} {alto G t34} {laurel N t35} {en P t36} {mi D t37} {cabeza N t38}
+{Y C t39} {desde P t40} {que C t41} {en P t42} {ti Q t43} {acaba V t44} {todo D t45} {lo D t46} {que Q t47} {en P t48} {mí Q t49} {empieza V t50} {, O t51}
+{te Q t52} {hago V t53} {saber V t54} {ahora A t55} {lo D t56} {que Q t57} {de P t58} {ti Q t59} {he V t60} {aprendido V t61} {: O t62}
+{sólo A t63} {por P t64} {ti Q t65} {mi D t66} {verso N t67} {tiene V t68} {este D t69} {buen G t70} {sentido N t71}
+{de P t72} {la D t73} {melancolía N t74} {bajo P t75} {la D t76} {fortaleza N t77}
+{Naturaleza R t78} {madre N t79} {: O t80} {todo Q t81} {mi D t82} {amor N t83} {es V t84} {tuyo Q t85}
+{En P t86} {los D t87} {cañaverales N t88} {soy V t89} {un D t90} {vivaz N t91} {cocuyo G t92} {, O t93}
+{que Q t94} {horada V t95} {la D t96} {espesura N t97} {con P t98} {un D t99} {furor N t100} {cruel G t101}
+{Y C t102} {en P t103} {las D t104} {palmeras N t105} {sueño N t106} {con P t107} {la D t108} {triunfal G t109} {entrada N t110}
+{en P t111} {el D t112} {corazón N t113} {mismo G t114} {de P t115} {la D t116} {mujer N t117} {amada G t118}
+{de P t119} {besos N t120} {tropicales G t121} {más A t122} {dulces G t123} {que C t124} {la D t125} {miel N t126}

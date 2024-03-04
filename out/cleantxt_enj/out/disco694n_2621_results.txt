@@ -1,0 +1,14 @@
+{María V} {estaba V} {pálida G} {y C} {José R} {el D} {carpintero N} {: O}	O		
+{miraban V} {en P} {los D} {ojos N} {de P} {la D} {faz N} {pura G} {y C} {bella G}	O		
+{el D} {celeste G} {milagro N} {que C} {anunciaba V} {la D} {estrella N}	B	sirrem_adj_noun	pp02
+{do G} {ya A} {estaba V} {el D} {martirio N} {que Q} {aguardaba V} {el D} {Cordero R} {. O}	I	sirrem_adj_noun	pp02
+{Los D} {pastores N} {cantaban V} {muy A} {despacio A} {, O} {y C} {postrero G}	O		
+{iba V} {un D} {carro N} {de P} {arcángeles N} {que Q} {dejaba V} {su D} {huella N} {; O}	O		
+{apenas A} {se Q} {miraba V} {lo D} {que Q} {Aldebarán R} {sella V} {, O}	O		
+{y C} {el D} {lucero N} {del P} {alba N} {no A} {era V} {aún A} {tempranero G} {. O}	O		
+{Esa D} {visión N} {en P} {mí Q} {se Q} {alza N} {y C} {se Q} {multiplica V}	O		
+{en P} {detalles N} {preciosos G} {y C} {en P} {mil D} {prodigios N} {rica G} {, O}	O		
+{por P} {la D} {cierta D} {esperanza N} {del P} {más A} {divino G} {bien A} {, O}	O		
+{de P} {la D} {Virgen R} {, O} {el D} {Niño R} {y C} {el D} {San R} {José R} {proscrito G} {; O}	O		
+{y C} {yo Q} {, O} {en P} {mi D} {pobre G} {burro N} {, O} {caminando V} {hacia P} {Egipto R} {, O}	O		
+{y C} {sin P} {la D} {estrella N} {ahora A} {, O} {muy A} {lejos A} {de P} {Belén R} {. O}	O		

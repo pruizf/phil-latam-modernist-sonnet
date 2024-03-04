@@ -1,0 +1,14 @@
+{Se Q} {yergue V} {la D} {figura N} {del P} {Cid R} {embalsamado G} {, O}	O		
+{de P} {espaldas N} {contra P} {el D} {muro N} {del P} {templo N} {silencioso G} {; O}	O		
+{no A} {hay V} {nada Q} {en P} {el D} {silencio N} {que Q} {turbe V} {su D} {reposo N} {, O}	O		
+{no A} {hay V} {nada Q} {en P} {tal D} {reposo N} {que Q} {mengüe V} {al P} {gran G} {soldado N} {. O}	O		
+{Dijérase V} {que C} {el D} {tiempo N} {se Q} {duerme V} {fatigado G}	B	enlace_subj_verb	ld01
+{Hasta P} {el D} {mandoble N} {mismo G} {parece V} {ya A} {mohoso G} {; O}	I	enlace_subj_verb	ld01
+{y C} {sobre P} {la D} {armadura N} {del P} {ínclito N} {coloso G}	O		
+{las D} {fúnebres G} {arañas G} {sus D} {telas N} {han V} {colgado V}	O		
+{Impávido G} {judío G} {, O} {con P} {planta N} {retadora G} {, O}	O		
+{entrando V} {en P} {aquel D} {templo N} {, O} {profana G} {aquella D} {hora N} {: O}	O		
+{llega V} {hasta P} {el D} {héroe N} {, O} {y C} {prueba V} {tocar V} {su D} {faz N} {sagrada G} {. O}	O		
+{Y C} {, O} {cual Q} {si C} {recobrase V} {la D} {vida N} {de P} {repente N} {, O}	O		
+{fue V} {entonces A} {cuando C} {el D} {héroe N} {definitivamente A}	B	sirrem_verb_adv	pp11
+{sacó V} {por P} {la D} {vez N} {última G} {un D} {palmo N} {de P} {su D} {espada N}	I	sirrem_verb_adv	pp11

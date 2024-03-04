@@ -1,0 +1,14 @@
+{Vi V t1} {yo Q t2} {que Q t3} {sobre P t4} {el D t5} {pecho N t6} {tenías N t7} {una D t8} {rosa N t9} {; O t10}
+{e C t11} {imaginé V t12} {que C t13} {tú Q t14} {eras V t15} {un D t16} {ramo N t17} {que Q t18} {surgía V t19}
+{de P t20} {un D t21} {cáliz N t22} {de P t23} {alabastro N t24} {, O t25} {y C t26} {en P t27} {él Q t28} {se Q t29} {convertía V t30}
+{cada D t31} {uno Q t32} {de P t33} {tus D t34} {ojos N t35} {en P t36} {una D t37} {mariposa G t38}
+{Rayos R t39} {de P t40} {sol N t41} {tejieron V t42} {tus D t43} {cabellos N t44} {undosa G t45} {, O t46}
+{y C t47} {, O t48} {así A t49} {, O t50} {bajo P t51} {tu D t52} {cutis N t53} {se Q t54} {transparenta V t55} {el D t56} {día N t57} {; O t58}
+{por P t59} {eso Q t60} {es V t61} {que C t62} {la D t63} {rosa N t64} {ceñirte G t65} {parecía V t66}
+{en P t67} {torno N t68} {de P t69} {una D t70} {estatua N t71} {de P t72} {nieve N t73} {ruborosa G t74} {. O t75}
+{Estatua V t76} {que C t77} {apareces A t78} {nimbada G t79} {por P t80} {un D t81} {astro N t82} {, O t83}
+{con P t84} {cara N t85} {hecha G t86} {de P t87} {rosas N t88} {y C t89} {cuerpo N t90} {de P t91} {alabastro N t92} {, O t93}
+{en P t94} {un D t95} {jardín N t96} {de P t97} {plata N t98} {, O t99} {bajo P t100} {un D t101} {temblor N t102} {de P t103} {Luna R t104} {: O t105}
+{al P t106} {ver V t107} {la D t108} {rosa N t109} {encima A t110} {del P t111} {busto N t112} {de P t113} {carrara N t114} {, O t115}
+{pensé V t116} {yo Q t117} {que C t118} {del P t119} {ramo N t120} {de P t121} {rosas N t122} {de P t123} {tu D t124} {cara N t125}
+{se Q t126} {había V t127} {desprendido V t128} {sobre P t129} {tu D t130} {pecho N t131} {una D t132}

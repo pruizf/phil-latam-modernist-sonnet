@@ -1,0 +1,14 @@
+{En P t1} {este D t2} {eden V t3} {del P t4} {mundo N t5} {americano G t6}
+{Do R t7} {te Q t8} {trajeron V t9} {procelosos G t10} {vientos N t11} {, O t12}
+{No A t13} {escuchar V t14} {te Q t15} {entristece V t16} {los D t17} {concentos N t18}
+{Y C t19} {armonias N t20} {de P t21} {aquel D t22} {suelo N t23} {italiano G t24} {. O t25}
+{Calla R t26} {, O t27} {que Q t28} {cuando C t29} {tu D t30} {mueves N t31} {la D t32} {mano N t33}
+{Y C t34} {notas N t35} {das V t36} {a P t37} {los D t38} {favonios N t39} {lentos G t40}
+{De P t41} {tu D t42} {ITALIA R t43} {se Q t44} {escuchan V t45} {los D t46} {acentos N t47}
+{En P t48} {las D t49} {cuerdas N t50} {sonoras G t51} {de P t52} {tu D t53} {piano N t54} {. O t55}
+{A P t56} {el D t57} {corre V t58} {, O t59} {pues C t60} {, O t61} {alegre G t62} {y C t63} {placentero G t64} {: O t65}
+{La D t66} {gloria N t67} {del P t68} {artista N t69} {no A t70} {es V t71} {un D t72} {mito N t73} {, O t74}
+{Y C t75} {al P t76} {cruzar V t77} {de P t78} {la D t79} {vida N t80} {en P t81} {el D t82} {sendero N t83} {, O t84}
+{Tiene V t85} {solo A t86} {un D t87} {ideal N t88} {, O t89} {ideal G t90} {bendito G t91} {, O t92}
+{Una D t93} {patria N t94} {, O t95} {mi D t96} {hogar N t97} {, O t98} {el D t99} {mundo N t100} {entero G t101} {, O t102}
+{Y C t103} {uria V t104} {contemplacion N t105} {: O t106} {! O t107} {el D t108} {Infinito R t109} {! O t110} {... O t111}

@@ -1,0 +1,14 @@
+{Si C t1} {vivir V t2} {es V t3} {luchar V t4} {, O t5} {-- C t6} {cuando C t7} {la D t8} {pluma N t9}
+{vibre G t10} {en P t11} {la D t12} {mano N t13} {del P t14} {poeta N t15} {ardiente G t16} {, O t17}
+{debe V t18} {el D t19} {poeta N t20} {levantar V t21} {la D t22} {frente N t23}
+{y C t24} {sacudir V t25} {el D t26} {miedo N t27} {que Q t28} {lo Q t29} {abruma V t30} {. O t31}
+{Si C t32} {escribir V t33} {es V t34} {luchar V t35} {, O t36} {-- O t37} {la D t38} {gloria N t39} {suma G t40}
+{es V t41} {azotar V t42} {al P t43} {déspota N t44} {insolente G t45} {, O t46}
+{que Q t47} {estallando V t48} {la D t49} {ola N t50} {prepotente G t51}
+{cubre V t52} {su D t53} {sien V t54} {con P t55} {delicada G t56} {espuma N t57} {... O t58}
+{Reviente A t59} {el D t60} {verso N t61} {al P t62} {roce N t63} {de P t64} {la D t65} {chispa N t66} {; O t67}
+{y C t68} {zumbe N t69} {de P t70} {la D t71} {gloria N t72} {entre P t73} {las D t74} {palmas N t75}
+{con P t76} {el D t77} {tenaz G t78} {zumbido N t79} {de P t80} {la D t81} {avispa N t82} {... O t83}
+{¡ O t84} {Que C t85} {por P t86} {la D t87} {ley N t88} {eterna G t89} {de P t90} {las D t91} {cosas N t92}
+{y C t93} {por P t94} {la D t95} {ley N t96} {eterna G t97} {de P t98} {las D t99} {almas N t100} {, O t101}
+{los D t102} {versos N t103} {sin P t104} {espinas N t105} {no A t106} {son V t107} {rosas N t108} {! O t109}

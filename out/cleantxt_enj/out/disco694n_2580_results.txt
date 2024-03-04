@@ -1,0 +1,14 @@
+{Hermano R} {, O} {tú Q} {que Q} {tienes V} {la D} {luz N} {, O} {dime V} {la D} {mía Q} {. O}	O		
+{Soy V} {como C} {un D} {ciego N} {. O} {Voy V} {sin P} {rumbo N} {y C} {ando V} {a P} {tientas N} {. O}	O		
+{Voy V} {bajo P} {tempestades N} {y C} {tormentas N}	B	sirrem_adj_noun	pp02
+{ciego G} {de P} {ensuefio N} {y C} {loco N} {de P} {armonía N} {. O}	I	sirrem_adj_noun	pp02
+{Ese Q} {es V} {mi D} {mal A} {. O} {Sofiar V} {. O} {La D} {poesía N}	B	enlace_subj_verb	ld01
+{es V} {la D} {camisa N} {férrea G} {de P} {mil D} {puntas N} {cruentas G}	IB	enlace_subj_verb;oracional	ld01;cp01
+{que Q} {llevo V} {sobre P} {el D} {alma N} {. O} {Las D} {espinas N} {sangrientas G}	IB	oracional;enlace_subj_verb	cp01;ld01
+{dejan V} {caer V} {las D} {gotas N} {de P} {mi D} {melancolía N} {. O}	I	enlace_subj_verb	ld01
+{Y C} {así A} {voy V} {, O} {ciego N} {y C} {loco N} {, O} {por P} {este D} {mundo N} {amargo G} {; O}	O		
+{a P} {veces N} {me Q} {parece V} {que C} {el D} {camino N} {es V} {muy A} {largo G} {, O}	O		
+{y C} {a P} {veces N} {que Q} {es V} {muy A} {corto G} {... O}	O		
+{Y C} {en P} {este D} {titubeo N} {de P} {aliento N} {y C} {agonía N} {, O}	O		
+{cargo N} {lleno G} {de P} {penas N} {lo D} {que Q} {apenas A} {soporto Q} {. O}	O		
+{¡ O} {No A} {oyes V} {caer V} {las D} {gotas N} {de P} {mi D} {melancolía N} {? O}	O		

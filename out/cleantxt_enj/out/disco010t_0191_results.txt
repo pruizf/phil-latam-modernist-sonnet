@@ -1,0 +1,14 @@
+{Es V} {la D} {Pampa R} {hecha G} {hombre N} {: O} {es V} {un D} {pedazo N}	B	sirrem_noun_prep	pp06.1
+{de P} {brava N} {tierra N} {sobre P} {el D} {sol N} {tendida G}	IB	sirrem_noun_prep;sirrem_adj_adv	pp06.1;pp10
+{Ya A} {a P} {indómito N} {corcel D} {pone V} {la D} {brida N} {, O}	I	sirrem_adj_adv	pp10
+{ya A} {lacea V} {una D} {res N} {: O} {él Q} {es V} {el D} {brazo N}	O		
+{Al P} {son N} {de P} {la D} {guitarra N} {, O} {en P} {el D} {regazo N}	B	sirrem_noun_prep	pp06.1
+{de P} {su D} {" O} {prenda N} {" O} {, O} {quejoso V} {de P} {la D} {vida N} {, O}	I	sirrem_noun_prep	pp06.1
+{desenvuelve V} {con P} {voz N} {adolorida G}	O		
+{una D} {canción N} {como C} {si C} {fuera V} {un D} {lazo N}	O		
+{Cuadro R} {es V} {la D} {Pampa R} {en P} {que C} {el D} {afán N} {se Q} {encierra V}	O		
+{del P} {gaucho N} {, O} {erguido G} {en P} {actitud N} {briosa G} {, O}	O		
+{sobre P} {ese D} {gran G} {cansancio N} {de P} {la D} {tierra N} {; O}	O		
+{porque C} {el D} {bostezo N} {de P} {la D} {Pampa R} {verde G}	O		
+{es V} {como C} {una D} {fatiga N} {que Q} {reposa V}	O		
+{o C} {es V} {como C} {una D} {esperanza N} {que Q} {se Q} {pierde V}	O		

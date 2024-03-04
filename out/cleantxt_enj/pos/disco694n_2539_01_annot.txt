@@ -1,0 +1,14 @@
+{Castillo R t1} {que Q t2} {decoras N t3} {la D t4} {ribera N t5} {, O t6}
+{boscaje N t7} {que Q t8} {decoras N t9} {el D t10} {castillo N t11} {, O t12}
+{paloma N t13} {que Q t14} {estremeces N t15} {el D t16} {tomillo N t17} {, O t18}
+{onda N t19} {que Q t20} {vas V t21} {por P t22} {la D t23} {corriente N t24} {fiera V t25} {; O t26}
+{espuma N t27} {virginal G t28} {, O t29} {brisa N t30} {ligera G t31} {, O t32}
+{canción N t33} {de P t34} {trovador N t35} {, O t36} {canto N t37} {sencillo G t38} {, O t39}
+{estrella N t40} {que Q t41} {en P t42} {el D t43} {Rhin R t44} {hundes G t45} {tu D t46} {brillo N t47} {, O t48}
+{Loreley R t49} {de P t50} {la D t51} {verde G t52} {cabellera N t53} {; O t54}
+{cisne Q t55} {de P t56} {nieve N t57} {, O t58} {pájaro N t59} {sagrado G t60} {, O t61}
+{esquife N t62} {del P t63} {celeste G t64} {enamorado G t65} {, O t66}
+{barca N t67} {del P t68} {joven N t69} {dios N t70} {, O t71} {lirio N t72} {del P t73} {Rhin R t74} {: O t75}
+{de P t76} {las D t77} {trompetas N t78} {el D t79} {vibrante G t80} {coro N t81}
+{anuncia V t82} {el D t83} {casco N t84} {de P t85} {diamante N t86} {y C t87} {oro N t88}
+{del P t89} {rubio G t90} {caballero N t91} {: O t92} {Lohengrín R t93} {! O t94}

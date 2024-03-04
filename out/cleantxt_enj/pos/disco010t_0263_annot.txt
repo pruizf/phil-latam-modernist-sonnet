@@ -1,0 +1,14 @@
+{Mágico G t1} {hervor N t2} {, O t3} {que Q t4} {se Q t5} {dilata V t6} {en P t7} {torno N t8} {, O t9}
+{saltar V t10} {hace V t11} {la D t12} {nota N t13} {cristalina G t14}
+{de P t15} {la D t16} {ancha G t17} {copa N t18} {, O t19} {que C t20} {el D t21} {aldeano N t22} {empina V t23} {, O t24}
+{del P t25} {carnaval N t26} {por P t27} {el D t28} {feliz G t29} {retorno N t30} {. O t31}
+{Es V t32} {un D t33} {arado N t34} {el D t35} {singular G t36} {adorno N t37}
+{único G t38} {que Q t39} {impresiona V t40} {la D t41} {retina N t42} {; O t43}
+{y C t44} {allá A t45} {, O t46} {tras P t47} {de P t48} {la D t49} {puerta N t50} {, O t51} {se Q t52} {adivina V t53} {, O t54}
+{caduco N t55} {, O t56} {ahumado G t57} {y C t58} {ceniciento V t59} {un D t60} {horno N t61} {. O t62}
+{Hoy A t63} {es V t64} {Pascua R t65} {. O t66} {Hoy A t67} {del P t68} {sol N t69} {al P t70} {postrer G t71} {lampo N t72} {, O t73}
+{bebe V t74} {una D t75} {misma D t76} {copa N t77} {con P t78} {su D t79} {amada N t80}
+{el D t81} {labrador N t82} {, O t83} {por P t84} {la D t85} {salud N t86} {del P t87} {campo N t88} {; O t89}
+{y C t90} {hoy A t91} {a P t92} {la D t93} {cena N t94} {la D t95} {Embriaguez R t96} {asiste V t97} {, O t98}
+{danzando V t99} {al P t100} {rededor N t101} {de P t102} {una D t103} {colgada G t104}
+{ave N t105} {sin P t106} {plumas N t107} {, O t108} {retorcida G t109} {y C t110} {triste G t111} {. O t112}

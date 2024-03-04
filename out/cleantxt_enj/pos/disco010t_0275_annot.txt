@@ -1,0 +1,14 @@
+{Como C t1} {desborde V t2} {que C t3} {febril O t4} {avanza V t5}
+{por P t6} {las D t7} {campiñas N t8} {con P t9} {salvaje G t10} {brío N t11} {, O t12}
+{la D t13} {ciudad N t14} {se Q t15} {despuebla V t16} {en P t17} {el D t18} {estío N t19}
+{y C t20} {hacia P t21} {la D t22} {aldea N t23} {sin P t24} {temor N t25} {se Q t26} {lanza V t27} {. O t28}
+{Contúrbase V t29} {la D t30} {dulce G t31} {venturanza N t32}
+{de P t33} {la D t34} {aldea N t35} {a P t36} {la D t37} {fuerza N t38} {del P t39} {gentío N t40} {, O t41}
+{como C t42} {laguna N t43} {al P t44} {recibir V t45} {un D t46} {río N t47} {, O t48}
+{que Q t49} {ansioso G t50} {de P t51} {amplitud N t52} {por P t53} {fin N t54} {la Q t55} {alcanza V t56} {. O t57}
+{De P t58} {gozar V t59} {ya A t60} {cansado G t61} {, O t62} {noche N t63} {y C t64} {día N t65} {, O t66}
+{-- G t67} {en P t68} {el D t69} {mar N t70} {o C t71} {en P t72} {el D t73} {campo N t74} {, O t75} {brisa N t76} {u C t77} {ola-- N t78} {, O t79}
+{huye V t80} {el D t81} {tumulto N t82} {a P t83} {la D t84} {ciudad N t85} {sombría V t86} {; O t87}
+{mas A t88} {siempre A t89} {inmensa G t90} {hacia P t91} {la D t92} {aldea N t93} {sola G t94}
+{toma V t95} {en P t96} {verano N t97} {aquella D t98} {farsa N t99} {impía V t100} {, O t101}
+{que Q t102} {se Q t103} {viste V t104} {de P t105} {frac N t106} {o C t107} {arrastra V t108} {cola N t109} {... O t110}

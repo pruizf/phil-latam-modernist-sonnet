@@ -1,0 +1,14 @@
+{Es V} {en P} {mi D} {juventud N} {, O} {mi D} {juventud N} {que Q} {juega V}	O		
+{con P} {versos N} {e C} {ilusiones N} {, O} {espada N} {de P} {oro N} {al P} {cinto N} {; O}	O		
+{hay V} {en P} {mi D} {mente N} {un D} {sueño N} {siempre A} {vario G} {y C} {distinto G} {, O}	O		
+{y C} {mi D} {espíritu N} {ágil G} {al P} {acaso A} {se Q} {entrega V} {... O}	O		
+{En P} {cada D} {mujer N} {miro V} {como C} {una D} {ninfa N} {griega G} {; O}	O		
+{en P} {poemas N} {sonoros G} {sus D} {frescas G} {gracias N} {pinto G} {; O}	O		
+{y C} {esto Q} {pasa V} {al P} {amor N} {del P} {puerto N} {de P} {Corinto R} {, O}	O		
+{o C} {en P} {la D} {rica G} {en P} {naranjas N} {de P} {almíbar V} {, O} {Chinandega R} {. O}	O		
+{Tiempo R} {lejano G} {ya A} {. O} {Mas R} {aún A} {veo V} {azahares N}	O		
+{en P} {los D} {naranjos N} {verdes G} {, O} {impregnados G} {de P} {aromas N} {, O}	O		
+{o C} {las D} {viejas G} {fragatas N} {que Q} {llegan V} {de P} {los D} {mares N}	B	sirrem_adj_noun	pp02
+{lejanos G} {; O} {o C} {el D} {icaco N} {, O} {o C} {tupidos G} {manglares N} {; O}	I	sirrem_adj_noun	pp02
+{o C} {tú Q} {, O} {rostro N} {adorado G} {en P} {ese D} {tiempo N} {, O} {asomas N}	B	sirrem_noun_prep	pd02
+{con P} {primeros G} {amores N} {y C} {primeros G} {pesares N} {. O}	I	sirrem_noun_prep	pd02

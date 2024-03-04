@@ -1,0 +1,14 @@
+{El D t1} {desdén N t2} {de P t3} {los D t4} {dioses N t5} {no A t6} {hace V t7} {galas N t8}
+{de P t9} {poder N t10} {, O t11} {ni C t12} {de P t13} {cólera N t14} {al P t15} {protervo N t16} {: O t17}
+{César R t18} {desdeña V t19} {el D t20} {odio N t21} {de P t22} {su D t23} {siervo N t24} {. O t25}
+{¡ O t26} {A P t27} {odio N t28} {con P t29} {arpón N t30} {, O t31} {desdén N t32} {con P t33} {alas N t34} {! O t35}
+{Puede V t36} {el D t37} {odio N t38} {trepar V t39} {por P t40} {sus D t41} {escalas N t42}
+{hasta P t43} {el D t44} {santuario N t45} {que Q t46} {a P t47} {mi D t48} {amor N t49} {reservo G t50} {; O t51}
+{mas A t52} {yo Q t53} {he V t54} {de P t55} {ver V t56} {al P t57} {pavoroso G t58} {cuervo N t59}
+{rodar V t60} {sin P t61} {fuerzas N t62} {a P t63} {los D t64} {pies N t65} {de P t66} {Palas R t67} {... O t68}
+{Jamás R t69} {importarán V t70} {a P t71} {mis D t72} {enojos N t73}
+{nada Q t74} {la D t75} {ingratitud N t76} {, O t77} {nada Q t78} {el D t79} {mal N t80} {paga V t81} {, O t82}
+{nada A t83} {los D t84} {cuervos N t85} {sacadores G t86} {de P t87} {ojos N t88} {; O t89}
+{que C t90} {en P t91} {mi D t92} {alma N t93} {se Q t94} {desploman V t95} {los D t96} {insultos N t97} {, O t98}
+{como C t99} {peñascos N t100} {en P t101} {proiundo N t102} {lago G t103} {, O t104}
+{¡ O t105} {que Q t106} {ha V t107} {de P t108} {guardarlos V t109} {para P t110} {siempre A t111} {ocultos G t112} {! O t113} {... O t114}

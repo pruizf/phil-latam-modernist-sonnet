@@ -1,0 +1,14 @@
+{Gaita N t1} {galaica G t2} {, O t3} {sabes V t4} {cantar V t5}
+{lo D t6} {que Q t7} {profundo G t8} {y C t9} {dulce G t10} {nos Q t11} {es V t12} {. O t13}
+{Dices N t14} {de P t15} {amor N t16} {, O t17} {y C t18} {dices G t19} {después A t20}
+{de P t21} {un D t22} {amargor N t23} {como C t24} {el D t25} {de P t26} {la D t27} {mar. N t28}
+{Canta R t29} {. O t30} {Es V t31} {el D t32} {tiempo N t33} {. O t34} {Haremos V t35} {danzar V t36}
+{al P t37} {fino G t38} {verso N t39} {de P t40} {rítmicos N t41} {pies N t42} {. O t43}
+{Ya A t44} {nos Q t45} {lo Q t46} {dijo V t47} {el D t48} {Eclesiastés R t49} {: O t50}
+{tiempo N t51} {hay V t52} {de P t53} {todo Q t54} {: O t55} {hay V t56} {tiempo N t57} {de P t58} {amar V t59} {, O t60}
+{tiempo N t61} {de P t62} {ganar V t63} {, O t64} {tiempo N t65} {de P t66} {perder V t67} {, O t68}
+{tiempo N t69} {de P t70} {plantar V t71} {, O t72} {tiempo N t73} {de P t74} {coger V t75} {, O t76}
+{tiempo N t77} {de P t78} {llorar V t79} {, O t80} {tiempo N t81} {de P t82} {reír V t83} {, O t84}
+{tiempo N t85} {de P t86} {rasgar V t87} {, O t88} {tiempo N t89} {de P t90} {coser V t91} {, O t92}
+{tiempo N t93} {de P t94} {esparcir V t95} {y C t96} {de P t97} {recoger V t98} {, O t99}
+{tiempo N t100} {de P t101} {nacer V t102} {, O t103} {tiempo N t104} {de P t105} {morir V t106} {. O t107}

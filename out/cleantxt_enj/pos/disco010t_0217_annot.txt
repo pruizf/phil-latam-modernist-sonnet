@@ -1,0 +1,14 @@
+{Añoro R t1} {yo Q t2} {aquel D t3} {tiempo N t4} {del P t5} {miriñaque N t6} {inflado G t7} {, O t8}
+{de P t9} {los D t10} {bucles N t11} {en P t12} {torno N t13} {de P t14} {la D t15} {ovalada G t16} {frente A t17} {, O t18}
+{de P t19} {los D t20} {largos G t21} {zarcillos N t22} {de P t23} {plata N t24} {reluciente A t25}
+{y C t26} {del P t27} {impertinente G t28} {que Q t29} {hoy A t30} {ha V t31} {resucitado V t32} {. O t33}
+{En P t34} {un D t35} {daguerrotipo N t36} {, O t37} {que Q t38} {un D t39} {fiel N t40} {enamorado G t41}
+{guarda N t42} {, O t43} {he V t44} {visto V t45} {una D t46} {dama N t47} {de P t48} {aquel D t49} {tiempo N t50} {; O t51} {y C t52} {mi D t53} {mente N t54}
+{se Q t55} {ha V t56} {sentido V t57} {confusa G t58} {, O t59} {porque C t60} {en P t61} {nuestro D t62} {presente N t63}
+{ya A t64} {no A t65} {hay V t66} {aquella D t67} {gracia N t68} {que Q t69} {hubo V t70} {en P t71} {nuestro D t72} {pasado G t73}
+{¡ O t74} {Oh O t75} {tiempo N t76} {aquel D t77} {de P t78} {gentes N t79} {que Q t80} {, O t81} {al P t82} {mirarlas V t83} {de P t84} {lejos A t85} {, O t86}
+{aparecen V t87} {rodeadas G t88} {de P t89} {una D t90} {luz N t91} {misteriosa G t92} {, O t93}
+{cual Q t94} {si C t95} {las D t96} {reflejasen V t97} {desconchados G t98} {espejos N t99} {! O t100}
+{Tibio D t101} {rincón N t102} {de P t103} {encanto N t104} {donde Q t105} {el D t106} {amor N t107} {chispea V t108} {, O t109}
+{mientras C t110} {que C t111} {en P t112} {el D t113} {ambiente N t114} {perfumado G t115} {de P t116} {rosa N t117} {, O t118}
+{flota V t119} {el D t120} {rumor N t121} {de P t122} {un D t123} {ósculo N t124} {entre P t125} {una D t126} {melopea G t127} {. O t128}

@@ -1,0 +1,14 @@
+{Encima P} {de P} {una D} {tumba N} {, O} {con P} {exceso N} {, O}	O		
+{en P} {el D} {mismo D} {panteón N} {, O} {pareja G} {amante N} {, O}	O		
+{recorre V} {, O} {entre P} {aturdida G} {y C} {delirante G} {, O}	O		
+{toda D} {la D} {gloria N} {musical G} {del P} {beso N} {. O}	O		
+{¡ O} {El D} {humilde G} {panteón N} {en P} {donde Q} {el D} {yeso N}	B	enlace_subj_verb	ld01
+{quizás A} {nunca A} {hecho G} {estatua N} {se Q} {levante V} {, O}	I	enlace_subj_verb	ld01
+{hoy A} {ve V} {el D} {cuadro N} {que Q} {vivo V} {y C} {palpitante G}	B	sirrem_adj_noun	pp02
+{forma N} {la D} {carne N} {sobre P} {tanto D} {hueso N} {! O}	I	sirrem_adj_noun	pp02
+{Los D} {amantes N} {se Q} {ocultan V} {temerosos G} {; O}	O		
+{por P} {eso Q} {astutos N} {el D} {cuidado G} {toman V}	B	sirrem_verb_supl	pp26
+{de P} {guarecerse V} {en P} {las D} {mortuorias G} {fauces N} {. O}	I	sirrem_verb_supl	pp26
+{Ahí A} {, O} {murmuradores N} {y C} {curiosos N} {, O}	O		
+{desde P} {la D} {vecindad N} {, O} {sólo A} {se Q} {asoman V}	B	enlace_subj_verb	ld01
+{sobre P} {las D} {tapias N} {los D} {arqueados N} {sauces G} {... O}	I	enlace_subj_verb	ld01

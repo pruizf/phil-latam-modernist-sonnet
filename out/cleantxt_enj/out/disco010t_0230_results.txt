@@ -1,0 +1,14 @@
+{Hablaba V} {de P} {la D} {muerte N} {y C} {la Q} {sentía V}	O		
+{como C} {un D} {temblor N} {de P} {vida N} {demorada G} {, O}	O		
+{como C} {una D} {soledad N} {arrebujada G}	O		
+{en P} {el D} {fondo N} {de P} {cada D} {compañía N} {. O}	O		
+{La D} {imaginaba V} {en P} {todo D} {lo D} {que Q} {hacía V}	B	sirrem_perif_verb	pp20
+{retroceder V} {la D} {luz N} {o C} {la D} {mirada N} {, O}	I	sirrem_perif_verb	pp20
+{buscando V} {en P} {la D} {palabra N} {silenciada G}	B	enlace_od_verb	ld02
+{el D} {eco N} {de P} {la D} {voz N} {que Q} {disolvía V}	IB	enlace_od_verb;sirrem_verb_adv	ld02;pp11
+{Hoy A} {que C} {tengo V} {una D} {muerte N} {que Q} {me Q} {vive V}	I	sirrem_verb_adv	pp11
+{sé V} {que C} {toda D} {la D} {suerte N} {que Q} {se Q} {escribe V}	B	enlace_subj_verb	ld01
+{por P} {la D} {ruta N} {del P} {canto N} {se Q} {desvía V}	IB	enlace_subj_verb;sirrem_verb_adv	ld01;pp11
+{Sólo A} {el D} {hondo G} {silencio N} {que Q} {no A} {expreso G}	IB	sirrem_verb_adv;enlace_subj_verb	pp11;ld01
+{lleva V} {el D} {caudal N} {de P} {mi D} {dolor N} {y C} {el D} {peso N} {, O}	I	enlace_subj_verb	ld01
+{porque C} {es V} {dolor N} {cuanto A} {era V} {poesía N}	O		

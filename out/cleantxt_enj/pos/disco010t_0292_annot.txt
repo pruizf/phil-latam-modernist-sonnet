@@ -1,0 +1,14 @@
+{Adórente A t1} {los D t2} {ciegos G t3} {de P t4} {la D t5} {idea N t6} {; O t7}
+{los D t8} {que Q t9} {no A t10} {hallan V t11} {en P t12} {ti Q t13} {sino C t14} {ternura N t15}
+{y C t16} {amor N t17} {para P t18} {tu D t19} {débil G t20} {creatura N t21} {, O t22}
+{que C t23} {aunque C t24} {es V t25} {tu D t26} {creatura N t27} {también A t28} {crea V t29} {. O t30}
+{¿ O t31} {Quién Q t32} {provoca V t33} {la D t34} {lucha N t35} {gigantea G t36} {, O t37}
+{si C t38} {no A t39} {eres V t40} {tú Q t41} {, O t42} {de P t43} {nuestra D t44} {vida N t45} {impura G t46} {? O t47}
+{¿ O t48} {Quién Q t49} {agrega V t50} {el D t51} {hastío N t52} {a P t53} {la D t54} {ventura N t55}
+{y C t56} {en P t57} {deshacer V t58} {lo D t59} {que Q t60} {hace V t61} {se Q t62} {recrea V t63} {? O t64}
+{Madre R t65} {Natura R t66} {, O t67} {como C t68} {un D t69} {templo N t70} {en P t71} {ruina N t72} {, O t73}
+{abandonado G t74} {y C t75} {sin P t76} {cimientos N t77} {fijos G t78}
+{al P t79} {fondo N t80} {del P t81} {desprecio N t82} {te Q t83} {derrumbas V t84} {; O t85}
+{¡ O t86} {porque C t87} {tú Q t88} {eres V t89} {la D t90} {eterna G t91} {Mesalina R t92} {, O t93}
+{que Q t94} {se Q t95} {revuelca V t96} {con P t97} {sus D t98} {propios D t99} {hijos N t100}
+{en P t101} {el D t102} {lecho N t103} {incestuoso G t104} {de P t105} {las D t106} {tumbas N t107} {! O t108}

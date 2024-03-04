@@ -1,0 +1,14 @@
+{Ese Q t1} {, O t2} {Pizarro R t3} {: O t4} {el D t5} {de P t6} {la D t7} {frente N t8} {erguida G t9}
+{Ese Q t10} {, O t11} {Cortés R t12} {: O t13} {el D t14} {del P t15} {caballo N t16} {undoso G t17}
+{Pasa R t18} {Alvarado R t19} {en P t20} {su D t21} {corcel N t22} {nervioso G t23} {; O t24}
+{Valdivia R t25} {lleva V t26} {el D t27} {suyo Q t28} {de P t29} {la D t30} {brida N t31} {. O t32}
+{¿ O t33} {Y C t34} {ése Q t35} {? O t36} {¿ O t37} {Y C t38} {aquél Q t39} {? O t40} {En P t41} {púrpura N t42} {encendida G t43}
+{envueltos G t44} {van V t45} {bregando V t46} {sin P t47} {reposo N t48} {, O t49}
+{a P t50} {manera N t51} {del P t52} {grupo N t53} {luminoso G t54}
+{de P t55} {los D t56} {conquistadores N t57} {de P t58} {la D t59} {vida N t60}
+{Cuajado G t61} {en P t62} {oro N t63} {el D t64} {puño N t65} {del P t66} {cuchillo N t67} {, O t68}
+{la D t69} {coraza N t70} {, O t71} {cubierta N t72} {de P t73} {fulgores N t74} {; O t75}
+{pleno G t76} {de P t77} {sol N t78} {, O t79} {el D t80} {reluciente N t81} {casco N t82} {: O t83}
+{pasando V t84} {van V t85} {, O t86} {con P t87} {el D t88} {temblor N t89} {de P t90} {un D t91} {brillo N t92} {, O t93}
+{cual Q t94} {si C t95} {fuesen V t96} {bordados V t97} {en P t98} {colores N t99}
+{sobre P t100} {grandes G t101} {tapices N t102} {de P t103} {Damasco R t104}

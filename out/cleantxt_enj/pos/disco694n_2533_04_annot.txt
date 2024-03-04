@@ -1,0 +1,14 @@
+{Sí A t1} {, O t2} {Dios R t3} {lo Q t4} {quiere V t5} {a P t6} {veces N t7} {. O t8} {La D t9} {sangre N t10} {, O t11} {las D t12} {matanzas N t13} {, O t14}
+{vienen V t15} {como C t16} {una D t17} {triste G t18} {y C t19} {aterradora G t20} {ley N t21} {; O t22}
+{señala V t23} {lo Q t24} {Infinito V t25} {momentos N t26} {de P t27} {venganzas N t28} {, O t29}
+{rompe V t30} {la D t31} {jaula N t32} {el D t33} {águila N t34} {, O t35} {quebranta V t36} {el D t37} {yugo N t38} {el D t39} {buey N t40} {. O t41}
+{Terrible G t42} {es V t43} {la D t44} {tormenta N t45} {que Q t46} {trae V t47} {las D t48} {asechanzas N t49} {, O t50}
+{la D t51} {rabia N t52} {del P t53} {rebaño N t54} {, O t55} {las D t56} {iras N t57} {de P t58} {la D t59} {grey N t60} {; O t61}
+{que C t62} {pone V t63} {las D t64} {cabezas N t65} {sangrientas G t66} {en P t67} {las D t68} {lanzas N t69}
+{y C t70} {arranca V t71} {, O t72} {con P t73} {la D t74} {vida N t75} {, O t76} {la D t77} {pórpura N t78} {del P t79} {rey N t80} {. O t81}
+{Sí A t82} {, O t83} {Dios R t84} {lo Q t85} {quiere V t86} {a P t87} {veces N t88} {, O t89} {y C t90} {envía V t91} {el D t92} {cataclismo N t93} {: O t94}
+{hace V t95} {brotar V t96} {del P t97} {fondo N t98} {siniestro G t99} {del P t100} {abismo N t101}
+{las D t102} {lívidas G t103} {borrascas N t104} {, O t105} {la D t106} {negra N t107} {tempestad N t108} {; O t109}
+{para P t110} {que C t111} {surja V t112} {en P t113} {medio N t114} {de P t115} {la D t116} {ardua G t117} {noche N t118} {trágica G t119} {, O t120}
+{como C t121} {divina G t122} {enseña N t123} {, O t124} {como C t125} {corona N t126} {mágica G t127} {, O t128}
+{tu D t129} {nimbo D t130} {constelado N t131} {de P t132} {luz N t133} {, O t134} {¡ O t135} {oh O t136} {Libertad R t137} {! O t138}

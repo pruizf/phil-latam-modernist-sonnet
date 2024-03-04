@@ -1,0 +1,14 @@
+{Ya A} {sin P} {odio N} {ni C} {amor N} {, O} {la D} {fe N} {perdida G} {, O}	O		
+{la D} {sonrisa N} {borrada G} {y C} {seco G} {el D} {llanto N} {, O}	O		
+{cuando Q} {duerme V} {Saúl R} {le Q} {corto G} {el D} {manto N}	O		
+{y C} {prosigo V} {mi D} {marcha N} {imerrumpida G} {... O}	O		
+{¿ O} {Para P} {qué Q} {la D} {venganza N} {? O} {Ya A} {la D} {herida N}	B	enlace_subj_verb	ld01
+{se Q} {olvidó V} {del P} {puñal N} {... O} {¡ O} {Ya A} {el D} {postrer V} {canto N}	IB	enlace_subj_verb;enlace_subj_verb	ld01;ld01
+{el D} {cisne N} {, O} {enfurecido G} {del P} {espanto N}	I	enlace_subj_verb	ld01
+{lanzó V} {sobre P} {las D} {charcas N} {de P} {la D} {vida N} {! O}	O		
+{Cansado G} {ya A} {de P} {este D} {combate N} {recio A} {, O}	O		
+{todo Q} {lo Q} {juzgo V} {y C} {lo Q} {desprecio N} {todo Q} {, O}	O		
+{desde P} {la D} {excelsltud N} {de P} {mi D} {desprecio N} {; O}	O		
+{y C} {mi D} {desprecio N} {en P} {colosal N} {marea N} {, O}	O		
+{sobre P} {toda D} {montaña N} {sube V} {un D} {codo N}	O		
+{y C} {sobre P} {todo Q} {espíritu N} {una D} {idea N} {... O}	O		

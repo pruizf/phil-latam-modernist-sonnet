@@ -1,0 +1,14 @@
+{Mil R} {lámparas N} {alumbran V} {la D} {agonía N}	B	sirrem_noun_prep	pp06.1
+{del P} {buen G} {Jesús O} {. O} {En P} {el D} {rasgado G} {velo N} {, O}	I	sirrem_noun_prep	pp06.1
+{palpita N} {, O} {así A} {como C} {con P} {sacro G} {anhelo N} {, O}	O		
+{el D} {germen N} {áureo G} {del P} {Eterno R} {Día R} {. O}	O		
+{Allá A} {, O} {al P} {fondo N} {, O} {en P} {la D} {bóveda N} {sombría V} {, O}	O		
+{rueda V} {la D} {bruma N} {con P} {pausado G} {vuelo N} {: O}	O		
+{cada D} {rincón N} {obscuro G} {se Q} {hace V} {un D} {cielo N} {; O}	O		
+{cada D} {mundo N} {de P} {pena N} {, O} {una D} {alegría N} {... O}	O		
+{¡ O} {Impiedad R} {es V} {la D} {luz N} {! O} {Por P} {eso Q} {luego A}	O		
+{la D} {Iglesia R} {, O} {con P} {la D} {sombra N} {en P} {que Q} {se Q} {enluta V} {, O}	O		
+{va V} {enjugando V} {sus D} {lágrimas N} {de P} {fuego N} {; O}	O		
+{y C} {al P} {fin N} {un D} {solo G} {cirio N} {se Q} {estremece V} {, O}	O		
+{ante P} {la D} {cruz N} {cuya Q} {silueta N} {enjuta G}	B	enlace_subj_verb	ld01
+{adelgázase V} {más A} {cuanto A} {más A} {crece V} {... O}	I	enlace_subj_verb	ld01

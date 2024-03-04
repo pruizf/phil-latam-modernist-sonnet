@@ -1,0 +1,14 @@
+{Si C} {el D} {espacio N} {se Q} {encuentra V} {oscuro G} {y C} {frío G}	B	sirrem_adj_prep	pp07
+{del P} {alto G} {azul N} {tras P} {el D} {ficticio G} {velo N} {, O}	I	sirrem_adj_prep	pp07
+{tú Q} {, O} {que Q} {en P} {los D} {ojos N} {tienes V} {todo D} {un D} {cielo N} {, O}	O		
+{tienes V} {tras P} {de P} {los D} {ojos N} {el D} {vacío N} {... O}	O		
+{Tras P} {el D} {velo N} {celeste G} {¡ O} {oh N} {, O} {amor N} {mío D} {! O}	O		
+{existe V} {un D} {Dios R} {para P} {el D} {creyente N} {anhelo N} {; O}	O		
+{y C} {los D} {astros N} {, O} {sin P} {fin N} {, O} {tienden V} {el D} {vuelo N} {; O}	O		
+{donde C} {el D} {reino N} {de P} {Dios R} {niega V} {el D} {impío N} {... O}	O		
+{Pero C} {tú Q} {siempre A} {, O} {con P} {imbécil G} {calma N} {, O}	O		
+{yerta N} {al P} {placer N} {y C} {yerta D} {a P} {los D} {enojos N} {, O}	O		
+{inmóvil G} {, O} {muestras N} {la D} {aridez N} {de P} {tu D} {alma N} {. O}	O		
+{Y C} {así A} {detrás A} {de P} {tus D} {pupilas N} {bellas G} {, O}	O		
+{y C} {así A} {detrás A} {de P} {tus D} {azules G} {ojos N}	O		
+{¡ O} {hay V} {un D} {cielo N} {sin P} {Dios R} {y C} {sin P} {estrellas N} {! O}	O		

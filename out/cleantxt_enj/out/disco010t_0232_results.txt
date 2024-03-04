@@ -1,0 +1,14 @@
+{¿ O} {A P} {qué Q} {matarme V} {? O} {Quedará V} {pendiente G}	B	sirrem_adj_adv	pp10
+{siempre A} {el D} {recuerdo N} {de P} {mi D} {vida N} {entera G} {; O}	I	sirrem_adj_adv	pp10
+{y C} {me Q} {aflige V} {pensar V} {que C} {, O} {cuando C} {muera V} {, O}	O		
+{viviré V} {en P} {la D} {memoria N} {de P} {la D} {gente N} {. O}	O		
+{No A} {, O} {no A} {puedo V} {dejar V} {que C} {se Q} {lamente A}	B	enlace_od_verb	ld02
+{mi D} {heroica N} {acción N} {con P} {frase N} {lastimera G} {... O}	I	enlace_od_verb	ld02
+{y C} {que C} {todo D} {el D} {que Q} {piense V} {: O} {-- O} {¡ O} {Un D} {hombre N} {era V} {! O}	O		
+{diga V} {con P} {falsedad N} {: O} {-- O} {¡ O} {Era V} {un D} {demente N} {! O}	O		
+{Cuando C} {siento V} {llegar V} {horas N} {fatales G} {, O}	O		
+{envidio N} {sólo A} {al P} {que Q} {por P} {suerte N} {rara G}	O		
+{muérese V} {en P} {las D} {entrañas N} {maternales G} {; O}	O		
+{mas A} {no A} {comprendo V} {el D} {paso N} {del P} {suicida N} {, O}	O		
+{dejando V} {el D} {rastro N} {aquí A} {: O} {me Q} {suicidara V} {, O}	O		
+{¡ O} {si C} {pudiera V} {borrar V} {toda D} {mi D} {vida N} {! O} {... O}	O		

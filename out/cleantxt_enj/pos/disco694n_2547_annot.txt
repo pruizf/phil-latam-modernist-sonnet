@@ -1,0 +1,14 @@
+{Mira V t1} {el D t2} {signo N t3} {sutil G t4} {que Q t5} {los D t6} {dedos N t7} {del P t8} {viento N t9}
+{hacen V t10} {al P t11} {agitar V t12} {el D t13} {tallo N t14} {que Q t15} {se Q t16} {inclina V t17}
+{y C t18} {se Q t19} {alza N t20} {en P t21} {una D t22} {rítmica G t23} {virtud N t24} {de P t25} {movimiento N t26} {. O t27}
+{Con P t28} {el D t29} {áureo G t30} {pincel N t31} {de P t32} {la D t33} {flor N t34} {de P t35} {la D t36} {harina N t37}
+{trazan V t38} {sobre P t39} {la D t40} {tela N t41} {azul G t42} {del P t43} {firmamento N t44}
+{el D t45} {misterio N t46} {inmortal G t47} {de P t48} {la D t49} {tierra N t50} {divina G t51}
+{y C t52} {el D t53} {alma N t54} {de P t55} {las D t56} {cosas N t57} {que Q t58} {da V t59} {su D t60} {sacramento N t61}
+{en P t62} {una D t63} {interminable G t64} {frescura N t65} {matutina G t66} {. O t67}
+{Pues C t68} {en P t69} {la D t70} {paz N t71} {del P t72} {campo N t73} {la D t74} {faz N t75} {de P t76} {Dios R t77} {asoma V t78} {. O t79}
+{De P t80} {las D t81} {floridas G t82} {urnas N t83} {místico N t84} {incienso G t85} {aroma N t86}
+{el D t87} {vasto G t88} {altar N t89} {en P t90} {donde Q t91} {triunfa V t92} {la D t93} {azul G t94} {sonrisa N t95} {; O t96}
+{aún A t97} {verde G t98} {está V t99} {y C t100} {cubierto G t101} {de P t102} {flores N t103} {el D t104} {madero N t105} {, O t106}
+{bajo P t107} {sus D t108} {ramas N t109} {llenas G t110} {de P t111} {amor N t112} {pace V t113} {el D t114} {cordero N t115}
+{y C t116} {en P t117} {la D t118} {espiga N t119} {de P t120} {oro N t121} {y C t122} {luz N t123} {duerme V t124} {la D t125} {misa N t126} {. O t127}

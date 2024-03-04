@@ -1,0 +1,14 @@
+{Mi D} {non A} {polida G} {pénnola N} {desdora G}	O		
+{aqueste D} {libro N} {con P} {poner V} {un D} {canto N}	O		
+{en P} {las D} {sus D} {fojas N} {, O} {que Q} {me Q} {inspiran V} {tanto A}	O		
+{que C} {facen V} {agitar V} {mi D} {plectro N} {agora V} {. O}	O		
+{Nin V} {la D} {fermosa G} {cara N} {de P} {la D} {aurora N} {, O}	O		
+{nin N} {de P} {la D} {noche N} {el D} {estrellado V} {manto N} {, O}	O		
+{nin N} {el D} {milagro N} {de P} {cualquiera Q} {santo G} {, O}	O		
+{belleza N} {como P} {él Q} {non A} {atesora V} {. O}	O		
+{Ca R} {magüer G} {es V} {verdad N} {que C} {es V} {non V} {polida V}	B	enlace_subj_verb	ld01
+{la D} {mi D} {pennola N} {ruda G} {e C} {homildosa G} {, O}	I	enlace_subj_verb	ld01
+{yo Q} {tanto A} {entro N} {del P} {pecho N} {, O} {aquí A} {encendida G} {, O}	O		
+{la D} {foguera N} {del P} {bardo N} {tan A} {fermosa G} {. O}	O		
+{Por P} {ende A} {pongo V} {aquí A} {, O} {magüer V} {mal A} {fecho N} {, O}	O		
+{aquesta D} {trova N} {, O} {rosa N} {de P} {mi D} {pecho N} {. O}	O		

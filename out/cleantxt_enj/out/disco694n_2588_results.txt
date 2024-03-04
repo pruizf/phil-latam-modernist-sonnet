@@ -1,0 +1,14 @@
+{A P} {la D} {vista N} {del P} {blanco N} {lucero G} {matutino G}	B	sirrem_adj_prep	pd02
+{a P} {tu D} {amistad N} {envío N} {mi D} {saludo N} {cordial G} {, O}	I	sirrem_adj_prep	pd02
+{pues C} {tus D} {dedos N} {despiertan V} {el D} {alambre N} {divino G} {, O}	O		
+{sobre P} {la D} {lira N} {, O} {sobre P} {el D} {tímpano N} {inmortal G} {. O}	O		
+{Tu D} {Suiza R} {, O} {coronada G} {de P} {un D} {halo N} {diamantino G} {, O}	O		
+{circundada G} {en P} {abismos N} {de P} {torres N} {de P} {cristal N} {, O}	O		
+{alzará V} {un D} {día N} {, O} {para P} {tu D} {numen D} {peregrino N} {, O}	O		
+{un D} {busto N} {blanco G} {y C} {fino G} {de P} {firme G} {pedestal N} {. O}	O		
+{Compañero V} {que C} {traes V} {en P} {tu D} {lira N} {extranjera G}	B	sirrem_adj_noun	pp01
+{caras N} {rosas N} {nativas G} {a P} {nuestra D} {primavera N} {, O}	I	sirrem_adj_noun	pp01
+{y C} {que C} {tu D} {Ranz R} {nos Q} {cantas N} {en P} {el D} {modo N} {español G} {, O}	O		
+{que Q} {la Q} {América R} {escuche V} {tu D} {noble G} {melodía N} {, O}	O		
+{y C} {a P} {Suiza R} {, O} {Buenos R} {Aires R} {pueda V} {enviar V} {algún D} {día N}	B	enlace_od_verb	ld02
+{tu D} {cabeza N} {lunática G} {coronada G} {de P} {sol N} {! O}	I	enlace_od_verb	ld02

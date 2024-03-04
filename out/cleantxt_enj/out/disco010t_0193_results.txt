@@ -1,0 +1,14 @@
+{Cada D} {volcán N} {levanta V} {su D} {figura N} {, O}	O		
+{cual Q} {si C} {de P} {pronto A} {, O} {ante P} {la D} {faz N} {del P} {cielo N} {, O}	O		
+{suspendiesen V} {el D} {ángulo N} {de P} {un D} {vuelo N}	B	enlace_od_verb	ld02
+{dos D} {dedos N} {invisibles G} {de P} {la D} {altura N}	I	enlace_od_verb	ld02
+{La D} {cresta N} {es V} {blanca G} {y C} {como C} {blanca G} {pura G} {: O}	O		
+{la D} {entraña V} {hierve N} {en P} {inflamado G} {anhelo N} {; O}	O		
+{y C} {sobre P} {el D} {horno N} {aquel D} {contrasta V} {el D} {hielo N} {, O}	O		
+{cual Q} {sobre P} {una D} {pasión N} {un D} {alma N} {dura G} {. O}	O		
+{Los D} {volcanes N} {son V} {túmulos N} {de P} {piedra N} {, O}	O		
+{pero C} {a P} {sus D} {pies N} {los D} {valles N} {que Q} {florecen V}	B	enlace_subj_verb	ld01
+{fingen V} {alfombras N} {de P} {irisada N} {yedra G} {; O}	I	enlace_subj_verb	ld01
+{y C} {por P} {eso Q} {, O} {entre P} {campos N} {de P} {colores N} {, O}	O		
+{al P} {destacarse V} {en P} {el D} {azul N} {, O} {parecen V}	O		
+{cestas N} {volcadas G} {derramando V} {flores N} {. O}	O		

@@ -1,0 +1,14 @@
+{Moisés R t1} {: O t2} {" O t3} {La D t4} {mano N t5} {del P t6} {Eterno R t7} {, O t8} {un D t9} {día N t10} {, O t11}
+{los D t12} {orbes N t13} {creó V t14} {con P t15} {poderoso G t16} {aliento N t17} {. O t18} {" O t19}
+{Laplace R t20} {: O t21} {" O t22} {Mentira V t23} {! O t24} {Que C t25} {este D t26} {gran G t27} {portento N t28} {, O t29}
+{del P t30} {condensado N t31} {cosmos N t32} {nacería V t33} {. O t34} {" O t35}
+{Josué R t36} {: O t37} {Tan A t38} {sólo A t39} {a P t40} {la D t41} {palabra N t42} {mía Q t43} {, O t44}
+{detuvo V t45} {el D t46} {sol N t47} {su D t48} {paso N t49} {turbulento G t50} {. O t51} {" O t52}
+{Galileo R t53} {: O t54} {" O t55} {No A t56} {tiene V t57} {movimiento N t58} {. O t59} {" O t60}
+{Yo Q t61} {: O t62} {" O t63} {Mentía V t64} {Moisés R t65} {! O t66} {Josué R t67} {mentía V t68} {. O t69} {" O t70}
+{¿ O t71} {Qué Q t72} {confusión N t73} {es V t74} {esta D t75} {? O t76} {Lucha D t77} {eterna G t78}
+{se Q t79} {entabla V t80} {entre P t81} {el D t82} {pasado N t83} {y C t84} {el D t85} {presente G t86} {. O t87}
+{Humilde R t88} {aquél O t89} {, O t90} {ante P t91} {este D t92} {se Q t93} {prosterna V t94}
+{Este D t96} {sucumbe N t97} {miserablemente A t98}
+{¡ O t100} {Por P t101} {fin N t102} {el D t103} {dogma N t104} {expira V t105} {ante P t106} {la D t107} {ciencia N t108} {! O t109}
+{¿ O t110} {Quién Q t111} {vencerá V t112} {? O t113} {Responda V t114} {la D t115} {conciencia N t116} {. O t117}

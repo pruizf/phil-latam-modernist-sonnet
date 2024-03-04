@@ -1,0 +1,14 @@
+{Pláceme V} {el D} {mismo D} {tiempo N} {los D} {frutos N} {y C} {las D} {flores N} {, O}	O		
+{el D} {concentrado G} {jugo N} {, O} {la D} {perfumada G} {esencia N} {; O}	O		
+{y C} {en P} {mi D} {canción N} {, O} {por P} {eso Q} {, O} {de P} {múltiple G} {cadencia N} {, O}	O		
+{están V} {todas D} {las D} {gracias N} {y C} {todos D} {los D} {vigores N} {. O}	O		
+{Me Q} {han V} {dado V} {los D} {virreyes N} {sus D} {líricos N} {primores G}	B	enlace_od_verb	ld02
+{y C} {los D} {conquistadores N} {su D} {augusta G} {refulgencia N} {; O}	I	enlace_od_verb	ld02
+{y C} {así A} {hay V} {de P} {verso N} {a P} {verso N} {la D} {heroica N} {diferencia V}	B	enlace_od_verb	ld02
+{que C} {hubo V} {de P} {los D} {virreyes N} {a P} {los D} {conquistadores N}	I	enlace_od_verb	ld02
+{Confieso V} {que C} {, O} {aunque C} {yo Q} {amo V} {las D} {pompas N} {coloniales G} {, O}	O		
+{a P} {las D} {más A} {finas G} {cuerdas N} {prefiero V} {los D} {metales N} {: O}	O		
+{tal Q} {doy V} {con P} {mis D} {clarines N} {imperativas G} {dianas N} {; O}	O		
+{y C} {, O} {entonces A} {, O} {sacrifico G} {mis D} {bellas G} {baratijas N} {, O}	O		
+{como C} {los D} {viejos N} {nobles G} {que Q} {echaban V} {sus D} {sortijas N}	O		
+{al P} {bronce N} {destinado G} {para P} {fundir V} {campanas N} {. O}	O		

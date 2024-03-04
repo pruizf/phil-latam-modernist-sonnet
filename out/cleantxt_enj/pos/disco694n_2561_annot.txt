@@ -1,0 +1,14 @@
+{Que C t1} {el D t2} {champaña N t3} {de P t4} {oro N t5} {refleje V t6} {en P t7} {su D t8} {onda N t9}
+{la D t10} {blanca G t11} {maravilla N t12} {que Q t13} {en P t14} {el D t15} {gran G t16} {Louvre R t17} {impera V t18} {, O t19}
+{la D t20} {emperatriz N t21} {de P t22} {mármol N t23} {cuya Q t24} {mirada N t25} {ahonda A t26}
+{el D t27} {armonioso G t28} {enigma N t29} {que Q t30} {es V t31} {ritmo N t32} {de P t33} {la D t34} {esfera N t35} {; O t36}
+{el D t37} {bello G t38} {hermafrodita N t39} {de P t40} {cadera N t41} {redonda G t42} {, O t43}
+{y C t44} {del P t45} {sublime N t46} {Sandro R t47} {la D t48} {núbil G t49} {Primavera N t50} {; O t51}
+{y C t52} {sonriente A t53} {en P t54} {el D t55} {triunfo N t56} {de P t57} {su D t58} {gracia N t59} {hechicera G t60} {, O t61}
+{la D t62} {perla N t63} {de P t64} {Leonardo R t65} {, O t66} {la D t67} {mágica G t68} {Gioconda R t69} {. O t70}
+{Y C t71} {el D t72} {pórtico N t73} {del P t74} {templo N t75} {que Q t76} {habita V t77} {el D t78} {Numen R t79} {sacro G t80} {, O t81}
+{el D t82} {altar N t83} {donde Q t84} {se Q t85} {alce V t86} {su D t87} {augusto G t88} {simulacro N t89} {, O t90}
+{y C t91} {en P t92} {teoría N t93} {suave G t94} {, O t95} {canéforas N t96} {hermosas G t97} {. O t98}
+{La D t99} {victoria N t100} {llenando V t101} {su D t102} {palma N t103} {de P t104} {oro N t105} {fino G t106} {, O t107}
+{y C t108} {rompiendo V t109} {la D t110} {sombra N t111} {, O t112} {sobre P t113} {el D t114} {carro N t115} {divino G t116} {, O t117}
+{Apolo R t118} {, O t119} {coronado N t120} {de P t121} {nubes N t122} {y C t123} {de P t124} {rosas N t125} {. O t126}

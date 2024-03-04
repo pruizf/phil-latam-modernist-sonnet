@@ -1,0 +1,14 @@
+{Alberto R} {, O} {en P} {el D} {propileo N} {del P} {templo N} {soberano N}	B	oracional	cp01
+{donde Q} {Renán R} {rezaba V} {, O} {Verlaine R} {cantado G} {hubiera V} {. O}	I	oracional	cp01
+{Primavera N} {una D} {rosa N} {de P} {amor N} {tiene V} {en P} {la D} {mano N}	O		
+{y C} {cerca A} {de P} {la D} {joven N} {y C} {dulce G} {Primavera N} {. O}	O		
+{Término R} {su D} {sonrisa N} {de P} {piedra N} {brinda V} {en P} {vano G}	B	enlace_od_verb	ld02
+{a P} {la D} {desnuda G} {náyade N} {y C} {a P} {la D} {ninfa D} {hechicera N}	IB	enlace_od_verb;oracional	ld02;cp01
+{que Q} {viene V} {a P} {la D} {soberbia N} {fiesta N} {de P} {la D} {pradera N}	I	oracional	cp01
+{y C} {del P} {boscaje N} {, O} {en P} {busca N} {del P} {lírico G} {Sylvano R} {. O}	O		
+{Sobre P} {su D} {altar N} {de P} {oro N} {se Q} {levanta V} {la D} {Dea R} {, O}	O		
+{- O} {tal D} {en P} {su D} {aspecto N} {icónico G} {la D} {virgen G} {bizantinatoda N}	B	enlace_subj_verb	ld01
+{la D} {belleza N} {humana G} {ante P} {su D} {luz N} {es V} {fea G} {; O}	I	enlace_subj_verb	ld01
+{toda D} {visión N} {humana G} {, O} {a P} {su D} {luz N} {es V} {divina G} {: O}	O		
+{y C} {ésa Q} {es V} {la D} {virtud N} {sacra G} {de P} {la D} {divina G} {Idea R}	B	oracional	cp01
+{cuya Q} {alma N} {es V} {una D} {sombra N} {que Q} {todo Q} {lo Q} {ilumina V} {. O}	I	oracional	cp01

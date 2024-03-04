@@ -1,0 +1,14 @@
+{Inflámase V} {la D} {isla N} {, O} {allá A} {, O} {a P} {lo D} {lejos A} {, O}	O		
+{con P} {los D} {sanguíneos N} {besos N} {de P} {la D} {tarde N} {, O}	O		
+{mientras C} {haciendo V} {el D} {sol N} {su D} {último G} {alarde N}	B	enlace_subj_verb	ld01
+{dora V} {del P} {mar N} {los D} {límpidos N} {espejos G} {. O}	I	enlace_subj_verb	ld01
+{Asilo N} {de P} {pósteros N} {reflejos N} {, O}	O		
+{la D} {isla N} {por P} {el D} {sol N} {de P} {pasión N} {arde V} {; O}	O		
+{y C} {a P} {su D} {pie N} {el D} {mar N} {inclínase V} {cobarde N} {, O}	O		
+{llorando V} {triste G} {sus D} {amores N} {viejos G} {... O}	O		
+{Antes A} {de P} {que C} {Moisés R} {con P} {fuerza N} {extraña G} {, O}	O		
+{a P} {un D} {golpe N} {, O} {del P} {peñón N} {de P} {dura G} {entraña V}	B	enlace_od_verb	ld02
+{sacar V} {lograse V} {el D} {manantial N} {que Q} {encierra V} {, O}	I	enlace_od_verb	ld02
+{alguien Q} {hizo V} {más A} {grande G} {maravilla N} {, O}	O		
+{¡ O} {porque C} {golpeó V} {con P} {mágica G} {varilla N}	O		
+{en P} {la D} {mitad N} {del P} {mar N} {... O} {y C} {brotó V} {tierra N} {! O}	O		

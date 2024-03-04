@@ -1,0 +1,14 @@
+{Al P} {otro D} {lado N} {del P} {cequión N} {, O} {vecinas G}	B	sirrem_adj_prep	pd02
+{a P} {una D} {choza N} {infeliz G} {, O} {tienden V} {sus D} {brazos N}	IB	sirrem_adj_prep;enlace_subj_verb	pd02;ld01
+{dos D} {cruces N} {, O} {en P} {que Q} {cuelgan V} {a P} {pedazos N}	IB	enlace_subj_verb;enlace_subj_verb	ld01;ld01
+{dos D} {coronas N} {que Q} {hoy A} {sólo A} {son V} {de P} {espinas N} {. O}	I	enlace_subj_verb	ld01
+{¿ O} {Quiénes Q} {duermen N} {ahí A} {? O} {Leyes R} {divinas D}	B	enlace_subj_verb	ld01
+{juntan V} {quizás A} {, O} {en P} {póstumos N} {regazos G} {, O}	I	enlace_subj_verb	ld01
+{a P} {dos D} {héroes N} {que Q} {ayer A} {, O} {rotos G} {los D} {lazos N} {, O}	O		
+{combatieron V} {rodando V} {por P} {las D} {ruinas N} {. O}	O		
+{¡ O} {Ah O} {! O} {Yo Q} {sé V} {que C} {en P} {incógnito G} {heroísmo N}	O		
+{si C} {, O} {entre P} {los D} {choques N} {de P} {la D} {lucha N} {acerba V} {, O}	O		
+{muerde V} {el D} {polvo N} {el D} {intrépido G} {soldado N} {, O}	O		
+{tendrá V} {su D} {tumba N} {en P} {ese D} {polvo N} {mismo G} {, O}	O		
+{y C} {en P} {esa D} {tumba N} {crecerá V} {la D} {yerba N} {, O}	O		
+{y C} {en P} {esa D} {yerba N} {pastará V} {el D} {ganado N} {... O}	O		

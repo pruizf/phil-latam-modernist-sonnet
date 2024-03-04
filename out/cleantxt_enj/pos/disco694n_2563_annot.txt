@@ -1,0 +1,14 @@
+{Dejad R t1} {que C t2} {siga V t3} {y C t4} {bogue V t5} {la D t6} {galera N t7}
+{bajo P t8} {la D t9} {tempestad N t10} {, O t11} {sobre P t12} {la D t13} {ola N t14} {: O t15}
+{va V t16} {con P t17} {rumbo N t18} {a P t19} {una D t20} {Atlántida R t21} {española G t22} {, O t23}
+{en P t24} {donde Q t25} {el D t26} {porvenir N t27} {calla N t28} {y C t29} {espera N t30} {. O t31}
+{No A t32} {se Q t33} {apague V t34} {el D t35} {rencor N t36} {ni C t37} {el D t38} {odio N t39} {muera V t40}
+{ante P t41} {el D t42} {pendón N t43} {que Q t44} {el D t45} {bárbaro N t46} {enarbola V t47} {; O t48}
+{si C t49} {un D t50} {día N t51} {la D t52} {justicia N t53} {estuvo V t54} {sola G t55} {, O t56}
+{lo Q t57} {sentirá V t58} {la D t59} {humanidad N t60} {entera G t61} {. O t62}
+{Y C t63} {bogue V t64} {entre P t65} {las D t66} {olas N t67} {espumeantes G t68} {, O t69}
+{y C t70} {bogue V t71} {la D t72} {galera N t73} {que Q t74} {ya A t75} {ha V t76} {visto V t77}
+{cómo Q t78} {son V t79} {las D t80} {tormentas N t81} {de P t82} {inconstantes N t83} {: O t84}
+{que C t85} {la D t86} {raza N t87} {está V t88} {en P t89} {pie N t90} {y C t91} {el D t92} {brazo N t93} {listo G t94} {, O t95}
+{que Q t96} {va V t97} {en P t98} {el D t99} {barco N t100} {el D t101} {capitán N t102} {Cervantes R t103}
+{y C t104} {arriba A t105} {flota V t106} {el D t107} {pabellón N t108} {de P t109} {Cristo R t110} {. O t111}

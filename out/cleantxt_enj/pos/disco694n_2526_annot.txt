@@ -1,0 +1,14 @@
+{En P t1} {su D t2} {país N t3} {de P t4} {hierro N t5} {vive V t6} {el D t7} {gran G t8} {viejo G t9} {, O t10}
+{bello G t11} {como C t12} {un D t13} {patriarca N t14} {, O t15} {sereno N t16} {y C t17} {santo N t18} {. O t19}
+{Tiene V t20} {en P t21} {la D t22} {arruga N t23} {olímpica G t24} {de P t25} {su D t26} {entrecejo N t27}
+{algo Q t28} {que Q t29} {impera V t30} {y C t31} {vence V t32} {con P t33} {noble G t34} {encanto N t35} {. O t36}
+{Su D t37} {alma N t38} {del P t39} {infinito G t40} {parece V t41} {espejo N t42} {; O t43}
+{son V t44} {sus D t45} {cansados G t46} {hombros N t47} {dignos G t48} {del P t49} {manto N t50} {; O t51}
+{y C t52} {con P t53} {arpa G t54} {labrada N t55} {de P t56} {un D t57} {roble V t58} {añejo N t59} {, O t60}
+{como C t61} {un D t62} {profeta N t63} {nuevo G t64} {canta V t65} {su D t66} {canto N t67} {. O t68}
+{Sacerdote R t69} {que Q t70} {alienta V t71} {soplo N t72} {divino G t73} {, O t74}
+{anuncia V t75} {, O t76} {en P t77} {el D t78} {futuro N t79} {, O t80} {tiempo N t81} {mejor G t82} {. O t83}
+{Dice V t84} {el D t85} {águila N t86} {: O t87} {" O t88} {¡ O t89} {Vuela R t90} {! O t91} {" O t92} {, O t93} {" O t94} {¡ O t95} {Boga R t96} {! O t97} {" O t98} {, O t99} {al P t100} {marino N t101} {, O t102} {, O t103}
+{y C t104} {" O t105} {¡ O t106} {Trabaja O t107} {! O t108} {" O t109} {, O t110} {al P t111} {robusto N t112} {trabajador G t113} {. O t114}
+{¡ O t115} {Así A t116} {va V t117} {ese D t118} {poeta N t119} {por P t120} {su D t121} {camino N t122} {, O t123}
+{con P t124} {su D t125} {soberbio G t126} {rostro N t127} {de P t128} {emperador N t129} {! O t130}

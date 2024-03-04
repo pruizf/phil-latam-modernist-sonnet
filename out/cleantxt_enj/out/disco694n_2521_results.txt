@@ -1,0 +1,14 @@
+{Es V} {algo Q} {formidable G} {que Q} {vio V} {la D} {vieja G} {raza N} {; O}	O		
+{robusto G} {tronco N} {de P} {árbol N} {al P} {hombro N} {de P} {un D} {campeón N}	B	sirrem_adj_noun	pp02
+{salvaje G} {y C} {aguerrido G} {, O} {cuya Q} {fornida G} {maza N}	IB	sirrem_adj_noun;sirrem_adj_noun	pp02;pp02
+{blandiera G} {el D} {brazo N} {de P} {Hércules R} {, O} {o C} {el D} {brazo N} {de P} {Sansón R} {. O}	I	sirrem_adj_noun	pp02
+{Por P} {casco N} {sus D} {cabellos N} {, O} {su D} {pecho N} {por P} {coraza N} {, O}	O		
+{pudiera V} {tal D} {guerrero N} {, O} {de P} {Arauco R} {en P} {la D} {región N} {, O}	O		
+{lancero N} {de P} {los D} {bosques N} {, O} {Nemrod R} {que Q} {todo Q} {caza N} {, O}	O		
+{desjarretar V} {un D} {toro N} {, O} {o C} {estrangular V} {un D} {león N} {. O}	O		
+{Anduvo R} {, O} {anduvo V} {, O} {anduvo V} {. O} {Le Q} {vio V} {la D} {luz N} {del P} {día N} {, O}	O		
+{le Q} {vio V} {la D} {tarde N} {pálida G} {, O} {le Q} {vio V} {la D} {noche N} {fría G} {, O}	O		
+{y C} {siempre A} {el D} {tronco N} {de P} {árbol N} {a P} {cuestas N} {del P} {titán N} {. O}	O		
+{" O} {¡ O} {El D} {Toqui R} {, O} {el D} {Toqui R} {! O} {" O} {, O} {clama V} {la D} {conmovida G} {casta N} {. O}	O		
+{Anduvo R} {, O} {anduvo V} {, O} {anduvo V} {. O} {La D} {Aurora R} {dijo V} {: O} {" O} {Basta V} {' O} {' O} {, O}	O		
+{e C} {irguióse V} {la D} {alta G} {frente A} {del P} {gran G} {Caupolicán R} {. O}	O		

@@ -1,0 +1,14 @@
+{Allá A t1} {se Q t2} {ven V t3} {de P t4} {la D t5} {vecina G t6} {aldea N t7}
+{las D t8} {burladoras G t9} {aspas N t10} {de P t11} {molino N t12} {, O t13}
+{girando V t14} {arrebatadas G t15} {y C t16} {sin P t17} {tino N t18} {, O t19}
+{con P t20} {fe N t21} {que Q t22} {impulsa V t23} {y C t24} {rabia N t25} {que Q t26} {jadea V t27} {. O t28}
+{Una D t29} {estrofa N t30} {en P t31} {las D t32} {aspas N t33} {voltejea G t34} {, O t35}
+{lanzando V t36} {al P t37} {cielo N t38} {el D t39} {cántico N t40} {divino G t41}
+{del P t42} {hombre N t43} {triunfador N t44} {sobre P t45} {el D t46} {Destino R t47}
+{y C t48} {del P t49} {viento N t50} {enfrenado G t51} {por P t52} {la D t53} {Idea R t54} {. O t55}
+{Cuando C t56} {, O t57} {entre P t58} {las D t59} {penumbras N t60} {de P t61} {la D t62} {tarde N t63} {, O t64}
+{veo V t65} {allá A t66} {... O t67} {los D t68} {molinos N t69} {, O t70} {donde Q t71} {en P t72} {vano G t73}
+{un D t74} {gran G t75} {beso N t76} {de P t77} {sol N t78} {palpita G t79} {y C t80} {arde V t81} {, O t82}
+{¡ O t83} {espero V t84} {ver V t85} {que C t86} {de P t87} {las D t88} {aspas N t89} {brote N t90} {, O t91}
+{sobre P t92} {flaco G t93} {rocín N t94} {, O t95} {y C t96} {lanza V t97} {en P t98} {mano N t99} {, O t100}
+{el D t101} {tipo N t102} {espiritual G t103} {de P t104} {Don R t105} {Quijote R t106} {! O t107} {... O t108}

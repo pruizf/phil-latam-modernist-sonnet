@@ -1,0 +1,14 @@
+{Pasan V t1} {por P t2} {mis D t3} {estrofas N t4} {los D t5} {virreyes N t6} {egregios G t7}
+{y C t8} {las D t9} {líricas G t10} {damas N t11} {de P t12} {otros D t13} {tiempo N t14} {de P t15} {amor N t16} {; O t17}
+{pero C t18} {, O t19} {en P t20} {verdad N t21} {, O t22} {si C t23} {entonces A t24} {canto N t25} {los D t26} {florilegios N t27}
+{y C t28} {las D t29} {fiestas N t30} {galanas G t31} {, O t32} {canto N t33} {un D t34} {canto N t35} {mayor G t36} {, O t37}
+{cuando C t38} {me Q t39} {dan V t40} {las D t41} {selvas N t42} {vírgenes G t43} {sus D t44} {arpegios N t45}
+{y C t46} {su D t47} {orgullo N t48} {los Q t49} {incas N t50} {y C t51} {Pizarro R t52} {su D t53} {ardor N t54} {, O t55}
+{y C t56} {así A t57} {soy V t58} {, O t59} {en P t60} {las D t61} {pompas N t62} {de P t63} {mis D t64} {cánticos N t65} {regios G t66} {, O t67}
+{algo Q t68} {precolombino G t69} {y C t70} {algo Q t71} {conquistador G t72}
+{Soy V t73} {épico G t74} {dos D t75} {veces N t76} {, O t77} {y C t78} {estoy V t79} {enamorado G t80}
+{del P t81} {Sol R t82} {que Q t83} {hay V t84} {en P t85} {mi D t86} {fina G t87} {coraza N t88} {de P t89} {soldado N t90}
+{y C t91} {del P t92} {león N t93} {rampante G t94} {que Q t95} {ilustra V t96} {mi D t97} {broquel N t98} {: O t99}
+{tal Q t100} {el D t101} {verso N t102} {en P t103} {que Q t104} {canto N t105} {del P t106} {virrey N t107} {la D t108} {fortuna N t109}
+{es V t110} {un D t111} {Sol R t112} {que Q t113} {en P t114} {las D t115} {tardes N t116} {le Q t117} {da V t118} {un D t119} {beso N t120} {a P t121} {la D t122} {Luna R t123}
+{o C t124} {un D t125} {león N t126} {que Q t127} {en P t128} {los D t129} {labios N t130} {tiene V t131} {un D t132} {poco Q t133} {de P t134} {miel N t135}

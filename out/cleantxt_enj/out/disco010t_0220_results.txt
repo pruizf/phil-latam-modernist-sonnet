@@ -1,0 +1,14 @@
+{Y C} {bien A} {: O} {todo D} {ese D} {tiempo N} {de P} {vidas N} {amorosas G}	B	enlace_subj_verb	ld01
+{se Q} {estremece V} {en P} {la D} {lira N} {del P} {poeta N} {risueño G} {, O}	I	enlace_subj_verb	ld01
+{que Q} {aparece V} {en P} {diez D} {lustros N} {como C} {el D} {único G} {dueño N}	B	sirrem_noun_prep	pp05
+{de P} {cuanto A} {sabe V} {a P} {mieles N} {y C} {cuanto A} {huele V} {a P} {rosas N}	I	sirrem_noun_prep	pp05
+{El D} {poeta N} {sonríe V} {cuando C} {habla V} {de P} {esas D} {cosas N} {; O}	O		
+{y C} {a P} {través N} {de P} {su D} {canto N} {, O} {como C} {a P} {través N} {de P} {un D} {sueño N} {, O}	O		
+{Jesucristo R} {sonríe V} {también A} {desde P} {su D} {leño N}	O		
+{y C} {todas D} {las D} {sonrisas N} {se Q} {vuelven V} {mariposas G} {. O}	O		
+{Noble G} {, O} {irónico G} {, O} {fino G} {, O} {disimula N} {el D} {manto N}	B	sirrem_noun_prep	pp06.1
+{de P} {su D} {verso N} {, O} {el D} {poeta N} {, O} {todo D} {el D} {vicio N} {: O} {su D} {canto N}	IB	sirrem_noun_prep;enlace_subj_verb	pp06.1;ld01
+{torna V} {el D} {mal N} {de P} {las D} {gentes N} {en P} {artístico G} {bien N} {; O}	I	enlace_subj_verb	ld01
+{y C} {, O} {resaltando V} {sobre P} {la D} {liviandad N} {oscura G} {, O}	O		
+{de P} {esa D} {edad N} {que C} {él Q} {cantaba V} {, O} {sólo A} {, O} {al P} {fin N} {, O} {su D} {figura N}	B	enlace_subj_verb	ld01
+{quedará V} {por P} {los D} {siglos N} {de P} {los D} {siglos N} {Amén R}	I	enlace_subj_verb	ld01

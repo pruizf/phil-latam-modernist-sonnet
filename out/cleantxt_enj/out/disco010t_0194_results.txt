@@ -1,0 +1,14 @@
+{Robó V} {el D} {oro N} {su D} {lustre N} {a P} {tu D} {cabello N}	O		
+{y C} {a P} {tu D} {boca N} {el D} {coral G} {su D} {sangre N} {pura G} {; O}	O		
+{ostenta V} {el D} {mármol N} {como C} {tú Q} {su D} {albura N}	O		
+{y C} {el D} {cisne N} {arquea V} {como C} {tú Q} {su D} {cuello N}	O		
+{En P} {tu D} {sonrisa N} {se Q} {estremece V} {el D} {sello N}	B	sirrem_noun_prep	pp06.1
+{de P} {un D} {beso N} {del P} {amor N} {a P} {la D} {hermosura N} {, O}	I	sirrem_noun_prep	pp06.1
+{y C} {en P} {tu D} {mirada N} {trémula G} {fulgura V}	O		
+{la D} {lucha N} {de P} {una D} {sombra N} {y C} {un D} {destello N}	O		
+{Lohengrín R} {te Q} {ha V} {soñado V} {como C} {un D} {rubio G}	B	sirrem_adj_noun	pp02
+{querub N} {, O} {envuelto G} {entre P} {flotantes G} {tules N} {, O}	I	sirrem_adj_noun	pp02
+{sobre P} {su D} {cisne N} {blanco G} {, O} {en P} {el D} {Danubio R} {; O}	O		
+{y C} {ha V} {visto V} {que C} {halagando V} {sus D} {antojos N} {, O}	O		
+{no A} {son V} {tus D} {ojos N} {como C} {el D} {cielo N} {azules G} {, O}	O		
+{sino C} {el D} {cielo N} {es V} {azul G} {como C} {tus D} {ojos N} {. O}	O		

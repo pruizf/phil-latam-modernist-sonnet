@@ -1,0 +1,14 @@
+{Echado G t1} {está V t2} {a P t3} {mis D t4} {pies N t5} {: O t6} {hunde V t7} {dormido G t8}
+{la D t9} {cabeza N t10} {en P t11} {las D t12} {patas N t13} {delanteras G t14}
+{y C t15} {así A t16} {sueña V t17} {con P t18} {todas D t19} {sus D t20} {carreras N t21}
+{y C t22} {con P t23} {todas D t24} {las D t25} {liebres N t26} {que Q t27} {ha V t28} {cogido V t29} {. O t30}
+{Largo R t31} {, O t32} {elástico G t33} {-- O t34} {así A t35} {como C t36} {tendido G t37}
+{con P t38} {ímpetu N t39} {veloz G t40} {en P t41} {las D t42} {ligeras G t43}
+{ansias N t44} {conque C t45} {recorre V t46} {las D t47} {praderas N t48}
+{se Q t50} {despierta V t51} {y C t52} {sacude V t53} {al P t54} {menor G t55} {ruido N t56} {. O t57}
+{La D t58} {cenicienta N t59} {piel N t60} {, O t61} {aunque C t62} {se Q t63} {afana V t64}
+{el D t65} {hueso N t66} {por P t67} {salir V t68} {con P t69} {raro G t70} {empeño N t71} {, O t72}
+{finge N t73} {el D t74} {lustre N t75} {de P t76} {limpia G t77} {porcelana N t78} {. O t79}
+{Súbito R t80} {tiembla V t81} {: O t82} {con P t83} {extraña G t84} {fiebre N t85} {; O t86}
+{porque C t87} {ve V t88} {que C t89} {en P t90} {los D t91} {campos N t92} {del P t93} {ensueño N t94}
+{donde Q t95} {menos A t96} {se Q t97} {piensa V t98} {está V t99} {la D t100} {liebre N t101} {. O t102}

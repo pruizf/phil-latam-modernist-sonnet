@@ -1,0 +1,14 @@
+{El D t1} {vasto G t2} {y C t3} {misterioso G t4} {y C t5} {huracanado G t6} {viento N t7}
+{que Q t8} {sopla V t9} {del P t10} {abismo N t11} {del P t12} {hondo G t13} {firmamento N t14}
+{con P t15} {ala N t16} {formidable G t17} {, O t18} {con P t19} {ímpetu N t20} {violento G t21} {, O t22}
+{como C t23} {lanzado G t24} {al P t25} {mundo N t26} {por P t27} {el D t28} {poder N t29} {de P t30} {Dios R t31} {, O t32}
+{ha V t33} {roto V t34} {una D t35} {columna N t36} {que Q t37} {el D t38} {pensamiento N t39} {humano G t40}
+{tenía V t41} {en P t42} {este D t43} {suelo N t44} {del P t45} {mundo N t46} {americano G t47} {, O t48}
+{donde Q t49} {a P t50} {los D t51} {cuatro D t52} {vientos N t53} {gigante N t54} {y C t55} {soberano N t56}
+{enviaba V t57} {al P t58} {alto G t59} {genio N t60} {del P t61} {porvenir N t62} {su D t63} {voz N t64} {. O t65}
+{Mas R t66} {no A t67} {cantos N t68} {de P t69} {duelo N t70} {debéis N t71} {alzar V t72} {, O t73} {poetas N t74} {. O t75}
+{Vibrantes N t76} {y C t77} {triunfantes N t78} {los D t79} {coros N t80} {de P t81} {trompetas N t82}
+{saludan V t83} {al P t84} {que Q t85} {cae V t86} {cubierto G t87} {de P t88} {laurel N t89} {. O t90}
+{La D t91} {gloria N t92} {es V t93} {del P t94} {Maestro R t95} {: O t96} {su D t97} {luz N t98} {vierte V t99} {fulgores N t100} {. O t101}
+{¡ O t102} {Preséntense V t103} {las D t104} {armas N t105} {, O t106} {soldados N t107} {pensadores N t108} {, O t109}
+{que Q t110} {pasa V t111} {el D t112} {carro N t113} {negro G t114} {con P t115} {el D t116} {cadáver N t117} {de P t118} {él Q t119} {! O t120}

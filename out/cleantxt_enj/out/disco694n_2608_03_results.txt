@@ -1,0 +1,14 @@
+{Madrugada R} {. O} {En P} {el D} {silencio N} {reposa V} {la D} {gran G} {villa N}	B	oracional	cp01
+{donde Q} {de P} {niño N} {supe V} {de P} {cuentos N} {y C} {consejas N} {, O}	I	oracional	cp01
+{o C} {asistí V} {a P} {serenatas N} {de P} {amor N} {junto G} {a P} {las D} {rejas N}	B	sirrem_noun_prep	pp06.1
+{de P} {alguna D} {novia N} {bella G} {, O} {timorata N} {y C} {sencilla G} {. O}	I	sirrem_noun_prep	pp06.1
+{El D} {cielo N} {lleno G} {de P} {constelaciones N} {brilla N} {, O}	O		
+{y C} {su D} {oriente N} {disputan V} {suaves G} {luces N} {bermejas G} {; O}	O		
+{de P} {pronto A} {, O} {un D} {terremoto N} {mueve V} {las D} {casas N} {viejas G}	O		
+{y C} {la D} {gente N} {en P} {los D} {patios N} {y C} {calles N} {se Q} {arrodilla V} {, O}	O		
+{medio D} {desnuda V} {, O} {y C} {clama V} {: O} {" O} {¡ O} {Santo R} {Dios R} {! O} {¡ O} {Santo V} {fuerte G} {! O}	O		
+{¡ O} {Santo R} {inmortal G} {! O} {" O} {La D} {tierra N} {tiembla V} {a P} {cada D} {momento N} {. O}	O		
+{¡ O} {Algo Q} {de P} {apocalíptico G} {mano N} {invisible G} {vierte V} {! O} {... O}	O		
+{La D} {atmósfera N} {es V} {pesada G} {como C} {plomo N} {. O} {No A} {hay V} {viento N} {. O}	O		
+{Y C} {se Q} {diría V} {que C} {ha V} {pasado V} {la D} {muerte N}	O		
+{ante P} {la D} {impasibilidad N} {del P} {firmamento N} {. O}	O		

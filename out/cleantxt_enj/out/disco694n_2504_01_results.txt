@@ -1,0 +1,14 @@
+{Dulce V} {como C} {la D} {miel N} {de P} {los D} {panales N}	B	oracional	cp01
+{que Q} {en P} {las D} {ramas N} {del P} {árbol N} {gotas N} {deja V} {, O}	I	oracional	cp01
+{cuando C} {la D} {liba N} {zumbadora G} {abeja G}	B	oracional	cp01
+{que Q} {gira N} {sobre P} {juncos G} {y C} {gramales G} {; O}	I	oracional	cp01
+{sonora G} {cual Q} {las Q} {brisas N} {otoñales G}	B	oracional	cp01
+{que Q} {el D} {eco N} {vago G} {de P} {sentida G} {queja N}	IB	oracional;enlace_subj_verb	cp01;ld01
+{parecen V} {derramar V} {, O} {cuando C} {se Q} {aleja V}	IB	enlace_subj_verb;enlace_subj_verb	ld01;ld01
+{Véspero R} {entre P} {los D} {verdes G} {robledales N} {; O}	I	enlace_subj_verb	ld01
+{como C} {el D} {murmullo N} {de P} {la D} {fuente N} {suave G}	B	oracional	cp01
+{que Q} {se Q} {desliza V} {con P} {rumor N} {escaso G} {, O}	I	oracional	cp01
+{y C} {como C} {el D} {dulce G} {cántico N} {de P} {ave N} {: O}	O		
+{así A} {en P} {la D} {Égloga N} {está V} {de P} {Garcilaso R} {, O}	O		
+{llena G} {de P} {majestad N} {, O} {pura G} {y C} {galana G} {, O}	O		
+{la D} {armoniosa G} {Poesía R} {Castellana R} {. O}	O		

@@ -1,0 +1,14 @@
+{El D} {día N} {de P} {los D} {castos N} {azahares G}	B	enlace_subj_verb	ld01
+{y C} {el D} {velo N} {virginal G} {, O} {eras V} {dichoso G} {: O}	I	enlace_subj_verb	ld01
+{¡ O} {quién Q} {te Q} {viera V} {feliz G} {como C} {el D} {esposo N}	B	sirrem_noun_prep	pp06.1
+{de P} {aquel D} {dulce G} {Cantar R} {de P} {los D} {Cantares R} {! O}	I	sirrem_noun_prep	pp06.1
+{Hoy A} {sabes V} {de P} {dolor N} {, O} {llorando V} {a P} {mares N} {, O}	O		
+{sin P} {miel N} {, O} {sin P} {luz N} {, O} {sin P} {flores N} {, O} {sin P} {reposo G} {; O}	O		
+{sopló V} {sobre P} {ti Q} {un D} {viento N} {borrascoso G}	O		
+{y C} {has V} {sentido V} {el D} {pesar N} {de P} {los D} {pesares N} {. O}	O		
+{¡ O} {Sombra V} {trágica G} {y C} {negra G} {! O} {El D} {nifio N} {llora V}	O		
+{de P} {la D} {madre N} {ante P} {el D} {cuerpo N} {mudo G} {y C} {frío G} {, O}	O		
+{que Q} {deja V} {al P} {compafiero N} {que Q} {la Q} {adora V} {. O}	O		
+{Queda V} {el D} {gemir N} {, O} {queda V} {el D} {hogar N} {vacío G} {; O}	O		
+{la D} {noche N} {amarga G} {tras P} {la D} {blanca G} {aurora N} {... O}	O		
+{¿ O} {peto N} {por P} {qué Q} {, O} {pero C} {por P} {qué Q} {, O} {Dios R} {mío D} {? O} {... O}	O		

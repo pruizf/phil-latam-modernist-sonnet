@@ -1,0 +1,14 @@
+{En P} {su D} {maravillosa G} {vida N} {trabaja V} {quieto Q} {. O}	O		
+{El D} {reloj N} {de P} {su D} {hora N} {en P} {su D} {tranquilidad N} {. O}	O		
+{Pasa V} {un D} {soplo N} {de P} {biblioteca N} {: O} {ya A} {es V} {Bagdad R}	O		
+{o C} {Insbruck R} {, O} {o C} {bien A} {algo Q} {que C} {habla V} {de P} {Paracleto R} {. O}	O		
+{No A} {sé V} {si C} {, O} {a P} {veces N} {, O} {su D} {verbo N} {ágil G} {al P} {conceto N}	B	enlace_subj_verb	ld01
+{en P} {su D} {enérgica G} {forma N} {, O} {pasa V} {la D} {Humanidad R}	I	enlace_subj_verb	ld01
+{en P} {su D} {exceso N} {de P} {pasión N} {o C} {de P} {verdad N} {. O}	O		
+{Yo Q} {sé V} {que C} {le Q} {conozco V} {, O} {le Q} {mido G} {y C} {le Q} {interpreto V} {. O}	O		
+{Desconfía R} {de P} {los D} {que Q} {se Q} {apropicuan V} {al P} {daño N}	B	sirrem_noun_prep	pp06.1
+{de P} {ese D} {querer N} {usual G} {que C} {cariños N} {nos Q} {finge N} {, O}	I	sirrem_noun_prep	pp06.1
+{pues C} {siendo V} {bachiller N} {le Q} {doctoró V} {el D} {engaño N} {. O}	O		
+{Así A} {, O} {su D} {amor N} {no A} {corta G} {ni C} {su D} {afecto N} {restringe V} {, O}	O		
+{sino C} {cuando C} {tritura V} {muy A} {cuerdamente A} {, O} {al P} {paño N} {, O}	O		
+{la D} {ración N} {de P} {miserias N} {con P} {que Q} {ayuda V} {a P} {la D} {Esfinge R} {. O}	O		

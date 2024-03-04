@@ -1,0 +1,14 @@
+{Y C t1} {porque C t2} {sois O t3} {soldados N t4} {de P t5} {la D t6} {idea N t7} {; O t8}
+{porque C t9} {rompéis V t10} {la D t11} {tiara N t12} {y C t13} {la D t14} {corona N t15} {, O t16}
+{y C t17} {vuestra D t18} {voz N t19} {la D t20} {libertad N t21} {pregona G t22} {; O t23}
+{la D t24} {libertad N t25} {que Q t26} {irradia V t27} {y C t28} {centellea V t29} {; O t30}
+{porque C t31} {deseáis N t32} {que Q t33} {el D t34} {Universo R t35} {vea V t36}
+{cómo Q t37} {una D t38} {catedral N t39} {se Q t40} {desmorona V t41}
+{al P t42} {son N t43} {del P t44} {himno N t45} {que Q t46} {la D t47} {voz N t48} {entona G t49}
+{del P t50} {genio N t51} {de P t52} {la D t53} {luz N t54} {que Q t55} {vida N t56} {crea V t57} {; O t58}
+{porque C t59} {las D t60} {tablas N t61} {de P t62} {la D t63} {ley N t64} {del P t65} {hombre N t66}
+{mostráis V t67} {al P t68} {mundo N t69} {llenas G t70} {de P t71} {verdades N t72} {, O t73}
+{y C t74} {de P t75} {la D t76} {democracia N t77} {el D t78} {sacro G t79} {nombre N t80}
+{escribís G t81} {en P t82} {la D t83} {faz N t84} {de P t85} {estas D t86} {edades N t87} {, O t88}
+{tendréis N t89} {mil D t90} {bendiciones N t91} {en P t92} {la D t93} {historia N t94}
+{y C t95} {una D t96} {palma N t97} {en P t98} {el D t99} {templo N t100} {de P t101} {la D t102} {gloria N t103} {. O t104}

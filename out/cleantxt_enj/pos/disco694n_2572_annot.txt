@@ -1,0 +1,14 @@
+{Cuando C t1} {iba V t2} {yo Q t3} {a P t4} {montar V t5} {ese D t6} {caballo N t7} {rudo G t8}
+{y C t9} {tembloroso G t10} {, O t11} {dije V t12} {: O t13} {" O t14} {La D t15} {vida N t16} {es V t17} {pura G t18} {y C t19} {bella G t20} {' O t21} {' O t22} {, O t23}
+{entre P t24} {sus D t25} {cejas N t26} {vivas G t27} {vi V t28} {brillar V t29} {una D t30} {estrella N t31} {. O t32}
+{El D t33} {cielo N t34} {estaba V t35} {azul N t36} {y C t37} {yo Q t38} {estaba V t39} {desnudo G t40} {. O t41}
+{Sobre P t42} {mi D t43} {frente N t44} {Apolo R t45} {hizo V t46} {brillar V t47} {su D t48} {escudo N t49}
+{y C t50} {de P t51} {Belerofonte R t52} {logré V t53} {seguir V t54} {la D t55} {huella N t56} {. O t57}
+{Toda D t58} {cima N t59} {es V t60} {ilustre G t61} {si C t62} {Pegaso R t63} {la D t64} {sella N t65} {, O t66}
+{y C t67} {yo Q t68} {, O t69} {fuerte G t70} {, O t71} {he V t72} {subido V t73} {donde Q t74} {Pegaso R t75} {pudo V t76} {. O t77}
+{Yo Q t78} {soy V t79} {el D t80} {caballero N t81} {de P t82} {la D t83} {humana G t84} {energía N t85} {, O t86}
+{yo Q t87} {soy V t88} {el D t89} {que Q t90} {presenta V t91} {su D t92} {cabeza N t93} {triunfante G t94}
+{coronada G t95} {con P t96} {el D t97} {laurel N t98} {del P t99} {Rey R t100} {del P t101} {día N t102} {; O t103}
+{domador N t104} {del P t105} {corcel N t106} {de P t107} {cascos N t108} {de P t109} {diamante N t110} {, O t111}
+{voy V t112} {en P t113} {un D t114} {gran G t115} {volar V t116} {, O t117} {con P t118} {la D t119} {aurora N t120} {por P t121} {guía N t122} {, O t123}
+{adelante A t124} {en P t125} {el D t126} {vasto G t127} {azur N t128} {, O t129} {siempre A t130} {adelante A t131} {! O t132}

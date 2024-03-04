@@ -1,0 +1,14 @@
+{Manuel R t1} {: O t2} {el D t3} {resplandor N t4} {de P t5} {tu D t6} {palabra N t7}
+{ha V t8} {iluminado V t9} {la D t10} {montaña N t11} {obscura G t12} {, O t13}
+{en P t14} {donde Q t15} {, O t16} {hace V t17} {ya A t18} {tiempo N t19} {, O t20} {mi D t21} {figura N t22}
+{vaga G t23} {entre P t24} {el D t25} {cielo N t26} {, O t27} {el D t28} {sátiro N t29} {y C t30} {la D t31} {cabra N t32} {. O t33}
+{Sea V t34} {arado V t35} {de P t36} {oro N t37} {aquel D t38} {que Q t39} {abra V t40}
+{el D t41} {surco N t42} {en P t43} {la D t44} {divina G t45} {agricultura N t46} {, O t47}
+{y C t48} {que C t49} {pueda V t50} {extraer V t51} {de P t52} {tierra N t53} {impura G t54}
+{el D t55} {mármol N t56} {blanco G t57} {que Q t58} {el D t59} {artista N t60} {labra V t61} {. O t62}
+{Y C t63} {puesto V t64} {que C t65} {eres V t66} {lengua N t67} {de P t68} {mi D t69} {tierra N t70} {, O t71}
+{la D t72} {cual Q t73} {se Q t74} {agita V t75} {con P t76} {rumor N t77} {de P t78} {palma N t79} {, O t80}
+{y C t81} {es V t82} {tu D t83} {cráneo N t84} {depósito N t85} {que Q t86} {encierra V t87}
+{ese D t88} {gran G t89} {fluido G t90} {propulsor N t91} {de P t92} {tu D t93} {alma N t94} {, O t95}
+{sé V t96} {como C t97} {Castelar R t98} {, O t99} {cuyo Q t100} {rotundo G t101}
+{verbo N t102} {aumentó V t103} {la D t104} {rotación N t105} {del P t106} {mundo N t107} {. O t108}

@@ -1,0 +1,14 @@
+{A P} {saludar V} {me Q} {ofrezco V} {y C} {a P} {celebrar V} {me Q} {obligo V}	B	enlace_od_verb	ld02
+{tu D} {triunfo N} {, O} {Amor R} {, O} {al P} {beso N} {de P} {la D} {estación N} {que Q} {llega V}	I	enlace_od_verb	ld02
+{mientras C} {el D} {blanco N} {cisne G} {del P} {lago N} {azul G} {navega V}	O		
+{en P} {el D} {mágico G} {parque N} {de P} {mis D} {triunfos N} {testigo N} {. O}	O		
+{Amor R} {, O} {tu D} {hoz N} {de P} {oro N} {ha V} {segado V} {mí Q} {trigo N} {; O}	O		
+{por P} {ti Q} {me Q} {halaga V} {el D} {suave G} {son N} {de P} {la D} {flauta N} {griega G}	O		
+{y C} {por P} {tí V} {Venus R} {pródiga V} {sus D} {manzanas N} {me Q} {entrega V}	O		
+{y C} {me Q} {brinda V} {las D} {perlas N} {de P} {las D} {mieles N} {del P} {higo N} {. O}	O		
+{En P} {el D} {erecto G} {término N} {coloco G} {una D} {corona N}	B	sirrem_noun_prep	pd02
+{en P} {que Q} {de P} {rosas N} {frescas G} {la D} {púrpura N} {detona G} {; O}	I	sirrem_noun_prep	pd02
+{y C} {en P} {tanto D} {canta V} {el D} {agua N} {bajo P} {el D} {boscaje N} {obscuro G} {, O}	O		
+{junto G} {a P} {la D} {adolescente N} {que Q} {en P} {el D} {misterio N} {inicio N}	B	enlace_subj_verb	ld01
+{apuraré V} {alternando V} {con P} {tu D} {dulce G} {ejercicio N}	IB	enlace_subj_verb;enlace_od_verb	ld01;ld02
+{las D} {ánforas N} {de P} {oro N} {del P} {divino G} {Epícuro R} {. O}	I	enlace_od_verb	ld02

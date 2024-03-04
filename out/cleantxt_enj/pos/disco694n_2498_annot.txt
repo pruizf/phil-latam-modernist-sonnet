@@ -1,0 +1,14 @@
+{Al P t1} {contemplarte N t2} {augusta V t3} {, O t4} {te Q t5} {venero G t6} {, O t7}
+{al P t8} {ver V t9} {tu D t10} {luz N t11} {, O t12} {mi D t13} {corazón N t14} {se Q t15} {inflama V t16} {, O t17}
+{pues C t18} {al P t19} {fulgor N t20} {de P t21} {tu D t22} {radiosa G t23} {llama N t24} {, O t25}
+{se Q t26} {estremece V t27} {la D t28} {faz N t29} {del P t30} {mundo N t31} {entero G t32} {. O t33}
+{Cayó V t34} {la D t35} {fe N t36} {con P t37} {su D t38} {terrible G t39} {fuero N t40} {. O t41}
+{Ya A t42} {tu D t43} {voz N t44} {por P t45} {doquiera A t46} {se Q t47} {derrama V t48} {; O t49}
+{se Q t50} {hunden V t51} {Cristo R t52} {, O t53} {Vichnú R t54} {, O t55} {Budha R t56} {y C t57} {Brahama R t58} {, O t59}
+{y C t60} {las D t61} {naciones N t62} {van V t63} {por P t64} {tu D t65} {sendero N t66} {. O t67}
+{A P t68} {tu D t69} {poder V t70} {gigante N t71} {y C t72} {soberano N t73}
+{que Q t74} {el D t75} {Orbe R t76} {en P t77} {otro D t78} {tiempo N t79} {no A t80} {admirara V t81} {, O t82}
+{contra P t83} {el D t84} {altar N t85} {del P t86} {Sacro R t87} {Vaticano R t88}
+{el D t89} {Papa R t90} {quiebra N t91} {con P t92} {dolor N t93} {su D t94} {tiara N t95} {; O t96}
+{y C t97} {aterido G t98} {y C t99} {helado N t100} {, O t101} {cual Q t102} {la D t103} {escarcha N t104} {, O t105}
+{grita N t106} {con P t107} {Pelletán R t108} {: O t109} {" O t110} {El D t111} {mundo N t112} {marcha V t113} {" O t114} {. O t115}

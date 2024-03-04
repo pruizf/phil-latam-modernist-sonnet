@@ -1,0 +1,14 @@
+{Es V t1} {la D t2} {quebrada G t3} {una D t4} {insolente G t5} {brecha N t6}
+{que Q t7} {con P t8} {tajo N t9} {viril G t10} {corta V t11} {el D t12} {camino N t13} {, O t14}
+{y C t15} {rauda V t16} {precipítase V t17} {y C t18} {sin P t19} {tino N t20}
+{hacia P t21} {el D t22} {mar N t23} {que Q t24} {encogiéndose V t25} {la D t26} {acecha N t27} {. O t28}
+{Ante P t29} {el D t30} {mar N t31} {la D t32} {quebrada N t33} {se Q t34} {despecha V t35} {, O t36}
+{al P t37} {no A t38} {poder V t39} {seguir V t40} {en P t41} {su D t42} {destino N t43} {; O t44}
+{se Q t45} {contrae V t46} {con P t47} {golpe N t48} {repentino G t49} {; O t50}
+{y C t51} {se Q t52} {abre V t53} {, O t54} {como C t55} {un D t56} {libro N t57} {, O t58} {al P t59} {fin N t60} {deshecha V t61} {. O t62}
+{Ella Q t63} {que C t64} {luce V t65} {en P t66} {fértiles N t67} {adornos G t68} {, O t69}
+{de P t70} {vida N t71} {tropical G t72} {, O t73} {fuerzas N t74} {extrañas G t75} {, O t76}
+{turbando V t77} {la D t78} {aridez N t79} {de P t80} {los D t81} {contornos G t82}
+{fecunda G t83} {todo Q t84} {en P t85} {su D t86} {interior N t87} {abierto G t88} {, O t89}
+{¡ O t91} {cual Q t92} {madre N t93} {que Q t94} {se Q t95} {abriera V t96} {las D t97} {entrañas N t98}
+{para P t99} {darle V t100} {calor N t101} {al P t102} {hijo N t103} {muerto G t104} {! O t105}

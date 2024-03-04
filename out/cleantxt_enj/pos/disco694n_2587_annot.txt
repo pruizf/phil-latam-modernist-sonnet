@@ -1,0 +1,14 @@
+{Libros D t1} {extraños N t2} {que Q t3} {halagáis V t4} {la D t5} {mente N t6}
+{en P t7} {un D t8} {lenguaje N t9} {inaudito G t10} {y C t11} {tan A t12} {raro G t13}
+{y C t14} {que C t15} {de P t16} {lo D t17} {más A t18} {puro G t19} {y C t20} {lo D t21} {más A t22} {caro G t23}
+{hacéis C t24} {brotar V t25} {la D t26} {misteriosa G t27} {fuente N t28} {; O t29}
+{inextinguible G t30} {, O t31} {inextinguiblemente G t32}
+{brote N t33} {el D t34} {sentir N t35} {del P t36} {corazón N t37} {preclaro G t38}
+{y C t39} {por P t40} {él Q t41} {se Q t42} {alza N t43} {un D t44} {diamantino N t45} {faro G t46}
+{que Q t47} {al P t48} {mar N t49} {de P t50} {Dios R t51} {mira V t52} {profundamente A t53} {... O t54}
+{Fuerza R t55} {y C t56} {vigor N t57} {que C t58} {las D t59} {almas D t60} {enlaza N t61} {, O t62}
+{seda N t63} {de P t64} {luz N t65} {y C t66} {pasos N t67} {de P t68} {coloso N t69}
+{y C t70} {un D t71} {agitar N t72} {de P t73} {martillo N t74} {y C t75} {de P t76} {maza N t77}
+{y C t78} {un D t79} {respirar V t80} {de P t81} {leones N t82} {en P t83} {reposo N t84}
+{y C t85} {una D t86} {virtual G t87} {palpitación N t88} {de P t89} {raza N t90} {; O t91}
+{y C t92} {el D t93} {cielo N t94} {azul G t95} {para P t96} {Orlando R t97} {Furioso G t98} {... O t99}

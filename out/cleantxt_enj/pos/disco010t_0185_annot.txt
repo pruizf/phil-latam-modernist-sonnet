@@ -1,0 +1,14 @@
+{Soy V t1} {el D t2} {cantor N t3} {de P t4} {América R t5} {autóctono G t6} {y C t7} {salvaje G t8} {: O t9}
+{mi D t10} {lira N t11} {tiene V t12} {un D t13} {alma N t14} {, O t15} {mi D t16} {canto N t17} {un D t18} {ideal G t19}
+{Mi D t20} {verso N t21} {no A t22} {se Q t23} {mece V t24} {colgado G t25} {de P t26} {un D t27} {ramaje N t28}
+{con P t29} {un D t30} {vaivén N t31} {pausado G t32} {de P t33} {hamaca N t34} {tropical G t35}
+{Cuando C t36} {me Q t37} {siento V t38} {inca G t39} {, O t40} {le Q t41} {rindo V t42} {vasallaje N t43}
+{al P t44} {Sol R t45} {, O t46} {que Q t47} {me Q t48} {da V t49} {el D t50} {centro N t51} {de P t52} {su D t53} {poder N t54} {real G t55} {; O t56}
+{cuando C t57} {me Q t58} {siento V t59} {hispano G t60} {y C t61} {evoco G t62} {el D t63} {coloniaje N t64} {, O t65}
+{parecen V t66} {mis D t67} {estrofas G t68} {trompetas N t69} {de P t70} {cristal N t71} {. O t72}
+{Mi D t73} {fantasía N t74} {viene V t75} {de P t76} {un D t77} {abolengo N t78} {moro G t79} {; O t80}
+{los D t81} {Andes R t82} {son V t83} {de P t84} {plata N t85} {, O t86} {pero C t87} {León R t88} {de P t89} {oro N t90}
+{Y C t91} {las D t92} {dos D t93} {castas N t94} {fundo V t95} {con P t96} {épico G t97} {fragor N t98} {. O t99}
+{La D t100} {sangre N t101} {es V t102} {española G t103} {e C t104} {incaico G t105} {es V t106} {el D t107} {latido N t108} {; O t109}
+{y C t110} {de P t111} {no A t112} {ser V t113} {Poeta R t114} {, O t115} {quizá A t116} {yo Q t117} {hubiera V t118} {sido V t119}
+{un D t120} {blanco N t121} {aventurero G t122} {o C t123} {un D t124} {indio N t125} {emperador N t126} {. O t127}

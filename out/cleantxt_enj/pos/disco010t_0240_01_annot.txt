@@ -1,0 +1,14 @@
+{Sombra N t1} {profunda G t2} {. O t3} {El D t4} {salmo N t5} {de P t6} {mi D t7} {vida N t8}
+{se Q t9} {ahoga V t10} {en P t11} {el D t12} {silencio N t13} {de P t14} {la D t15} {muerte N t16} {; O t17}
+{y C t18} {como C t19} {un D t20} {buzo N t21} {, O t22} {en P t23} {la D t24} {futura G t25} {suerte N t26}
+{sumergo V t27} {la D t28} {cabeza N t29} {estremecida G t30} {... O t31}
+{Tal Q t32} {como C t33} {un D t34} {ave N t35} {con P t36} {el D t37} {ala N t38} {herida N t39} {, O t40}
+{yace V t41} {la D t42} {estrofa N t43} {de P t44} {mi D t45} {laúd N t46} {inerte G t47} {: O t48}
+{ojalá O t49} {que C t50} {otro D t51} {vate N t52} {la D t53} {despierte V t54} {, O t55}
+{porque C t56} {no A t57} {muerta G t58} {está V t59} {, O t60} {sino C t61} {dormida G t62} {... O t63}
+{Pulse R t64} {otro D t65} {vate N t66} {mi D t67} {laúd N t68} {de P t69} {acero N t70} {; O t71}
+{y C t72} {entonces A t73} {, O t74} {como C t75} {flechas N t76} {, O t77} {mis D t78} {canciones N t79} {, O t80}
+{rápidas G t81} {tomarán V t82} {rumbo N t83} {certero G t84} {; O t85}
+{y C t86} {cada D t87} {verso N t88} {que Q t89} {germine V t90} {y C t91} {se Q t92} {abra V t93}
+{será V t94} {el D t95} {Juicio R t96} {Final R t97} {de P t98} {los D t99} {mandones N t100}
+{y C t101} {la D t102} {Resurrección R t103} {de P t104} {la D t105} {Palabra R t106} {... O t107}

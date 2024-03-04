@@ -1,0 +1,14 @@
+{Ninfa R t1} {del P t2} {prado N t3} {, O t4} {que Q t5} {a P t6} {la D t7} {vega N t8} {sales G t9}
+{vertiendo V t10} {aromas N t11} {y C t12} {regando V t13} {flores N t14} {; O t15}
+{que C t16} {te Q t17} {meces V t18} {en P t19} {juncos G t20} {tembladores N t21}
+{a P t22} {la D t23} {orilla N t24} {de P t25} {plácidos N t26} {raudales G t27} {; O t28}
+{que C t29} {te Q t30} {bañas N t31} {en P t32} {líquidos N t33} {cristales N t34}
+{al P t35} {son N t36} {del P t37} {aire N t38} {que Q t39} {murmura V t40} {amores N t41} {, O t42}
+{respóndeme V t43} {: O t44} {¿ O t45} {has V t46} {probado V t47} {los D t48} {dulzores N t49}
+{de P t50} {la D t51} {miel N t52} {que Q t53} {se Q t54} {guarda V t55} {en P t56} {los D t57} {panales N t58} {? O t59}
+{Ninfa R t60} {del P t61} {prado N t62} {: O t63} {si C t64} {probaste V t65} {un D t66} {día N t67}
+{la D t68} {miel N t69} {de P t70} {los D t71} {panales N t72} {regalada G t73} {, O t74}
+{¿ O t75} {no A t76} {es V t77} {verdad N t78} {que C t79} {esa D t80} {miel N t81} {es V t82} {ambrosía N t83} {? O t84}
+{Pues C t85} {para P t86} {el D t87} {alma N t88} {ardiente G t89} {, O t90} {enamorada G t91} {, O t92}
+{hay V t93} {una D t94} {miel N t95} {más A t96} {dulce G t97} {todavía A t98} {, O t99}
+{y C t100} {es V t101} {el D t102} {sí Q t103} {de P t104} {los D t105} {labios N t106} {de P t107} {una D t108} {amada N t109} {. O t110}

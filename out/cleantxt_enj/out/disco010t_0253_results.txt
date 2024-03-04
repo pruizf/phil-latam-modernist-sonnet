@@ -1,0 +1,14 @@
+{Piedra R} {con P} {vida N} {, O} {que Q} {al P} {saltar V} {sin P} {tino N}	B	sirrem_noun_prep	pp06.1
+{del P} {negro N} {monte N} {por P} {el D} {seco G} {tajo N} {, O}	I	sirrem_noun_prep	pp06.1
+{vas V} {a P} {caer V} {en P} {el D} {oscuro G} {y C} {bajo P}	B	sirrem_pal-rel	pp15
+{charco N} {, O} {-- O} {espejo N} {de P} {todo D} {lo D} {mezquino N} {. O}	I	sirrem_pal-rel	pp15
+{¡ O} {Qué Q} {pequeño G} {y C} {qué D} {torpe G} {es V} {tu D} {destino N} {! O}	O		
+{¡ O} {qué Q} {torpe G} {y C} {qué D} {pequeño G} {es V} {tu D} {trabajo N} {! O}	O		
+{sólo A} {sirves G} {, O} {así A} {conio G} {estropajo N}	B	sirrem_noun_prep	pd02
+{para P} {limpiar V} {el D} {lodo N} {del P} {camino N} {... O}	I	sirrem_noun_prep	pd02
+{¡ O} {Oh O} {bufón N} {de P} {los D} {campos N} {! O} {si C} {te Q} {irritas N} {, O}	O		
+{-- O} {como C} {un D} {puño N} {apretado G} {-- O} {en P} {la D} {maleza N}	O		
+{muestras N} {al P} {cielo N} {tu D} {joroba N} {y C} {gritas N} {. O}	O		
+{Hundir V} {debieras N} {la D} {aplastada N} {frente A} {; O}	O		
+{que C} {, O} {así A} {chato N} {, O} {pareces N} {la D} {cabeza N}	B	sirrem_adj_noun	pp02
+{rebanada G} {de P} {golpe N} {a P} {una D} {serpiente N} {. O}	I	sirrem_adj_noun	pp02

@@ -1,0 +1,14 @@
+{Parto V} {yo Q} {este D} {soneto N} {para P} {decir V} {la D} {pena N}	O		
+{que C} {me Q} {trae V} {tu D} {muerte N} {de P} {cacique N} {sonoro G} {, O}	O		
+{cuya Q} {maza N} {de P} {roble V} {, O} {cuya Q} {flecha N} {de P} {oro N}	O		
+{una D} {voz N} {despertaron V} {que C} {en P} {mi D} {lira N} {resuena G}	O		
+{Parto R} {yo Q} {este D} {soneto N} {como C} {ante P} {sacra N} {pira G}	O		
+{una D} {nerviosa G} {rama N} {, O} {que Q} {, O} {en P} {la D} {doliente G} {escena N} {, O}	O		
+{se Q} {arquea V} {hasta P} {que C} {cruje V} {rompiéndose V} {de P} {ira N}	O		
+{Y C} {así A} {es V} {como C} {el D} {soneto N} {por P} {el D} {dolor N} {partido N}	O		
+{hace V} {pensar V} {que C} {, O} {en P} {este D} {momento N} {que Q} {me Q} {inspira V}	O		
+{pongo V} {bajo P} {la D} {tuya N} {mi D} {septicorde N} {lira G} {, O}	O		
+{para P} {que C} {los D} {dos D} {tengan V} {un D} {único G} {sonido N}	O		
+{Nuestras D} {dos D} {liras O} {juntan V} {sus D} {cánticos N} {diversos G}	O		
+{y C} {hacen V} {que C} {, O} {al P} {confundirse V} {, O} {pasen V} {como C} {un D} {rugido G}	O		
+{por P} {las D} {catorce D} {cuerdas N} {de P} {estos D} {catorce D} {versos N}	O		

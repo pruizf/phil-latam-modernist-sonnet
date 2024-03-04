@@ -1,0 +1,14 @@
+{A P} {veces N} {, O} {cuando C} {pienso V} {que C} {no A} {es V} {nada Q}	O		
+{la D} {grandeza N} {más A} {alta G} {de P} {la D} {vida N} {, O}	O		
+{rasgar V} {quiero V} {las D} {vendas N} {de P} {mi D} {herida N}	B	enlace_od_verb	ld02
+{y C} {bajo P} {el D} {firme G} {pie N} {quebrar V} {mi D} {espada N} {. O}	I	enlace_od_verb	ld02
+{Cuando C} {a P} {veces N} {, O} {después A} {de P} {la D} {jornada N} {, O}	O		
+{llego V} {a P} {ver V} {que C} {el D} {estímulo N} {se Q} {olvida V} {, O}	O		
+{admiro V} {el D} {audaz G} {paso N} {del P} {suicida N} {, O}	O		
+{conquistador N} {de P} {la D} {verdad N} {callada G} {... O}	O		
+{Veré R} {desde P} {hoy A} {, O} {por P} {eso Q} {, O} {indiferente G}	B	sirrem_adj_prep	pd02
+{al P} {héroe N} {que C} {su D} {diestra N} {hunde V} {en P} {la D} {brasa N}	I	sirrem_adj_prep	pd02
+{y C} {al P} {que Q} {defiende V} {con P} {su D} {diestra N} {un D} {puente N}	B	oracional	cp01
+{que Q} {ante P} {la D} {ley N} {que Q} {lo Q} {sojuzga V} {todo Q} {, O}	I	oracional	cp01
+{no A} {es V} {mérito N} {el D} {dejar V} {cuando C} {se Q} {pasa V}	B	enlace_od_verb	ld02
+{estampadas G} {las D} {huellas N} {en P} {el D} {lodo N} {. O}	I	enlace_od_verb	ld02

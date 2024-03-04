@@ -1,0 +1,14 @@
+{¡ O t1} {Oh O t2} {víctima N t3} {triste G t4} {de P t5} {estúpida G t6} {guerra N t7} {, O t8} {que Q t9} {yaces G t10} {dormida G t11} {! O t12}
+{¡ O t13} {oh O t14} {aldea N t15} {arruinada G t16} {que Q t17} {en P t18} {polvo N t19} {infecundo G t20} {descansas G t21} {la D t22} {frente N t23} {! O t24}
+{¿ O t25} {por P t26} {qué Q t27} {no A t28} {te Q t29} {empinas V t30} {; O t31} {y C t32} {rompes N t33} {, O t34} {con P t35} {soplos N t36} {de P t37} {espíritu N t38} {ardiente A t39} {, O t40}
+{la D t41} {paz N t42} {del P t43} {sepulcro N t44} {, O t45} {que Q t46} {bajo P t47} {la D t48} {losa G t49} {te Q t50} {tiene V t51} {oprimida N t52} {? O t53}
+{Los D t54} {viejos G t55} {campeones N t56} {con P t57} {mano N t58} {crispada G t59} {, O t60} {se Q t61} {tapan V t62} {la D t63} {herida N t64} {, O t65}
+{y C t66} {siguen V t67} {luchando V t68} {, O t69} {con P t70} {toda D t71} {la D t72} {furia N t73} {de P t74} {su D t75} {alma N t76} {valiente G t77} {: O t78}
+{preciso G t79} {es V t80} {¡ O t81} {oh O t82} {aldea N t83} {! O t84} {que C t85} {te Q t86} {alces V t87} {airada G t88} {también A t89} {de P t90} {repente N t91} {, O t92}
+{y C t93} {sigas N t94} {la D t95} {lucha N t96} {, O t97} {la D t98} {bárbara N t99} {lucha N t100} {de P t101} {toda D t102} {la D t103} {vida N t104} {... O t105}
+{¡ O t106} {Camina O t107} {! O t108} {Es V t109} {preciso G t110} {marchar V t111} {con P t112} {el D t113} {rumbo N t114} {que Q t115} {lleva V t116} {el D t117} {Progreso R t118} {: O t119}
+{preciso G t120} {es V t121} {que C t122} {, O t123} {a P t124} {impulsos N t125} {del P t126} {ansia N t127} {, O t128} {deslumbres N t129} {mañana A t130} {, O t131} {si C t132} {hoy A t133} {brillas G t134} {, O t135}
+{llevando V t136} {en P t137} {las D t138} {sienes N t139} {de P t140} {un D t141} {sol N t142} {sin P t143} {desmayos N t144} {prolífico G t145} {beso N t146} {. O t147}
+{¡ O t148} {Sacude V t149} {la D t150} {niebla N t151} {! O t152} {Ya A t153} {el D t154} {sol N t155} {en P t156} {tu D t157} {rostro N t158} {se Q t159} {empina V t160} {y C t161} {se Q t162} {agranda V t163} {; O t164}
+{y C t165} {allá A t166} {... O t167} {sobre P t168} {el D t169} {flanco N t170} {del P t171} {morro N t172} {, O t173} {en P t174} {las D t175} {tristes G t176} {y C t177} {abiertas G t178} {orillas N t179} {, O t180}
+{te Q t181} {gritan V t182} {las D t183} {olas N t184} {golpeando V t185} {las D t186} {peñas N t187} {: O t188} {-- O t189} {¡ O t190} {Levántate R t191} {y C t192} {anda V t193} {! O t194} {... O t195}

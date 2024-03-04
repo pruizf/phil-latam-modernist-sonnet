@@ -1,0 +1,14 @@
+{Añoro R} {yo Q} {aquel D} {tiempo N} {del P} {miriñaque N} {inflado G} {, O}	O		
+{de P} {los D} {bucles N} {en P} {torno N} {de P} {la D} {ovalada G} {frente A} {, O}	O		
+{de P} {los D} {largos G} {zarcillos N} {de P} {plata N} {reluciente A}	O		
+{y C} {del P} {impertinente G} {que Q} {hoy A} {ha V} {resucitado V} {. O}	O		
+{En P} {un D} {daguerrotipo N} {, O} {que Q} {un D} {fiel N} {enamorado G}	B	sirrem_adj_noun	pp01
+{guarda N} {, O} {he V} {visto V} {una D} {dama N} {de P} {aquel D} {tiempo N} {; O} {y C} {mi D} {mente N}	IB	sirrem_adj_noun;enlace_subj_verb	pp01;ld01
+{se Q} {ha V} {sentido V} {confusa G} {, O} {porque C} {en P} {nuestro D} {presente N}	I	enlace_subj_verb	ld01
+{ya A} {no A} {hay V} {aquella D} {gracia N} {que Q} {hubo V} {en P} {nuestro D} {pasado G}	O		
+{¡ O} {Oh O} {tiempo N} {aquel D} {de P} {gentes N} {que Q} {, O} {al P} {mirarlas V} {de P} {lejos A} {, O}	O		
+{aparecen V} {rodeadas G} {de P} {una D} {luz N} {misteriosa G} {, O}	O		
+{cual Q} {si C} {las D} {reflejasen V} {desconchados G} {espejos N} {! O}	O		
+{Tibio D} {rincón N} {de P} {encanto N} {donde Q} {el D} {amor N} {chispea V} {, O}	O		
+{mientras C} {que C} {en P} {el D} {ambiente N} {perfumado G} {de P} {rosa N} {, O}	O		
+{flota V} {el D} {rumor N} {de P} {un D} {ósculo N} {entre P} {una D} {melopea G} {. O}	O		

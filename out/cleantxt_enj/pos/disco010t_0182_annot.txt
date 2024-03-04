@@ -1,0 +1,14 @@
+{Entre P t1} {las D t2} {manos N t3} {de P t4} {mi D t5} {madre N t6} {anciana G t7}
+{la D t8} {cabellera N t9} {de P t10} {su D t11} {nieto N t12} {brilla N t13} {, O t14}
+{y C t15} {es V t16} {puñado N t17} {de P t18} {trigo N t19} {, O t20} {áurea N t21} {gavilla G t22} {, O t23}
+{oro N t24} {de P t25} {sol N t26} {robado G t27} {a P t28} {la D t29} {mañana N t30} {. O t31}
+{Luce V t32} {mi D t33} {madre N t34} {en P t35} {tanto A t36} {- O t37} {espuma N t38} {vana G t39}
+{que Q t40} {la D t41} {ola N t42} {del P t43} {tiempo N t44} {echó V t45} {a P t46} {la D t47} {orilla N t48} {- O t49}
+{a P t50} {modo N t51} {de P t52} {una D t53} {hostia N t54} {sin P t55} {mancilla N t56} {, O t57}
+{su D t58} {relumbrante G t59} {cabellera N t60} {cana G t61}
+{Grupo R t62} {de P t63} {plata N t64} {y C t65} {oro N t66} {que Q t67} {en P t68} {derroches N t69}
+{cubren V t70} {mi D t71} {corazón N t72} {de P t73} {regocijo N t74}
+{No A t75} {importa V t76} {nada Q t77} {que C t78} {el D t79} {rencor N t80} {me Q t81} {ladre N t82} {, O t83}
+{porque C t84} {para P t85} {mis D t86} {días N t87} {y C t88} {mis D t89} {noches N t90} {, O t91}
+{tengo V t92} {el D t93} {sol N t94} {en P t95} {los D t96} {bucles N t97} {de P t98} {mi D t99} {hijo N t100}
+{y C t101} {la D t102} {luna N t103} {en P t104} {las D t105} {canas N t106} {de P t107} {mi D t108} {madre N t109} {. O t110}

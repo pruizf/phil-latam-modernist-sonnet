@@ -1,0 +1,14 @@
+{No A t1} {es V t2} {el D t3} {corcel N t4} {, O t5} {que Q t6} {en P t7} {el D t8} {feral G t9} {combate N t10}
+{salpicándose V t11} {va V t12} {de P t13} {espuma N t14} {blanca G t15} {; O t16}
+{y C t17} {que C t18} {en P t19} {salto N t20} {veloz G t21} {se Q t22} {desbarranca V t23}
+{al P t24} {empuje N t25} {viril G t26} {del P t27} {acicate N t28} {. O t29}
+{Es V t30} {el D t31} {que Q t32} {trabajando V t33} {no A t34} {se Q t35} {abate V t36} {; O t37}
+{que C t38} {a P t39} {la D t40} {fecunda G t41} {Ceres R t42} {lleva V t43} {al P t44} {anca N t45} {, O t46}
+{y C t47} {que Q t48} {entre P t49} {el D t50} {polvo N t51} {que Q t52} {trotando V t53} {arranca A t54} {, O t55}
+{remueve V t56} {el D t57} {grano N t58} {que Q t59} {en P t60} {el D t61} {surco N t62} {late G t63} {. O t64}
+{Él Q t65} {no A t66} {ha V t67} {sentido V t68} {por P t69} {los D t70} {rojos N t71} {lampos G t72}
+{impresionada G t73} {la D t74} {febril G t75} {pupila N t76} {; O t77}
+{él Q t78} {vela N t79} {por P t80} {la D t81} {vida N t82} {de P t83} {los D t84} {campos N t85} {. O t86}
+{Y C t87} {como C t88} {lejos A t89} {de P t90} {la D t91} {lucha N t92} {acerba V t93}
+{es V t94} {enemigo G t95} {del P t96} {corcel N t97} {de P t98} {Atila R t99} {, O t100}
+{donde Q t101} {pone V t102} {los D t103} {pies N t104} {... O t105} {¡ O t106} {brota V t107} {la D t108} {hierba N t109} {! O t110}

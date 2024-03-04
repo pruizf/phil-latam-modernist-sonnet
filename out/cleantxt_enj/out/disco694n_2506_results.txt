@@ -1,0 +1,14 @@
+{Del P} {sacerdote N} {el D} {canto N} {funerario G} {, O}	O		
+{los D} {acentos N} {del P} {místico N} {salterio G} {, O}	O		
+{y C} {las D} {cruces N} {del P} {triste G} {cementerio N}	O		
+{y C} {el D} {humo N} {que Q} {despide V} {el D} {incensario N} {; O}	O		
+{y C} {la D} {esquila N} {del P} {alto G} {campanario N}	O		
+{y C} {la D} {oración N} {envuelta G} {en P} {el D} {misterio N} {, O}	O		
+{la D} {quietud N} {del P} {oculto G} {monasterio N}	O		
+{y C} {la D} {lámpara N} {que Q} {arde V} {ante P} {el D} {santuario G} {; O}	O		
+{todo D} {eso Q} {da V} {consuelo N} {, O} {luz N} {y C} {vida N} {: O}	O		
+{las D} {esperanzas N} {del P} {creyente N} {escuda V} {, O}	O		
+{y C} {levanta V} {a P} {la D} {fe N} {desfallecida G} {, O}	O		
+{con P} {elocuencia N} {que Q} {conmueve V} {, O} {muda G} {; O}	O		
+{y C} {el D} {bálsamo N} {es V} {del P} {alma N} {que Q} {está V} {herida N}	O		
+{por P} {el D} {hierro N} {candente G} {de P} {la D} {duda N} {. O}	O		

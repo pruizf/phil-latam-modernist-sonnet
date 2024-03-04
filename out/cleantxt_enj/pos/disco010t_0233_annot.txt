@@ -1,0 +1,14 @@
+{Sin P t1} {poderlo V t2} {evitar V t3} {, O t4} {tal D t5} {vez N t6} {me Q t7} {quieres V t8} {; O t9}
+{y C t10} {mis D t11} {pláticas N t12} {dulces G t13} {y C t14} {armoniosas G t15}
+{te Q t16} {embriagan V t17} {con P t18} {las D t19} {mieles N t20} {de P t21} {sus D t22} {rosas N t23} {; O t24}
+{ve V t25} {lo D t26} {que Q t27} {fuiste V t28} {ayer A t29} {, O t30} {ve V t31} {lo D t32} {que Q t33} {hoy A t34} {eres V t35} {! O t36}
+{No A t37} {quebrantes G t38} {la D t39} {ley N t40} {de P t41} {tus D t42} {deberes N t43} {: O t44}
+{dime V t45} {sólo A t46} {palabras N t47} {amistosas G t48} {; O t49}
+{que C t50} {me Q t51} {conformo V t52} {. O t53} {El D t54} {trato N t55} {de P t56} {las D t57} {diosas G t58}
+{vale V t59} {más A t60} {que C t61} {el D t62} {amor N t63} {de P t64} {las D t65} {mujeres N t66} {... O t67}
+{Gozome R t68} {sólo A t69} {en P t70} {contemplar V t71} {tu D t72} {huella N t73} {, O t74}
+{como C t75} {recuerdo N t76} {de P t77} {mi D t78} {amor N t79} {profundo G t80} {, O t81}
+{borrándose V t82} {en P t83} {la D t84} {arena N t85} {del P t86} {desierto N t87} {... O t88}
+{Tal Q t89} {soñamos V t90} {mirar V t91} {lejana G t92} {estrella N t93} {, O t94}
+{por P t95} {el D t96} {rayo N t97} {de P t98} {luz N t99} {, O t100} {que C t101} {a P t102} {nuestro D t103} {mundo N t104}
+{llega V t105} {quizás A t106} {cuando C t107} {la D t108} {estrella N t109} {ha V t110} {muerto V t111} {. O t112}

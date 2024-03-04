@@ -1,0 +1,14 @@
+{No A} {vayas V} {al P} {altar N} {, O} {Santo R} {Tirano R} {, O}	O		
+{que Q} {profanas N} {de P} {Dios R} {la D} {eterna G} {idea N}	O		
+{aún A} {la D} {sangre N} {caliente G} {roja G} {humea N}	B	sirrem_noun_prep	pd02
+{en P} {tu D} {estola Q} {, O} {en P} {tu D} {cáliz N} {, O} {en P} {tu D} {mano N} {. O}	I	sirrem_noun_prep	pd02
+{La D} {sacra G} {luz N} {del P} {pensamiento N} {humano G}	B	sirrem_adj_adv	pp10
+{ahora A} {ante P} {tu D} {frente A} {centellea V} {: O}	I	sirrem_adj_adv	pp10
+{proclamas N} {tu D} {poder V} {¡ O} {maldito G} {sea V} {! O}	O		
+{pues C} {es V} {tu D} {bendición N} {augurio G} {insano G} {. O}	O		
+{La D} {basílica V} {cruje N} {en P} {conmociones N}	O		
+{y C} {se Q} {enciende V} {la D} {luz N} {de P} {los D} {ciriales N} {; O}	O		
+{tu D} {cantas N} {los D} {oremus N} {y C} {oraciones N}	O		
+{y C} {te Q} {besan V} {el D} {pie N} {los D} {sacristanes N}	O		
+{¡ O} {Oh O} {! O} {No A} {ensucies G} {al P} {Cristo R} {entre P} {tu D} {cieno N}	B	enlace_subj_verb	ld01
+{No A} {escupais V} {en P} {el D} {rostro N} {al P} {Nazareno R} {! O} {... O}	I	enlace_subj_verb	ld01

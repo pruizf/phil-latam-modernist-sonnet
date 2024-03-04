@@ -1,0 +1,14 @@
+{Renunciamiento R t1} {. O t2} {Anchura N t3} {para P t4} {nuestras D t5} {miradas N t6}
+{y C t7} {oración N t8} {para P t9} {el D t10} {duelo N t11} {de P t12} {nuestros D t13} {corazones N t14}
+{Es V t15} {la D t16} {hora N t17} {propicia G t18} {de P t19} {las D t20} {meditaciones N t21} {, O t22}
+{de P t23} {los D t24} {poetas N t25} {tristes G t26} {y C t27} {de P t28} {las D t29} {bienamadas N t30}
+{En P t31} {los D t32} {cañaverales N t33} {se Q t34} {oyen V t35} {chocar V t36} {espadas N t37} {; O t38}
+{en P t39} {las D t40} {nubes N t41} {se Q t42} {miran V t43} {galopar V t44} {escuadrones N t45} {; O t46}
+{y C t47} {las Q t48} {rubias G t49} {palmeras N t50} {fingen V t51} {crin N t52} {de P t53} {leones N t54}
+{que Q t55} {sacuden V t56} {al P t57} {aire N t58} {sus D t59} {cabezas N t60} {colgadas G t61}
+{¡ O t62} {Oh O t63} {visión N t64} {opresora G t65} {de P t66} {la D t67} {muerte N t68} {del P t69} {día N t70}
+{sobre P t71} {el D t72} {campo N t73} {! O t74} {¡ O t75} {Oh O t76} {tristeza N t77} {que Q t78} {difunde Q t79} {lo Q t80} {verde G t81}
+{dilatándose V t82} {bajo P t83} {esta D t84} {parada N t85} {agonía N t86} {! O t87}
+{La D t88} {añoranza N t89} {imperiosa G t90} {La D t91} {esperanza N t92} {tardía G t93}
+{La D t94} {emoción N t95} {que Q t96} {se Q t97} {agranda V t98} {La D t99} {extensión N t100} {que Q t101} {se Q t102} {pierde V t103}
+{Y C t104} {un D t105} {murmullo N t106} {que Q t107} {empieza V t108} {: O t109} {- O t110} {Dios R t111} {te Q t112} {salve V t113} {, O t114} {María R t115}

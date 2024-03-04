@@ -1,0 +1,14 @@
+{Era V t1} {una D t2} {reina N t3} {hispana G t4} {No A t5} {sé V t6} {ni C t7} {quien Q t8} {sería V t9} {, O t10}
+{ni C t11} {cual Q t12} {su D t13} {egregio N t14} {nombre N t15} {, O t16} {ni C t17} {como C t18} {su D t19} {linaje N t20} {: O t21}
+{sé V t22} {apenas A t23} {la D t24} {elegancia N t25} {con P t26} {que Q t27} {de P t28} {su D t29} {carruaje N t30}
+{saltó V t31} {, O t32} {al P t33} {oír V t34} {a P t35} {un D t36} {niño N t37} {que Q t38} {en P t39} {un D t40} {rincón N t41} {gemía V t42} {. O t43}
+{Y C t44} {dijo V t45} {: O t46} {- O t47} {¿ O t48} {Por P t49} {qué Q t50} {llora V t51} {? O t52} {- O t53} {La D t54} {tarde N t55} {estaba V t56} {fría G t57} {; O t58}
+{y C t59} {el D t60} {niño N t61} {estaba V t62} {hambriento G t63} {La D t64} {reina N t65} {abrióse V t66} {el D t67} {traje N t68} {; O t69}
+{y C t70} {le Q t71} {dio V t72} {el D t73} {seno N t74} {blanco G t75} {por P t76} {entre P t77} {el D t78} {blanco N t79} {encaje N t80} {, O t81}
+{como C t82} {lo Q t83} {hubiese V t84} {hecho V t85} {Santa R t86} {Isabel R t87} {de P t88} {Hungría R t89} {. O t90}
+{Es V t91} {gloria N t92} {de P t93} {la D t94} {estirpe N t95} {la D t96} {que Q t97} {le Q t98} {dio V t99} {su D t100} {pecho N t101}
+{a P t102} {aquel D t103} {hambriento G t104} {niño N t105} {que Q t106} {acaso A t107} {sentiría V t108}
+{más A t109} {tarde A t110} {un D t111} {misterioso G t112} {dinástico N t113} {derecho G t114} {; O t115}
+{y C t116} {es V t117} {gloria N t118} {de P t119} {la D t120} {estirpe N t121} {, O t122} {porque C t123} {es V t124} {amor N t125} {fecundo G t126}
+{con P t127} {que Q t128} {la D t129} {reina N t130} {al P t131} {niño N t132} {le Q t133} {dio V t134} {su D t135} {seno N t136} {un D t137} {día N t138} {, O t139}
+{¡ O t140} {fue V t141} {el D t142} {mismo Q t143} {con P t144} {que C t145} {España R t146} {le Q t147} {dio V t148} {su D t149} {seno N t150} {a P t151} {un D t152} {mundo N t153} {! O t154}

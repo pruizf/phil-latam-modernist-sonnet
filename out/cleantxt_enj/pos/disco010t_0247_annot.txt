@@ -1,0 +1,14 @@
+{El D t1} {despeinado G t2} {copo N t3} {juguetea V t4}
+{al P t5} {golpe N t6} {de P t7} {ala N t8} {del P t9} {cansado G t10} {viento N t11} {, O t12}
+{que Q t13} {retiembla V t14} {sin P t15} {brío N t16} {y C t17} {sin P t18} {aliento N t19} {, O t20}
+{sobre P t21} {la D t22} {espuma N t23} {que Q t24} {a P t25} {su D t26} {soplo N t27} {ondea V t28} {. O t29}
+{El D t30} {pato G t31} {nadador N t32} {se Q t33} {balancea V t34} {, O t35}
+{al P t36} {resbalar V t37} {con P t38} {tardo N t39} {movimiento N t40} {, O t41}
+{por P t42} {el D t43} {azul N t44} {cristal N t45} {, O t46} {que Q t47} {un D t48} {firmamento N t49}
+{cuajado G t50} {finge N t51} {donde Q t52} {el D t53} {sol N t54} {chispea G t55} {. O t56}
+{El D t57} {blanco N t58} {cisne V t59} {, O t60} {incólume G t61} {y C t62} {tranquilo G t63} {, O t64}
+{arqueando V t65} {el D t66} {cuello N t67} {, O t68} {al P t69} {desgarrar V t70} {la D t71} {espuma N t72} {, O t73}
+{bate V t74} {del P t75} {ala N t76} {el D t77} {recortado V t78} {filo N t79} {. O t80}
+{Y C t81} {doblegado G t82} {, O t83} {con P t84} {las D t85} {fibras N t86} {flojas G t87}
+{por P t88} {el D t89} {dolor N t90} {, O t91} {un D t92} {sauce N t93} {que Q t94} {se Q t95} {abruma V t96}
+{llora V t97} {en P t98} {el D t99} {agua N t100} {sus D t101} {marchitas N t102} {hojas N t103} {... O t104}

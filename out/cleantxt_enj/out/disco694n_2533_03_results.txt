@@ -1,0 +1,14 @@
+{La D} {dulce G} {y C} {real G} {paloma N} {subió V} {a P} {la D} {guillotina N} {: O}	O		
+{es V} {cabellera N} {cana G} {la D} {que Q} {opulenta V} {fue V} {; O}	O		
+{el D} {cuello N} {de P} {azucena N} {, O} {feroz G} {verdugo N} {inclina G}	B	sirrem_adj_adv	pp10
+{delante A} {el D} {pueblo N} {todo Q} {, O} {que C} {el D} {sacrificio N} {ve V} {. O}	I	sirrem_adj_adv	pp10
+{¡ O} {Oh O} {María R} {Antonieta R} {! O} {¡ O} {Cuán Q} {otra D} {tu D} {divina G}	B	sirrem_adj_noun	pp02
+{figura N} {en P} {los D} {graciosos G} {compases N} {del P} {minué N} {, O}	I	sirrem_adj_noun	pp02
+{cuando C} {eras V} {una D} {diosa G} {de P} {mano N} {alabastrina G} {, O}	O		
+{de P} {labios N} {encendidos G} {y C} {de P} {ligero G} {pie N} {! O}	O		
+{El D} {misterioso G} {sino C} {la D} {majestad N} {humilla G} {, O}	O		
+{¡ O} {oh O} {Clovis R} {, O} {oh N} {gran G} {Carlos R} {, O} {oh V} {huesos N} {de P} {San R} {Luis R} {! O}	O		
+{La D} {tempestad N} {del P} {mundo N} {brotó V} {de P} {la D} {Bastilla R} {; O}	O		
+{como C} {un D} {tropel N} {de P} {truenos N} {se Q} {despertó V} {en P} {París R} {. O}	O		
+{Dios R} {deja V} {que C} {ese D} {cuello N} {lo Q} {siege V} {la D} {cuchilla N}	O		
+{y C} {que C} {callosas G} {manos N} {ajen V} {la D} {flor N} {de P} {lis N} {. O}	O		

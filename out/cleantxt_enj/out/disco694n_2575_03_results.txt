@@ -1,0 +1,14 @@
+{En P} {tanto D} {pace N} {estrellas N} {el D} {Pegaso R} {divino G} {, O}	O		
+{y C} {vela N} {tu D} {hipogrifo N} {, O} {Velázquez R} {, O} {la D} {Fortuna R} {, O}	O		
+{en P} {los D} {celestes N} {parques G} {el D} {Cisne R} {gongorino G}	B	enlace_subj_verb	ld01
+{deshoja V} {sus D} {sutiles G} {margaritas N} {la D} {Luna R} {. O}	I	enlace_subj_verb	ld01
+{Tu D} {castillo N} {, O} {Velázquez R} {, O} {se Q} {eleva V} {en P} {el D} {camino N}	B	sirrem_noun_prep	pp06.1
+{del P} {Arte R} {como C} {torre N} {que Q} {de P} {águilas N} {es V} {cuna N} {, O}	I	sirrem_noun_prep	pp06.1
+{y C} {tu D} {castillo N} {, O} {Góngora R} {, O} {se Q} {alza N} {al P} {azul N} {cual Q} {una D}	B	sirrem_pal-rel	pp16
+{jaula N} {de P} {ruiseñores N} {labrada G} {en P} {oro N} {fino G} {. O}	I	sirrem_pal-rel	pp16
+{Gloriosa G} {la D} {península N} {que Q} {abriga V} {tal D} {colonia N} {. O}	O		
+{¡ O} {Aquí A} {bronce N} {corintio G} {y C} {allá A} {mármol N} {de P} {Jonia R} {! O}	O		
+{Las D} {rosas N} {a P} {Velázquez R} {, O} {y C} {a P} {Góngora R} {claveles N} {. O}	O		
+{De P} {ruiseñores N} {y C} {águilas N} {se Q} {pueblan V} {las D} {encinas N} {, O}	O		
+{y C} {mientras C} {pasa V} {Angélica R} {sonriendo V} {a P} {las D} {Meninas R} {, O}	O		
+{salen V} {las D} {nueve D} {Musas R} {de P} {un D} {bosque N} {de P} {laureles N} {. O}	O		

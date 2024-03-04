@@ -1,0 +1,14 @@
+{Don R t1} {Miguel R t2} {de P t3} {Cervantes R t4} {me Q t5} {prestará V t6} {su D t7} {pluma N t8} {, O t9}
+{para P t10} {escribir V t11} {mi D t12} {nombre N t13} {debajo A t14} {del P t15} {proceso N t16}
+{Quien Q t17} {me Q t18} {enseñó V t19} {su D t20} {idioma N t21} {, O t22} {me Q t23} {enseñará V t24} {a P t25} {estar V t26} {preso G t27} {: O t28}
+{también A t29} {quiso V t30} {abrumarlo V t31} {la D t32} {pena N t33} {que Q t34} {hoy A t35} {me Q t36} {abruma V t37} {. O t38}
+{Insinuará V t39} {él Q t40} {razones N t41} {de P t42} {sutileza N t43} {suma G t44}
+{y C t45} {aguzará V t46} {ironías N t47} {contra P t48} {el D t49} {destino N t50} {avieso G t51} {; O t52}
+{así A t53} {, O t54} {sobre P t55} {las D t56} {olas N t57} {de P t58} {mi D t59} {iracundo G t60} {acceso N t61} {, O t62}
+{se Q t63} {mecerá V t64} {su D t65} {risa N t66} {como C t67} {una D t68} {flor N t69} {de P t70} {espuma N t71} {. O t72}
+{Maestro N t73} {de P t74} {los D t75} {siglos N t76} {, O t77} {me Q t78} {ayudará V t79} {a P t80} {ser V t81} {fuerte G t82} {: O t83}
+{el D t84} {día N t85} {que Q t86} {los D t87} {hombres N t88} {quieran V t89} {pesar N t90} {mi D t91} {suerte N t92} {, O t93}
+{vendrá V t94} {a P t95} {mí Q t96} {esa D t97} {figura N t98} {caballerosa G t99} {y C t100} {alta G t101} {; O t102}
+{y C t103} {cuando C t104} {el D t105} {fiel N t106} {severo G t107} {del P t108} {tribunal N t109} {se Q t110} {exceda V t111} {, O t112}
+{me Q t113} {tenderá V t114} {Cervantes R t115} {la D t116} {mano N t117} {que Q t118} {le Q t119} {queda V t120}
+{o C t121} {arrojará V t122} {a P t123} {un D t124} {platillo N t125} {la D t126} {mano N t127} {que Q t128} {le Q t129} {falta V t130} {. O t131}

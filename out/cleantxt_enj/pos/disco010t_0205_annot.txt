@@ -1,0 +1,14 @@
+{Brinda V t1} {al P t2} {pintor N t3} {el D t4} {índigo N t5} {cambiantes N t6}
+{con P t7} {que Q t8} {luce V t9} {en P t10} {las D t11} {sedas N t12} {y C t13} {en P t14} {las D t15} {flores N t16} {; O t17}
+{prodigando V t18} {el D t19} {azul N t20} {con P t21} {los D t22} {vigores N t23}
+{de P t24} {ocasos D t25} {regios N t26} {como C t27} {más A t28} {brillantes G t29}
+{Ya A t30} {es V t31} {el D t32} {añil N t33} {zafiro G t34} {entre P t35} {diamantes N t36} {, O t37}
+{ya A t38} {lazo N t39} {para P t40} {atar V t41} {cartas N t42} {de P t43} {amores N t44} {, O t45}
+{ya A t46} {vestido G t47} {de P t48} {tul N t49} {que Q t50} {entre P t51} {fulgores N t52}
+{giran V t53} {en P t54} {una D t55} {danza N t56} {de P t57} {bacantes N t58}
+{Es V t59} {en P t60} {el D t61} {lago N t62} {como C t63} {un D t64} {brillo N t65} {apenas A t66} {: O t67}
+{corre V t68} {bajo P t69} {la D t70} {piel N t71} {de P t72} {terciopelo N t73}
+{y C t74} {se Q t75} {trasluce V t76} {en P t77} {perfiladas G t78} {venas N t79} {. O t80}
+{Pero C t81} {nunca A t82} {es V t83} {más A t84} {noble G t85} {en P t86} {sus D t87} {antojos N t88}
+{que Q t89} {cuando C t90} {, O t91} {en P t92} {un D t93} {pincel N t94} {, O t95} {recoge V t96} {el D t97} {cielo N t98} {, O t99}
+{¡ O t100} {y C t101} {en P t102} {dos Q t103} {lo Q t104} {parte N t105} {para P t106} {hacer V t107} {dos D t108} {ojos N t109} {! O t110}

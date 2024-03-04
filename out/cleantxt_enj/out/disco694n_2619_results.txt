@@ -1,0 +1,14 @@
+{Peregrino R} {que Q} {vas V} {buscando V} {en P} {vano G}	B	enlace_od_verb	ld02
+{un D} {camino N} {mejor G} {que Q} {tu D} {camino N} {, O}	I	enlace_od_verb	ld02
+{¿ O} {cómo A} {quieres V} {que C} {yo Q} {te Q} {de P} {la D} {mano N} {, O}	O		
+{si C} {mi D} {signo N} {es V} {tu D} {signo N} {, O} {Peregrino R} {? O}	O		
+{No A} {llegarás Q} {jamás A} {a P} {tu D} {destino N} {; O}	O		
+{llevas V} {la D} {muerte N} {en P} {ti Q} {como C} {el D} {gusano N}	B	oracional	cp01
+{que Q} {te Q} {roe Q} {lo D} {que Q} {tienes V} {de P} {humano N} {... O} {, O}	I	oracional	cp01
+{¡ O} {lo D} {que Q} {tienes V} {de P} {humano N} {y C} {de P} {divino G} {! O}	O		
+{¡ O} {Sigue V} {tranquilamente A} {! O} {¡ O} {oh N} {caminante G} {! O} {, O}	O		
+{todavía A} {te Q} {queda V} {muy A} {distante G}	B	enlace_subj_verb	ld01
+{ese D} {país N} {incógnito G} {que Q} {sueñas G} {... O}	I	enlace_subj_verb	ld01
+{. O} {. O} {. O} {Y C} {soñar V} {es V} {un D} {mal G} {. O} {Pasa R} {y C} {olvida V} {, O}	O		
+{pues C} {si C} {te Q} {empefias N} {en P} {soñar V} {, O} {te Q} {empeñas V}	O		
+{en P} {aventar V} {la D} {llama N} {de P} {tu D} {vida N} {. O}	O		

@@ -1,0 +1,14 @@
+{Como C} {en P} {la D} {misma D} {iglesia N} {vive V} {el D} {cura N} {, O}	O		
+{al P} {primer G} {resplandor N} {de P} {la D} {mañana N}	O		
+{lo Q} {visitan V} {en P} {turba N} {soberana G}	B	sirrem_adj_noun	pp01
+{niños N} {llenos G} {de P} {gracia N} {y C} {de P} {hermosura N} {... O}	I	sirrem_adj_noun	pp01
+{Él Q} {los D} {deja V} {jugar V} {a P} {su D} {ventura N} {; O}	O		
+{y C} {al P} {par N} {que C} {uno Q} {sacude V} {la D} {campana N} {, O}	O		
+{otro D} {hecho N} {fraile G} {en P} {levantar V} {se Q} {afana V}	B	enlace_od_verb	ld02
+{el D} {cáliz N} {sacro G} {a P} {la D} {divina G} {altura N} {. O}	I	enlace_od_verb	ld02
+{Si C} {el D} {cura N} {al P} {cielo N} {la D} {mirada N} {tiende V} {, O}	O		
+{todos D} {los D} {niños N} {en P} {alegre G} {coro N}	B	enlace_subj_verb	ld01
+{ante P} {el D} {altar N} {de P} {Dios R} {rezan V} {y C} {cantan V} {. O}	I	enlace_subj_verb	ld01
+{Diga V} {el D} {cristiano N} {si C} {el D} {señor N} {desciende V}	O		
+{cuando C} {el D} {cura N} {levanta V} {el D} {cáliz N} {de P} {oro N} {, O}	O		
+{o C} {cuando C} {aquellos D} {niños N} {lo Q} {levantan V} {... O}	O		

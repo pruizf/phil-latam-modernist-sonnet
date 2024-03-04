@@ -1,0 +1,14 @@
+{¡ O} {Oh O} {Dios R} {! O} {Jamás A} {yo Q} {pienso V}	B	sirrem_verb_supl	pp23
+{en P} {este D} {vivir V} {asesino G} {, O}	I	sirrem_verb_supl	pp23
+{hecho N} {con P} {la D} {mujer N} {y C} {el D} {vino N}	O		
+{y C} {con P} {este D} {Dios R} {tan A} {inmenso G} {. O}	O		
+{Este D} {camino N} {tan A} {extenso G} {, O}	O		
+{que C} {ni C} {siquiera A} {lo Q} {adivino V} {; O}	O		
+{esta D} {viña N} {aquí A} {, O} {y C} {este D} {pino N}	B	sirrem_noun_prep	pd02
+{en P} {la D} {montaña N} {que Q} {yo Q} {pienso V} {: O}	I	sirrem_noun_prep	pd02
+{y C} {esta D} {montaña N} {de P} {cristal N} {, O}	O		
+{y C} {esa D} {reina N} {del P} {corazón N} {, O}	O		
+{y C} {esa D} {princesa N} {del P} {coral G} {, O}	O		
+{y C} {esa D} {novia N} {de P} {la D} {ilusión N} {, O}	O		
+{si C} {son V} {del P} {bien N} {o C} {son V} {del P} {mal G} {... O}	O		
+{Y C} {después A} {de P} {todo D} {... O} {, O} {¡ O} {si C} {son V} {! O} {... O}	O		

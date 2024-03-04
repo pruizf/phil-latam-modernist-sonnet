@@ -1,0 +1,14 @@
+{Debe V} {ser V} {un D} {antiguo G} {monje N} {que Q} {en P} {el D} {moderno G}	B	sirrem_adj_noun	pp02
+{siglo N} {del P} {aeroplano N} {y C} {la D} {electricidad N} {, O}	I	sirrem_adj_noun	pp02
+{descifra V} {áureos N} {problemas N} {con P} {un D} {rigor N} {eterno G}	B	sirrem_noun_prep	pp05
+{de P} {fina G} {contextura N} {y C} {voluptuosidad N} {. O}	I	sirrem_noun_prep	pp05
+{Evoca R} {a P} {Claudia R} {Frollo R} {, O} {y C} {vive V} {en P} {sempiterno N}	B	sirrem_adj_noun	pp02
+{sigilo G} {sobre P} {un D} {viejo G} {libro N} {de P} {cristiandad N} {, O}	I	sirrem_adj_noun	pp02
+{y C} {copia N} {garabatos N} {al P} {margen N} {de P} {un D} {infierno N}	B	sirrem_noun_prep	pp06.1
+{de P} {lascivia N} {, O} {que Q} {tiene V} {en P} {su D} {alforja N} {de P} {Abad R} {. O}	I	sirrem_noun_prep	pp06.1
+{Juzgo R} {, O} {que Q} {en P} {el D} {lejano G} {tiempo N} {se Q} {oirá V} {este D} {irónico G}	B	sirrem_adj_noun	pp02
+{cantor N} {, O} {que Q} {supo V} {huirle V} {al P} {clavicordio N} {afónico G}	IB	sirrem_adj_noun;sirrem_noun_prep	pp02;pp05
+{de P} {las D} {majaderías N} {del P} {frívolo N} {Stambul R} {; O}	I	sirrem_noun_prep	pp05
+{pasarán V} {sus D} {canciones N} {como C} {un D} {rumor N} {oceánico G}	O		
+{ante P} {los D} {ojos N} {agrios G} {donde Q} {hubo V} {puesto G} {pánico N}	O		
+{el D} {aletear N} {sonoro G} {de P} {su D} {bandera N} {azul G} {. O}	O		

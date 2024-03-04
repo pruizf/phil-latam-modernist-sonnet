@@ -1,0 +1,14 @@
+{Violines N t1} {de P t2} {los D t3} {ángeles N t4} {divinos G t5} {, O t6}
+{sones N t7} {de P t8} {las D t9} {sagradas G t10} {catedrales N t11} {, O t12}
+{incensarios N t13} {en P t14} {que Q t15} {arden V t16} {nuestros D t17} {males N t18} {, O t19}
+{sacrificios N t20} {inmortales G t21} {de P t22} {hostias N t23} {y C t24} {vinos N t25} {; O t26}
+{túnica G t27} {de P t28} {los D t29} {más A t30} {cándidos G t31} {linos N t32}
+{para P t33} {cubrir V t34} {a P t35} {niños N t36} {virginales G t37} {; O t38}
+{cáliz N t39} {de P t40} {oro N t41} {, O t42} {mágicos G t43} {cristales N t44} {, O t45}
+{coros N t46} {llenos G t47} {de P t48} {rezos N t49} {y C t50} {de P t51} {trinos N t52} {; O t53}
+{bandera N t54} {del P t55} {Cordero R t56} {, O t57} {pura G t58} {y C t59} {blanca G t60} {; O t61}
+{tallo N t62} {de P t63} {amor N t64} {de P t65} {donde Q t66} {el D t67} {lirio N t68} {arranca V t69} {, O t70}
+{rosa N t71} {sacra G t72} {y C t73} {sin P t74} {par N t75} {del P t76} {santo N t77} {Graal R t78} {: O t79}
+{mirad N t80} {que Q t81} {pasa V t82} {el D t83} {rubio G t84} {caballero N t85} {; O t86}
+{mirad N t87} {que Q t88} {pasa V t89} {, O t90} {silencioso G t91} {y C t92} {fiero G t93} {, O t94}
+{el D t95} {loco N t96} {luminoso G t97} {: O t98} {Parsifal G t99} {! O t100}

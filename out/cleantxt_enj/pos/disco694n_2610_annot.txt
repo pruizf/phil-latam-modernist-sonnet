@@ -1,0 +1,14 @@
+{Montevideo R t1} {, O t2} {copa N t3} {de P t4} {plata N t5} {, O t6}
+{llena G t7} {de P t8} {encantos N t9} {y C t10} {de P t11} {primores N t12} {. O t13}
+{Flor R t14} {de P t15} {ciudades N t16} {, O t17} {ciudad N t18} {de P t19} {flores N t20} {, O t21}
+{de P t22} {cielos N t23} {mágicos G t24} {y C t25} {tierra N t26} {grata G t27} {. O t28}
+{Tus N t29} {bravos N t30} {héroes N t31} {la D t32} {Historia R t33} {acata V t34} {. O t35}
+{Fervientes N t36} {líricos G t37} {dieron V t38} {loores N t39}
+{a P t40} {los D t41} {centauros N t42} {y C t43} {a P t44} {los D t45} {pastores N t46}
+{cuyas Q t47} {proezas N t48} {recuerda V t49} {el D t50} {Plata R t51} {. O t52}
+{Y C t53} {ese D t54} {tesoro N t55} {de P t56} {ritmo N t57} {y C t58} {gracia N t59}
+{rosas N t60} {del P t61} {pueblo N t62} {, O t63} {o C t64} {aristocracia P t65}
+{que C t66} {en P t67} {tus D t68} {mujeres N t69} {divinas G t70} {veo V t71} {, O t72}
+{son V t73} {, O t74} {como C t75} {sus D t76} {almas N t77} {de P t78} {poesía N t79} {, O t80}
+{de P t81} {tu D t82} {corona N t83} {la D t84} {pedrería N t85} {, O t86}
+{maravillosa G t87} {Montevideo R t88} {! O t89}

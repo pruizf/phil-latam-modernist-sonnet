@@ -1,0 +1,14 @@
+{Cleopompo R} {y C} {Heliodemo R} {, O} {cuya Q} {filosofía N}	B	enlace_subj_verb	ld01
+{es V} {idéntica G} {, O} {gustan V} {dialogar V} {bajo P} {el D} {verde N}	I	enlace_subj_verb	ld01
+{patio N} {del P} {platanar N} {. O} {Allí A} {Cleopompo R} {muerde V}	B	enlace_od_verb	ld02
+{la D} {manzana N} {epicúrea G} {y C} {Heliodemo R} {fía V}	IB	enlace_od_verb;enlace_od_verb	ld02;ld02
+{al P} {aire N} {su D} {confianza N} {en P} {la D} {eterna G} {armonía N} {. O}	I	enlace_od_verb	ld02
+{Malhaya R} {quien Q} {las Q} {Parcas R} {inhumano G} {recuerde V} {: O}	O		
+{si C} {una D} {sonora G} {perla N} {de P} {la D} {clepsidra N} {pierde V} {, O}	O		
+{no A} {volverá V} {a P} {ofrecerla V} {la D} {mano N} {que Q} {la Q} {envía V} {. O}	O		
+{Una D} {vaca N} {aparece V} {, O} {crepuscular G} {. O} {Es V} {hora N}	B	sirrem_noun_prep	pd02
+{en P} {que C} {el D} {grillo N} {en P} {su D} {lira N} {hace V} {halagos N} {a P} {Flora R} {, O}	I	sirrem_noun_prep	pd02
+{y C} {en P} {el D} {azul N} {florece V} {un D} {diamante N} {supremo G} {: O}	O		
+{y C} {en P} {la D} {pupila N} {enorme G} {de P} {la D} {bestia N} {apacible G}	O		
+{miran V} {como C} {que C} {rueda V} {en P} {un D} {ritmo N} {visible G}	B	enlace_od_verb	ld02
+{la D} {música N} {del P} {mundo N} {, O} {Cleopompo R} {y C} {Heliodemo R} {. O}	I	enlace_od_verb	ld02

@@ -1,0 +1,14 @@
+{Vi V} {yo Q} {que Q} {sobre P} {el D} {pecho N} {tenías N} {una D} {rosa N} {; O}	O		
+{e C} {imaginé V} {que C} {tú Q} {eras V} {un D} {ramo N} {que Q} {surgía V}	B	sirrem_verb_supl	pp23
+{de P} {un D} {cáliz N} {de P} {alabastro N} {, O} {y C} {en P} {él Q} {se Q} {convertía V}	IB	sirrem_verb_supl;enlace_subj_verb	pp23;ld01
+{cada D} {uno Q} {de P} {tus D} {ojos N} {en P} {una D} {mariposa G}	I	enlace_subj_verb	ld01
+{Rayos R} {de P} {sol N} {tejieron V} {tus D} {cabellos N} {undosa G} {, O}	O		
+{y C} {, O} {así A} {, O} {bajo P} {tu D} {cutis N} {se Q} {transparenta V} {el D} {día N} {; O}	O		
+{por P} {eso Q} {es V} {que C} {la D} {rosa N} {ceñirte G} {parecía V}	O		
+{en P} {torno N} {de P} {una D} {estatua N} {de P} {nieve N} {ruborosa G} {. O}	O		
+{Estatua V} {que C} {apareces A} {nimbada G} {por P} {un D} {astro N} {, O}	O		
+{con P} {cara N} {hecha G} {de P} {rosas N} {y C} {cuerpo N} {de P} {alabastro N} {, O}	O		
+{en P} {un D} {jardín N} {de P} {plata N} {, O} {bajo P} {un D} {temblor N} {de P} {Luna R} {: O}	O		
+{al P} {ver V} {la D} {rosa N} {encima A} {del P} {busto N} {de P} {carrara N} {, O}	O		
+{pensé V} {yo Q} {que C} {del P} {ramo N} {de P} {rosas N} {de P} {tu D} {cara N}	B	enlace_subj_verb	ld01
+{se Q} {había V} {desprendido V} {sobre P} {tu D} {pecho N} {una D}	I	enlace_subj_verb	ld01

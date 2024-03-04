@@ -1,0 +1,14 @@
+{Si C} {vivir V} {es V} {luchar V} {, O} {-- C} {cuando C} {la D} {pluma N}	B	sirrem_adj_noun	pp02
+{vibre G} {en P} {la D} {mano N} {del P} {poeta N} {ardiente G} {, O}	I	sirrem_adj_noun	pp02
+{debe V} {el D} {poeta N} {levantar V} {la D} {frente N}	O		
+{y C} {sacudir V} {el D} {miedo N} {que Q} {lo Q} {abruma V} {. O}	O		
+{Si C} {escribir V} {es V} {luchar V} {, O} {-- O} {la D} {gloria N} {suma G}	B	enlace_subj_verb	ld01
+{es V} {azotar V} {al P} {déspota N} {insolente G} {, O}	I	enlace_subj_verb	ld01
+{que Q} {estallando V} {la D} {ola N} {prepotente G}	O		
+{cubre V} {su D} {sien V} {con P} {delicada G} {espuma N} {... O}	O		
+{Reviente A} {el D} {verso N} {al P} {roce N} {de P} {la D} {chispa N} {; O}	O		
+{y C} {zumbe N} {de P} {la D} {gloria N} {entre P} {las D} {palmas N}	B	sirrem_noun_prep	pd02
+{con P} {el D} {tenaz G} {zumbido N} {de P} {la D} {avispa N} {... O}	I	sirrem_noun_prep	pd02
+{¡ O} {Que C} {por P} {la D} {ley N} {eterna G} {de P} {las D} {cosas N}	O		
+{y C} {por P} {la D} {ley N} {eterna G} {de P} {las D} {almas N} {, O}	O		
+{los D} {versos N} {sin P} {espinas N} {no A} {son V} {rosas N} {! O}	O		

@@ -1,0 +1,14 @@
+{¡ O} {Qué Q} {impresión N} {de P} {alegría N} {da V} {esta D} {casa N} {, O} {a P} {manera N}	B	sirrem_noun_prep	pp06.1
+{de P} {canoa N} {que Q} {duerme V} {junto G} {a P} {un D} {brazo N} {de P} {mar N} {! O}	I	sirrem_noun_prep	pp06.1
+{Leve D} {techo N} {de P} {pajas N} {y C} {armazón N} {de P} {madera N} {, O}	O		
+{que Q} {recortan V} {sus D} {líneas N} {entre P} {un D} {verde N} {palmar V}	O		
+{Aunque C} {el D} {agua N} {la D} {acosa N} {, O} {se Q} {levanta V} {ligera G}	O		
+{sobre P} {estacas N} {que Q} {préstanle V} {expresión N} {singular G}	B	sirrem_noun_prep	pp05
+{de P} {mujer N} {, O} {en P} {la D} {blanda G} {y C} {arenosa G} {ribera N} {, O}	I	sirrem_noun_prep	pp05
+{aprendiendo V} {, O} {en P} {las D} {puntas N} {de P} {sus D} {pies N} {, O} {a P} {bailar V}	B	enlace_od_verb	ld02
+{Goza R} {de P} {una D} {pureza N} {de P} {cristal N} {en P} {su D} {ambiente N}	I	enlace_od_verb	ld02
+{Coquetea R} {en P} {las D} {linfas N} {Se Q} {enguirnalda V} {la D} {frente A}	O		
+{el D} {rumor N} {de P} {las D} {fondas N} {le Q} {regala V} {un D} {collar N} {. O}	O		
+{Y C} {hasta P} {aumenta V} {esta D} {dicha N} {de P} {sencillo G} {donaire N}	O		
+{tal D} {cual Q} {garza N} {, O} {que Q} {, O} {a P} {veces N} {, O} {zigzaguea V} {en P} {el D} {aire N} {, O}	O		
+{como C} {copo N} {de P} {espuma N} {que Q} {rompiese V} {a P} {volar V}	O		

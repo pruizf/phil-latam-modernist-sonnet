@@ -1,0 +1,14 @@
+{¡ O} {Cuántas D} {aves N} {que Q} {anidan V} {sin P} {recelo N}	O		
+{en P} {un D} {árbol N} {, O} {que Q} {luego A} {es V} {cruz N} {o C} {nave N} {, O}	O		
+{tienden V} {por P} {fuerza N} {misteriosa G} {y C} {grave G} {, O}	O		
+{como C} {el D} {árbol N} {también A} {, O} {al P} {mar N} {o C} {al P} {cielo N} {! O}	O		
+{El D} {ave N} {es V} {ambición N} {que Q} {huye V} {del P} {suelo N}	O		
+{y C} {es V} {alerta N} {estentóreo G} {o C} {trino G} {suave G} {, O}	O		
+{que C} {el D} {canto N} {más A} {glorioso G} {es V} {el D} {del P} {ave N}	O		
+{y C} {la D} {línea N} {más A} {pura G} {es V} {la D} {del P} {vuelo N}	O		
+{¡ O} {No A} {importa V} {- O} {ya A} {que C} {el D} {sol N} {rasga V} {las D} {brumas N} {- O}	O		
+{que C} {el D} {mar N} {persiga V} {al P} {bien N} {y C} {el D} {buitre N} {altivo G}	B	sirrem_adj_prep	pd02
+{a P} {la D} {paloma N} {, O} {hecho V} {un D} {Satán R} {con P} {plumas N} {, O}	I	sirrem_adj_prep	pd02
+{que Q} {, O} {mientras C} {alas N} {tengan V} {y C} {garganta N} {, O}	O		
+{serán V} {las D} {aves N} {el D} {emblema N} {vivo G}	B	sirrem_noun_prep	pp05
+{de P} {todo D} {lo D} {que Q} {vuela V} {y C} {lo D} {que Q} {canta V} {! O}	I	sirrem_noun_prep	pp05

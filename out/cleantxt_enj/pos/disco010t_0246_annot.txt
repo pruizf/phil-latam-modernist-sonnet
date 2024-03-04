@@ -1,0 +1,14 @@
+{Filósofo R t1} {es V t2} {el D t3} {mar N t4} {: O t5} {se Q t6} {alza N t7} {y C t8} {se Q t9} {llena V t10} {; O t11}
+{y C t12} {después A t13} {de P t14} {estallar V t15} {en P t16} {broncos G t17} {ruidos N t18} {, O t19}
+{corta V t20} {su D t21} {voz N t22} {, O t23} {apaga V t24} {sus D t25} {latidos N t26} {, O t27}
+{y C t28} {se Q t29} {dilata V t30} {en P t31} {la D t32} {extensión N t33} {serena G t34} {. O t35}
+{Sabe V t36} {que C t37} {hay V t38} {una D t39} {ley N t40} {que Q t41} {lo Q t42} {refrena V t43} {; O t44}
+{y C t45} {, O t46} {sus D t47} {sueños N t48} {al P t49} {ver V t50} {desvanecidos G t51} {, O t52}
+{se Q t53} {queja V t54} {con P t55} {furiosos G t56} {alaridos N t57}
+{y C t58} {como C t59} {un D t60} {gladiador N t61} {rueda V t62} {en P t63} {la D t64} {arena N t65} {. O t66}
+{Almas N t67} {que Q t68} {el D t69} {ansia N t70} {de P t71} {luchar V t72} {obstina N t73} {: O t74}
+{venid N t75} {conmigo Q t76} {a P t77} {la D t78} {arenosa G t79} {raya N t80} {, O t81}
+{y C t82} {veréis V t83} {cómo Q t84} {el D t85} {mar N t86} {también A t87} {se Q t88} {inclina V t89} {; O t90}
+{que C t91} {el D t92} {rendirse V t93} {¡ O t94} {ay O t95} {! O t96} {cuando C t97} {el D t98} {vigor N t99} {se Q t100} {abruma V t101}
+{es V t102} {solamente A t103} {respetar V t104} {la D t105} {playa N t106} {, O t107}
+{¡ O t108} {y C t109} {dejar V t110} {de P t111} {ser V t112} {ola N t113} {, O t114} {y C t115} {ser V t116} {espuma N t117} {! O t118} {... O t119}

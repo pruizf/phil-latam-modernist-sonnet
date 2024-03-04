@@ -1,0 +1,14 @@
+{Francisca R t1} {, O t2} {tú Q t3} {has V t4} {venido V t5}
+{en P t6} {la D t7} {hora N t8} {segura G t9} {; O t10}
+{la D t11} {mañana N t12} {es V t13} {obscura N t14}
+{y C t15} {está V t16} {caliente G t17} {el D t18} {nido N t19} {. O t20}
+{Tú Q t21} {tienes V t22} {el D t23} {sentido N t24}
+{de P t25} {la D t26} {palabra N t27} {pura G t28} {, O t29}
+{y C t30} {tu D t31} {alma N t32} {te Q t33} {asegura V t34}
+{el D t35} {amante N t36} {marido N t37} {. O t38}
+{Un D t39} {marido N t40} {y C t41} {amante N t42}
+{que Q t43} {, O t44} {terrible G t45} {y C t46} {constante G t47} {, O t48}
+{será V t49} {contigo Q t50} {dos Q t51} {. O t52}
+{Y C t53} {que C t54} {fuera V t55} {contigo Q t56} {, O t57}
+{como C t58} {amante N t59} {y C t60} {amigo N t61} {, O t62}
+{al P t63} {infierno N t64} {o C t65} {a P t66} {Dios R t67} {. O t68}

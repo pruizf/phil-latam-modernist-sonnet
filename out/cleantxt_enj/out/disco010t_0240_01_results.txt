@@ -1,0 +1,14 @@
+{Sombra N} {profunda G} {. O} {El D} {salmo N} {de P} {mi D} {vida N}	B	enlace_subj_verb	ld01
+{se Q} {ahoga V} {en P} {el D} {silencio N} {de P} {la D} {muerte N} {; O}	I	enlace_subj_verb	ld01
+{y C} {como C} {un D} {buzo N} {, O} {en P} {la D} {futura G} {suerte N}	O		
+{sumergo V} {la D} {cabeza N} {estremecida G} {... O}	O		
+{Tal Q} {como C} {un D} {ave N} {con P} {el D} {ala N} {herida N} {, O}	O		
+{yace V} {la D} {estrofa N} {de P} {mi D} {laúd N} {inerte G} {: O}	O		
+{ojalá O} {que C} {otro D} {vate N} {la D} {despierte V} {, O}	O		
+{porque C} {no A} {muerta G} {está V} {, O} {sino C} {dormida G} {... O}	O		
+{Pulse R} {otro D} {vate N} {mi D} {laúd N} {de P} {acero N} {; O}	O		
+{y C} {entonces A} {, O} {como C} {flechas N} {, O} {mis D} {canciones N} {, O}	O		
+{rápidas G} {tomarán V} {rumbo N} {certero G} {; O}	O		
+{y C} {cada D} {verso N} {que Q} {germine V} {y C} {se Q} {abra V}	B	enlace_subj_verb	ld01
+{será V} {el D} {Juicio R} {Final R} {de P} {los D} {mandones N}	I	enlace_subj_verb	ld01
+{y C} {la D} {Resurrección R} {de P} {la D} {Palabra R} {... O}	O		

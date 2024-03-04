@@ -1,0 +1,14 @@
+{Es V t1} {algo Q t2} {formidable G t3} {que Q t4} {vio V t5} {la D t6} {vieja G t7} {raza N t8} {; O t9}
+{robusto G t10} {tronco N t11} {de P t12} {árbol N t13} {al P t14} {hombro N t15} {de P t16} {un D t17} {campeón N t18}
+{salvaje G t19} {y C t20} {aguerrido G t21} {, O t22} {cuya Q t23} {fornida G t24} {maza N t25}
+{blandiera G t26} {el D t27} {brazo N t28} {de P t29} {Hércules R t30} {, O t31} {o C t32} {el D t33} {brazo N t34} {de P t35} {Sansón R t36} {. O t37}
+{Por P t38} {casco N t39} {sus D t40} {cabellos N t41} {, O t42} {su D t43} {pecho N t44} {por P t45} {coraza N t46} {, O t47}
+{pudiera V t48} {tal D t49} {guerrero N t50} {, O t51} {de P t52} {Arauco R t53} {en P t54} {la D t55} {región N t56} {, O t57}
+{lancero N t58} {de P t59} {los D t60} {bosques N t61} {, O t62} {Nemrod R t63} {que Q t64} {todo Q t65} {caza N t66} {, O t67}
+{desjarretar V t68} {un D t69} {toro N t70} {, O t71} {o C t72} {estrangular V t73} {un D t74} {león N t75} {. O t76}
+{Anduvo R t77} {, O t78} {anduvo V t79} {, O t80} {anduvo V t81} {. O t82} {Le Q t83} {vio V t84} {la D t85} {luz N t86} {del P t87} {día N t88} {, O t89}
+{le Q t90} {vio V t91} {la D t92} {tarde N t93} {pálida G t94} {, O t95} {le Q t96} {vio V t97} {la D t98} {noche N t99} {fría G t100} {, O t101}
+{y C t102} {siempre A t103} {el D t104} {tronco N t105} {de P t106} {árbol N t107} {a P t108} {cuestas N t109} {del P t110} {titán N t111} {. O t112}
+{" O t113} {¡ O t114} {El D t115} {Toqui R t116} {, O t117} {el D t118} {Toqui R t119} {! O t120} {" O t121} {, O t122} {clama V t123} {la D t124} {conmovida G t125} {casta N t126} {. O t127}
+{Anduvo R t128} {, O t129} {anduvo V t130} {, O t131} {anduvo V t132} {. O t133} {La D t134} {Aurora R t135} {dijo V t136} {: O t137} {" O t138} {Basta V t139} {' O t140} {' O t141} {, O t142}
+{e C t143} {irguióse V t144} {la D t145} {alta G t146} {frente A t147} {del P t148} {gran G t149} {Caupolicán R t150} {. O t151}

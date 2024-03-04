@@ -1,0 +1,14 @@
+{La D t1} {aldea N t2} {ayer A t3} {no A t4} {más A t5} {entristecida G t6}
+{cobra V t7} {hoy A t8} {nuevo G t9} {placer N t10} {; O t11} {que C t12} {en P t13} {torno N t14} {vierte V t15}
+{alborozada G t16} {luz N t17} {la D t18} {misma D t19} {Muerte R t20}
+{desde P t21} {el D t22} {cénit N t23} {de P t24} {la D t25} {perpetua G t26} {Vida R t27} {. O t28}
+{Como C t29} {corcel Q t30} {que Q t31} {destrozó V t32} {la D t33} {brida N t34} {, O t35}
+{el D t36} {alma N t37} {deja V t38} {la D t39} {materia N t40} {inerte G t41} {; O t42}
+{y C t43} {entre P t44} {los D t45} {bruscos N t46} {cambios N t47} {de P t48} {la D t49} {suerte N t50}
+{brota G t51} {transfigurada G t52} {y C t53} {desprendida G t54} {. O t55}
+{Es V t56} {la D t57} {Resurrección R t58} {. O t59} {Mientras C t60} {que C t61} {llena V t62}
+{la D t63} {Pascua R t64} {todo Q t65} {de P t66} {inefable G t67} {brillo N t68} {, O t69}
+{surge V t70} {el D t71} {aldeano N t72} {en P t73} {traje N t74} {dominguero G t75} {; O t76}
+{y C t77} {luego A t78} {, O t79} {en P t80} {aras N t81} {de P t82} {la D t83} {alegre G t84} {cena N t85} {, O t86}
+{se Q t87} {inclina V t88} {a P t89} {la D t90} {amenaza N t91} {del P t92} {cuchillo N t93}
+{la D t94} {humilde G t95} {frente A t96} {del P t97} {pascual N t98} {cordero G t99} {... O t100}

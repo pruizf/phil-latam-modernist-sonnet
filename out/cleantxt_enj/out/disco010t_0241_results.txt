@@ -1,0 +1,14 @@
+{Tintas N} {de P} {conchaperla V} {desde P} {el D} {cielo N}	B	sirrem_adj_noun	pp02
+{fórmanle G} {fondo N} {a P} {la D} {disuelta G} {bruma N} {, O}	I	sirrem_adj_noun	pp02
+{en P} {que C} {la D} {ardiente G} {fantasía N} {espuma N}	B	enlace_od_verb	ld02
+{paisajes N} {locos G} {con P} {febril G} {desvelo N} {. O}	I	enlace_od_verb	ld02
+{Una D} {barca N} {al P} {impulso N} {de P} {su D} {anhelo N}	B	enlace_subj_verb	ld01
+{entreabre V} {el D} {mar N} {con P} {sutileza N} {suma G} {; O}	I	enlace_subj_verb	ld01
+{y C} {rasga V} {rapidísima G} {la D} {espuma N} {, O}	O		
+{como C} {rasgando V} {de P} {una D} {novia N} {el D} {velo N} {. O}	O		
+{La D} {tarde N} {enlobreguece V} {la D} {ribera N} {; O}	O		
+{y C} {el D} {astro N} {rey N} {, O} {antes A} {de P} {hundirse V} {a P} {solas G}	B	sirrem_adj_prep	pp07
+{del P} {horizonte N} {tras P} {la D} {azúrea N} {raya N} {, O}	I	sirrem_adj_prep	pp07
+{con P} {un D} {último G} {lampo N} {reverbera V}	O		
+{en P} {las D} {arqueadas G} {lenguas N} {de P} {las D} {olas N}	O		
+{y C} {en P} {los D} {tendidos G} {peces N} {en P} {la D} {playa N} {... O}	O		

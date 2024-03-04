@@ -1,0 +1,14 @@
+{El D} {buey N} {, O} {que Q} {de P} {paciencia N} {se Q} {reviste V} {, O}	O		
+{cruza N} {a P} {calmar V} {la D} {sed N} {en P} {el D} {torrente N} {, O}	O		
+{mientras C} {corre V} {el D} {novillo N} {alegremente A}	O		
+{tras P} {de P} {su D} {hembra N} {que C} {a P} {amarle V} {se Q} {resiste V} {... O}	O		
+{Nada Q} {tan A} {duro G} {y C} {tan A} {cruel G} {existe V}	B	enlace_subj_verb	ld01
+{como C} {el D} {yugo N} {sufrir V} {del P} {impotente G} {; O}	I	enlace_subj_verb	ld01
+{y C} {tener V} {¡ O} {ay O} {! O} {que C} {doblegar V} {la D} {frente A}	B	enlace_od_verb	ld02
+{cuando C} {se Q} {alza N} {el D} {amor N} {. O} {¡ O} {Nada Q} {tan A} {triste G} {! O} {... O}	I	enlace_od_verb	ld02
+{Palpita V} {el D} {ansia N} {que Q} {fecunda G} {y C} {crea V} {; O}	O		
+{y C} {ante P} {el D} {cuadro N} {triunfal G} {de P} {los D} {amantes N} {, O}	O		
+{parece V} {que C} {hasta P} {el D} {árbol N} {palmotea V} {... O}	O		
+{El D} {buey N} {se Q} {cubre V} {de P} {un D} {sudor N} {de P} {fragua N} {; O}	O		
+{tiembla D} {; O} {los D} {ve V} {con P} {ojos N} {vergonzantes G} {; O}	O		
+{inclina V} {la D} {pabeza N} {y C} {bebe V} {su D} {agua N} {... O}	O		

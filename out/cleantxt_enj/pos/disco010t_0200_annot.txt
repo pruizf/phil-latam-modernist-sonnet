@@ -1,0 +1,14 @@
+{Silencio R t1} {y C t2} {soledad N t3} {Nada Q t4} {se Q t5} {mueve V t6}
+{Apenas A t7} {, O t8} {a P t9} {lo D t10} {lejos A t11} {, O t12} {en P t13} {hilera N t14} {, O t15}
+{las D t16} {vicuñas N t17} {con P t18} {rápida G t19} {carrera N t20}
+{pasan V t21} {, O t22} {a P t23} {modo N t24} {de P t25} {una D t26} {sombra N t27} {leve G t28}
+{¿ O t29} {Quién Q t30} {a P t31} {medir V t32} {esa D t33} {extensión N t34} {se Q t35} {atreve V t36} {? O t37}
+{Sólo A t38} {la D t39} {desplegada G t40} {cordillera N t41} {, O t42}
+{que Q t43} {s N t44} {encorva V t45} {después A t46} {, O t47} {a P t48} {la D t49} {manera N t50}
+{de P t51} {un D t52} {colosal N t53} {paréntesis N t54} {de P t55} {nieve N t56}
+{Vano R t57} {será V t58} {que C t59} {busque V t60} {la D t61} {mirada N t62}
+{alegría N t63} {de P t64} {vívidos G t65} {colores N t66} {, O t67}
+{en P t68} {la D t69} {tristeza N t70} {de P t71} {la D t72} {puna N t73} {helada G t74} {: O t75}
+{sin P t76} {mariposas N t77} {, O t78} {pájaros N t79} {, O t80} {ni C t81} {flores N t82} {, O t83}
+{es V t84} {una D t85} {inmensidad N t86} {deshabitada G t87} {, O t88}
+{como C t89} {si C t90} {fuese V t91} {un D t92} {alma N t93} {sin P t94} {amores N t95} {. O t96}

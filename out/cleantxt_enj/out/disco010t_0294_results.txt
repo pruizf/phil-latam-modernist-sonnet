@@ -1,0 +1,14 @@
+{Para P} {beber V} {inspiración N} {, O} {me Q} {afano V}	O		
+{por P} {merecer V} {la D} {copa N} {de P} {diamante N}	B	oracional	cp01
+{que Q} {escancian V} {Hebe R} {a P} {Júpiter R} {Tonante P}	I	oracional	cp01
+{entre P} {las D} {pompas N} {del P} {festín N} {pagano G} {. O}	O		
+{Mas R} {¡ O} {ah O} {! O} {tampoco A} {me Q} {recuerdo V} {en P} {vano G}	B	sirrem_adj_prep	pp07
+{de P} {la D} {Samaritana R} {, O} {que Q} {anhelante Q}	IB	sirrem_adj_prep;enlace_subj_verb	pp07;ld01
+{se Q} {inclina V} {, O} {con P} {el D} {ánfora N} {delante A} {, O}	I	enlace_subj_verb	ld01
+{sobre P} {la D} {frente N} {del P} {amor N} {cristiano G} {... O}	O		
+{Hebe R} {triunfa V} {en P} {el D} {fúlgido G} {concierto N} {; O}	O		
+{y C} {la D} {Samaritana R} {halla V} {ventura N}	O		
+{en P} {mitigar V} {las D} {ansias N} {del P} {desierto N} {. O}	O		
+{Así A} {mi D} {numen V} {escanciar V} {desea V} {, O}	O		
+{más A} {que C} {la D} {copa N} {de P} {la D} {Forma R} {pura G} {, O}	O		
+{el D} {ánfora N} {profunda G} {de P} {la D} {Idea R} {. O}	O		

@@ -1,0 +1,14 @@
+{En P t1} {tanto D t2} {pace N t3} {estrellas N t4} {el D t5} {Pegaso R t6} {divino G t7} {, O t8}
+{y C t9} {vela N t10} {tu D t11} {hipogrifo N t12} {, O t13} {Velázquez R t14} {, O t15} {la D t16} {Fortuna R t17} {, O t18}
+{en P t19} {los D t20} {celestes N t21} {parques G t22} {el D t23} {Cisne R t24} {gongorino G t25}
+{deshoja V t26} {sus D t27} {sutiles G t28} {margaritas N t29} {la D t30} {Luna R t31} {. O t32}
+{Tu D t33} {castillo N t34} {, O t35} {Velázquez R t36} {, O t37} {se Q t38} {eleva V t39} {en P t40} {el D t41} {camino N t42}
+{del P t43} {Arte R t44} {como C t45} {torre N t46} {que Q t47} {de P t48} {águilas N t49} {es V t50} {cuna N t51} {, O t52}
+{y C t53} {tu D t54} {castillo N t55} {, O t56} {Góngora R t57} {, O t58} {se Q t59} {alza N t60} {al P t61} {azul N t62} {cual Q t63} {una D t64}
+{jaula N t65} {de P t66} {ruiseñores N t67} {labrada G t68} {en P t69} {oro N t70} {fino G t71} {. O t72}
+{Gloriosa G t73} {la D t74} {península N t75} {que Q t76} {abriga V t77} {tal D t78} {colonia N t79} {. O t80}
+{¡ O t81} {Aquí A t82} {bronce N t83} {corintio G t84} {y C t85} {allá A t86} {mármol N t87} {de P t88} {Jonia R t89} {! O t90}
+{Las D t91} {rosas N t92} {a P t93} {Velázquez R t94} {, O t95} {y C t96} {a P t97} {Góngora R t98} {claveles N t99} {. O t100}
+{De P t101} {ruiseñores N t102} {y C t103} {águilas N t104} {se Q t105} {pueblan V t106} {las D t107} {encinas N t108} {, O t109}
+{y C t110} {mientras C t111} {pasa V t112} {Angélica R t113} {sonriendo V t114} {a P t115} {las D t116} {Meninas R t117} {, O t118}
+{salen V t119} {las D t120} {nueve D t121} {Musas R t122} {de P t123} {un D t124} {bosque N t125} {de P t126} {laureles N t127} {. O t128}

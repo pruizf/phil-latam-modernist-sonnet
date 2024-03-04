@@ -1,0 +1,14 @@
+{Simbólico G t1} {festín N t2} {. O t3} {Amplia R t4} {y C t5} {espesa D t6}
+{enramada N t7} {de P t8} {vides N t9} {forma N t10} {el D t11} {techo N t12} {; O t13}
+{y C t14} {de P t15} {la D t16} {hierba N t17} {húmeda G t18} {en P t19} {el D t20} {lecho N t21} {, O t22}
+{tendida G t23} {se Q t24} {halla V t25} {la D t26} {silvestre G t27} {mesa N t28} {. O t29}
+{Sobre P t30} {los D t31} {hombros N t32} {de P t33} {un D t34} {gran G t35} {Atlas R t36} {pesa V t37}
+{un D t38} {recipiente N t39} {, O t40} {para P t41} {tanto D t42} {estrecho N t43} {, O t44}
+{en P t45} {donde Q t46} {saltan V t47} {del P t48} {montón N t49} {deshecho G t50}
+{la D t51} {pilla N t52} {enorme G t53} {y C t54} {la D t55} {menuda G t56} {fresa N t57} {... O t58}
+{Corona R t59} {la D t60} {alta G t61} {torre N t62} {una D t63} {partida N t64}
+{manzana N t65} {de P t66} {oro N t67} {, O t68} {que Q t69} {a P t70} {gustar V t71} {provoca V t72}
+{frescas N t73} {corrientes G t74} {de P t75} {ignorada N t76} {vida N t77} {; O t78}
+{y C t79} {empinándose V t80} {así A t81} {la D t82} {torre N t83} {ufana G t84} {, O t85}
+{se Q t86} {hace V t87} {una D t88} {torre N t89} {de P t90} {Babel R t91} {que Q t92} {toca V t93}
+{el D t94} {cielo N t95} {del P t96} {amor N t97} {con P t98} {la D t99} {manzana N t100} {. O t101}

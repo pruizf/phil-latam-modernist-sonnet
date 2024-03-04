@@ -1,0 +1,14 @@
+{Este D} {gran G} {don N} {Ramón R} {, O} {de P} {las D} {barbas N} {de P} {chivo N} {, O}	O		
+{cuya Q} {sonrisa N} {es V} {la D} {flor N} {de P} {su D} {figura N} {, O}	O		
+{parece V} {un D} {viejo G} {dios N} {, O} {altanero G} {y C} {esquivo G} {, O}	O		
+{que Q} {se Q} {animase V} {en P} {la D} {frialdad N} {de P} {su D} {escultura N} {. O}	O		
+{El D} {cobre N} {de P} {sus D} {ojos N} {por P} {instanres O} {fulgura N}	B	enlace_subj_verb	ld01
+{y C} {da V} {una D} {llama N} {roja G} {tras P} {un D} {ramo N} {de P} {olivo N} {. O}	I	enlace_subj_verb	ld01
+{Tengo V} {la D} {sensación N} {de P} {que C} {siento V} {y C} {que C} {vivo V}	B	enlace_od_verb	ld02
+{a P} {su D} {lado N} {una D} {vida N} {más A} {intensa G} {y C} {más A} {dura G} {. O}	I	enlace_od_verb	ld02
+{Este D} {gran G} {don N} {Ramón R} {del P} {Valle-Inclán R} {me Q} {inquieta V} {, O}	O		
+{y C} {a P} {través N} {del P} {zodíaco N} {de P} {mis D} {versos N} {actuales G}	O		
+{se Q} {me Q} {esfuma V} {en P} {radiosas G} {visiones N} {de P} {poeta N} {, O}	O		
+{o C} {se Q} {me Q} {rompe V} {en P} {un D} {fracaso N} {de P} {cristales N} {. O}	O		
+{Yo Q} {lo Q} {he V} {visto V} {arrancarse V} {del P} {pecho N} {la D} {saeta N}	B	oracional	cp01
+{que Q} {le Q} {lanzan V} {los D} {siete D} {pecados N} {capitales G} {. O}	I	oracional	cp01

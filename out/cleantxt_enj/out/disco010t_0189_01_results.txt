@@ -1,0 +1,14 @@
+{El D} {genio N} {no A} {es V} {la D} {nube N} {, O} {que Q} {de P} {rayos N} {preñada G} {, O}	O		
+{busca V} {un D} {lecho N} {en P} {las D} {sombras N} {; O} {el D} {genio N} {no A} {es V} {la D} {espada N} {, O}	O		
+{que Q} {, O} {de P} {sangre N} {sedienta G} {, O} {se Q} {goza V} {en P} {el D} {combate N} {: O}	O		
+{es V} {el D} {peñón N} {, O} {no A} {el D} {río N} {; O} {la D} {valla N} {, O} {no A} {el D} {embate N} {... O}	O		
+{El D} {genio N} {es V} {como C} {el D} {cóndor N} {, O} {que Q} {con P} {veloz G} {mirada N}	B	sirrem_noun_prep	pd02
+{bajo P} {sus D} {pies N} {contempla V} {la D} {tempestad N} {airada G} {; O}	I	sirrem_noun_prep	pd02
+{pero C} {garras N} {no A} {tiene V} {, O} {sino C} {alas N} {con P} {que Q} {abate V}	B	enlace_od_verb	ld02
+{las D} {alturas N} {en P} {donde Q} {nada Q} {vibra V} {, O} {ni C} {late V} {. O}	I	enlace_od_verb	ld02
+{Cuando C} {el D} {genio N} {contempla V} {los D} {abismos N} {, O} {entonces A}	B	sirrem_verb_adv	pp11
+{hay V} {en P} {sus D} {verbos N} {fraguas N} {, O} {dinamitas N} {y C} {bronces N} {; O}	I	sirrem_verb_adv	pp11
+{porque C} {él Q} {todo D} {lo D} {dora G} {, O} {como C} {la D} {luz N} {del P} {día N} {. O}	O		
+{Tal D} {Dios R} {, O} {que Q} {ve V} {impasible G} {la D} {dicha N} {y C} {el D} {quebranto N} {, O}	O		
+{nunca A} {se Q} {ha V} {sonreído V} {, O} {nunca A} {ha V} {vertido N} {llanto N} {; O}	O		
+{porque C} {Dios R} {esta D} {inmóvil G} {, O} {y C} {lo Q} {humano G} {varía V} {... O}	O		

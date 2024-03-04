@@ -1,0 +1,14 @@
+{Remacha V} {el D} {postrer G} {clavo N} {en P} {el D} {arnés N} {. O} {Remacha V}	B	enlace_subj_verb	ld01
+{el D} {postrer G} {clavo N} {en P} {la D} {fina G} {tabla N} {sonora G} {. O}	I	enlace_subj_verb	ld01
+{Ya A} {es V} {hora N} {de P} {partir V} {, O} {buen G} {pirata N} {, O} {ya A} {es V} {hora N}	B	sirrem_noun_prep	pp06.1
+{de P} {que C} {la D} {vela N} {pruebe V} {el D} {pulmón N} {de P} {la D} {racha N} {. O}	I	sirrem_noun_prep	pp06.1
+{Bajo P} {la D} {quilla N} {el D} {cuello N} {del P} {tritón N} {ya A} {se Q} {agacha V}	O		
+{y C} {la D} {vívida N} {luz N} {del P} {relámpago N} {dora V}	B	enlace_od_verb	ld02
+{la D} {quimera N} {de P} {bronce N} {incrustada G} {en P} {la D} {prora N} {, O}	I	enlace_od_verb	ld02
+{y C} {una D} {sonrisa N} {pone V} {en P} {el D} {labio N} {del P} {hacha N} {. O}	O		
+{La D} {coreada N} {cancin N} {de P} {la D} {piratería N}	B	enlace_subj_verb	ld01
+{saludará V} {el D} {real N} {oriflama V} {del P} {día N}	I	enlace_subj_verb	ld01
+{cuando C} {el D} {clarín N} {del P} {alba N} {nueva G} {ha V} {de P} {sonar V}	O		
+{glorificando V} {a P} {los D} {caballeros N} {del P} {viento N}	B	oracional	cp01
+{que Q} {ensangrientan V} {la D} {seda N} {azul G} {del P} {firmamento N}	IB	oracional;sirrem_noun_prep	cp01;pd02
+{con P} {el D} {rojo N} {pendn N} {de P} {los D} {reyes N} {del P} {mar N} {! O}	I	sirrem_noun_prep	pd02

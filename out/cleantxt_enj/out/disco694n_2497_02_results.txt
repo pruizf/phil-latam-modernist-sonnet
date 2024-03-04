@@ -1,0 +1,14 @@
+{Y C} {porque C} {sois O} {soldados N} {de P} {la D} {idea N} {; O}	O		
+{porque C} {rompéis V} {la D} {tiara N} {y C} {la D} {corona N} {, O}	O		
+{y C} {vuestra D} {voz N} {la D} {libertad N} {pregona G} {; O}	O		
+{la D} {libertad N} {que Q} {irradia V} {y C} {centellea V} {; O}	O		
+{porque C} {deseáis N} {que Q} {el D} {Universo R} {vea V}	O		
+{cómo Q} {una D} {catedral N} {se Q} {desmorona V}	O		
+{al P} {son N} {del P} {himno N} {que Q} {la D} {voz N} {entona G}	B	sirrem_noun_prep	pp05
+{del P} {genio N} {de P} {la D} {luz N} {que Q} {vida N} {crea V} {; O}	I	sirrem_noun_prep	pp05
+{porque C} {las D} {tablas N} {de P} {la D} {ley N} {del P} {hombre N}	O		
+{mostráis V} {al P} {mundo N} {llenas G} {de P} {verdades N} {, O}	O		
+{y C} {de P} {la D} {democracia N} {el D} {sacro G} {nombre N}	B	sirrem_adj_noun	pp02
+{escribís G} {en P} {la D} {faz N} {de P} {estas D} {edades N} {, O}	I	sirrem_adj_noun	pp02
+{tendréis N} {mil D} {bendiciones N} {en P} {la D} {historia N}	O		
+{y C} {una D} {palma N} {en P} {el D} {templo N} {de P} {la D} {gloria N} {. O}	O		

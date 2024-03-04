@@ -1,0 +1,14 @@
+{El D t1} {capitán N t2} {osado G t3} {navega V t4} {en P t5} {la D t6} {insegura G t7}
+{noche N t8} {del P t9} {mar N t10} {Su D t11} {barco N t12} {, O t13} {de P t14} {crujidora N t15} {quilla G t16} {, O t17}
+{que Q t18} {ve V t19} {, O t20} {de P t21} {pronto A t22} {, O t23} {abierta G t24} {la D t25} {trágica G t26} {cuchilla N t27}
+{de P t28} {un D t29} {monte N t30} {en P t31} {dos D t32} {partido N t33} {, O t34} {por P t35} {ella Q t36} {se Q t37} {aventura N t38}
+{Las D t39} {velas N t40} {se Q t41} {desgarran V t42} {y C t43} {hay V t44} {vientos N t45} {de P t46} {locura N t47} {; O t48}
+{allá A t49} {, O t50} {hacia P t51} {un D t52} {lado N t53} {, O t54} {a P t55} {veces N t56} {, O t57} {una D t58} {fogata N t59} {brilla G t60} {; O t61}
+{y C t62} {enronquecidos N t63} {lobos G t64} {, O t65} {desde P t66} {una D t67} {y C t68} {otra D t69} {orilla N t70} {, O t71}
+{hacen V t72} {sonar V t73} {sus D t74} {gritos N t75} {sobre P t76} {la D t77} {noche N t78} {oscura G t79} {. O t80}
+{Las D t81} {olas N t82} {ladran V t83} {, O t84} {ladran V t85} {en P t86} {los D t87} {abruptos N t88} {flancos G t89} {; O t90}
+{y C t91} {envueltas N t92} {en P t93} {espumas N t94} {, O t95} {parecen V t96} {perros N t97} {blancos G t98}
+{contra P t99} {los D t100} {lobos N t101} {negros G t102} {en P t103} {las D t104} {riberas N t105} {solas G t106}
+{Y C t107} {el D t108} {barco N t109} {sigue V t110} {, O t111} {sigue V t112} {y C t113} {al P t114} {proseguir V t115} {de P t116} {frente A t117} {, O t118}
+{como C t119} {iban V t120} {separándose V t121} {ante P t122} {Moisés R t123} {las D t124} {olas N t125} {, O t126}
+{se Q t127} {van V t128} {también A t129} {abriendo V t130} {las D t131} {tierras N t132} {, O t133} {lentamente A t134} {. O t135}

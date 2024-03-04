@@ -1,0 +1,14 @@
+{Anoche A} {tuve V} {un D} {sueño N} {, O} {prenda N} {mía Q} {, O}	O		
+{en P} {que Q} {te Q} {vi V} {a P} {través N} {de P} {mi D} {deseo N} {, O}	O		
+{como C} {siempre A} {con P} {ansia N} {yo Q} {te Q} {veo V}	O		
+{en P} {el D} {fondo N} {del P} {alma N} {cada D} {día N} {. O}	O		
+{A P} {través N} {de P} {una D} {gasa N} {te Q} {veía V} {, O}	O		
+{que C} {el D} {ambiente N} {movía V} {en P} {su D} {aleteo N} {; O}	O		
+{sobre P} {tu D} {frente A} {flores N} {blancas G} {creo V}	B	enlace_od_verb	ld02
+{que C} {en P} {mi D} {delirio N} {ardiente A} {percibía V} {, O}	I	enlace_od_verb	ld02
+{y C} {presto V} {un D} {rayo N} {de P} {la D} {luz N} {del P} {cielo N}	B	enlace_subj_verb	ld01
+{iluminó V} {tu D} {frente A} {inmaculada G} {; O}	I	enlace_subj_verb	ld01
+{me Q} {miré V} {junto G} {a P} {ti Q} {... O} {, O} {vi V} {con P} {anhelo N}	B	enlace_od_verb	ld02
+{tu D} {sonrisa N} {de P} {luz N} {de P} {la D} {alborada N} {, O}	I	enlace_od_verb	ld02
+{y C} {lloré V} {de P} {placer N} {... O} {¡ O} {Tenías V} {velo N}	O		
+{y C} {corona N} {de P} {virgen N} {desposada G} {! O}	O		

@@ -1,0 +1,14 @@
+{Una D} {noche N} {en P} {que Q} {el D} {aire N} {se Q} {derrama V}	B	enlace_subj_verb	ld01
+{susurrando V} {tranquilo G} {en P} {la D} {maleza N} {, O}	I	enlace_subj_verb	ld01
+{un D} {niño N} {juguetón G} {, O} {que Q} {a P} {andar V} {empieza V} {, O}	O		
+{viendo V} {la D} {luna N} {que C} {su D} {luz N} {derrama V} {; O}	O		
+{un D} {pájaro N} {que Q} {canta V} {en P} {una D} {rama N} {; O}	O		
+{yo Q} {, O} {viendo V} {de P} {tus D} {ojos N} {la D} {pureza N} {, O}	O		
+{reclinada G} {en P} {tu D} {seno N} {mi D} {cabeza N} {; O}	O		
+{y C} {tú Q} {, O} {sentada G} {sobre P} {fresca N} {grama G} {. O}	O		
+{Yo Q} {, O} {recordando V} {los D} {pasados G} {días N} {, O}	O		
+{nuestros D} {semblantes G} {dulces N} {, O} {halagüeños N} {; O}	O		
+{tú Q} {a P} {veces N} {recitando V} {poesías N} {... O}	O		
+{Viendo V} {al P} {niño N} {los D} {dos Q} {, O} {siempre A} {risueños G} {. O}	O		
+{¡ O} {Ah O} {, O} {qué D} {sueños N} {de P} {castas N} {alegrías N} {! O}	O		
+{¡ O} {Ah O} {, O} {divina G} {ilusión N} {... O} {, O} {divinos D} {sueños N} {! O}	O		

@@ -1,0 +1,14 @@
+{Amo V t1} {tu D t2} {delicioso G t3} {alejandrino N t4}
+{como C t5} {el D t6} {de P t7} {Hugo R t8} {, O t9} {espíritu N t10} {de P t11} {España R t12} {; O t13}
+{éste Q t14} {vale V t15} {una D t16} {copa N t17} {de P t18} {champaña N t19}
+{como C t20} {aquel D t21} {vale V t22} {" O t23} {un D t24} {vaso N t25} {de P t26} {von N t27} {vino V t28} {" O t29} {. O t30}
+{Mas R t31} {a P t32} {uno Q t33} {y C t34} {otro D t35} {pájaro N t36} {divino G t37}
+{la D t38} {primitiva G t39} {cárcel N t40} {es V t41} {extraña G t42} {; O t43}
+{el D t44} {barrote N t45} {maltrata G t46} {, O t47} {el D t48} {grillo N t49} {daña V t50} {, O t51}
+{que C t52} {vuelo N t53} {y C t54} {libertad N t55} {son V t56} {su D t57} {destino N t58} {. O t59}
+{Así A t60} {procuro G t61} {que Q t62} {en P t63} {la D t64} {luz N t65} {resalte V t66}
+{tu D t67} {antiguo G t68} {verso N t69} {, O t70} {cuyas Q t71} {alas N t72} {doro N t73}
+{y C t74} {hago V t75} {brillar V t76} {con P t77} {mi D t78} {moderno G t79} {esmalte N t80} {; O t81}
+{tiene V t82} {la D t83} {libertad N t84} {con P t85} {el D t86} {decoro N t87}
+{y C t88} {vuelve V t89} {, O t90} {como C t91} {al P t92} {puño N t93} {el D t94} {gerifalte N t95} {, O t96}
+{trayendo V t97} {del P t98} {azul N t99} {rimas N t100} {de P t101} {oro N t102} {. O t103}

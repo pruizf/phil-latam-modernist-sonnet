@@ -1,0 +1,14 @@
+{Tintas N t1} {de P t2} {conchaperla V t3} {desde P t4} {el D t5} {cielo N t6}
+{fórmanle G t7} {fondo N t8} {a P t9} {la D t10} {disuelta G t11} {bruma N t12} {, O t13}
+{en P t14} {que C t15} {la D t16} {ardiente G t17} {fantasía N t18} {espuma N t19}
+{paisajes N t20} {locos G t21} {con P t22} {febril G t23} {desvelo N t24} {. O t25}
+{Una D t26} {barca N t27} {al P t28} {impulso N t29} {de P t30} {su D t31} {anhelo N t32}
+{entreabre V t33} {el D t34} {mar N t35} {con P t36} {sutileza N t37} {suma G t38} {; O t39}
+{y C t40} {rasga V t41} {rapidísima G t42} {la D t43} {espuma N t44} {, O t45}
+{como C t46} {rasgando V t47} {de P t48} {una D t49} {novia N t50} {el D t51} {velo N t52} {. O t53}
+{La D t54} {tarde N t55} {enlobreguece V t56} {la D t57} {ribera N t58} {; O t59}
+{y C t60} {el D t61} {astro N t62} {rey N t63} {, O t64} {antes A t65} {de P t66} {hundirse V t67} {a P t68} {solas G t69}
+{del P t70} {horizonte N t71} {tras P t72} {la D t73} {azúrea N t74} {raya N t75} {, O t76}
+{con P t77} {un D t78} {último G t79} {lampo N t80} {reverbera V t81}
+{en P t82} {las D t83} {arqueadas G t84} {lenguas N t85} {de P t86} {las D t87} {olas N t88}
+{y C t89} {en P t90} {los D t91} {tendidos G t92} {peces N t93} {en P t94} {la D t95} {playa N t96} {... O t97}

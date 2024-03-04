@@ -1,0 +1,14 @@
+{Guardados G t1} {en P t2} {un D t3} {libro N t4} {- O t5} {que Q t6} {narra V t7} {los D t8} {tormentos N t9}
+{locos G t10} {de P t11} {ese D t12} {tiránico G t13} {absurdo N t14} {del P t15} {amor N t16} {- O t17}
+{están V t18} {, O t19} {como C t20} {señales N t21} {, O t22} {de P t23} {mudos G t24} {pensamientos N t25} {, O t26}
+{los D t27} {pétalos N t28} {del P t29} {leve G t30} {cadáver N t31} {de P t32} {una D t33} {flor N t34}
+{¿ O t35} {Qué Q t36} {dulces V t37} {remembranzas N t38} {o C t39} {qué D t40} {afanes N t41} {cruentos G t42}
+{se Q t43} {ocultarán V t44} {en P t45} {estos D t46} {pétalos N t47} {sin P t48} {olor N t49} {? O t50}
+{Románticos D t51} {delirios N t52} {o C t53} {desfallecimientos N t54} {, O t55}
+{que Q t56} {no A t57} {hallaron V t58} {manera N t59} {de P t60} {expresarse V t61} {mejor A t62}
+{¡ O t63} {Oh O t64} {la D t65} {melancolía N t66} {con P t67} {que Q t68} {una D t69} {sabia G t70} {mano N t71}
+{dejó V t72} {estas D t73} {hojas N t74} {sueltas G t75} {, O t76} {que Q t77} {hablan V t78} {de P t79} {un D t80} {sueño N t81} {vano G t82} {, O t83}
+{de P t84} {un D t85} {corazón N t86} {enfermo G t87} {, O t88} {de P t89} {una D t90} {ansia N t91} {de P t92} {morir V t93} {! O t94}
+{Pétalos R t95} {, O t96} {expresivos N t97} {de P t98} {una D t99} {emoción N t100} {intensa G t101} {, O t102}
+{son V t103} {la D t104} {sílabas N t105} {de P t106} {una D t107} {palabra N t108} {que Q t109} {se Q t110} {piensa V t111} {, O t112}
+{sin P t113} {tener V t114} {el D t115} {consuelo N t116} {de P t117} {poderla V t118} {decir V t119} {. O t120}

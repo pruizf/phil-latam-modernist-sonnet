@@ -1,0 +1,14 @@
+{Poeta R} {: O} {¡ O} {sacrifícate V} {al P} {Derecho R} {! O}	O		
+{Cuando C} {lancearlo V} {quieran V} {, O} {con P} {tu D} {mano N}	B	sirrem_adj_noun	pp02
+{junta G} {las D} {lanzas N} {, O} {como C} {el D} {gran G} {romano G} {; O}	I	sirrem_adj_noun	pp02
+{y C} {dirígelas N} {todas D} {a P} {tu D} {pecho N} {. O}	O		
+{Tu D} {verbo N} {sea V} {temporal G} {desecho N} {, O}	O		
+{que Q} {obscurezca V} {los D} {días N} {del P} {tirano N} {; O}	O		
+{y C} {por P} {las D} {noches N} {, O} {cual Q} {fantasma N} {insano G} {, O}	O		
+{vela N} {en P} {la D} {cabecera N} {de P} {su D} {lecho N} {... O}	O		
+{Bruto R} {es V} {tan A} {héroe N} {cuando C} {a P} {César R} {mata V}	O		
+{como C} {cuando C} {la D} {vida N} {se Q} {arrebata V} {: O}	O		
+{si C} {el D} {odio N} {es V} {justo G} {, O} {el D} {crimen N} {dignifica G} {... O}	O		
+{Poeta R} {: O} {el D} {criminal G} {tiene V} {su D} {aureola N} {; O}	O		
+{¡ O} {porque C} {, O} {si C} {es V} {héroe N} {quien Q} {su D} {vida N} {inmola V} {, O}	O		
+{es V} {más A} {héroe N} {quien Q} {su D} {honra N} {sacrifica V} {! O} {... O}	O		

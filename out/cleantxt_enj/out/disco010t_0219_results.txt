@@ -1,0 +1,14 @@
+{Episodios N} {galantes G} {: O} {citas N} {breves G} {y C} {oscuras G} {; O}	O		
+{femeninos G} {perfiles N} {en P} {cerradas G} {calesas N} {; O}	O		
+{silbidos N} {que Q} {se Q} {cruzan V} {en P} {la D} {sombras N} {espesas G} {; O}	O		
+{y C} {brazos N} {donjuanescos G} {que Q} {aprisionan V} {cinturas N} {. O}	O		
+{Abadías N} {que Q} {amparan V} {un D} {hervor N} {de P} {locuras N} {, O}	O		
+{monasterios N} {que Q} {tienen V} {encantadas G} {princesas N} {; O}	O		
+{breviarios N} {en P} {que Q} {cartas N} {de P} {amor N} {laten V} {opresas N} {, O}	O		
+{rosarios N} {que Q} {en P} {los D} {dedos N} {cuentan V} {cien D} {aventuras N} {. O}	O		
+{Es V} {un D} {tiempo N} {que Q} {pasa V} {todo Q} {él Q} {de P} {soslayo N} {: O}	O		
+{la D} {mujer N} {sospechosa G} {sufre V} {siempre A} {un D} {desmayo N}	O		
+{y C} {el D} {galán N} {bajo P} {el D} {lecho N} {disimula V} {una D} {cita N} {. O}	O		
+{Se Q} {diría V} {que C} {Venus R} {a P} {rezar V} {ha V} {aprendido V} {; O}	O		
+{y C} {, O} {beatíficamente A} {, O} {moja V} {el D} {ramo N} {florido G}	B	sirrem_noun_prep	pp05
+{de P} {sus D} {dedos N} {rosados G} {en P} {el D} {agua N} {bendita G}	I	sirrem_noun_prep	pp05

@@ -1,0 +1,14 @@
+{Como C t1} {en P t2} {la D t3} {misma D t4} {iglesia N t5} {vive V t6} {el D t7} {cura N t8} {, O t9}
+{al P t10} {primer G t11} {resplandor N t12} {de P t13} {la D t14} {mañana N t15}
+{lo Q t16} {visitan V t17} {en P t18} {turba N t19} {soberana G t20}
+{niños N t21} {llenos G t22} {de P t23} {gracia N t24} {y C t25} {de P t26} {hermosura N t27} {... O t28}
+{Él Q t29} {los D t30} {deja V t31} {jugar V t32} {a P t33} {su D t34} {ventura N t35} {; O t36}
+{y C t37} {al P t38} {par N t39} {que C t40} {uno Q t41} {sacude V t42} {la D t43} {campana N t44} {, O t45}
+{otro D t46} {hecho N t47} {fraile G t48} {en P t49} {levantar V t50} {se Q t51} {afana V t52}
+{el D t53} {cáliz N t54} {sacro G t55} {a P t56} {la D t57} {divina G t58} {altura N t59} {. O t60}
+{Si C t61} {el D t62} {cura N t63} {al P t64} {cielo N t65} {la D t66} {mirada N t67} {tiende V t68} {, O t69}
+{todos D t70} {los D t71} {niños N t72} {en P t73} {alegre G t74} {coro N t75}
+{ante P t76} {el D t77} {altar N t78} {de P t79} {Dios R t80} {rezan V t81} {y C t82} {cantan V t83} {. O t84}
+{Diga V t85} {el D t86} {cristiano N t87} {si C t88} {el D t89} {señor N t90} {desciende V t91}
+{cuando C t92} {el D t93} {cura N t94} {levanta V t95} {el D t96} {cáliz N t97} {de P t98} {oro N t99} {, O t100}
+{o C t101} {cuando C t102} {aquellos D t103} {niños N t104} {lo Q t105} {levantan V t106} {... O t107}

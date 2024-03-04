@@ -1,0 +1,14 @@
+{Gloria N} {al P} {laboratorio N} {de P} {Canidia R} {, O}	O		
+{gloria N} {al P} {sapo N} {y C} {la D} {araña N} {y C} {su D} {veneno N} {, O}	O		
+{gloria N} {al P} {duro G} {guijarro N} {, O} {gloria N} {al P} {cieno N} {, O}	O		
+{gloria N} {al P} {áspero G} {errar V} {, O} {gloria N} {a P} {la D} {insidia N} {, O}	O		
+{gloria N} {a P} {la D} {cucaracha N} {que Q} {fastidia V} {, O}	O		
+{gloria N} {al P} {diente N} {de P} {can N} {de P} {rabia N} {lleno G} {, O}	O		
+{gloria N} {al P} {parche N} {vulgar G} {que Q} {imita V} {al P} {trueno N} {, O}	O		
+{gloria N} {al P} {odio N} {bestial G} {, O} {gloria N} {a P} {la D} {envidia N} {. O}	O		
+{Gloria N} {a P} {las D} {ictericias N} {devorantes G}	B	oracional	cp01
+{que Q} {sufre V} {el D} {odiador N} {; O} {gloria N} {a P} {la D} {escoria N}	IB	oracional;oracional	cp01;cp01
+{que Q} {parece V} {la D} {luz N} {de P} {los D} {diamantes N} {, O}	I	oracional	cp01
+{pues C} {toda D} {esa D} {miseria N} {transitoria G}	B	enlace_subj_verb	ld01
+{hace V} {afirmar V} {al P} {paso N} {a P} {los D} {Atlantes R}	I	enlace_subj_verb	ld01
+{cargados G} {con P} {el D} {orbe N} {de P} {su D} {gloria N} {. O}	O		

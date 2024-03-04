@@ -1,0 +1,14 @@
+{Porque C} {cantáis V} {la D} {eterna G} {Marsellesa R}	B	oracional	cp01
+{que Q} {maldice V} {el D} {poder N} {de P} {los D} {tiranos N} {; O}	I	oracional	cp01
+{porque C} {alzáis V} {ardorosos G} {en P} {las D} {manos N}	B	enlace_od_verb	ld02
+{el D} {pendón N} {de P} {la D} {luz N} {con P} {entereza N} {; O}	I	enlace_od_verb	ld02
+{porque C} {deseáis N} {que Q} {caiga V} {la D} {cabeza N}	B	sirrem_noun_prep	pp06.1
+{de P} {la D} {hidra N} {aristocrática G} {, O} {y C} {ufanos N}	IB	sirrem_noun_prep;sirrem_adj_noun	pp06.1;pp02
+{dais G} {al P} {pueblo N} {principios N} {soberanos G} {, O}	I	sirrem_adj_noun	pp02
+{que Q} {destruyen V} {del P} {mal N} {la D} {niebla N} {espesa G} {; O}	O		
+{porque C} {gritáis N} {que Q} {es V} {libre G} {el D} {pensamiento N} {; O}	O		
+{que C} {no A} {tiene V} {cadenas N} {la D} {conciencia N} {, O}	O		
+{y C} {proclamáis V} {con P} {fuerza N} {y C} {ardimiento N}	B	oracional	cp01
+{que Q} {hoy A} {impera V} {nomás A} {la D} {inteligencia N} {; O}	I	oracional	cp01
+{la D} {muchedumbre N} {criminal G} {y C} {necia G} {, O}	O		
+{os Q} {escupe N} {, O} {y C} {os Q} {odia V} {, O} {y C} {os Q} {desprecia V} {. O}	O		

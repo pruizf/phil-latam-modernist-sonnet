@@ -1,0 +1,14 @@
+{Al P} {contemplarte N} {augusta V} {, O} {te Q} {venero G} {, O}	O		
+{al P} {ver V} {tu D} {luz N} {, O} {mi D} {corazón N} {se Q} {inflama V} {, O}	O		
+{pues C} {al P} {fulgor N} {de P} {tu D} {radiosa G} {llama N} {, O}	O		
+{se Q} {estremece V} {la D} {faz N} {del P} {mundo N} {entero G} {. O}	O		
+{Cayó V} {la D} {fe N} {con P} {su D} {terrible G} {fuero N} {. O}	O		
+{Ya A} {tu D} {voz N} {por P} {doquiera A} {se Q} {derrama V} {; O}	O		
+{se Q} {hunden V} {Cristo R} {, O} {Vichnú R} {, O} {Budha R} {y C} {Brahama R} {, O}	O		
+{y C} {las D} {naciones N} {van V} {por P} {tu D} {sendero N} {. O}	O		
+{A P} {tu D} {poder V} {gigante N} {y C} {soberano N}	B	oracional	cp01
+{que Q} {el D} {Orbe R} {en P} {otro D} {tiempo N} {no A} {admirara V} {, O}	I	oracional	cp01
+{contra P} {el D} {altar N} {del P} {Sacro R} {Vaticano R}	O		
+{el D} {Papa R} {quiebra N} {con P} {dolor N} {su D} {tiara N} {; O}	O		
+{y C} {aterido G} {y C} {helado N} {, O} {cual Q} {la D} {escarcha N} {, O}	O		
+{grita N} {con P} {Pelletán R} {: O} {" O} {El D} {mundo N} {marcha V} {" O} {. O}	O		

@@ -1,0 +1,14 @@
+{Horas N} {de P} {pesadumbre N} {y C} {de P} {tristeza N}	O		
+{paso N} {en P} {mi D} {soledad N} {. O} {Pero C} {Cervantes R}	B	enlace_subj_verb	ld01
+{es V} {buen G} {amigo N} {. O} {Endulza V} {mis D} {instantes N}	IB	enlace_subj_verb;sirrem_adj_noun	ld01;pp02
+{ásperos G} {, O} {y C} {reposa V} {mi D} {cabeza N} {. O}	I	sirrem_adj_noun	pp02
+{Él Q} {es V} {la D} {vida N} {y C} {la D} {naturaleza N} {, O}	O		
+{regala V} {un D} {yelmo N} {de P} {oros N} {y C} {diamantes N}	O		
+{a P} {mis D} {sueños N} {errantes G} {. O}	O		
+{Es V} {para P} {mí Q} {: O} {suspira N} {, O} {ríe V} {y C} {reza V} {. O}	O		
+{Cristiano R} {y C} {amoroso G} {caballero N}	B	enlace_subj_verb	ld01
+{parla V} {como C} {un D} {arroyo N} {cristalino G} {. O}	I	enlace_subj_verb	ld01
+{¡ O} {Así A} {le Q} {admiro V} {y C} {quiero V} {, O}	O		
+{viendo V} {cmo V} {el D} {destino N}	O		
+{hace V} {que C} {regocije V} {al P} {mundo N} {entero G}	B	enlace_od_verb	ld02
+{la D} {tristeza N} {inmortal G} {de P} {ser V} {divino G} {! O}	I	enlace_od_verb	ld02

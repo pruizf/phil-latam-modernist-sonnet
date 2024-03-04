@@ -1,0 +1,14 @@
+{Soberbio G} {mar. N} {Una D} {irritada G} {ola N}	B	enlace_subj_verb	ld01
+{abre V} {los D} {abanicos N} {de P} {su D} {espuma N} {; O}	I	enlace_subj_verb	ld01
+{y C} {palmetea V} {con P} {presteza N} {suma G}	B	sirrem_adj_prep	pd02
+{sobre P} {una D} {peña N} {indiferente G} {y C} {sola G} {. O}	I	sirrem_adj_prep	pd02
+{La D} {arena N} {se Q} {abrillanta V} {y C} {tornasola R} {, O}	O		
+{al P} {halago N} {de P} {Febo R} {que Q} {se Q} {abruma V} {, O}	O		
+{mientras C} {allá A} {... O} {leve G} {girón N} {de P} {bruma N}	B	enlace_subj_verb	ld01
+{ciñe V} {a P} {la D} {cumbre N} {espiritual G} {aureola N} {. O}	I	enlace_subj_verb	ld01
+{En P} {las D} {ondas N} {elásticas G} {, O} {las D} {yerbas N}	B	enlace_subj_verb	ld01
+{retozan V} {y C} {se Q} {entregan V} {a P} {la D} {orilla N} {, O}	I	enlace_subj_verb	ld01
+{entre P} {las D} {ansias N} {de P} {la D} {lucha N} {acerbas N} {. O}	O		
+{De P} {pie N} {, O} {sobre P} {la D} {peña N} {, O} {álzase V} {un D} {viejo G} {, O}	O		
+{que Q} {absorto G} {con P} {su D} {anzuelo N} {y C} {su D} {varilla N}	B	sirrem_adj_noun	pp03
+{sólo A} {atina G} {a P} {pescar V} {un D} {gran G} {cangrejo N} {. O}	I	sirrem_adj_noun	pp03

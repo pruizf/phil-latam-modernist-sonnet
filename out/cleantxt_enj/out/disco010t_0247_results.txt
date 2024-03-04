@@ -1,0 +1,14 @@
+{El D} {despeinado G} {copo N} {juguetea V}	B	enlace_od_verb	ld02
+{al P} {golpe N} {de P} {ala N} {del P} {cansado G} {viento N} {, O}	I	enlace_od_verb	ld02
+{que Q} {retiembla V} {sin P} {brío N} {y C} {sin P} {aliento N} {, O}	O		
+{sobre P} {la D} {espuma N} {que Q} {a P} {su D} {soplo N} {ondea V} {. O}	O		
+{El D} {pato G} {nadador N} {se Q} {balancea V} {, O}	O		
+{al P} {resbalar V} {con P} {tardo N} {movimiento N} {, O}	O		
+{por P} {el D} {azul N} {cristal N} {, O} {que Q} {un D} {firmamento N}	B	sirrem_adj_noun	pp02
+{cuajado G} {finge N} {donde Q} {el D} {sol N} {chispea G} {. O}	I	sirrem_adj_noun	pp02
+{El D} {blanco N} {cisne V} {, O} {incólume G} {y C} {tranquilo G} {, O}	O		
+{arqueando V} {el D} {cuello N} {, O} {al P} {desgarrar V} {la D} {espuma N} {, O}	O		
+{bate V} {del P} {ala N} {el D} {recortado V} {filo N} {. O}	O		
+{Y C} {doblegado G} {, O} {con P} {las D} {fibras N} {flojas G}	B	sirrem_adj_prep	pd02
+{por P} {el D} {dolor N} {, O} {un D} {sauce N} {que Q} {se Q} {abruma V}	IB	sirrem_adj_prep;enlace_subj_verb	pd02;ld01
+{llora V} {en P} {el D} {agua N} {sus D} {marchitas N} {hojas N} {... O}	I	enlace_subj_verb	ld01

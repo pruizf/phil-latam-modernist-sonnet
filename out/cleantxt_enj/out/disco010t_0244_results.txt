@@ -1,0 +1,14 @@
+{Centinela R} {avanzado G} {que Q} {se Q} {empina V} {, O}	O		
+{defendiendo V} {del P} {mar N} {la D} {dulce G} {aldea N} {, O}	O		
+{sueña V} {el D} {morro N} {en P} {la D} {bárbara G} {pelea N}	B	sirrem_noun_prep	pp05
+{de P} {la D} {ola N} {estallando V} {repentina G} {. O}	I	sirrem_noun_prep	pp05
+{De P} {la D} {playa N} {, O} {a P} {los D} {cielos N} {se Q} {avecina V} {; O}	O		
+{y C} {, O} {en P} {su D} {sien D} {escarpada G} {y C} {gigantea V} {, O}	O		
+{la D} {luz N} {del P} {sol N} {pictórica G} {chispea G}	O		
+{o C} {la D} {bruma N} {temblando V} {desafina G} {... O}	O		
+{Como C} {cuanto A} {más A} {alto G} {es V} {cada D} {monte N}	O		
+{puede V} {más A} {de P} {su D} {cumbre N} {divisarse V} {, O}	O		
+{porque C} {se Q} {ensancha V} {más A} {el D} {horizonte N} {, O}	O		
+{asombrado G} {del P} {morro N} {ante P} {el D} {anhelo N} {, O}	O		
+{¡ O} {nadie Q} {atina V} {si C} {el D} {morro N} {al P} {empinarse V}	B	sirrem_verb_adv	pp11
+{más A} {agua N} {quiere V} {ver V} {o C} {ver V} {más A} {cielo N} {! O} {... O}	I	sirrem_verb_adv	pp11

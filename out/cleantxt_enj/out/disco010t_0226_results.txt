@@ -1,0 +1,14 @@
+{Diálogo V} {de P} {una D} {hora N} {Somero R} {que Q} {he V} {vivido V}	O		
+{con P} {una D} {linda N} {joven G} {, O} {cuyo Q} {candor N} {no A} {empeño N}	O		
+{y C} {a P} {la D} {que Q} {- O} {desde P} {lejos A} {ya A} {para P} {siempre A} {- O} {pido V}	B	enlace_od_verb	ld02
+{perdón N} {por P} {esa D} {hora N} {¡ O} {Si C} {hubiese V} {sido V} {un D} {año N} {! O}	I	enlace_od_verb	ld02
+{Hora N} {de P} {una D} {doncella N} {que Q} {en P} {mi D} {alma N} {ha V} {florecido V} {, O}	O		
+{para P} {hacer V} {ya A} {de P} {toda D} {mi D} {vida N} {un D} {desengaño N} {: O}	O		
+{no A} {hay V} {- O} {pues C} {ni C} {ha V} {de P} {ser V} {mía Q} {, O} {ni C} {he V} {de P} {darla V} {al P} {olvido N} {- O}	O		
+{mujer N} {que Q} {en P} {menor G} {tiempo N} {me Q} {hiciese V} {mayor G} {daño N} {. O}	O		
+{No A} {la Q} {podré V} {en P} {mi D} {vida N} {ya A} {olvidar V} {- O} {¡ O} {es V} {tan A} {ella Q} {! O} {- O}	O		
+{ni C} {escuchar V} {- O} {¡ O} {y C} {es V} {tan A} {dulce G} {- O} {ni C} {mirar V} {- O} {¡ O} {y C} {es V} {tan A} {bella G} {! O}	O		
+{El D} {placer N} {más A} {pequeño G} {cuesta V} {mucho A} {dolor N} {; O}	O		
+{pero C} {, O} {aunque C} {sufra V} {tanto A} {, O} {yo Q} {no A} {sé V} {todavía A}	B	enlace_od_verb	ld02
+{si C} {en P} {un D} {soneto N} {cabe V} {toda D} {la D} {poesía N}	I	enlace_od_verb	ld02
+{con P} {que Q} {en P} {sólo A} {una D} {hora N} {cupo N} {todo D} {su D} {amor N}	O		

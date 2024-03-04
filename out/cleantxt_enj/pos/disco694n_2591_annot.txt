@@ -1,0 +1,14 @@
+{Eduardo R t1} {: O t2} {está V t3} {en P t4} {el D t5} {reino N t6} {de P t7} {nuestra D t8} {fantasía N t9}
+{el D t10} {pabelln N t11} {azul G t12} {de P t13} {nuestro D t14} {rey N t15} {divino G t16} {. O t17}
+{Saludemos V t18} {al P t19} {dios N t20} {en P t21} {el D t22} {pan N t23} {y C t24} {en P t25} {el D t26} {vino N t27} {, O t28}
+{saludemos V t29} {al P t30} {dios N t31} {en P t32} {la D t33} {noche N t34} {y C t35} {el D t36} {día N t37} {. O t38}
+{Todavía A t39} {está V t40} {Apolo R t41} {triunfante G t42} {, O t43} {todavía A t44}
+{gira N t45} {bajo P t46} {su D t47} {lumbre N t48} {la D t49} {rueda N t50} {del P t51} {destino N t52}
+{y C t53} {viértense V t54} {del P t55} {carro N t56} {en P t57} {el D t58} {diurno N t59} {camino N t60}
+{las D t61} {ánforas N t62} {de P t63} {fuego N t64} {, O t65} {las D t66} {urnas N t67} {de P t68} {armonía N t69} {. O t70}
+{Hundámonos R t71} {en P t72} {ese D t73} {mar N t74} {vasto G t75} {de P t76} {éter N t77} {puro G t78}
+{en P t79} {que C t80} {las D t81} {almas N t82} {libres G t83} {del P t84} {cautiverio N t85} {obscuro G t86}
+{de P t87} {la D t88} {sombra N t89} {, O t90} {celebran V t91} {el D t92} {divino G t93} {poder N t94}
+{de P t95} {cantar V t96} {. O t97} {Tal Q t98} {será V t99} {nuestra D t100} {eterna G t101} {retrica G t102} {. O t103}
+{En P t104} {tanto A t105} {suena V t106} {la D t107} {mósica G t108} {pitagrica N t109}
+{y C t110} {brilla N t111} {en P t112} {el D t113} {celeste G t114} {abismo N t115} {Lucifer R t116} {. O t117}

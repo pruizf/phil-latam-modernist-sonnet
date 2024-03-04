@@ -1,0 +1,14 @@
+{Phocas D} {el D} {campesino N} {, O} {hijo N} {mío D} {, O} {que Q} {tienes V} {, O}	O		
+{en P} {apenas A} {escasos D} {meses N} {de P} {vida N} {, O} {tantos D}	B	sirrem_pal-rel	pp16
+{dolores N} {en P} {tus D} {ojos N} {que Q} {esperan V} {tantos D} {llantos N}	I	sirrem_pal-rel	pp16
+{por P} {el D} {fatal G} {pensar V} {que C} {revelan V} {tus D} {sienes N} {... O}	O		
+{Tarda R} {en P} {venir V} {a P} {este D} {dolor N} {a P} {donde Q} {vienes O} {, O}	O		
+{a P} {este D} {mundo N} {terrible G} {en P} {duelos N} {y C} {en P} {espantos N} {; O}	O		
+{duerme V} {bajo P} {los D} {Ángeles N} {, O} {sueña V} {bajo P} {los D} {Santos R} {, O}	O		
+{que Q} {ya A} {tendrás V} {la D} {Vida R} {para P} {que C} {te Q} {envenenes V} {... O}	O		
+{Sueña R} {, O} {hijo N} {mío D} {, O} {todavía A} {, O} {y C} {cuando C} {crezcas G} {, O}	O		
+{perdóname V} {el D} {fatal G} {don N} {de P} {darte V} {la D} {vida N} {, O}	O		
+{que Q} {yo Q} {hubiera V} {querido V} {de P} {azul N} {y C} {rosas N} {frescas G} {; O}	O		
+{pues C} {tú Q} {eres V} {la D} {crisálida N} {de P} {mi D} {alma N} {entristecida G} {, O}	O		
+{y C} {te Q} {he V} {de P} {ver V} {en P} {medio D} {del P} {triunfo N} {que Q} {merezcas N}	O		
+{renovando V} {el D} {fulgor N} {de P} {mi D} {psique N} {abolida G} {. O}	O		

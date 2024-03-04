@@ -1,0 +1,14 @@
+{María V t1} {estaba V t2} {pálida G t3} {y C t4} {José R t5} {el D t6} {carpintero N t7} {: O t8}
+{miraban V t9} {en P t10} {los D t11} {ojos N t12} {de P t13} {la D t14} {faz N t15} {pura G t16} {y C t17} {bella G t18}
+{el D t19} {celeste G t20} {milagro N t21} {que C t22} {anunciaba V t23} {la D t24} {estrella N t25}
+{do G t26} {ya A t27} {estaba V t28} {el D t29} {martirio N t30} {que Q t31} {aguardaba V t32} {el D t33} {Cordero R t34} {. O t35}
+{Los D t36} {pastores N t37} {cantaban V t38} {muy A t39} {despacio A t40} {, O t41} {y C t42} {postrero G t43}
+{iba V t44} {un D t45} {carro N t46} {de P t47} {arcángeles N t48} {que Q t49} {dejaba V t50} {su D t51} {huella N t52} {; O t53}
+{apenas A t54} {se Q t55} {miraba V t56} {lo D t57} {que Q t58} {Aldebarán R t59} {sella V t60} {, O t61}
+{y C t62} {el D t63} {lucero N t64} {del P t65} {alba N t66} {no A t67} {era V t68} {aún A t69} {tempranero G t70} {. O t71}
+{Esa D t72} {visión N t73} {en P t74} {mí Q t75} {se Q t76} {alza N t77} {y C t78} {se Q t79} {multiplica V t80}
+{en P t81} {detalles N t82} {preciosos G t83} {y C t84} {en P t85} {mil D t86} {prodigios N t87} {rica G t88} {, O t89}
+{por P t90} {la D t91} {cierta D t92} {esperanza N t93} {del P t94} {más A t95} {divino G t96} {bien A t97} {, O t98}
+{de P t99} {la D t100} {Virgen R t101} {, O t102} {el D t103} {Niño R t104} {y C t105} {el D t106} {San R t107} {José R t108} {proscrito G t109} {; O t110}
+{y C t111} {yo Q t112} {, O t113} {en P t114} {mi D t115} {pobre G t116} {burro N t117} {, O t118} {caminando V t119} {hacia P t120} {Egipto R t121} {, O t122}
+{y C t123} {sin P t124} {la D t125} {estrella N t126} {ahora A t127} {, O t128} {muy A t129} {lejos A t130} {de P t131} {Belén R t132} {. O t133}

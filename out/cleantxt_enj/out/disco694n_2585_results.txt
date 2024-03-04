@@ -1,0 +1,14 @@
+{¡ O} {Israel R} {! O} {¡ O} {Israel R} {! O} {¿ O} {Cuándo V} {de P} {tu D} {divina G}	B	sirrem_adj_noun	pp02
+{faz N} {en P} {la D} {sangre N} {pura G} {resbalará V} {el D} {diamante N} {? O}	I	sirrem_adj_noun	pp02
+{¿ O} {Cuándo Q} {el D} {viento N} {del P} {río N} {hará V} {que C} {el D} {arpa N} {cante G}	B	sirrem_adj_prep	pd02
+{entre P} {el D} {concurso N} {eterno G} {de P} {la D} {brisa N} {argentina G} {? O}	I	sirrem_adj_prep	pd02
+{¿ O} {Cuándo Q} {será V} {la D} {cabellera N} {que Q} {se Q} {inclina V}	O		
+{agitada G} {por P} {un D} {viento N} {perseverante G} {? O}	O		
+{¿ O} {Cuándo Q} {el D} {brazo N} {de P} {luz N} {dará V} {al P} {Judío R} {Errante R}	B	enlace_od_verb	ld02
+{el D} {vaso N} {en P} {que Q} {se Q} {abreve V} {del P} {agua N} {cristalina G} {? O}	I	enlace_od_verb	ld02
+{¡ O} {Israel R} {! O} {¡ O} {Israel R} {! O} {Eso Q} {será V} {en P} {la D} {hora N}	O		
+{en P} {que Q} {cante V} {a P} {los D} {cielos N} {la D} {alondra N} {pecadora G}	O		
+{y C} {en P} {el D} {profundo G} {abismo N} {se Q} {conmueva V} {el D} {grande G} {ojo N} {. O}	O		
+{Y C} {cuando C} {levantados G} {el D} {santo N} {y C} {aristo N} {, O}	O		
+{ponga V} {su D} {blanca G} {mano N} {nuestro D} {príncipe N} {Cristo R} {, O}	O		
+{ponga V} {su D} {blanca G} {mano N} {sobre P} {el D} {infierno N} {rojo G} {. O}	O		

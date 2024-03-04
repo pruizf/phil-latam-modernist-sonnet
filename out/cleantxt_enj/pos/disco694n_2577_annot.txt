@@ -1,0 +1,14 @@
+{Phocas D t1} {el D t2} {campesino N t3} {, O t4} {hijo N t5} {mío D t6} {, O t7} {que Q t8} {tienes V t9} {, O t10}
+{en P t11} {apenas A t12} {escasos D t13} {meses N t14} {de P t15} {vida N t16} {, O t17} {tantos D t18}
+{dolores N t19} {en P t20} {tus D t21} {ojos N t22} {que Q t23} {esperan V t24} {tantos D t25} {llantos N t26}
+{por P t27} {el D t28} {fatal G t29} {pensar V t30} {que C t31} {revelan V t32} {tus D t33} {sienes N t34} {... O t35}
+{Tarda R t36} {en P t37} {venir V t38} {a P t39} {este D t40} {dolor N t41} {a P t42} {donde Q t43} {vienes O t44} {, O t45}
+{a P t46} {este D t47} {mundo N t48} {terrible G t49} {en P t50} {duelos N t51} {y C t52} {en P t53} {espantos N t54} {; O t55}
+{duerme V t56} {bajo P t57} {los D t58} {Ángeles N t59} {, O t60} {sueña V t61} {bajo P t62} {los D t63} {Santos R t64} {, O t65}
+{que Q t66} {ya A t67} {tendrás V t68} {la D t69} {Vida R t70} {para P t71} {que C t72} {te Q t73} {envenenes V t74} {... O t75}
+{Sueña R t76} {, O t77} {hijo N t78} {mío D t79} {, O t80} {todavía A t81} {, O t82} {y C t83} {cuando C t84} {crezcas G t85} {, O t86}
+{perdóname V t87} {el D t88} {fatal G t89} {don N t90} {de P t91} {darte V t92} {la D t93} {vida N t94} {, O t95}
+{que Q t96} {yo Q t97} {hubiera V t98} {querido V t99} {de P t100} {azul N t101} {y C t102} {rosas N t103} {frescas G t104} {; O t105}
+{pues C t106} {tú Q t107} {eres V t108} {la D t109} {crisálida N t110} {de P t111} {mi D t112} {alma N t113} {entristecida G t114} {, O t115}
+{y C t116} {te Q t117} {he V t118} {de P t119} {ver V t120} {en P t121} {medio D t122} {del P t123} {triunfo N t124} {que Q t125} {merezcas N t126}
+{renovando V t127} {el D t128} {fulgor N t129} {de P t130} {mi D t131} {psique N t132} {abolida G t133} {. O t134}

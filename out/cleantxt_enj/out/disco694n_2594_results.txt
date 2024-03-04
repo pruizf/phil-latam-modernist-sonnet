@@ -1,0 +1,14 @@
+{Gaita N} {galaica G} {, O} {sabes V} {cantar V}	B	enlace_od_verb	ld02
+{lo D} {que Q} {profundo G} {y C} {dulce G} {nos Q} {es V} {. O}	I	enlace_od_verb	ld02
+{Dices N} {de P} {amor N} {, O} {y C} {dices G} {después A}	O		
+{de P} {un D} {amargor N} {como C} {el D} {de P} {la D} {mar. N}	O		
+{Canta R} {. O} {Es V} {el D} {tiempo N} {. O} {Haremos V} {danzar V}	B	enlace_od_verb	ld02
+{al P} {fino G} {verso N} {de P} {rítmicos N} {pies N} {. O}	I	enlace_od_verb	ld02
+{Ya A} {nos Q} {lo Q} {dijo V} {el D} {Eclesiastés R} {: O}	O		
+{tiempo N} {hay V} {de P} {todo Q} {: O} {hay V} {tiempo N} {de P} {amar V} {, O}	O		
+{tiempo N} {de P} {ganar V} {, O} {tiempo N} {de P} {perder V} {, O}	O		
+{tiempo N} {de P} {plantar V} {, O} {tiempo N} {de P} {coger V} {, O}	O		
+{tiempo N} {de P} {llorar V} {, O} {tiempo N} {de P} {reír V} {, O}	O		
+{tiempo N} {de P} {rasgar V} {, O} {tiempo N} {de P} {coser V} {, O}	O		
+{tiempo N} {de P} {esparcir V} {y C} {de P} {recoger V} {, O}	O		
+{tiempo N} {de P} {nacer V} {, O} {tiempo N} {de P} {morir V} {. O}	O		

@@ -1,0 +1,14 @@
+{La D t1} {tarde N t2} {se Q t3} {pasea V t4} {como C t5} {convaleciente G t6}
+{por P t7} {el D t8} {verdor N t9} {espeso G t10} {de P t11} {los D t12} {cañaverales N t13}
+{Desflécase V t14} {una D t15} {lluvia N t16} {de P t17} {menudos G t18} {cristales N t19} {; O t20}
+{y C t21} {el D t22} {paisaje N t23} {retiembla V t24} {como C t25} {a P t26} {través N t27} {de P t28} {un D t29} {lente N t30} {. O t31}
+{Las D t32} {chimeneas N t33} {rojas G t34} {de P t35} {la D t36} {fábrica N t37} {ingente G t38}
+{dan V t39} {la D t40} {impresión N t41} {de P t42} {un D t43} {barco N t44} {que Q t45} {espera V t46} {las D t47} {señales N t48}
+{para P t49} {zarpar V t50} {, O t51} {y C t52} {cuyas Q t53} {campanas N t54} {funerales G t55}
+{de P t56} {vez N t57} {en P t58} {cuando C t59} {vuélcanse V t60} {acompasadamente A t61}
+{Tal D t62} {cual Q t63} {palmera N t64} {impone V t65} {contra P t66} {el D t67} {cielo N t68} {su D t69} {estampa N t70}
+{de P t71} {abanicos N t72} {, O t73} {que Q t74} {luce V t75} {calado N t76} {el D t77} {varillaje N t78}
+{Las D t79} {nubes N t80} {fugan V t81} {. O t82} {Chillan V t83} {los D t84} {insectos N t85} {. O t86} {Escampa R t87} {. O t88}
+{Y C t89} {un D t90} {acordeón N t91} {rústico G t92} {alarga V t93} {un D t94} {danzón N t95} {vago G t96} {, O t97}
+{que Q t98} {se Q t99} {disuelve V t100} {sobre P t101} {la D t102} {angustia N t103} {del P t104} {paisaje N t105}
+{como C t106} {un D t107} {jirón N t108} {de P t109} {niebla N t110} {sobre P t111} {la D t112} {paz N t113} {de P t114} {un D t115} {lago N t116} {. O t117}

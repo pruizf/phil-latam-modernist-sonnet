@@ -1,0 +1,14 @@
+{Hoy A t1} {se Q t2} {celebra V t3} {la D t4} {triunfal G t5} {entrada N t6}
+{de P t7} {Jesús O t8} {a P t9} {Salem R t10} {: O t11} {blanda G t12} {pollina N t13}
+{con P t14} {adorable G t15} {carga N t16} {se Q t17} {encamina V t18}
+{por P t19} {la D t20} {senda N t21} {de P t22} {rosas N t23} {alfombrada G t24} {. O t25}
+{Luciente A t26} {procesión N t27} {. O t28} {La D t29} {aglomerada N t30}
+{plebe V t31} {, O t32} {que Q t33} {entorno N t34} {de P t35} {Jesús O t36} {se Q t37} {empina V t38} {, O t39}
+{vibra V t40} {la D t41} {palma N t42} {de P t43} {la D t44} {fe N t45} {divina G t46}
+{cual Q t47} {pudiera V t48} {vibrar V t49} {odiosa G t50} {espada N t51} {. O t52}
+{¡ O t53} {Y C t54} {el D t55} {Saqueo R t56} {está V t57} {ahí A t58} {! O t59} {La D t60} {ajena G t61} {gloria N t62}
+{curiosidad N t63} {despierta V t64} {: O t65} {¡ O t66} {y C t67} {pobre G t68} {el D t69} {alma N t70}
+{que Q t71} {nunca A t72} {en P t73} {otra D t74} {provocó V t75} {un D t76} {deseo N t77} {! O t78}
+{Es V t79} {una D t80} {ley N t81} {por P t82} {eso Q t83} {, O t84} {de P t85} {la D t86} {Historia R t87} {, O t88}
+{que Q t89} {así A t90} {como C t91} {en P t92} {el D t93} {triunfo N t94} {hay V t95} {una D t96} {palma N t97} {, O t98}
+{en P t99} {la D t100} {palma N t101} {del P t102} {triunfo N t103} {haya V t104} {un D t105} {Saqueo R t106} {. O t107}

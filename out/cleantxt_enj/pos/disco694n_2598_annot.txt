@@ -1,0 +1,14 @@
+{Por P t1} {olas N t2} {intranquilas G t3} {y C t4} {por P t5} {soplos N t6} {amargos G t7}
+{iba V t8} {el D t9} {bajel N t10} {de P t11} {Grecia R t12} {con P t13} {rumbo N t14} {a P t15} {la D t16} {ilusión N t17} {; O t18}
+{Febo R t19} {daba V t20} {su D t21} {oro N t22} {para P t23} {la D t24} {nave N t25} {Argos R t26} {, O t27}
+{y C t28} {Júpiter R t29} {sabía V t30} {del P t31} {sueño N t32} {de P t33} {Jasón R t34} {. O t35}
+{Espera V t36} {infamias N t37} {duras G t38} {y C t39} {aguarda V t40} {vientos N t41} {largos G t42} {, O t43}
+{tú Q t44} {, O t45} {que Q t46} {tienes V t47} {por P t48} {nave N t49} {tu D t50} {propio G t51} {corazón N t52} {; O t53}
+{que C t54} {si C t55} {tienes V t56} {cuidados G t57} {y C t58} {multiplicas G t59} {cargos N t60} {, O t61}
+{a P t62} {la D t63} {cuenta N t64} {de P t65} {tu D t66} {alma N t67} {, O t68} {lírica G t69} {y C t70} {dulce G t71} {, O t72} {son V t73} {. O t74}
+{Y C t75} {a P t76} {la D t77} {cuenta N t78} {de P t79} {tu D t80} {alma N t81} {te Q t82} {pondrán V t83} {tus D t84} {locuras N t85} {, O t86}
+{tus D t87} {conquistas N t88} {fugaces G t89} {y C t90} {tus D t91} {cosas N t92} {impuras G t93} {... O t94}
+{El D t95} {ángel N t96} {de P t97} {la D t98} {guarda N t99} {, O t100} {exacto G t101} {y C t102} {puro G t103} {es V t104} {. O t105}
+{Así A t106} {que C t107} {peques O t108} {mucho A t109} {o C t110} {así A t111} {que C t112} {peques G t113} {poco A t114} {, O t115}
+{te Q t116} {salvarás V t117} {por P t118} {santo N t119} {, O t120} {por P t121} {poeta N t122} {o C t123} {por P t124} {loco N t125} {, O t126}
+{y C t127} {las D t128} {cuentas N t129} {finales G t130} {te Q t131} {arreglarán V t132} {después A t133} {. O t134}

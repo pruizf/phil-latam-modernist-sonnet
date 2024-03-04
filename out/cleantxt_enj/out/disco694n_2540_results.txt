@@ -1,0 +1,14 @@
+{Poesía N} {dulce G} {y C} {mística N} {, O}	O		
+{busca V} {a P} {la D} {blanca G} {cubana N}	B	oracional	cp01
+{que Q} {se Q} {asomó V} {a P} {la D} {ventana N}	I	oracional	cp01
+{como C} {una D} {visión N} {artística G} {. O}	O		
+{Misteriosa G} {y C} {cabalística G} {, O}	O		
+{puede V} {dar V} {celos N} {a P} {Diana R} {, O}	O		
+{con P} {su D} {faz N} {de P} {porcelana N}	B	sirrem_noun_prep	pp06.1
+{de P} {una D} {blancura G} {eucarística N} {. O}	I	sirrem_noun_prep	pp06.1
+{Llena R} {de P} {un D} {prestigio N} {asiático G} {, O}	O		
+{roja G} {, O} {en P} {el D} {rostro N} {enigmático G} {, O}	O		
+{su D} {boca N} {púrpura G} {finge N}	B	enlace_subj_verb	ld01
+{y C} {al P} {sonreírse V} {vi V} {en P} {ella Q}	IB	enlace_subj_verb;enlace_od_verb	ld01;ld02
+{el D} {resplandor N} {de P} {una D} {estrella N}	IB	enlace_od_verb;oracional	ld02;cp01
+{que Q} {fuese V} {alma N} {de P} {una D} {esfinge N} {. O}	I	oracional	cp01

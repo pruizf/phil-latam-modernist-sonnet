@@ -1,0 +1,14 @@
+{Por P t1} {un D t2} {momento N t3} {, O t4} {oh C t5} {Cisne R t6} {, O t7} {juntaré V t8} {mis D t9} {anhelos N t10}
+{a P t11} {los D t12} {de P t13} {tus D t14} {dos D t15} {alas N t16} {que Q t17} {abrazaron V t18} {a P t19} {Leda R t20} {, O t21}
+{y C t22} {a P t23} {mi D t24} {maduro G t25} {ensueño N t26} {, O t27} {aun A t28} {vestido G t29} {de P t30} {seda N t31} {, O t32}
+{dirás A t33} {, O t34} {por P t35} {los D t36} {Dioscuros R t37} {, O t38} {la D t39} {gloria N t40} {de P t41} {los D t42} {cielos N t43} {. O t44}
+{Es V t45} {el D t46} {otoño N t47} {. O t48} {Ruedan V t49} {de P t50} {la D t51} {flauta N t52} {consuelos G t53} {. O t54}
+{Por P t55} {un D t56} {instante N t57} {, O t58} {oh C t59} {Cisne R t60} {, O t61} {en P t62} {la D t63} {obscura N t64} {alameda G t65}
+{sorberé G t66} {entre P t67} {dos D t68} {labios N t69} {lo D t70} {que Q t71} {el D t72} {Pudor R t73} {me Q t74} {veda N t75} {, O t76}
+{y C t77} {dejaré V t78} {mordidos G t79} {Escrúpulos R t80} {y C t81} {Celos R t82} {. O t83}
+{Cisne R t84} {, O t85} {tendré V t86} {tus D t87} {alas N t88} {blancas G t89} {, O t90} {por P t91} {un D t92} {instante N t93} {, O t94}
+{y C t95} {el D t96} {corazn N t97} {de P t98} {rosa N t99} {que Q t100} {hay V t101} {en P t102} {tu D t103} {dulce G t104} {pecho N t105}
+{palpitará V t106} {en P t107} {el D t108} {mío D t109} {con P t110} {su D t111} {sangre N t112} {constante G t113} {. O t114}
+{Amor R t115} {será V t116} {dichoso G t117} {, O t118} {pues C t119} {estará V t120} {vibrante G t121}
+{el D t122} {júbilo N t123} {que Q t124} {pone V t125} {al P t126} {gran G t127} {Pan N t128} {en P t129} {acecho N t130}
+{mientras C t131} {su D t132} {ritmo N t133} {esconde V t134} {la D t135} {fuente N t136} {de P t137} {diamante N t138} {. O t139}

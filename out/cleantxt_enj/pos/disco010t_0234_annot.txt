@@ -1,0 +1,14 @@
+{Cuando C t1} {en P t2} {las D t3} {viejas G t4} {ruinas N t5} {del P t6} {Oriente R t7}
+{moderno G t8} {explorador N t9} {halla V t10} {un D t11} {tesoro N t12} {, O t13}
+{al P t14} {descubrir V t15} {los D t16} {ídolos N t17} {de P t18} {oro N t19}
+{que Q t20} {culto N t21} {fueron V t22} {de P t23} {pagana N t24} {gente N t25} {, O t26}
+{¡ O t27} {con P t28} {qué Q t29} {interés N t30} {el D t31} {alma N t32} {del P t33} {Presente R t34}
+{vuela V t35} {a P t36} {esa D t37} {Edad R t38} {, O t39} {en P t40} {que C t41} {el D t42} {sagrado G t43} {coro N t44}
+{divinizaba V t45} {en P t46} {cántico G t47} {sonoro G t48}
+{deformes G t49} {monstruos N t50} {de P t51} {achatada N t52} {frente A t53} {! O t54} {... O t55}
+{Mañana A t56} {que C t57} {esta D t58} {Edad N t59} {también A t60} {sucumba G t61} {, O t62}
+{futuro N t63} {explorador N t64} {, O t65} {de P t66} {tumba N t67} {en P t68} {tumba N t69} {, O t70}
+{paseará V t71} {por P t72} {las D t73} {ruinas N t74} {su D t75} {mirada N t76} {: O t77}
+{¡ O t78} {y C t79} {qué D t80} {espanto N t81} {tendrá V t82} {, O t83} {qué Q t84} {rara G t85} {idea N t86} {, O t87}
+{cuando C t88} {brillar V t89} {entre P t90} {las D t91} {ruinas N t92} {vea V t93} {, O t94}
+{como C t95} {joya N t96} {rarísima G t97} {, O t98} {una D t99} {espada N t100} {! O t101} {... O t102}

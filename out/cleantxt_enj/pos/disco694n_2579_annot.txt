@@ -1,0 +1,14 @@
+{Cleopompo R t1} {y C t2} {Heliodemo R t3} {, O t4} {cuya Q t5} {filosofía N t6}
+{es V t7} {idéntica G t8} {, O t9} {gustan V t10} {dialogar V t11} {bajo P t12} {el D t13} {verde N t14}
+{patio N t15} {del P t16} {platanar N t17} {. O t18} {Allí A t19} {Cleopompo R t20} {muerde V t21}
+{la D t22} {manzana N t23} {epicúrea G t24} {y C t25} {Heliodemo R t26} {fía V t27}
+{al P t28} {aire N t29} {su D t30} {confianza N t31} {en P t32} {la D t33} {eterna G t34} {armonía N t35} {. O t36}
+{Malhaya R t37} {quien Q t38} {las Q t39} {Parcas R t40} {inhumano G t41} {recuerde V t42} {: O t43}
+{si C t44} {una D t45} {sonora G t46} {perla N t47} {de P t48} {la D t49} {clepsidra N t50} {pierde V t51} {, O t52}
+{no A t53} {volverá V t54} {a P t55} {ofrecerla V t56} {la D t57} {mano N t58} {que Q t59} {la Q t60} {envía V t61} {. O t62}
+{Una D t63} {vaca N t64} {aparece V t65} {, O t66} {crepuscular G t67} {. O t68} {Es V t69} {hora N t70}
+{en P t71} {que C t72} {el D t73} {grillo N t74} {en P t75} {su D t76} {lira N t77} {hace V t78} {halagos N t79} {a P t80} {Flora R t81} {, O t82}
+{y C t83} {en P t84} {el D t85} {azul N t86} {florece V t87} {un D t88} {diamante N t89} {supremo G t90} {: O t91}
+{y C t92} {en P t93} {la D t94} {pupila N t95} {enorme G t96} {de P t97} {la D t98} {bestia N t99} {apacible G t100}
+{miran V t101} {como C t102} {que C t103} {rueda V t104} {en P t105} {un D t106} {ritmo N t107} {visible G t108}
+{la D t109} {música N t110} {del P t111} {mundo N t112} {, O t113} {Cleopompo R t114} {y C t115} {Heliodemo R t116} {. O t117}

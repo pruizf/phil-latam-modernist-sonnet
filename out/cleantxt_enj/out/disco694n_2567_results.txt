@@ -1,0 +1,14 @@
+{Amado G} {es V} {la D} {palabra N} {en P} {que Q} {amar V} {se Q} {concreta V} {; O}	O		
+{Nervo R} {es V} {la D} {vibración N} {de P} {los D} {nervios N} {del P} {mal N} {. O}	O		
+{Bendita R} {sea V} {, O} {y C} {pura G} {la D} {canción N} {del P} {poeta N}	B	oracional	cp01
+{que Q} {lanzó V} {sin P} {pensar V} {su D} {frase N} {de P} {cristal N} {. O}	I	oracional	cp01
+{Fraile R} {de P} {mis D} {suspiros N} {, O} {celeste G} {anacoreta G}	B	oracional	cp01
+{que Q} {tiene V} {en P} {blancura G} {la D} {azúcar N} {y C} {la D} {sal N} {: O}	I	oracional	cp01
+{muéstrame V} {el D} {lirio N} {puro G} {que Q} {sigues G} {en P} {la D} {veta V}	O		
+{y C} {hazme V} {escuchar V} {el D} {eco N} {de P} {tu D} {alma N} {sideral G} {! O}	O		
+{Generoso G} {y C} {sutil G} {como C} {una D} {mariposa G} {, O}	O		
+{encuentra V} {en P} {mí Q} {la D} {miel N} {de P} {lo D} {que Q} {soy V} {capaz G}	O		
+{y C} {goza V} {en P} {mí Q} {la D} {dulce G} {fragancia N} {de P} {la D} {rosa N} {. O}	O		
+{No A} {busques V} {en P} {mis D} {gestos N} {el D} {alma N} {de P} {mi D} {faz N} {: O}	O		
+{quiere V} {lo D} {que Q} {se Q} {aquieta V} {, O} {busca V} {lo D} {que Q} {reposa V} {, O}	O		
+{y C} {ten V} {como C} {una D} {joya N} {la D} {perla N} {de P} {la D} {Paz R} {! O}	O		

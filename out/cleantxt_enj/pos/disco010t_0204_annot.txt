@@ -1,0 +1,14 @@
+{Ya A t1} {todos D t2} {los D t3} {caiques N t4} {probaron V t5} {el D t6} {madero N t7}
+{- O t8} {¿ O t9} {Quién Q t10} {falta V t11} {? O t12} {- O t13} {Y C t14} {la D t15} {respuesta N t16} {fue V t17} {un D t18} {arrogante G t19} {: O t20} {¡ O t21} {Yo Q t22} {! O t23}
+{- O t24} {¡ O t25} {Yo Q t26} {! O t27} {- O t28} {dijo V t29} {; O t30} {y C t31} {, O t32} {en P t33} {la D t34} {forma N t35} {de P t36} {una D t37} {visión N t38} {de P t39} {Homero R t40} {, O t41}
+{del P t42} {fondo N t43} {de P t44} {los D t45} {bosques N t46} {Caupolicán R t47} {surgió V t48} {. O t49}
+{Echóse V t50} {el D t51} {tronco N t52} {encima A t53} {, O t54} {con P t55} {ademán N t56} {ligero G t57} {, O t58}
+{y C t59} {estremecerse V t60} {pudo V t61} {pero C t62} {doblarse V t63} {no A t64}
+{Bajo P t65} {sus D t66} {pies N t67} {, O t68} {tres D t69} {días N t70} {crujir N t71} {hizo V t72} {el D t73} {sendero N t74} {, O t75}
+{y C t76} {estuvo V t77} {andando V t78} {andando V t79} {y C t80} {andando V t81} {se Q t82} {durmió V t83} {. O t84}
+{Andando R t85} {, O t86} {así A t87} {, O t88} {dormido G t89} {, O t90} {vio V t91} {en P t92} {sueños N t93} {al P t94} {verdugo N t95} {: O t96}
+{él Q t97} {, O t98} {muerto G t99} {sobre P t100} {un D t101} {tronco N t102} {; O t103} {su D t104} {raza N t105} {, O t106} {con P t107} {el D t108} {yugo N t109} {, O t110}
+{inútil G t111} {todo D t112} {esfuerzo N t113} {y C t114} {el D t115} {mundo N t116} {siempre A t117} {igual G t118} {. O t119}
+{Por P t120} {eso Q t121} {, O t122} {el D t123} {tercer G t124} {día N t125} {de P t126} {andar V t127} {por P t128} {valle N t129} {y C t130} {sierra N t131} {, O t132}
+{el D t133} {tronco N t134} {alzó V t135} {en P t136} {los D t137} {aires N t138} {y C t139} {lo Q t140} {clavó V t141} {en P t142} {la D t143} {tierra N t144} {, O t145}
+{¡ O t146} {cómo Q t147} {si C t148} {el D t149} {tronco N t150} {fuese V t151} {su D t152} {mismo D t153} {pedestal N t154} {! O t155}

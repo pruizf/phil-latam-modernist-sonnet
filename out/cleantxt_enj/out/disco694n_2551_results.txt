@@ -1,0 +1,14 @@
+{Ama V} {tu D} {ritmo N} {y C} {ritma N} {tus D} {acciones N}	B	sirrem_noun_prep	pd02
+{bajo P} {su D} {ley N} {, O} {así A} {como C} {tus D} {versos N} {; O}	I	sirrem_noun_prep	pd02
+{eres V} {un D} {universo N} {de P} {universos N}	O		
+{y C} {tu D} {alma N} {una D} {fuente N} {de P} {canciones N} {. O}	O		
+{La D} {celeste G} {unidad N} {que C} {presupones N}	B	enlace_subj_verb	ld01
+{hará V} {brotar V} {en P} {ti Q} {mundos N} {diversos G} {, O}	I	enlace_subj_verb	ld01
+{y C} {al P} {resonar V} {tus D} {números N} {dispersos G}	O		
+{pitagoriza V} {en P} {tus D} {constelaciones N} {. O}	O		
+{Escucha V} {la D} {retrica N} {divina G}	B	sirrem_noun_prep	pp05
+{del P} {pájaro N} {del P} {aire N} {y C} {la D} {nocturna G}	IB	sirrem_noun_prep;sirrem_adj_noun	pp05;pp02
+{irradiación N} {geométrica G} {adivina G} {; O}	I	sirrem_adj_noun	pp02
+{mata V} {la D} {indiferencia N} {taciturna G}	O		
+{y C} {engarza V} {perla V} {y C} {perla V} {cristalina G}	B	sirrem_adj_prep	pd02
+{en P} {donde Q} {la D} {verdad N} {vuelca G} {su D} {urna N} {. O}	I	sirrem_adj_prep	pd02

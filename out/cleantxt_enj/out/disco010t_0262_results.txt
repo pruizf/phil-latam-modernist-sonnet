@@ -1,0 +1,14 @@
+{Olor R} {de P} {nido N} {. O} {Sonrosada G} {lumbre N} {, O}	O		
+{tras P} {la D} {pantalla N} {, O} {esplende V} {en P} {la D} {cortina G} {, O}	O		
+{entre P} {la D} {cual Q} {a P} {Venus R} {se Q} {adivina V}	O		
+{llena G} {de P} {placidez N} {y C} {mansedumbre N} {. O}	O		
+{Como C} {el D} {pálido G} {copo N} {de P} {la D} {cumbre N} {, O}	O		
+{yace V} {Venus R} {, O} {helada G} {y C} {cristalina G} {; O}	O		
+{mientras C} {que C} {afuera V} {el D} {campo N} {desafina V}	O		
+{con P} {su D} {rumor N} {de P} {ronca N} {muchedumbre N} {. O}	O		
+{Duerme V} {ella Q} {al P} {fondo N} {de P} {su D} {cuja N} {blanca G} {, O}	O		
+{luciendo V} {un D} {brazo N} {que Q} {torneado G} {arranca A}	O		
+{y C} {el D} {alabastro N} {de P} {su D} {seno N} {combo N} {, O}	O		
+{sin P} {más A} {testigos N} {en P} {la D} {paz N} {nocturna G}	B	oracional	cp01
+{que Q} {el D} {Cristo R} {agonizante G} {entre P} {la D} {urna N}	I	oracional	cp01
+{y C} {los D} {chinos N} {bordados G} {sobre P} {el D} {biombo N} {... O}	O		

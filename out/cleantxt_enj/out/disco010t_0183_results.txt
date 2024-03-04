@@ -1,0 +1,14 @@
+{Era V} {una D} {reina N} {hispana G} {No A} {sé V} {ni C} {quien Q} {sería V} {, O}	O		
+{ni C} {cual Q} {su D} {egregio N} {nombre N} {, O} {ni C} {como C} {su D} {linaje N} {: O}	O		
+{sé V} {apenas A} {la D} {elegancia N} {con P} {que Q} {de P} {su D} {carruaje N}	O		
+{saltó V} {, O} {al P} {oír V} {a P} {un D} {niño N} {que Q} {en P} {un D} {rincón N} {gemía V} {. O}	O		
+{Y C} {dijo V} {: O} {- O} {¿ O} {Por P} {qué Q} {llora V} {? O} {- O} {La D} {tarde N} {estaba V} {fría G} {; O}	O		
+{y C} {el D} {niño N} {estaba V} {hambriento G} {La D} {reina N} {abrióse V} {el D} {traje N} {; O}	O		
+{y C} {le Q} {dio V} {el D} {seno N} {blanco G} {por P} {entre P} {el D} {blanco N} {encaje N} {, O}	O		
+{como C} {lo Q} {hubiese V} {hecho V} {Santa R} {Isabel R} {de P} {Hungría R} {. O}	O		
+{Es V} {gloria N} {de P} {la D} {estirpe N} {la D} {que Q} {le Q} {dio V} {su D} {pecho N}	O		
+{a P} {aquel D} {hambriento G} {niño N} {que Q} {acaso A} {sentiría V}	B	sirrem_verb_adv	pp11
+{más A} {tarde A} {un D} {misterioso G} {dinástico N} {derecho G} {; O}	I	sirrem_verb_adv	pp11
+{y C} {es V} {gloria N} {de P} {la D} {estirpe N} {, O} {porque C} {es V} {amor N} {fecundo G}	O		
+{con P} {que Q} {la D} {reina N} {al P} {niño N} {le Q} {dio V} {su D} {seno N} {un D} {día N} {, O}	O		
+{¡ O} {fue V} {el D} {mismo Q} {con P} {que C} {España R} {le Q} {dio V} {su D} {seno N} {a P} {un D} {mundo N} {! O}	O		

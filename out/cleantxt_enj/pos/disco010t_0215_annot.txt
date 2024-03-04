@@ -1,0 +1,14 @@
+{Dime R t1} {, O t2} {si C t3} {has V t4} {visitado V t5} {la D t6} {Real R t7} {Armería R t8} {, O t9}
+{¿ O t10} {qué Q t11} {sentiste V t12} {ante P t13} {aquellas D t14} {antiguas G t15} {armaduras N t16} {? O t17}
+{Mi D t18} {verso N t19} {evocativo G t20} {perfila V t21} {las D t22} {figuras N t23}
+{heroicas G t24} {que Q t25} {se Q t26} {pierden V t27} {en P t28} {esa D t29} {lejanía N t30}
+{Poeta R t31} {que C t32} {a P t33} {ti Q t34} {llego V t35} {desde P t36} {un D t37} {remoto G t38} {día N t39} {, O t40}
+{¿ O t41} {cómo A t42} {podré V t43} {halagarte V t44} {con P t45} {mis D t46} {palabras N t47} {duras G t48} {, O t49}
+{si C t50} {estoy V t51} {enamorado G t52} {de P t53} {aquellas D t54} {aventuras N t55}
+{y C t56} {sólo A t57} {siento V t58} {aquella D t59} {vetusta N t60} {poesía N t61} {? O t62}
+{¿ O t63} {Quieres N t64} {oír V t65} {mi D t66} {canto N t67} {? O t68} {Visita V t69} {el D t70} {gran G t71} {museo N t72}
+{de P t73} {las D t74} {armas N t75} {; O t76} {y C t77} {, O t78} {entonces A t79} {, O t80} {colmarás V t81} {tu D t82} {deseo N t83} {, O t84}
+{posando V t85} {en P t86} {esas D t87} {viejas G t88} {panoplias N t89} {tus D t90} {miradas N t91}
+{Tal Q t92} {, O t93} {ya A t94} {que C t95} {a P t96} {tu D t97} {capricho N t98} {mi D t99} {inspiración N t100} {someto N t101} {, O t102}
+{como C t103} {una Q t104} {de P t105} {esas D t106} {viejas G t107} {panoplias N t108} {, O t109} {mi D t110} {soneto N t111}
+{desdobla V t112} {el D t113} {abanico N t114} {de P t115} {sus D t116} {catorce D t117} {espadas N t118} {. O t119}

@@ -1,0 +1,14 @@
+{Diálogo V t1} {de P t2} {una D t3} {hora N t4} {Somero R t5} {que Q t6} {he V t7} {vivido V t8}
+{con P t9} {una D t10} {linda N t11} {joven G t12} {, O t13} {cuyo Q t14} {candor N t15} {no A t16} {empeño N t17}
+{y C t18} {a P t19} {la D t20} {que Q t21} {- O t22} {desde P t23} {lejos A t24} {ya A t25} {para P t26} {siempre A t27} {- O t28} {pido V t29}
+{perdón N t30} {por P t31} {esa D t32} {hora N t33} {¡ O t34} {Si C t35} {hubiese V t36} {sido V t37} {un D t38} {año N t39} {! O t40}
+{Hora N t41} {de P t42} {una D t43} {doncella N t44} {que Q t45} {en P t46} {mi D t47} {alma N t48} {ha V t49} {florecido V t50} {, O t51}
+{para P t52} {hacer V t53} {ya A t54} {de P t55} {toda D t56} {mi D t57} {vida N t58} {un D t59} {desengaño N t60} {: O t61}
+{no A t62} {hay V t63} {- O t64} {pues C t65} {ni C t66} {ha V t67} {de P t68} {ser V t69} {mía Q t70} {, O t71} {ni C t72} {he V t73} {de P t74} {darla V t75} {al P t76} {olvido N t77} {- O t78}
+{mujer N t79} {que Q t80} {en P t81} {menor G t82} {tiempo N t83} {me Q t84} {hiciese V t85} {mayor G t86} {daño N t87} {. O t88}
+{No A t89} {la Q t90} {podré V t91} {en P t92} {mi D t93} {vida N t94} {ya A t95} {olvidar V t96} {- O t97} {¡ O t98} {es V t99} {tan A t100} {ella Q t101} {! O t102} {- O t103}
+{ni C t104} {escuchar V t105} {- O t106} {¡ O t107} {y C t108} {es V t109} {tan A t110} {dulce G t111} {- O t112} {ni C t113} {mirar V t114} {- O t115} {¡ O t116} {y C t117} {es V t118} {tan A t119} {bella G t120} {! O t121}
+{El D t122} {placer N t123} {más A t124} {pequeño G t125} {cuesta V t126} {mucho A t127} {dolor N t128} {; O t129}
+{pero C t130} {, O t131} {aunque C t132} {sufra V t133} {tanto A t134} {, O t135} {yo Q t136} {no A t137} {sé V t138} {todavía A t139}
+{si C t140} {en P t141} {un D t142} {soneto N t143} {cabe V t144} {toda D t145} {la D t146} {poesía N t147}
+{con P t148} {que Q t149} {en P t150} {sólo A t151} {una D t152} {hora N t153} {cupo N t154} {todo D t155} {su D t156} {amor N t157}

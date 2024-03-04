@@ -1,0 +1,14 @@
+{Hay V t1} {en P t2} {las D t3} {soledades N t4} {de P t5} {la D t6} {puna N t7} {, O t8}
+{cuando C t9} {la D t10} {noche N t11} {aumenta V t12} {ese D t13} {reposo N t14} {, O t15}
+{un D t16} {misterio N t17} {solemne G t18} {y C t19} {religioso G t20}
+{como C t21} {el D t22} {amor N t23} {de P t24} {un D t25} {alma N t26} {sin P t27} {fortuna N t28} {. O t29}
+{Cada D t30} {cumbre N t31} {de P t32} {nieve N t33} {es V t34} {como C t35} {una D t36}
+{virgen N t37} {, O t38} {que Q t39} {, O t40} {de P t41} {la D t42} {mano N t43} {del P t44} {esposo N t45} {, O t46}
+{aparece V t47} {en P t48} {el D t49} {templo N t50} {luminoso G t51}
+{envuelta G t52} {en P t53} {fría G t54} {castidad N t55} {de P t56} {Luna R t57}
+{¡ O t58} {Oh O t59} {, O t60} {cuadro V t61} {aquel D t62} {de P t63} {místicos N t64} {reflejos N t65} {! O t66}
+{Los D t67} {mismos D t68} {Andes R t69} {a P t70} {los D t71} {cielos N t72} {crecen V t73}
+{como C t74} {torres N t75} {de P t76} {ingente N t77} {campanario G t78} {; O t79}
+{los D t80} {rayos N t81} {se Q t82} {hacen V t83} {cruces N t84} {, O t85} {a P t86} {los D t87} {lejos A t88} {; O t89}
+{y C t90} {hasta P t91} {los D t92} {astros N t93} {, O t94} {al P t95} {brotar V t96} {, O t97} {parecen V t98}
+{las D t99} {desgranadas G t100} {cuentas N t101} {de P t102} {un D t103} {rosario N t104}

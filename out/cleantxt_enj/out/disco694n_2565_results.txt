@@ -1,0 +1,14 @@
+{Maldigo V} {la D} {quijada N} {del P} {asno N} {, O} {el D} {enemigo N} {, O}	O		
+{Odio R} {la D} {flecha N} {, O} {el D} {sable N} {, O} {la D} {honda N} {, O} {la D} {catapulta V} {; O}	O		
+{maldigo G} {el D} {duro G} {instinto N} {de P} {la D} {guerra N} {, O} {maldigo V}	B	enlace_subj_verb	ld01
+{la D} {bárbara N} {azagaya R} {y C} {la D} {polvora N} {culta G} {; O}	I	enlace_subj_verb	ld01
+{y C} {a P} {quien Q} {ahoga V} {en P} {sangre N} {la D} {cosecha N} {de P} {trigo N}	O		
+{y C} {a P} {quien Q} {ciego G} {de P} {rabia N} {la D} {Cruz R} {de P} {Paz R} {insulta G} {; O}	O		
+{a P} {Bonaparte R} {o C} {César R} {, O} {a P} {Marat R} {o C} {a P} {Rodrigo R} {, O}	O		
+{príncipe N} {de P} {soldados N} {o C} {rey N} {de P} {turbamulta N} {. O}	O		
+{Los D} {maldigo V} {por P} {tantas D} {tristes G} {almas N} {de P} {duelo N}	B	oracional	cp01
+{que Q} {van V} {todos D} {los D} {días N} {por P} {la D} {senda N} {del P} {cielo N}	IB	oracional;sirrem_adj_noun	cp01;pp02
+{precedidas G} {por P} {Cristo R} {, O} {a P} {pedir V} {paz N} {y C} {luz N} {, O}	I	sirrem_adj_noun	pp02
+{por P} {Cristo R} {que Q} {solloza V} {, O} {que Q} {palidece V} {y C} {sufre V} {, O}	O		
+{mientras C} {un D} {negro G} {incendio N} {de P} {salitre N} {y C} {azufre N}	B	enlace_subj_verb	ld01
+{obscurece V} {a P} {los D} {hombres N} {la D} {visión N} {de P} {la D} {Cruz R} {. O}	I	enlace_subj_verb	ld01

@@ -1,0 +1,14 @@
+{Fue V t1} {una D t2} {hora N t3} {divina G t4} {para P t5} {el D t6} {género N t7} {humano G t8} {. O t9}
+{El D t10} {Cisne R t11} {antes A t12} {cantaba V t13} {sólo A t14} {para P t15} {morir V t16} {. O t17}
+{Cuando C t18} {se Q t19} {oyó V t20} {el D t21} {acento N t22} {del P t23} {Cisne R t24} {wagneriano G t25}
+{fue V t26} {en P t27} {medio N t28} {de P t29} {una D t30} {aurora N t31} {, O t32} {fue V t33} {para P t34} {revivir V t35} {. O t36}
+{Sobre P t37} {las D t38} {tempestades N t39} {del P t40} {humano N t41} {oceano G t42}
+{se Q t43} {oye V t44} {el D t45} {canto N t46} {del P t47} {Cisne R t48} {; O t49} {no A t50} {se Q t51} {cesa V t52} {de P t53} {oír V t54} {, O t55}
+{dominando V t56} {el D t57} {martillo N t58} {del P t59} {viejo G t60} {Thor R t61} {germano G t62}
+{o C t63} {las D t64} {trompas N t65} {que Q t66} {cantan V t67} {la D t68} {espada N t69} {de P t70} {Argantir R t71} {. O t72}
+{¡ O t73} {Oh O t74} {Cisne R t75} {! O t76} {¡ O t77} {Oh O t78} {sacro G t79} {pájaro N t80} {! O t81} {Si C t82} {antes A t83} {la D t84} {blanca G t85} {Helena R t86}
+{del P t87} {huevo N t88} {azul G t89} {de P t90} {Leda R t91} {brotó V t92} {de P t93} {gracia N t94} {llena G t95} {, O t96}
+{siendo V t97} {de P t98} {la D t99} {Hermosura R t100} {la D t101} {princesa N t102} {inmortal G t103} {, O t104}
+{bajo P t105} {tus D t106} {alas N t107} {la D t108} {nueva G t109} {Poesía R t110} {, O t111}
+{concibe V t112} {en P t113} {una D t114} {gloria N t115} {de P t116} {luz N t117} {y C t118} {de P t119} {harmonía N t120}
+{la D t121} {Helena R t122} {eterna G t123} {y C t124} {pura G t125} {que Q t126} {encarna V t127} {el D t128} {ideal N t129} {. O t130}

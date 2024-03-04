@@ -1,0 +1,14 @@
+{¿ O} {No A} {deseas G} {, O} {amada G} {, O} {a P} {las D} {sencillas N}	O		
+{gentes N} {del P} {pueblo N} {unirte G} {placentera N}	O		
+{y C} {pasearte V} {conmigo Q} {por P} {afuera A} {, O}	O		
+{entre P} {flores N} {, O} {aldeanos N} {y C} {avecillas N} {? O}	O		
+{Los D} {árboles N} {-- G} {soldados N} {en P} {guerrillas N}	B	enlace_subj_verb	ld01
+{cuidan V} {la D} {polvorosa G} {carretera N} {, O}	I	enlace_subj_verb	ld01
+{que Q} {cruza V} {, O} {como C} {un D} {cauce N} {, O} {la D} {pradera N} {, O}	O		
+{seca G} {el D} {agua N} {y C} {borradas G} {las D} {orillas N} {... O}	O		
+{Al P} {tornar V} {a P} {este D} {pueblo N} {, O} {del P} {vecino N} {, O}	O		
+{con P} {todas D} {sus D} {brillantes G} {lentejuelas N}	O		
+{como C} {una D} {bruja N} {saltará V} {la D} {Noche R} {; O}	O		
+{y C} {para P} {no A} {extraviarnos G} {del P} {camino N} {, O}	O		
+{seguiremos V} {las D} {líneas N} {paralelas G}	B	oracional	cp01
+{que Q} {trazaran V} {las D} {ruedas N} {de P} {algún D} {coche N} {. O}	I	oracional	cp01

@@ -1,0 +1,14 @@
+{Sé V t1} {que C t2} {te Q t3} {envidia N t4} {el D t5} {alba N t6} {, O t7} {tierna G t8} {niña N t9}
+{y C t10} {no A t11} {lo Q t12} {dudes N t13} {, O t14} {porque C t15} {vierta V t16} {flores N t17}
+{y C t18} {entre P t19} {galas N t20} {de P t21} {vívidos N t22} {colores N t23}
+{veste N t24} {de P t25} {rosas N t26} {a P t27} {sus D t28} {formas N t29} {ciña N t30} {. O t31}
+{Que C t32} {hay V t33} {en P t34} {tu D t35} {boca N t36} {mieles N t37} {de P t38} {una D t39} {viña N t40}
+{que Q t41} {quisiera V t42} {libar V t43} {soñando V t44} {amores N t45} {; O t46}
+{que C t47} {hay V t48} {en P t49} {tus D t50} {labios N t51} {todos D t52} {los D t53} {dulzores N t54}
+{del P t55} {ambarino N t56} {néctar V t57} {de P t58} {la D t59} {piña N t60} {. O t61}
+{Y C t62} {si C t63} {es V t64} {verdad N t65} {que C t66} {es V t67} {dulce G t68} {en P t69} {la D t70} {mañana N t71}
+{el D t72} {beso N t73} {que Q t74} {en P t75} {la D t76} {gota N t77} {del P t78} {rocío N t79}
+{manda V t80} {el D t81} {alba N t82} {a P t83} {la D t84} {flor N t85} {fresca G t86} {y C t87} {lozana G t88} {, O t89}
+{en P t90} {misterioso G t91} {y C t92} {regalado G t93} {envío N t94} {; O t95}
+{es V t96} {tu D t97} {boca N t98} {más A t99} {dulce G t100} {, O t101} {¡ O t102} {mi D t103} {sultana N t104} {! O t105}
+{Más A t106} {dulces G t107} {son V t108} {tus D t109} {besos N t110} {, O t111} {¡ O t112} {amor N t113} {mío D t114} {! O t115}

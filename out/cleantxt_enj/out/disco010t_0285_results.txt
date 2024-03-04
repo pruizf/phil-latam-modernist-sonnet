@@ -1,0 +1,14 @@
+{El D} {bardo N} {melenudo G} {y C} {decadente G}	B	enlace_subj_verb	ld01
+{se Q} {pasó V} {sutilísima G} {y C} {ligera G}	IB	enlace_subj_verb;enlace_od_verb	ld01;ld02
+{la D} {mano N} {por P} {la D} {blonda N} {cabellera G} {, O}	I	enlace_od_verb	ld02
+{y C} {se Q} {la Q} {alborotó V} {sobre P} {la D} {frente N} {. O}	O		
+{Plegó V} {después A} {el D} {labio N} {sonriente A} {; O}	O		
+{alzó V} {los D} {ojos N} {a P} {la D} {azul G} {esfera N} {; O}	O		
+{y C} {con P} {voz N} {melodiosa G} {y C} {plañidera G}	O		
+{rompió V} {el D} {silencio N} {de P} {la D} {absorta G} {gente N} {. O}	O		
+{Y C} {dijo V} {sus D} {estrofas N} {. O} {Nadie Q} {pudo V}	B	sirrem_perif_verb	pp20
+{sorprender V} {los D} {oscuros G} {simbolismos N} {, O}	I	sirrem_perif_verb	pp20
+{ni C} {salió V} {nadie Q} {del P} {asombro N} {mudo G} {. O}	O		
+{De P} {súbito N} {estallaron V} {las D} {palmadas N} {, O}	O		
+{pero C} {sonaron V} {los D} {aplausos N} {mismos D}	O		
+{como C} {si C} {hubieran V} {sido V} {bofetadas V} {... O}	O		

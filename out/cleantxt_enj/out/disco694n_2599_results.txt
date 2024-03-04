@@ -1,0 +1,14 @@
+{Tras P} {los D} {cuernos N} {de P} {Júpiter R} {, O} {Europa R} {sonreía V}	O		
+{y C} {dominaba V} {con P} {su D} {mano N} {de P} {marfil N}	B	enlace_od_verb	ld02
+{toda D} {la D} {luminosa G} {y C} {eterna G} {gallardía N}	IB	enlace_od_verb;oracional	ld02;cp01
+{que Q} {existe V} {en P} {Primavera N} {y C} {domina V} {en P} {Abril R} {. O}	I	oracional	cp01
+{En P} {lo D} {alto G} {del P} {mástil N} {una D} {guitarra N} {había V}	O		
+{como C} {en P} {el D} {viaje N} {de P} {d' N} {Annunzzio R} {y C} {tal D} {sutilmente A}	B	sirrem_verb_adv	pp11
+{cantaba V} {amable G} {esa D} {cigarra N} {mía Q}	I	sirrem_verb_adv	pp11
+{que C} {olvidé V} {del P} {pasado N} {, O} {lo Q} {profano V} {y C} {lo Q} {vil G} {. O}	O		
+{Montañas N} {que Q} {quedasteis V} {lejanas N} {, O} {lagos N} {puros G} {, O}	O		
+{horizontes G} {de P} {fuego N} {y C} {rincones N} {obscuros G} {, O}	O		
+{cafetales N} {floridos G} {, O} {gentes N} {amables G} {, O} {voz N}	B	sirrem_adj_noun	pp02
+{gentil G} {que Q} {recordaste V} {mi D} {infancia N} {y C} {de P} {mi D} {infancia N}	I	sirrem_adj_noun	pp02
+{luz N} {, O} {gesto N} {, O} {vida N} {, O} {voluntad N} {y C} {fragancia N}	O		
+{y C} {todas D} {esas D} {cosas N} {que Q} {yo Q} {no A} {olvido N} {, O} {adiós N} {! O}	O		

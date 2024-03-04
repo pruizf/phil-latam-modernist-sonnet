@@ -1,0 +1,14 @@
+{¡ O t1} {Entrad O t2} {! O t3} {-- O t4} {me Q t5} {dijo V t6} {el D t7} {estirado G t8} {paje N t9} {; O t10}
+{frunció V t11} {la D t12} {faz N t13} {con P t14} {rápida G t15} {sonrisa N t16} {; O t17}
+{y C t18} {descorrió V t19} {de P t20} {golpe N t21} {en P t22} {la D t23} {cornisa N t24}
+{el D t25} {doblegado G t26} {alón N t27} {del P t28} {cortinaje N t29} {. O t30}
+{Ceñido G t31} {el D t32} {cuello N t33} {de P t34} {espumoso G t35} {encaje N t36} {, O t37}
+{surgió V t38} {ella Q t39} {leve G t40} {, O t41} {vaporosa G t42} {, O t43} {aprisa A t44} {, O t45}
+{ahogando V t46} {el D t47} {taconeo N t48} {con P t49} {que Q t50} {pisa V t51}
+{entre P t52} {el D t53} {frufrú N t54} {de P t55} {su D t56} {sedoso G t57} {traje N t58} {. O t59}
+{Nos Q t60} {saludamos V t61} {con P t62} {cortés G t63} {palabra N t64} {. O t65}
+{Hablamos V t66} {del P t67} {estío N t68} {adusto G t69} {y C t70} {fiero G t71}
+{y C t72} {del P t73} {trabajo N t74} {que Q t75} {fecunda G t76} {y C t77} {labra N t78} {. O t79}
+{Hablamos Q t80} {de P t81} {la D t82} {ardiente A t83} {poesía N t84} {; O t85}
+{hablamos V t86} {con P t87} {ardor N t88} {... O t89} {Cogí V t90} {el D t91} {sombrero N t92} {; O t93}
+{y C t94} {le Q t95} {estreché V t96} {la D t97} {mano N t98} {: O t99} {¡ O t100} {estaba V t101} {fría G t102} {! O t103}

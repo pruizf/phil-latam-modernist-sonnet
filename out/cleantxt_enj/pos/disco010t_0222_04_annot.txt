@@ -1,0 +1,14 @@
+{El D t1} {acordeón N t2} {rústico G t3} {envuelve V t4} {en P t5} {un D t6} {son N t7} {lento G t8}
+{y C t9} {monótono G t10} {el D t11} {alma N t12} {del P t13} {paisaje N t14} {sensual G t15} {: O t16}
+{es V t17} {un D t18} {danzón N t19} {que Q t20} {ondula V t21} {como C t22} {una D t23} {cinta N t24} {el D t25} {viento N t26}
+{o C t27} {como C t28} {el D t29} {rizo N t30} {de P t31} {una D t32} {fontana N t33} {de P t34} {cristal N t35}
+{La D t36} {tarde N t37} {se Q t38} {deshoja V t39} {, O t40} {con P t41} {el D t42} {recogimiento N t43}
+{de P t44} {una D t45} {monja N t46} {que Q t47} {sueña V t48} {lejos A t49} {del P t50} {bien N t51} {y C t52} {el D t53} {mal N t54} {, O t55}
+{y C t56} {la D t57} {eglógica G t58} {música N t59} {aletarga G t60} {el D t61} {momento N t62}
+{y C t63} {circunscribe V t64} {toda D t65} {la D t66} {vida N t67} {tropical G t68}
+{Acordeón R t69} {, O t70} {que Q t71} {tienes V t72} {vaivenes N t73} {de P t74} {resaca N t75} {: O t76}
+{algo Q t77} {hay V t78} {en P t79} {ti Q t80} {que C t81} {rima N t82} {con P t83} {la D t84} {nerviosa G t85} {hamaca N t86} {, O t87}
+{en P t88} {donde Q t89} {la D t90} {pereza N t91} {se Q t92} {mece V t93} {en P t94} {blando V t95} {son V t96}
+{Así A t97} {, O t98} {bajo P t99} {el D t100} {penacho N t101} {de P t102} {familiar G t103} {palmera N t104} {, O t105}
+{mientras C t106} {se Q t107} {va V t108} {muriendo V t109} {la D t110} {tarde N t111} {, O t112} {el D t113} {alma N t114} {entera G t115}
+{del P t116} {trópico N t117} {, O t118} {parece V t119} {que C t120} {rima N t121} {una D t122} {canción N t123}

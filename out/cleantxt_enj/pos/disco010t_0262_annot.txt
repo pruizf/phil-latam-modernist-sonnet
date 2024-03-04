@@ -1,0 +1,14 @@
+{Olor R t1} {de P t2} {nido N t3} {. O t4} {Sonrosada G t5} {lumbre N t6} {, O t7}
+{tras P t8} {la D t9} {pantalla N t10} {, O t11} {esplende V t12} {en P t13} {la D t14} {cortina G t15} {, O t16}
+{entre P t17} {la D t18} {cual Q t19} {a P t20} {Venus R t21} {se Q t22} {adivina V t23}
+{llena G t24} {de P t25} {placidez N t26} {y C t27} {mansedumbre N t28} {. O t29}
+{Como C t30} {el D t31} {pálido G t32} {copo N t33} {de P t34} {la D t35} {cumbre N t36} {, O t37}
+{yace V t38} {Venus R t39} {, O t40} {helada G t41} {y C t42} {cristalina G t43} {; O t44}
+{mientras C t45} {que C t46} {afuera V t47} {el D t48} {campo N t49} {desafina V t50}
+{con P t51} {su D t52} {rumor N t53} {de P t54} {ronca N t55} {muchedumbre N t56} {. O t57}
+{Duerme V t58} {ella Q t59} {al P t60} {fondo N t61} {de P t62} {su D t63} {cuja N t64} {blanca G t65} {, O t66}
+{luciendo V t67} {un D t68} {brazo N t69} {que Q t70} {torneado G t71} {arranca A t72}
+{y C t73} {el D t74} {alabastro N t75} {de P t76} {su D t77} {seno N t78} {combo N t79} {, O t80}
+{sin P t81} {más A t82} {testigos N t83} {en P t84} {la D t85} {paz N t86} {nocturna G t87}
+{que Q t88} {el D t89} {Cristo R t90} {agonizante G t91} {entre P t92} {la D t93} {urna N t94}
+{y C t95} {los D t96} {chinos N t97} {bordados G t98} {sobre P t99} {el D t100} {biombo N t101} {... O t102}

@@ -1,0 +1,14 @@
+{¿ O t1} {Viste V t2} {el D t3} {David R t4} {, O t5} {cómo Q t6} {era V t7} {bello G t8} {y C t9} {franco G t10} {? O t11}
+{En P t12} {él Q t13} {está V t14} {la D t15} {soberana G t16} {esencia N t17}
+{de P t18} {la D t19} {tierra N t20} {, O t21} {y C t22} {la D t23} {pura G t24} {transparencia N t25}
+{de P t26} {lo D t27} {alto G t28} {, O t29} {de P t30} {lo D t31} {noble G t32} {y C t33} {de P t34} {lo D t35} {blanco G t36} {. O t37}
+{El D t38} {Byron R t39} {cojo G t40} {y C t41} {el D t42} {Cervantes R t43} {manco G t44}
+{cantaran V t45} {esta D t46} {gloria N t47} {de P t48} {Florencia R t49} {, O t50}
+{y C t51} {lo D t52} {que Q t53} {existe V t54} {de P t55} {divina G t56} {ciencia N t57}
+{en P t58} {ese D t59} {pectoral N t60} {y C t61} {en P t62} {ese D t63} {flanco N t64} {. O t65}
+{En P t66} {cuanto A t67} {al P t68} {ojo N t69} {dominante G t70} {, O t71} {el D t72} {bello G t73}
+{imponer V t74} {del P t75} {aspecto N t76} {, O t77} {y C t78} {la D t79} {redonda G t80}
+{caricia N t81} {de P t82} {escultor N t83} {que Q t84} {da V t85} {al P t86} {cabello N t87}
+{lo Q t88} {crespo V t89} {de P t90} {la D t91} {brisa N t92} {y C t93} {de P t94} {la D t95} {onda N t96} {, O t97}
+{triunfa V t98} {una D t99} {Torre R t100} {soberana G t101} {: O t102} {¡ O t103} {el D t104} {cuello N t105} {! O t106}
+{y C t107} {una D t108} {fuente N t109} {soberbia N t110} {: O t111} {¡ O t112} {la D t113} {Rotonda R t114} {! O t115}

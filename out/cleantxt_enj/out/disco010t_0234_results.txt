@@ -1,0 +1,14 @@
+{Cuando C} {en P} {las D} {viejas G} {ruinas N} {del P} {Oriente R}	O		
+{moderno G} {explorador N} {halla V} {un D} {tesoro N} {, O}	O		
+{al P} {descubrir V} {los D} {ídolos N} {de P} {oro N}	B	oracional	cp01
+{que Q} {culto N} {fueron V} {de P} {pagana N} {gente N} {, O}	I	oracional	cp01
+{¡ O} {con P} {qué Q} {interés N} {el D} {alma N} {del P} {Presente R}	B	enlace_subj_verb	ld01
+{vuela V} {a P} {esa D} {Edad R} {, O} {en P} {que C} {el D} {sagrado G} {coro N}	IB	enlace_subj_verb;enlace_subj_verb	ld01;ld01
+{divinizaba V} {en P} {cántico G} {sonoro G}	IB	enlace_subj_verb;enlace_od_verb	ld01;ld02
+{deformes G} {monstruos N} {de P} {achatada N} {frente A} {! O} {... O}	I	enlace_od_verb	ld02
+{Mañana A} {que C} {esta D} {Edad N} {también A} {sucumba G} {, O}	O		
+{futuro N} {explorador N} {, O} {de P} {tumba N} {en P} {tumba N} {, O}	O		
+{paseará V} {por P} {las D} {ruinas N} {su D} {mirada N} {: O}	O		
+{¡ O} {y C} {qué D} {espanto N} {tendrá V} {, O} {qué Q} {rara G} {idea N} {, O}	O		
+{cuando C} {brillar V} {entre P} {las D} {ruinas N} {vea V} {, O}	O		
+{como C} {joya N} {rarísima G} {, O} {una D} {espada N} {! O} {... O}	O		

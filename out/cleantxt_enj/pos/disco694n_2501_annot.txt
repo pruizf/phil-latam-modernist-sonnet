@@ -1,0 +1,14 @@
+{Mi D t1} {non A t2} {polida G t3} {pénnola N t4} {desdora G t5}
+{aqueste D t6} {libro N t7} {con P t8} {poner V t9} {un D t10} {canto N t11}
+{en P t12} {las D t13} {sus D t14} {fojas N t15} {, O t16} {que Q t17} {me Q t18} {inspiran V t19} {tanto A t20}
+{que C t21} {facen V t22} {agitar V t23} {mi D t24} {plectro N t25} {agora V t26} {. O t27}
+{Nin V t28} {la D t29} {fermosa G t30} {cara N t31} {de P t32} {la D t33} {aurora N t34} {, O t35}
+{nin N t36} {de P t37} {la D t38} {noche N t39} {el D t40} {estrellado V t41} {manto N t42} {, O t43}
+{nin N t44} {el D t45} {milagro N t46} {de P t47} {cualquiera Q t48} {santo G t49} {, O t50}
+{belleza N t51} {como P t52} {él Q t53} {non A t54} {atesora V t55} {. O t56}
+{Ca R t57} {magüer G t58} {es V t59} {verdad N t60} {que C t61} {es V t62} {non V t63} {polida V t64}
+{la D t65} {mi D t66} {pennola N t67} {ruda G t68} {e C t69} {homildosa G t70} {, O t71}
+{yo Q t72} {tanto A t73} {entro N t74} {del P t75} {pecho N t76} {, O t77} {aquí A t78} {encendida G t79} {, O t80}
+{la D t81} {foguera N t82} {del P t83} {bardo N t84} {tan A t85} {fermosa G t86} {. O t87}
+{Por P t88} {ende A t89} {pongo V t90} {aquí A t91} {, O t92} {magüer V t93} {mal A t94} {fecho N t95} {, O t96}
+{aquesta D t97} {trova N t98} {, O t99} {rosa N t100} {de P t101} {mi D t102} {pecho N t103} {. O t104}

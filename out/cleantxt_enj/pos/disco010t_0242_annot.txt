@@ -1,0 +1,14 @@
+{Encima P t1} {de P t2} {una D t3} {tumba N t4} {, O t5} {con P t6} {exceso N t7} {, O t8}
+{en P t9} {el D t10} {mismo D t11} {panteón N t12} {, O t13} {pareja G t14} {amante N t15} {, O t16}
+{recorre V t17} {, O t18} {entre P t19} {aturdida G t20} {y C t21} {delirante G t22} {, O t23}
+{toda D t24} {la D t25} {gloria N t26} {musical G t27} {del P t28} {beso N t29} {. O t30}
+{¡ O t31} {El D t32} {humilde G t33} {panteón N t34} {en P t35} {donde Q t36} {el D t37} {yeso N t38}
+{quizás A t39} {nunca A t40} {hecho G t41} {estatua N t42} {se Q t43} {levante V t44} {, O t45}
+{hoy A t46} {ve V t47} {el D t48} {cuadro N t49} {que Q t50} {vivo V t51} {y C t52} {palpitante G t53}
+{forma N t54} {la D t55} {carne N t56} {sobre P t57} {tanto D t58} {hueso N t59} {! O t60}
+{Los D t61} {amantes N t62} {se Q t63} {ocultan V t64} {temerosos G t65} {; O t66}
+{por P t67} {eso Q t68} {astutos N t69} {el D t70} {cuidado G t71} {toman V t72}
+{de P t73} {guarecerse V t74} {en P t75} {las D t76} {mortuorias G t77} {fauces N t78} {. O t79}
+{Ahí A t80} {, O t81} {murmuradores N t82} {y C t83} {curiosos N t84} {, O t85}
+{desde P t86} {la D t87} {vecindad N t88} {, O t89} {sólo A t90} {se Q t91} {asoman V t92}
+{sobre P t93} {las D t94} {tapias N t95} {los D t96} {arqueados N t97} {sauces G t98} {... O t99}

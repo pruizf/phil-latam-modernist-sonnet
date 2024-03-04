@@ -1,0 +1,14 @@
+{Hay V} {en P} {mi D} {selva N} {venenosas G} {flores N} {, O}	O		
+{Frutos R} {de P} {salvación N} {, O} {crudas G} {espinas N}	O		
+{Y C} {maderas N} {de P} {olor N} {... O} {Veta N} {de P} {minas N}	B	enlace_od_verb	ld02
+{Guarda R} {en P} {libros N} {de P} {piedra N} {sus D} {fulgores N} {. O}	I	enlace_od_verb	ld02
+{Los D} {suspensos N} {follajes G} {protectores N}	B	enlace_subj_verb	ld01
+{Se Q} {espejean V} {en P} {fuentes N} {cristalinas G} {, O}	I	enlace_subj_verb	ld01
+{Como C} {fantasmas N} {de P} {dolientes N} {ruinas N}	O		
+{En P} {los D} {ojos N} {de P} {cándidos G} {Amores R} {... O}	O		
+{Término R} {huyó V} {. O} {Mi D} {selva N} {no A} {rehúsa V}	B	sirrem_verb_adv	pp11
+{Ya A} {los D} {vientos N} {de P} {ayer A} {y C} {de P} {mañana A} {, O}	I	sirrem_verb_adv	pp11
+{Ya A} {los D} {diluvios N} {de P} {los D} {libres G} {riegos N} {... O}	O		
+{¡ O} {Deje V} {siquier A} {la D} {fugitiva N} {musa N} {, O}	O		
+{Sobre P} {un D} {tronco N} {de P} {selva N} {americana G} {, O}	O		
+{Su D} {dulce G} {nombre N} {en P} {caracteres N} {griegos N} {! O}	O		

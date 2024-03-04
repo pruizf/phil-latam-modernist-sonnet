@@ -1,0 +1,14 @@
+{Tengo V} {una D} {Virgen R} {modelada G} {en P} {cera N} {, O}	O		
+{ante P} {la D} {que Q} {arde V} {extática G} {mi D} {vida N} {, O}	O		
+{cual Q} {si C} {fuese V} {una D} {lámpara N} {encendida G}	O		
+{que C} {en P} {honor N} {de P} {un D} {amor N} {se Q} {consumiera V} {. O}	O		
+{Por P} {un D} {rayo N} {lunar V} {de P} {primavera N}	B	enlace_subj_verb	ld01
+{vino V} {a P} {mí Q} {, O} {como C} {el D} {bálsamo N} {a P} {la D} {herida N} {, O}	I	enlace_subj_verb	ld01
+{esta D} {gótica G} {Virgen R} {desprendida G}	O		
+{tal D} {vez N} {de P} {una D} {litúrgica G} {vidriera N} {. O}	O		
+{Yo Q} {haré V} {que C} {siempre A} {inmaculada G} {brille V}	B	enlace_subj_verb	ld01
+{la D} {Virgen R} {de P} {la D} {frente N} {taciturna G}	I	enlace_subj_verb	ld01
+{y C} {los D} {ojos N} {metálicos G} {y C} {tersos G} {; O}	O		
+{que C} {, O} {para P} {que C} {ni C} {el D} {aire N} {la D} {mancille N} {, O}	O		
+{la D} {tengo V} {- O} {sin P} {tocar V} {- O} {en P} {una D} {urna N}	B	sirrem_adj_noun	pp02
+{hecha G} {con P} {los D} {cristales N} {de P} {mis D} {versos N}	I	sirrem_adj_noun	pp02

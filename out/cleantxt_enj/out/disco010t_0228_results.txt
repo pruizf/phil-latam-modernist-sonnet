@@ -1,0 +1,14 @@
+{Don R} {Miguel R} {de P} {Cervantes R} {me Q} {prestará V} {su D} {pluma N} {, O}	O		
+{para P} {escribir V} {mi D} {nombre N} {debajo A} {del P} {proceso N}	O		
+{Quien Q} {me Q} {enseñó V} {su D} {idioma N} {, O} {me Q} {enseñará V} {a P} {estar V} {preso G} {: O}	O		
+{también A} {quiso V} {abrumarlo V} {la D} {pena N} {que Q} {hoy A} {me Q} {abruma V} {. O}	O		
+{Insinuará V} {él Q} {razones N} {de P} {sutileza N} {suma G}	O		
+{y C} {aguzará V} {ironías N} {contra P} {el D} {destino N} {avieso G} {; O}	O		
+{así A} {, O} {sobre P} {las D} {olas N} {de P} {mi D} {iracundo G} {acceso N} {, O}	O		
+{se Q} {mecerá V} {su D} {risa N} {como C} {una D} {flor N} {de P} {espuma N} {. O}	O		
+{Maestro N} {de P} {los D} {siglos N} {, O} {me Q} {ayudará V} {a P} {ser V} {fuerte G} {: O}	O		
+{el D} {día N} {que Q} {los D} {hombres N} {quieran V} {pesar N} {mi D} {suerte N} {, O}	O		
+{vendrá V} {a P} {mí Q} {esa D} {figura N} {caballerosa G} {y C} {alta G} {; O}	O		
+{y C} {cuando C} {el D} {fiel N} {severo G} {del P} {tribunal N} {se Q} {exceda V} {, O}	O		
+{me Q} {tenderá V} {Cervantes R} {la D} {mano N} {que Q} {le Q} {queda V}	O		
+{o C} {arrojará V} {a P} {un D} {platillo N} {la D} {mano N} {que Q} {le Q} {falta V} {. O}	O		

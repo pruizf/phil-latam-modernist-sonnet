@@ -1,0 +1,14 @@
+{Recuerdo V t1} {, O t2} {allá A t3} {en P t4} {la D t5} {casa N t6} {familiar G t7} {, O t8} {dos D t9} {enanos N t10} {, O t11}
+{como C t12} {los D t13} {de P t14} {Velázquez R t15} {. O t16} {El D t17} {uno Q t18} {, O t19} {varón N t20} {, O t21} {era V t22}
+{llamado G t23} {" O t24} {el D t25} {Capitán R t26} {' O t27} {' O t28} {. O t29} {Su D t30} {vieja G t31} {compañera N t32}
+{era V t33} {su D t34} {madre N t35} {. O t36} {Y C t37} {ambos Q t38} {parecían V t39} {hermanos N t40} {. O t41}
+{Tenían V t42} {de P t43} {peleles N t44} {, O t45} {de P t46} {espectros N t47} {, O t48} {de P t49} {gusanos N t50} {; O t51}
+{él Q t52} {cojeaba V t53} {, O t54} {era V t55} {bizco N t56} {, O t57} {ponía V t58} {cara N t59} {fiera V t60} {; O t61}
+{fabricaba V t62} {muñecos N t63} {y C t64} {figuras N t65} {de P t66} {cera N t67}
+{con P t68} {sus D t69} {chicas N t70} {, O t71} {horribles G t72} {y C t73} {regordetas G t74} {manos N t75} {. O t76}
+{También A t77} {fingía V t78} {ser V t79} {obispo N t80} {y C t81} {bendecía V t82} {; O t83}
+{predicaba V t84} {sermones N t85} {de P t86} {endemoniado N t87} {enredo G t88}
+{y C t89} {rezaba V t90} {contrito G t91} {páter N t92} {y C t93} {avemaría V t94} {. O t95}
+{Luego A t96} {, O t97} {enano N t98} {y C t99} {enana N t100} {se Q t101} {retiraban V t102} {quedo V t103} {; O t104}
+{en P t105} {tanto D t106} {que C t107} {la D t108} {gente N t109} {hacendada G t110} {reía V t111} {, O t112}
+{yo Q t113} {silencioso G t114} {, O t115} {en P t116} {un D t117} {rincón N t118} {, O t119} {tenía V t120} {miedo N t121} {. O t122}

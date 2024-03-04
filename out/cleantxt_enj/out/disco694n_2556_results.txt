@@ -1,0 +1,14 @@
+{Amo V} {tu D} {delicioso G} {alejandrino N}	O		
+{como C} {el D} {de P} {Hugo R} {, O} {espíritu N} {de P} {España R} {; O}	O		
+{éste Q} {vale V} {una D} {copa N} {de P} {champaña N}	O		
+{como C} {aquel D} {vale V} {" O} {un D} {vaso N} {de P} {von N} {vino V} {" O} {. O}	O		
+{Mas R} {a P} {uno Q} {y C} {otro D} {pájaro N} {divino G}	B	enlace_subj_verb	ld01
+{la D} {primitiva G} {cárcel N} {es V} {extraña G} {; O}	I	enlace_subj_verb	ld01
+{el D} {barrote N} {maltrata G} {, O} {el D} {grillo N} {daña V} {, O}	O		
+{que C} {vuelo N} {y C} {libertad N} {son V} {su D} {destino N} {. O}	O		
+{Así A} {procuro G} {que Q} {en P} {la D} {luz N} {resalte V}	B	enlace_od_verb	ld02
+{tu D} {antiguo G} {verso N} {, O} {cuyas Q} {alas N} {doro N}	I	enlace_od_verb	ld02
+{y C} {hago V} {brillar V} {con P} {mi D} {moderno G} {esmalte N} {; O}	O		
+{tiene V} {la D} {libertad N} {con P} {el D} {decoro N}	O		
+{y C} {vuelve V} {, O} {como C} {al P} {puño N} {el D} {gerifalte N} {, O}	O		
+{trayendo V} {del P} {azul N} {rimas N} {de P} {oro N} {. O}	O		

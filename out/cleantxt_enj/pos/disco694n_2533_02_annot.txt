@@ -1,0 +1,14 @@
+{Un D t1} {trueno N t2} {formidable G t3} {París R t4} {inmenso G t5} {llena G t6} {. O t7}
+{¿ O t8} {Qué Q t9} {tempestad N t10} {avanza V t11} {? O t12} {¿ O t13} {Qué Q t14} {nube N t15} {, O t16} {qué Q t17} {volcán N t18}
+{sobre P t19} {la D t20} {faz N t21} {del P t22} {orbe N t23} {y C t24} {el D t25} {alto G t26} {abismo N t27} {truena G t28} {? O t29}
+{¿ O t30} {Qué Q t31} {ráfaga N t32} {se Q t33} {agita V t34} {, O t35} {qué Q t36} {soplo N t37} {, O t38} {qué Q t39} {huracán N t40} {? O t41}
+{El D t42} {pueblo N t43} {, O t44} {al P t45} {fin N t46} {, O t47} {ha V t48} {roto V t49} {su D t50} {secular G t51} {cadena N t52} {, O t53}
+{con P t54} {fuerza N t55} {de P t56} {torrente N t57} {, O t58} {con P t59} {brazos N t60} {de P t61} {titán N t62} {: O t63}
+{derroca D t64} {la D t65} {Bastilla R t66} {y C t67} {el D t68} {ronco N t69} {clarín N t70} {suena V t71}
+{que C t72} {anuncia V t73} {los D t74} {incendios N t75} {que Q t76} {al P t77} {mundo N t78} {salvarán V t79} {. O t80}
+{Del P t81} {trono N t82} {fracasado V t83} {se Q t84} {oye V t85} {el D t86} {crujir N t87} {violento G t88} {; O t89}
+{el D t90} {hombre N t91} {es V t92} {libre G t93} {y C t94} {canta V t95} {del P t96} {libre G t97} {la D t98} {canción N t99} {, O t100}
+{haciendo V t101} {conmoverse V t102} {la D t103} {Francia R t104} {en P t105} {su D t106} {cimiento N t107} {. O t108}
+{Rugiente A t109} {abre V t110} {sus D t111} {fauces N t112} {el D t113} {león N t114} {Revolución R t115} {, O t116}
+{y C t117} {baja N t118} {de P t119} {la D t120} {altura N t121} {como C t122} {un D t123} {sagrado G t124} {viento N t125}
+{que Q t126} {hace V t127} {temblar V t128} {y C t129} {encrespa V t130} {las D t131} {crines N t132} {del P t133} {león N t134} {. O t135}

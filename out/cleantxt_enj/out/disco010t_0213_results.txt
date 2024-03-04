@@ -1,0 +1,14 @@
+{Juan R} {Santos R} {Atahualpa R} {lanzó V} {el D} {grito N}	B	sirrem_noun_prep	pp06.1
+{de P} {rebelión N} {Crujieron V} {las D} {cabañas N}	I	sirrem_noun_prep	pp06.1
+{Su D} {voz N} {, O} {repercutiendo V} {en P} {lo D} {infinito G} {, O}	O		
+{era V} {la D} {libertad N} {de P} {las D} {montañas N}	O		
+{Tal Q} {fue V} {el D} {derrumbamiento N} {portentoso G}	B	sirrem_noun_prep	pp05
+{de P} {una D} {sobre P} {otra D} {raza N} {Hecho R} {un D} {coloso N} {, O}	I	sirrem_noun_prep	pp05
+{él Q} {, O} {Apú-Inca R} {, O} {que Q} {en P} {el D} {campo N} {abierto G} {, O}	O		
+{se Q} {rubricó V} {de P} {heroicas N} {cicatrices G} {, O}	O		
+{supo V} {en P} {la D} {lucha N} {desplomarse V} {muerto G}	O		
+{como C} {un D} {árbol N} {hachado G} {en P} {las D} {raíces N}	O		
+{Y C} {cumplió V} {su D} {deseo N} {y C} {murió V} {ufano G} {; O}	O		
+{que C} {en P} {las D} {montañas N} {a P} {su D} {empuje N} {estrechas G} {, O}	O		
+{él Q} {, O} {antes A} {de P} {morir V} {, O} {tuvo V} {en P} {su D} {mano N}	O		
+{todas D} {las D} {tribus N} {como C} {un D} {haz N} {de P} {flechas N}	O		

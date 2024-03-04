@@ -1,0 +1,14 @@
+{En P} {su D} {tostada G} {faz N} {algo Q} {hay V} {sombrío N} {: O}	O		
+{tal Q} {vez N} {la D} {sensación N} {de P} {lo D} {lejano G} {, O}	O		
+{ya A} {que C} {ve V} {dilatarse V} {el D} {océano N}	B	sirrem_noun_prep	pp06.1
+{de P} {la D} {verdura N} {al P} {pie N} {de P} {su D} {bohío N}	I	sirrem_noun_prep	pp06.1
+{El D} {encuadra V} {al P} {redor N} {su D} {sembradío N}	O		
+{y C} {acaricia V} {la D} {tierra N} {con P} {su D} {mano N}	O		
+{Enfrena R} {un D} {potro N} {en P} {la D} {mitad N} {de P} {un D} {llano G}	B	enlace_subj_verb	ld01
+{o C} {a P} {nado G} {se Q} {echa V} {en P} {la D} {mitad N} {de P} {un D} {río N} {. O}	I	enlace_subj_verb	ld01
+{El D} {, O} {con P} {un D} {golpe N} {, O} {desjarreta V} {un D} {toro N} {; O}	O		
+{entra V} {con P} {su D} {machete N} {en P} {el D} {boscaje N}	O		
+{y C} {en P} {el D} {amor N} {con P} {su D} {cantar V} {sonoro G} {, O}	O		
+{porque C} {el D} {amor N} {de P} {la D} {mujer N} {ingrata G}	B	enlace_subj_verb	ld01
+{brilla G} {sobre P} {su D} {espíritu N} {salvaje G}	I	enlace_subj_verb	ld01
+{como C} {un D} {iris N} {sobre P} {una D} {catarata N}	O		

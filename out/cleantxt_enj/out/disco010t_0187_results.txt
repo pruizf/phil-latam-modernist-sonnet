@@ -1,0 +1,14 @@
+{En P} {el D} {bosque N} {de P} {aromas N} {y C} {de P} {músicas N} {lleno G} {, O}	O		
+{la D} {magnolia N} {florece V} {delicada G} {y C} {ligera G} {, O}	O		
+{cual Q} {vellón N} {que Q} {en P} {la D} {zarzas N} {enredado V} {estuviera V}	O		
+{o C} {cual Q} {copo N} {de P} {espuma N} {sobre P} {lago N} {sereno G}	O		
+{Es V} {un D} {ánfora N} {digna G} {de P} {un D} {artífice N} {heleno G} {, O}	O		
+{un D} {marmóreo N} {prodigio N} {de P} {la D} {clásica G} {era V} {; O}	O		
+{y C} {destaca V} {su D} {fina G} {redondez N} {, O} {a P} {manera N}	B	sirrem_noun_prep	pp06.1
+{de P} {una D} {dama N} {que Q} {luce V} {descotado G} {su D} {seno N}	I	sirrem_noun_prep	pp06.1
+{No A} {se Q} {sabe V} {si C} {es V} {perla V} {, O} {no A} {se Q} {sabe V} {si C} {es V} {llanto N}	O		
+{Hay V} {entre P} {ella Q} {y C} {la D} {luna N} {cierta D} {historia N} {de P} {encanto N}	O		
+{en P} {la D} {que Q} {una D} {paloma N} {pierde V} {acaso A} {la D} {vida N} {; O}	O		
+{porque C} {es V} {pura G} {y C} {es V} {blanca G} {y C} {es V} {graciosa G} {y C} {es V} {leve G}	O		
+{como C} {un D} {rayo N} {de P} {luna N} {que Q} {se Q} {cuaja V} {en P} {la D} {nieve N}	O		
+{o C} {como C} {una D} {paloma N} {que Q} {se Q} {queda V} {dormida G} {. O}	O		

@@ -1,0 +1,14 @@
+{El D t1} {buey N t2} {, O t3} {que Q t4} {de P t5} {paciencia N t6} {se Q t7} {reviste V t8} {, O t9}
+{cruza N t10} {a P t11} {calmar V t12} {la D t13} {sed N t14} {en P t15} {el D t16} {torrente N t17} {, O t18}
+{mientras C t19} {corre V t20} {el D t21} {novillo N t22} {alegremente A t23}
+{tras P t24} {de P t25} {su D t26} {hembra N t27} {que C t28} {a P t29} {amarle V t30} {se Q t31} {resiste V t32} {... O t33}
+{Nada Q t34} {tan A t35} {duro G t36} {y C t37} {tan A t38} {cruel G t39} {existe V t40}
+{como C t41} {el D t42} {yugo N t43} {sufrir V t44} {del P t45} {impotente G t46} {; O t47}
+{y C t48} {tener V t49} {¡ O t50} {ay O t51} {! O t52} {que C t53} {doblegar V t54} {la D t55} {frente A t56}
+{cuando C t57} {se Q t58} {alza N t59} {el D t60} {amor N t61} {. O t62} {¡ O t63} {Nada Q t64} {tan A t65} {triste G t66} {! O t67} {... O t68}
+{Palpita V t69} {el D t70} {ansia N t71} {que Q t72} {fecunda G t73} {y C t74} {crea V t75} {; O t76}
+{y C t77} {ante P t78} {el D t79} {cuadro N t80} {triunfal G t81} {de P t82} {los D t83} {amantes N t84} {, O t85}
+{parece V t86} {que C t87} {hasta P t88} {el D t89} {árbol N t90} {palmotea V t91} {... O t92}
+{El D t93} {buey N t94} {se Q t95} {cubre V t96} {de P t97} {un D t98} {sudor N t99} {de P t100} {fragua N t101} {; O t102}
+{tiembla D t103} {; O t104} {los D t105} {ve V t106} {con P t107} {ojos N t108} {vergonzantes G t109} {; O t110}
+{inclina V t111} {la D t112} {pabeza N t113} {y C t114} {bebe V t115} {su D t116} {agua N t117} {... O t118}

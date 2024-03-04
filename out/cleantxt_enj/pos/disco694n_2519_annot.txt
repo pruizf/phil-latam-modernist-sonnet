@@ -1,0 +1,14 @@
+{Un D t1} {verso N t2} {nuevo G t3} {y C t4} {gentil G t5}
+{y C t6} {metálico G t7} {y C t8} {sonoro G t9} {; O t10}
+{un D t11} {precioso G t12} {anillo N t13} {moro G t14}
+{que Q t15} {puliera V t16} {el D t17} {esmeril G t18} {; O t19}
+{una D t20} {rosa N t21} {de P t22} {Abril R t23}
+{que Q t24} {dentro A t25} {el D t26} {pecho N t27} {atesoro G t28} {; O t29}
+{una D t30} {perla N t31} {en P t32} {concha N t33} {de P t34} {oro N t35}
+{llena G t36} {de P t37} {aroma N t38} {sutil G t39} {. O t40}
+{Pues C t41} {que C t42} {tu D t43} {lengua N t44} {interpreto N t45} {, O t46}
+{idioma N t47} {de P t48} {luz N t49} {y C t50} {miel N t51} {, O t52}
+{te Q t53} {daría V t54} {, O t55} {niño N t56} {inquieto G t57} {, O t58}
+{envuelto A t59} {en P t60} {este D t61} {papel N t62} {, O t63}
+{un D t64} {diamante N t65} {hecho G t66} {soneto N t67}
+{para P t68} {que C t69} {juegues V t70} {con P t71} {él Q t72} {. O t73}

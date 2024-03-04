@@ -1,0 +1,14 @@
+{Al P t1} {entreabrir V t2} {los D t3} {ojos N t4} {, O t5} {flotando V t6} {ve V t7} {la D t8} {aurora N t9}
+{la D t10} {mágica G t11} {chinarnpa N t12} {del P t13} {lago N t14} {en P t15} {el D t16} {cristal N t17} {. O t18}
+{Rosas R t19} {, O t20} {mosquetas N t21} {, O t22} {dalias N t23} {... O t24} {, O t25} {¿ O t26} {es V t27} {el D t28} {bajel N t29} {de P t30} {Flora R t31} {? O t32}
+{Emerge V t33} {de P t34} {las D t35} {ondas N t36} {olor N t37} {primaveral G t38} {. O t39}
+{En P t40} {la D t41} {chinarnpa N t42} {una D t43} {india N t44} {gallarda G t45} {, O t46} {encantadora N t47} {, O t48}
+{suspira N t49} {. O t50} {Hay V t51} {un D t52} {guerrero N t53} {magnífico G t54} {y C t55} {triunfal G t56}
+{que C t57} {la D t58} {idolatra N t59} {ciego G t60} {de P t61} {amor N t62} {. O t63} {Ella Q t64} {le Q t65} {adora V t66} {. O t67}
+{¡ O t68} {Un D t69} {beso N t70} {! O t71} {La D t72} {luz N t73} {bafia V t74} {la D t75} {tierra N t76} {tropical G t77} {. O t78}
+{¿ O t79} {Qué Q t80} {alumbra V t81} {esa D t82} {apoteosis N t83} {? O t84} {La D t85} {amada N t86} {y C t87} {el D t88} {amado G t89} {. O t90}
+{Ella Q t91} {ardorosa G t92} {y C t93} {tímida G t94} {, O t95} {y C t96} {él Q t97} {trémulo N t98} {a P t99} {su D t100} {lado N t101} {. O t102}
+{Brazos N t103} {morenos G t104} {, O t105} {túnica G t106} {blanca G t107} {. O t108} {Y C t109} {el D t110} {vencedor N t111}
+{con P t112} {un D t113} {corazón N t114} {de P t115} {oro N t116} {, O t117} {su D t118} {gran G t119} {manto N t120} {de P t121} {pluma N t122} {, O t123}
+{el D t124} {casco N t125} {en P t126} {la D t127} {cabeza N t128} {- O t129} {las D t130} {fauces N t131} {de P t132} {una D t133} {puma- N t134} {; O t135}
+{y C t136} {encima A t137} {tiembla V t138} {un D t139} {grueso G t140} {penacho N t141} {de P t142} {color N t143} {. O t144}

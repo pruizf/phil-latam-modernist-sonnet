@@ -1,0 +1,14 @@
+{Hasta P t1} {el D t2} {árbol N t3} {tronchado G t4} {en P t5} {el D t6} {camino N t7} {, O t8}
+{sin P t9} {hojas N t10} {, O t11} {y C t12} {sin P t13} {frutos N t14} {, O t15} {y C t16} {sin P t17} {flores N t18} {, O t19}
+{puede V t20} {prestar V t21} {asiento N t22} {a P t23} {los D t24} {pastores N t25}
+{y C t26} {un D t27} {báculo N t28} {prestar V t29} {al P t30} {peregrino N t31} {. O t32}
+{Así A t33} {el D t34} {anciano N t35} {de P t36} {experiencia N t37} {y C t38} {tino G t39}
+{máximas G t40} {da V t41} {que C t42} {evitan V t43} {sinsabores N t44} {: O t45}
+{y C t46} {sin P t47} {savia N t48} {, O t49} {ni C t50} {aroma N t51} {, O t52} {ni C t53} {colores N t54} {, O t55}
+{cumple V t56} {su D t57} {ley N t58} {y C t59} {tiene V t60} {su D t61} {destino N t62} {. O t63}
+{¡ O t64} {Oh O t65} {, O t66} {labrador O t67} {! O t68} {Escucha D t69} {mi D t70} {consejo N t71} {: O t72}
+{te Q t73} {debes V t74} {resistir V t75} {cual Q t76} {me Q t77} {resisto V t78}
+{a P t79} {cortar V t80} {ramas A t81} {aunque C t82} {estén V t83} {desnudas G t84}
+{porque C t85} {puede V t86} {salir V t87} {de P t88} {un D t89} {árbol N t90} {viejo G t91}
+{quizás A t92} {la D t93} {cruz N t94} {en P t95} {que Q t96} {sucumba V t97} {un D t98} {Cristo R t99} {, O t100}
+{quizás A t101} {la Q t102} {rama N t103} {en P t104} {que Q t105} {se Q t106} {cuelgue V t107} {un D t108} {Judas R t109} {. O t110}

@@ -1,0 +1,14 @@
+{Eduardo R} {: O} {está V} {en P} {el D} {reino N} {de P} {nuestra D} {fantasía N}	B	enlace_subj_verb	ld01
+{el D} {pabelln N} {azul G} {de P} {nuestro D} {rey N} {divino G} {. O}	I	enlace_subj_verb	ld01
+{Saludemos V} {al P} {dios N} {en P} {el D} {pan N} {y C} {en P} {el D} {vino N} {, O}	O		
+{saludemos V} {al P} {dios N} {en P} {la D} {noche N} {y C} {el D} {día N} {. O}	O		
+{Todavía A} {está V} {Apolo R} {triunfante G} {, O} {todavía A}	B	enlace_subj_verb	ld01
+{gira N} {bajo P} {su D} {lumbre N} {la D} {rueda N} {del P} {destino N}	I	enlace_subj_verb	ld01
+{y C} {viértense V} {del P} {carro N} {en P} {el D} {diurno N} {camino N}	B	enlace_subj_verb	ld01
+{las D} {ánforas N} {de P} {fuego N} {, O} {las D} {urnas N} {de P} {armonía N} {. O}	I	enlace_subj_verb	ld01
+{Hundámonos R} {en P} {ese D} {mar N} {vasto G} {de P} {éter N} {puro G}	O		
+{en P} {que C} {las D} {almas N} {libres G} {del P} {cautiverio N} {obscuro G}	B	sirrem_noun_prep	pp05
+{de P} {la D} {sombra N} {, O} {celebran V} {el D} {divino G} {poder N}	IB	sirrem_noun_prep;sirrem_noun_prep	pp05;pp05
+{de P} {cantar V} {. O} {Tal Q} {será V} {nuestra D} {eterna G} {retrica G} {. O}	I	sirrem_noun_prep	pp05
+{En P} {tanto A} {suena V} {la D} {mósica G} {pitagrica N}	O		
+{y C} {brilla N} {en P} {el D} {celeste G} {abismo N} {Lucifer R} {. O}	O		

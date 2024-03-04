@@ -1,0 +1,14 @@
+{Libros D} {extraños N} {que Q} {halagáis V} {la D} {mente N}	O		
+{en P} {un D} {lenguaje N} {inaudito G} {y C} {tan A} {raro G}	O		
+{y C} {que C} {de P} {lo D} {más A} {puro G} {y C} {lo D} {más A} {caro G}	O		
+{hacéis C} {brotar V} {la D} {misteriosa G} {fuente N} {; O}	O		
+{inextinguible G} {, O} {inextinguiblemente G}	B	sirrem_adj_noun	pp02
+{brote N} {el D} {sentir N} {del P} {corazón N} {preclaro G}	I	sirrem_adj_noun	pp02
+{y C} {por P} {él Q} {se Q} {alza N} {un D} {diamantino N} {faro G}	B	oracional	cp01
+{que Q} {al P} {mar N} {de P} {Dios R} {mira V} {profundamente A} {... O}	I	oracional	cp01
+{Fuerza R} {y C} {vigor N} {que C} {las D} {almas D} {enlaza N} {, O}	O		
+{seda N} {de P} {luz N} {y C} {pasos N} {de P} {coloso N}	O		
+{y C} {un D} {agitar N} {de P} {martillo N} {y C} {de P} {maza N}	O		
+{y C} {un D} {respirar V} {de P} {leones N} {en P} {reposo N}	O		
+{y C} {una D} {virtual G} {palpitación N} {de P} {raza N} {; O}	O		
+{y C} {el D} {cielo N} {azul G} {para P} {Orlando R} {Furioso G} {... O}	O		

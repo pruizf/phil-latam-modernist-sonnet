@@ -1,0 +1,14 @@
+{Hoy A} {se Q} {celebra V} {la D} {triunfal G} {entrada N}	B	sirrem_noun_prep	pp05
+{de P} {Jesús O} {a P} {Salem R} {: O} {blanda G} {pollina N}	IB	sirrem_noun_prep;sirrem_noun_prep	pp05;pd02
+{con P} {adorable G} {carga N} {se Q} {encamina V}	I	sirrem_noun_prep	pd02
+{por P} {la D} {senda N} {de P} {rosas N} {alfombrada G} {. O}	O		
+{Luciente A} {procesión N} {. O} {La D} {aglomerada N}	B	enlace_subj_verb	ld01
+{plebe V} {, O} {que Q} {entorno N} {de P} {Jesús O} {se Q} {empina V} {, O}	I	enlace_subj_verb	ld01
+{vibra V} {la D} {palma N} {de P} {la D} {fe N} {divina G}	O		
+{cual Q} {pudiera V} {vibrar V} {odiosa G} {espada N} {. O}	O		
+{¡ O} {Y C} {el D} {Saqueo R} {está V} {ahí A} {! O} {La D} {ajena G} {gloria N}	B	sirrem_adj_noun	pp01
+{curiosidad N} {despierta V} {: O} {¡ O} {y C} {pobre G} {el D} {alma N}	IB	sirrem_adj_noun;oracional	pp01;cp01
+{que Q} {nunca A} {en P} {otra D} {provocó V} {un D} {deseo N} {! O}	I	oracional	cp01
+{Es V} {una D} {ley N} {por P} {eso Q} {, O} {de P} {la D} {Historia R} {, O}	O		
+{que Q} {así A} {como C} {en P} {el D} {triunfo N} {hay V} {una D} {palma N} {, O}	O		
+{en P} {la D} {palma N} {del P} {triunfo N} {haya V} {un D} {Saqueo R} {. O}	O		

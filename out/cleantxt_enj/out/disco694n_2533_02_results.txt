@@ -1,0 +1,14 @@
+{Un D} {trueno N} {formidable G} {París R} {inmenso G} {llena G} {. O}	O		
+{¿ O} {Qué Q} {tempestad N} {avanza V} {? O} {¿ O} {Qué Q} {nube N} {, O} {qué Q} {volcán N}	B	sirrem_noun_prep	pd02
+{sobre P} {la D} {faz N} {del P} {orbe N} {y C} {el D} {alto G} {abismo N} {truena G} {? O}	I	sirrem_noun_prep	pd02
+{¿ O} {Qué Q} {ráfaga N} {se Q} {agita V} {, O} {qué Q} {soplo N} {, O} {qué Q} {huracán N} {? O}	O		
+{El D} {pueblo N} {, O} {al P} {fin N} {, O} {ha V} {roto V} {su D} {secular G} {cadena N} {, O}	O		
+{con P} {fuerza N} {de P} {torrente N} {, O} {con P} {brazos N} {de P} {titán N} {: O}	O		
+{derroca D} {la D} {Bastilla R} {y C} {el D} {ronco N} {clarín N} {suena V}	B	enlace_od_verb	ld02
+{que C} {anuncia V} {los D} {incendios N} {que Q} {al P} {mundo N} {salvarán V} {. O}	I	enlace_od_verb	ld02
+{Del P} {trono N} {fracasado V} {se Q} {oye V} {el D} {crujir N} {violento G} {; O}	O		
+{el D} {hombre N} {es V} {libre G} {y C} {canta V} {del P} {libre G} {la D} {canción N} {, O}	O		
+{haciendo V} {conmoverse V} {la D} {Francia R} {en P} {su D} {cimiento N} {. O}	O		
+{Rugiente A} {abre V} {sus D} {fauces N} {el D} {león N} {Revolución R} {, O}	O		
+{y C} {baja N} {de P} {la D} {altura N} {como C} {un D} {sagrado G} {viento N}	B	oracional	cp01
+{que Q} {hace V} {temblar V} {y C} {encrespa V} {las D} {crines N} {del P} {león N} {. O}	I	oracional	cp01

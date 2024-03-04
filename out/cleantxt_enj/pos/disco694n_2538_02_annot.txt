@@ -1,0 +1,14 @@
+{Fra R t1} {León R t2} {Bloy R t3} {, O t4} {pon V t5} {en P t6} {mi D t7} {himnario N t8}
+{del P t9} {siglo N t10} {infame G t11} {el D t12} {cautiverio N t13} {. O t14}
+{Mammón R t15} {triunfante G t16} {del P t17} {Misterio R t18} {. O t19}
+{La D t20} {Fe N t21} {llorosa G t22} {en P t23} {el D t24} {osario N t25} {; O t26}
+{el D t27} {alma N t28} {azul G t29} {del P t30} {solitario G t31}
+{que Q t32} {va V t33} {hacia P t34} {Dios R t35} {, O t36} {del P t37} {monasterio N t38} {; O t39}
+{en P t40} {su D t41} {mayor G t42} {crueldad N t43} {, O t44} {Tiberio R t45} {; O t46}
+{Cristo R t47} {en P t48} {su D t49} {más A t50} {triste G t51} {Calvario R t52} {. O t53}
+{Muda V t54} {la D t55} {lengua N t56} {del P t57} {salterio N t58} {; O t59}
+{casi A t60} {apagado G t61} {, O t62} {el D t63} {incensario N t64} {; O t65}
+{Caín R t66} {magnífico G t67} {en P t68} {su D t69} {imperio N t70} {, O t71}
+{y C t72} {en P t73} {el D t74} {prostíbulo-escenario N t75} {, O t76}
+{trayendo V t77} {tú Q t78} {, O t79} {justo A t80} {emisario G t81} {, O t82}
+{la D t83} {chispa N t84} {roja G t85} {del P t86} {cauterio N t87} {. O t88}

@@ -1,0 +1,14 @@
+{Centinela R t1} {avanzado G t2} {que Q t3} {se Q t4} {empina V t5} {, O t6}
+{defendiendo V t7} {del P t8} {mar N t9} {la D t10} {dulce G t11} {aldea N t12} {, O t13}
+{sueña V t14} {el D t15} {morro N t16} {en P t17} {la D t18} {bárbara G t19} {pelea N t20}
+{de P t21} {la D t22} {ola N t23} {estallando V t24} {repentina G t25} {. O t26}
+{De P t27} {la D t28} {playa N t29} {, O t30} {a P t31} {los D t32} {cielos N t33} {se Q t34} {avecina V t35} {; O t36}
+{y C t37} {, O t38} {en P t39} {su D t40} {sien D t41} {escarpada G t42} {y C t43} {gigantea V t44} {, O t45}
+{la D t46} {luz N t47} {del P t48} {sol N t49} {pictórica G t50} {chispea G t51}
+{o C t52} {la D t53} {bruma N t54} {temblando V t55} {desafina G t56} {... O t57}
+{Como C t58} {cuanto A t59} {más A t60} {alto G t61} {es V t62} {cada D t63} {monte N t64}
+{puede V t65} {más A t66} {de P t67} {su D t68} {cumbre N t69} {divisarse V t70} {, O t71}
+{porque C t72} {se Q t73} {ensancha V t74} {más A t75} {el D t76} {horizonte N t77} {, O t78}
+{asombrado G t79} {del P t80} {morro N t81} {ante P t82} {el D t83} {anhelo N t84} {, O t85}
+{¡ O t86} {nadie Q t87} {atina V t88} {si C t89} {el D t90} {morro N t91} {al P t92} {empinarse V t93}
+{más A t94} {agua N t95} {quiere V t96} {ver V t97} {o C t98} {ver V t99} {más A t100} {cielo N t101} {! O t102} {... O t103}

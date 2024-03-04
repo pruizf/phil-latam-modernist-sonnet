@@ -1,0 +1,14 @@
+{Bella R t1} {es V t2} {la D t3} {rosa N t4} {blanca G t5} {, O t6} {guarnecida N t7}
+{de P t8} {temblador N t9} {rocío G t10} {transparente G t11} {, O t12}
+{cuando Q t13} {sonríe V t14} {en P t15} {el D t16} {lejano G t17} {Oriente R t18}
+{el D t19} {alba N t20} {pura G t21} {derramando V t22} {vida N t23} {, O t24}
+{y C t25} {bella G t26} {la D t27} {violeta N t28} {, O t29} {estremecida G t30}
+{al P t31} {beso N t32} {de P t33} {la D t34} {espuma N t35} {del P t36} {torrente N t37} {, O t38}
+{que Q t39} {salpica V t40} {de P t41} {aljófar V t42} {reluciente A t43}
+{la D t44} {ribera N t45} {, O t46} {de P t47} {flores N t48} {revestida G t49} {; O t50}
+{pero C t51} {más A t52} {bella G t53} {tú Q t54} {, O t55} {tierna G t56} {y C t57} {donosa G t58} {, O t59}
+{sagaz G t60} {y C t61} {dulce G t62} {, O t63} {tímida G t64} {y C t65} {discreta G t66} {, O t67}
+{porque C t68} {Dios R t69} {, O t70} {con P t71} {su D t72} {mano N t73} {portentosa G t74} {, O t75}
+{al P t76} {formarte N t77} {, O t78} {juntó V t79} {en P t80} {unión N t81} {completa G t82}
+{a P t83} {la D t84} {hermosura N t85} {de P t86} {una D t87} {blanca G t88} {rosa N t89}
+{el D t90} {pudor N t91} {de P t92} {una D t93} {cándida N t94} {violeta G t95} {. O t96}

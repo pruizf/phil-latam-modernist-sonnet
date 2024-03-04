@@ -1,0 +1,14 @@
+{En P} {las D} {constelaciones N} {Pitágoras R} {leía V} {, O}	O		
+{yo Q} {en P} {las D} {constelaciones N} {pitagóricas G} {leo N} {: O}	O		
+{pero C} {se Q} {han V} {confundido V} {dentro A} {del P} {alma N} {mía Q}	B	enlace_subj_verb	ld01
+{el D} {alma N} {de P} {Pitágoras R} {con P} {el D} {alma N} {de P} {Orfeo R} {. O}	I	enlace_subj_verb	ld01
+{Sé V} {que C} {soy V} {, O} {desde P} {el D} {tiempo N} {del P} {Paraíso R} {, O} {reo V} {; O}	O		
+{sé V} {que C} {he V} {robado V} {el D} {fuego N} {y C} {robé N} {la D} {armonía N} {; O}	O		
+{que C} {es V} {abismo N} {mi D} {alma N} {y C} {huracán N} {mi D} {deseo N} {; O}	O		
+{que C} {sorbo V} {el D} {infinito G} {y C} {quiero V} {todavía A} {... O}	O		
+{Pero C} {¿ O} {qué Q} {voy V} {a P} {hacer V} {, O} {si C} {estoy V} {atado G} {al P} {potro N}	O		
+{en P} {que Q} {, O} {ganado V} {el D} {premio N} {, O} {siempre A} {quiero V} {ser V} {otro Q} {, O}	O		
+{y C} {en P} {que C} {, O} {dos Q} {en P} {mí Q} {mismo G} {, O} {triunfa V} {uno Q} {de P} {los D} {dos Q} {? O}	O		
+{En P} {la D} {arena N} {me Q} {enseña N} {la D} {rortuga N} {de P} {oro N}	O		
+{hacia P} {dónde Q} {conduce V} {de P} {las D} {musas N} {el D} {coro N}	O		
+{y C} {en P} {dónde Q} {triunfa V} {, O} {augusta V} {, O} {la D} {voluntad N} {de P} {Dios R} {. O}	O		

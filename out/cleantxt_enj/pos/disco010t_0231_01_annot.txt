@@ -1,0 +1,14 @@
+{¡ O t1} {Oh O t2} {, O t3} {selva N t4} {virginal G t5} {! O t6} {El D t7} {arte N t8} {es V t9} {huella N t10}
+{De P t11} {explorador N t12} {en P t13} {selva N t14} {enmarañada G t15}
+{Tal Q t16} {el D t17} {rayo N t18} {de P t19} {sol N t20} {de P t21} {una D t22} {mirada N t23}
+{Penetra R t24} {el D t25} {corazón N t26} {de P t27} {una D t28} {doncella N t29} {. O t30}
+{¡ O t31} {Oh O t32} {selva N t33} {virginal G t34} {! O t35} {Óyense G t36} {en P t37} {ella Q t38}
+{De P t39} {la D t40} {fiera N t41} {que Q t42} {corre V t43} {la D t44} {pisada N t45} {, O t46}
+{Del P t47} {río N t48} {que Q t49} {se Q t50} {va V t51} {la D t52} {carcajada N t53} {, O t54}
+{De P t55} {la D t56} {hoja N t57} {que Q t58} {cae V t59} {la D t60} {querella N t61} {... O t62}
+{Allí A t63} {, O t64} {cuando C t65} {la D t66} {lira N t67} {ensaya P t68} {un D t69} {beso N t70}
+{Y C t71} {rompe V t72} {desde P t73} {el D t74} {árbol N t75} {de P t76} {la D t77} {vida N t78} {, O t79}
+{En P t80} {nuevos G t81} {cantos N t82} {de P t83} {rarezas N t84} {sumas G t85} {, O t86}
+{Huye R t87} {... O t88} {y C t89} {se Q t90} {pierde V t91} {entre P t92} {lo D t93} {más A t94} {espeso G t95}
+{Una D t96} {musa N t97} {pagana G t98} {, O t99} {perseguida G t100}
+{Por P t101} {un D t102} {salvaje G t103} {de P t104} {pintadas G t105} {plumas N t106} {. O t107}

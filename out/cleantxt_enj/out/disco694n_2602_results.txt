@@ -1,0 +1,14 @@
+{Al P} {dar V} {aire N} {a P} {tu D} {frente A}	B	enlace_od_verb	ld02
+{esta D} {ala N} {de P} {armonía N}	I	enlace_od_verb	ld02
+{en P} {que C} {la D} {poesía N}	B	enlace_subj_verb	ld01
+{por P} {ti Q} {vibrar V} {se Q} {siente V} {, O}	I	enlace_subj_verb	ld01
+{sentirás A} {de P} {repente N}	B	sirrem_adj_noun	pp02
+{soplos G} {de P} {simpatía N} {: O}	I	sirrem_adj_noun	pp02
+{seré V} {el D} {aura N} {que Q} {envía V}	B	enlace_subj_verb	ld01
+{Centro-América R} {ardiente A} {. O}	I	enlace_subj_verb	ld01
+{Serás V} {como C} {el D} {perfume N}	B	sirrem_adj_noun	pp02
+{cálido G} {que Q} {resume V}	IB	sirrem_adj_noun;enlace_od_verb	pp02;ld02
+{algo Q} {que Q} {en P} {ti Q} {se Q} {fragua N}	I	enlace_od_verb	ld02
+{y C} {que Q} {tu D} {ser V} {duplica V} {: O}	O		
+{¡ O} {lirio N} {de P} {Nicaragua R} {, O}	O		
+{rosa N} {de P} {Costa R} {Rica R} {! O}	O		

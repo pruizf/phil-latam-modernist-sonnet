@@ -1,0 +1,14 @@
+{Montevideo R} {, O} {copa N} {de P} {plata N} {, O}	O		
+{llena G} {de P} {encantos N} {y C} {de P} {primores N} {. O}	O		
+{Flor R} {de P} {ciudades N} {, O} {ciudad N} {de P} {flores N} {, O}	O		
+{de P} {cielos N} {mágicos G} {y C} {tierra N} {grata G} {. O}	O		
+{Tus N} {bravos N} {héroes N} {la D} {Historia R} {acata V} {. O}	O		
+{Fervientes N} {líricos G} {dieron V} {loores N}	O		
+{a P} {los D} {centauros N} {y C} {a P} {los D} {pastores N}	B	oracional	cp01
+{cuyas Q} {proezas N} {recuerda V} {el D} {Plata R} {. O}	I	oracional	cp01
+{Y C} {ese D} {tesoro N} {de P} {ritmo N} {y C} {gracia N}	O		
+{rosas N} {del P} {pueblo N} {, O} {o C} {aristocracia P}	O		
+{que C} {en P} {tus D} {mujeres N} {divinas G} {veo V} {, O}	O		
+{son V} {, O} {como C} {sus D} {almas N} {de P} {poesía N} {, O}	O		
+{de P} {tu D} {corona N} {la D} {pedrería N} {, O}	O		
+{maravillosa G} {Montevideo R} {! O}	O		

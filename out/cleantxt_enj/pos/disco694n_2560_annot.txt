@@ -1,0 +1,14 @@
+{Entre P t1} {la D t2} {barbarie N t3} {que C t4} {las D t5} {garras N t6} {saca V t7}
+{cuando C t8} {ve V t9} {el D t10} {reflejo N t11} {de P t12} {sedas N t13} {fulgentes G t14} {; O t15}
+{entre P t16} {el D t17} {que Q t18} {desdora A t19} {, O t20} {desluce V t21} {y C t22} {ataca V t23} {, O t24}
+{eriza V t25} {las D t26} {cerdas N t27} {y C t28} {muestra V t29} {los D t30} {dientes N t31}
+{cuando C t32} {ve V t33} {mi D t34} {gema N t35} {, O t36} {mi D t37} {biombo N t38} {, O t39} {mi D t40} {laca N t41} {, O t42}
+{o C t43} {mis D t44} {raras G t45} {musas N t46} {, O t47} {terror N t48} {de P t49} {las D t50} {gentes N t51} {, O t52}
+{terror N t53} {de P t54} {la D t55} {gente N t56} {calmuca N t57} {y C t58} {canaca N t59}
+{que Q t60} {mancha V t61} {la D t62} {gloria N t63} {de P t64} {los D t65} {continentes N t66} {... O t67} {, O t68}
+{suele V t69} {haber V t70} {un D t71} {cisne N t72} {, O t73} {o C t74} {un D t75} {águila N t76} {bella G t77} {, O t78}
+{o C t79} {un D t80} {lirio N t81} {, O t82} {o C t83} {un D t84} {trueno N t85} {, O t86} {o C t87} {una D t88} {blanca G t89} {estrella N t90} {, O t91}
+{o C t92} {un D t93} {iris Q t94} {que Q t95} {muda V t96} {la D t97} {noche N t98} {que Q t99} {mata V t100} {, O t101}
+{o C t102} {una D t103} {espada N t104} {de P t105} {oro N t106} {, O t107} {o C t108} {un D t109} {casco N t110} {de P t111} {plata N t112} {, O t113}
+{o C t114} {una D t115} {rosa N t116} {pura G t117} {, O t118} {o C t119} {una D t120} {noble G t121} {rosa N t122} {... O t123} {, O t124}
+{toda D t125} {como C t126} {tu D t127} {alma N t128} {, O t129} {Carlos R t130} {Romagosa R t131} {! O t132}

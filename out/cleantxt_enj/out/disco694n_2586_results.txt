@@ -1,0 +1,14 @@
+{Los D} {bárbaros N} {, O} {Francia R} {! O} {Los D} {bárbaros N} {, O} {cara N} {Lutecia R} {! O}	O		
+{Bajo P} {áurea N} {rotonda G} {reposa V} {tu D} {gran G} {Paladín R} {. O}	O		
+{Del P} {cíclope N} {al P} {golpe N} {, O} {¿ O} {qué Q} {pueden V} {las D} {risas N} {de P} {Grecia R} {? O}	O		
+{¿ O} {Qué Q} {pueden V} {las D} {Gracias R} {, O} {si C} {Herakles R} {agita V} {su D} {crin N} {? O}	O		
+{En P} {locas N} {faunalias G} {no A} {sientes V} {el D} {viento N} {que Q} {arrecia V} {, O}	O		
+{el D} {viento N} {que Q} {arrecia V} {del P} {lado N} {del P} {férreo G} {Berlín R} {, O}	O		
+{y C} {allí A} {bajo P} {el D} {templo N} {que Q} {tu D} {alma N} {pagana G} {desprecia V} {, O}	O		
+{tu D} {vate N} {hecho G} {polvo N} {no A} {puede V} {sonar V} {su D} {clarín N} {. O}	O		
+{Suspende V} {, O} {Bizancio R} {, O} {tu D} {fiesta N} {mortal G} {y C} {divina G} {, O}	O		
+{oh V} {Roma R} {, O} {suspende V} {la D} {fiesta N} {divina G} {y C} {mortal G} {! O}	O		
+{Hay V} {algo Q} {que Q} {viene V} {como C} {una D} {invasión N} {aquilina G}	B	oracional	cp01
+{que Q} {aguarda V} {temblando V} {la D} {curva N} {del P} {Arco R} {Triunfal R} {, O}	I	oracional	cp01
+{Tannhauser R} {! O} {Resuena V} {la D} {marcha N} {marcial G} {y C} {argentina G}	O		
+{y C} {vese V} {a P} {lo D} {lejos A} {la D} {gloria N} {de P} {un D} {casco N} {imperial G} {. O}	O		

@@ -1,0 +1,14 @@
+{El D} {desdén N} {de P} {los D} {dioses N} {no A} {hace V} {galas N}	B	sirrem_noun_prep	pp06.1
+{de P} {poder N} {, O} {ni C} {de P} {cólera N} {al P} {protervo N} {: O}	I	sirrem_noun_prep	pp06.1
+{César R} {desdeña V} {el D} {odio N} {de P} {su D} {siervo N} {. O}	O		
+{¡ O} {A P} {odio N} {con P} {arpón N} {, O} {desdén N} {con P} {alas N} {! O}	O		
+{Puede V} {el D} {odio N} {trepar V} {por P} {sus D} {escalas N}	O		
+{hasta P} {el D} {santuario N} {que Q} {a P} {mi D} {amor N} {reservo G} {; O}	O		
+{mas A} {yo Q} {he V} {de P} {ver V} {al P} {pavoroso G} {cuervo N}	O		
+{rodar V} {sin P} {fuerzas N} {a P} {los D} {pies N} {de P} {Palas R} {... O}	O		
+{Jamás R} {importarán V} {a P} {mis D} {enojos N}	B	enlace_od_verb	ld02
+{nada Q} {la D} {ingratitud N} {, O} {nada Q} {el D} {mal N} {paga V} {, O}	I	enlace_od_verb	ld02
+{nada A} {los D} {cuervos N} {sacadores G} {de P} {ojos N} {; O}	O		
+{que C} {en P} {mi D} {alma N} {se Q} {desploman V} {los D} {insultos N} {, O}	O		
+{como C} {peñascos N} {en P} {proiundo N} {lago G} {, O}	O		
+{¡ O} {que Q} {ha V} {de P} {guardarlos V} {para P} {siempre A} {ocultos G} {! O} {... O}	O		

@@ -1,0 +1,14 @@
+{Alma N t1} {de P t2} {oro N t3} {, O t4} {fina G t5} {voz N t6} {de P t7} {oro N t8} {, O t9}
+{al P t10} {venir V t11} {hacia P t12} {mí Q t13} {, O t14} {( O t15} {por P t16} {qué Q t17} {suspiras N t18} {? O t19}
+{ya A t20} {empieza V t21} {el D t22} {noble G t23} {coro N t24} {de P t25} {las D t26} {liras O t27}
+{a P t28} {preludiar V t29} {el D t30} {himno N t31} {a P t32} {tu D t33} {decoro N t34} {; O t35}
+{ya A t36} {al P t37} {misterioso G t38} {son N t39} {del P t40} {noble G t41} {coro N t42}
+{calma N t43} {el D t44} {Centauro R t45} {sus D t46} {grotescas G t47} {iras N t48} {, O t49}
+{y C t50} {con P t51} {nueva G t52} {pasión N t53} {que Q t54} {les Q t55} {inspiras N t56} {, O t57}
+{tornan V t58} {a P t59} {amarse V t60} {Angélica R t61} {y C t62} {Medoro R t63} {. O t64}
+{A P t65} {Tecrito R t66} {y C t67} {Poussin R t68} {la D t69} {Fama R t70} {dote V t71}
+{con P t72} {la D t73} {corona N t74} {del P t75} {laurel N t76} {supremo G t77} {; O t78}
+{que C t79} {en P t80} {donde Q t81} {da V t82} {Cervantes R t83} {el D t84} {Quijote R t85}
+{y C t86} {yo Q t87} {las D t88} {telas N t89} {con P t90} {mis D t91} {luces N t92} {gemo G t93} {, O t94}
+{para P t95} {Don R t96} {Luis R t97} {de P t98} {Gngora R t99} {y C t100} {Argote R t101}
+{traerá V t102} {una D t103} {nueva G t104} {palma N t105} {Polifemo R t106} {. O t107}

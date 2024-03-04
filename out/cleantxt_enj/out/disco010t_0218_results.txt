@@ -1,0 +1,14 @@
+{En P} {la D} {reja N} {nerviosa G} {gime V} {una D} {serenata N} {, O}	O		
+{bajo P} {un D} {celestinaje N} {de P} {picaresca N} {Luna R} {; O}	O		
+{y C} {tras P} {la D} {celosía N} {, O} {se Q} {presiente V} {que C} {hay V} {una D}	B	sirrem_pal-rel	pp16
+{mujer N} {que Q} {es V} {toda D} {hecha G} {de P} {suspiro N} {y C} {de P} {plata N}	I	sirrem_pal-rel	pp16
+{El D} {galán N} {embozado G} {sus D} {querellas N} {desata G}	O		
+{en P} {el D} {claro G} {silencio N} {de P} {la D} {calle N} {moruna G} {; O}	O		
+{y C} {, O} {como C} {un D} {ala N} {de P} {ave N} {que Q} {roza V} {una D} {laguna N} {, O}	O		
+{va V} {diciendo V} {en P} {su D} {canto N} {la D} {pena N} {que Q} {lo Q} {mata V} {. O}	O		
+{Cesa V} {la D} {melodía N} {; O} {cruje V} {la D} {celosía N} {; O}	O		
+{y C} {la D} {miel N} {de P} {un D} {coloquio N} {se Q} {disuelve V} {en P} {la D} {hora N} {, O}	O		
+{hasta P} {que C} {el D} {gallo N} {dice V} {la D} {anunciación N} {del P} {día N} {. O}	O		
+{Se Q} {alarga V} {un D} {beso N} {bajo P} {la D} {luna N} {macilenta G} {, O}	O		
+{las D} {penumbras N} {sonríen V} {y C} {la D} {reja N} {se Q} {enflora V}	O		
+{y C} {esto Q} {es V} {aquí A} {y C} {en P} {mayo O} {y C} {en P} {el D} {año N} {cuarenta Q} {. O}	O		

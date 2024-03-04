@@ -1,0 +1,14 @@
+{Águila N t1} {audaz G t2} {del P t3} {mundo N t4} {americano G t5} {, O t6}
+{que C t7} {hoy A t8} {te Q t9} {remontas G t10} {presurosa G t11} {al P t12} {cielo N t13} {; O t14}
+{que C t15} {predicaste V t16} {con P t17} {heroico G t18} {anhelo N t19}
+{el D t20} {amor N t21} {a P t22} {la D t23} {luz N t24} {, O t25} {odio N t26} {al P t27} {tirano N t28} {. O t29}
+{Hoy A t30} {te Q t31} {contempla V t32} {el D t33} {pensamiento N t34} {humano G t35}
+{de P t36} {tu D t37} {vida N t38} {al P t39} {rasgarse V t40} {el D t41} {tenue G t42} {velo N t43} {, O t44}
+{y C t45} {te Q t46} {leva V t47} {cantares N t48} {desde P t49} {el D t50} {suelo N t51} {, O t52}
+{como C t53} {a P t54} {gran G t55} {liberal N t56} {republicano G t57} {. O t58}
+{La D t59} {idea N t60} {que Q t61} {llevaste V t62} {en P t63} {la D t64} {conciencia N t65} {, O t66}
+{centellea N t67} {del P t68} {Eterno R t69} {desprendida V t70} {, O t71}
+{ilumina V t72} {la D t73} {mísera N t74} {existencia N t75}
+{de P t76} {nuestra D t77} {patria N t78} {aún A t79} {tan A t80} {dividida G t81} {; O t82}
+{¡ O t83} {y C t84} {en P t85} {el D t86} {augusto N t87} {templo N t88} {de P t89} {la D t90} {Historia R t91}
+{ciñe V t92} {tu D t93} {frente A t94} {el D t95} {lauro N t96} {de P t97} {la D t98} {gloria N t99} {! O t100}

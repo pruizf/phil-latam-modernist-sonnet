@@ -1,0 +1,14 @@
+{El D t1} {golpe N t2} {de P t3} {la D t4} {hoz N t5} {sobre P t6} {la D t7} {espiga N t8}
+{repercute V t9} {en P t10} {el D t11} {cielo N t12} {; O t13} {porque C t14} {el D t15} {cielo N t16}
+{hace V t17} {del P t18} {trigo N t19} {el D t20} {pan N t21} {que Q t22} {calma N t23} {el D t24} {duelo N t25}
+{y C t26} {hace V t27} {la D t28} {hostia N t29} {que C t30} {el D t31} {pesar N t32} {mitiga V t33} {. O t34}
+{El D t35} {codiciado G t36} {pan N t37} {de P t38} {blanda G t39} {miga N t40}
+{y C t41} {la D t42} {hostia N t43} {ritual G t44} {son V t45} {, O t46} {sobre P t47} {el D t48} {suelo N t49} {, O t50}
+{trasuntos N t51} {de P t52} {ese D t53} {Dios R t54} {que Q t55} {da V t56} {consuelo N t57}
+{al P t58} {mismo Q t59} {que C t60} {lo Q t61} {insulta V t62} {y C t63} {que C t64} {lo Q t65} {hostiga V t66} {. O t67}
+{En P t68} {el D t69} {campo N t70} {la D t71} {espiga N t72} {que Q t73} {se Q t74} {mece V t75}
+{a P t76} {compás N t77} {de P t78} {las D t79} {músicas N t80} {del P t81} {viento N t82} {, O t83}
+{siempre A t84} {hacia P t85} {el D t86} {cielo N t87} {sin P t88} {doblarse V t89} {crece V t90} {. O t91}
+{Heraldo R t92} {el D t93} {trigo N t94} {de P t95} {ventura N t96} {y C t97} {calma N t98}
+{cuando C t99} {no A t100} {es V t101} {hostia N t102} {, O t103} {es V t104} {pan N t105} {: O t106} {es V t107} {alimento N t108} {, O t109}
+{¡ O t110} {cuando C t111} {no A t112} {para P t113} {el D t114} {cuerpo N t115} {, O t116} {para P t117} {el D t118} {alma N t119} {! O t120}

@@ -1,0 +1,14 @@
+{Si C t1} {falta V t2} {libertad N t3} {, O t4} {sobra V t5} {la D t6} {vida N t7} {... O t8}
+{Pensándolo R t9} {quizás A t10} {el D t11} {vil N t12} {tirano G t13} {, O t14}
+{vuelve V t15} {a P t16} {ponerme V t17} {el D t18} {hierro N t19} {entre P t20} {las D t21} {manos N t22}
+{y C t23} {renueva V t24} {la D t25} {lucha N t26} {concluida G t27} {... O t28}
+{Pensándolo R t29} {también A t30} {, O t31} {rota V t32} {la D t33} {brida N t34} {, O t35}
+{pábulo N t36} {doy V t37} {a P t38} {mi D t39} {furor N t40} {insano G t41} {: O t42}
+{¡ O t43} {jamás A t44} {el D t45} {que Q t46} {me Q t47} {hirió V t48} {pretenda V t49} {en P t50} {vano G t51}
+{halagarme C t52} {curándome V t53} {la D t54} {herida N t55} {. O t56}
+{Por P t57} {eso Q t58} {en P t59} {la D t60} {prisión N t61} {el D t62} {verso N t63} {zumba V t64}
+{pidiendo V t65} {sólo A t66} {libertad N t67} {o C t68} {entierro N t69} {; O t70}
+{que C t71} {una D t72} {puerta N t73} {también A t74} {se Q t75} {abre V t76} {en P t77} {la D t78} {tumba N t79} {... O t80}
+{Y C t81} {muerte N t82} {pido V t83} {en P t84} {dolorosa G t85} {queja N t86} {; O t87}
+{porque C t88} {me Q t89} {aflige V t90} {contemplar V t91} {el D t92} {hierro N t93} {, O t94}
+{de P t95} {arma N t96} {de P t97} {honor N t98} {, O t99} {prostituido G t100} {en P t101} {reja N t102} {... O t103}

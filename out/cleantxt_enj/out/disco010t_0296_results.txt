@@ -1,0 +1,14 @@
+{Tu D} {cabeza N} {imperial G} {ciñe V} {una D} {aureola N}	B	sirrem_noun_prep	pp06.1
+{de P} {blanca G} {luz N} {. O} {Con P} {gentileza N} {suma G} {, O}	I	sirrem_noun_prep	pp06.1
+{tu D} {busto G} {surge V} {como C} {flor N} {de P} {espuma N} {, O}	O		
+{de P} {los D} {encajes N} {en P} {la D} {blanda G} {ola N} {. O}	O		
+{Alguien Q} {pintó V} {tu D} {faz N} {, O} {tal D} {vez N} {tú Q} {sola G} {; O}	O		
+{pero C} {ese D} {tinte N} {que Q} {en P} {tu D} {faz N} {se Q} {esfuma V}	B	enlace_subj_verb	ld01
+{te Q} {hace V} {, O} {ante P} {el D} {Arte R} {que C} {a P} {tus D} {pies N} {se Q} {abruma V} {, O}	I	enlace_subj_verb	ld01
+{émula N} {de P} {la D} {Elvira R} {de P} {Argensola R} {. O}	O		
+{Encerrado G} {tu D} {busto N} {en P} {marco N} {de P} {oro N} {, O}	O		
+{tu D} {prodigiosa G} {faz N} {fuera V} {un D} {tesoro N}	B	sirrem_noun_prep	pp06.1
+{de P} {nácar V} {y C} {marfil G} {, O} {ébano N} {y C} {rosa N} {... O}	I	sirrem_noun_prep	pp06.1
+{¡ O} {En P} {lienzo N} {tal D} {, O} {la D} {fantasía N} {inquieta G}	B	enlace_subj_verb	ld01
+{podría V} {ver V} {mi D} {firma N} {de P} {poeta N}	I	enlace_subj_verb	ld01
+{sobre P} {tu D} {hombro N} {, O} {como C} {una D} {mariposa G} {! O}	O		

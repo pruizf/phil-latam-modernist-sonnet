@@ -1,0 +1,14 @@
+{Remacha V t1} {el D t2} {postrer G t3} {clavo N t4} {en P t5} {el D t6} {arnés N t7} {. O t8} {Remacha V t9}
+{el D t10} {postrer G t11} {clavo N t12} {en P t13} {la D t14} {fina G t15} {tabla N t16} {sonora G t17} {. O t18}
+{Ya A t19} {es V t20} {hora N t21} {de P t22} {partir V t23} {, O t24} {buen G t25} {pirata N t26} {, O t27} {ya A t28} {es V t29} {hora N t30}
+{de P t31} {que C t32} {la D t33} {vela N t34} {pruebe V t35} {el D t36} {pulmón N t37} {de P t38} {la D t39} {racha N t40} {. O t41}
+{Bajo P t42} {la D t43} {quilla N t44} {el D t45} {cuello N t46} {del P t47} {tritón N t48} {ya A t49} {se Q t50} {agacha V t51}
+{y C t52} {la D t53} {vívida N t54} {luz N t55} {del P t56} {relámpago N t57} {dora V t58}
+{la D t59} {quimera N t60} {de P t61} {bronce N t62} {incrustada G t63} {en P t64} {la D t65} {prora N t66} {, O t67}
+{y C t68} {una D t69} {sonrisa N t70} {pone V t71} {en P t72} {el D t73} {labio N t74} {del P t75} {hacha N t76} {. O t77}
+{La D t78} {coreada N t79} {cancin N t80} {de P t81} {la D t82} {piratería N t83}
+{saludará V t84} {el D t85} {real N t86} {oriflama V t87} {del P t88} {día N t89}
+{cuando C t90} {el D t91} {clarín N t92} {del P t93} {alba N t94} {nueva G t95} {ha V t96} {de P t97} {sonar V t98}
+{glorificando V t99} {a P t100} {los D t101} {caballeros N t102} {del P t103} {viento N t104}
+{que Q t105} {ensangrientan V t106} {la D t107} {seda N t108} {azul G t109} {del P t110} {firmamento N t111}
+{con P t112} {el D t113} {rojo N t114} {pendn N t115} {de P t116} {los D t117} {reyes N t118} {del P t119} {mar N t120} {! O t121}

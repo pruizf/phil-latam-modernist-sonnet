@@ -1,0 +1,14 @@
+{¿ O t1} {Qué Q t2} {es V t3} {? O t4} {... O t5} {ya A t6} {retiembla V t7} {el D t8} {imponente G t9} {muro N t10} {, O t11}
+{el D t12} {gladiador N t13} {deaciñe V t14} {sus D t15} {laureles N t16} {, O t17}
+{y C t18} {caen V t19} {los D t20} {dorados G t21} {chapiteles N t22}
+{y C t23} {el D t24} {Capitolio R t25} {cruje V t26} {mal A t27} {seguro G t28} {. O t29}
+{Ya A t30} {el D t31} {orículo N t32} {calla V t33} {ante P t34} {el D t35} {conjuro N t36}
+{y C t37} {se Q t38} {escucha V t39} {el D t40} {trotar N t41} {de P t42} {los D t43} {corceles N t44} {, O t45}
+{el D t46} {rodar V t47} {de P t48} {los D t49} {rotos G t50} {anaqueles N t51}
+{y C t52} {el D t53} {templo N t54} {está V t55} {callado G t56} {, O t57} {solo G t58} {, O t59} {oscuro G t60} {; O t61}
+{ya A t62} {llegaron V t63} {tu D t64} {huestes N t65} {giganteas G t66} {, O t67}
+{y C t68} {tiembla N t69} {de P t70} {pavor N t71} {la D t72} {impía V t73} {corte N t74} {; O t75}
+{el D t76} {imperio N t77} {vetusto G t78} {se Q t79} {desploma V t80} {; O t81}
+{y C t82} {al P t83} {resplandor N t84} {de P t85} {enrojecidas N t86} {teas G t87}
+{ya A t88} {descienden V t89} {los D t90} {Bárbaros R t91} {del P t92} {Norte R t93}
+{y C t94} {a P t95} {su D t96} {empuje N t97} {brutal G t98} {¡ O t99} {ya A t100} {cae V t101} {Roma R t102} {! O t103} {... O t104}

@@ -1,0 +1,14 @@
+{Alma N} {mía Q} {, O} {perdura V} {en P} {tu D} {idea N} {divina G} {; O}	O		
+{todo Q} {está V} {bajo P} {el D} {signo N} {de P} {un D} {destino N} {supremo G} {; O}	O		
+{sigue V} {en P} {tu D} {rumbo N} {, O} {sigue V} {hasta P} {el D} {ocaso N} {extremo G}	O		
+{por P} {el D} {camino N} {que Q} {hacia P} {la D} {Esfinge R} {te Q} {encamina V} {. O}	O		
+{Corta V} {la D} {flor N} {al P} {paso N} {, O} {deja V} {la D} {dura G} {espina N} {; O}	O		
+{en P} {el D} {río N} {de P} {oro N} {lleva V} {a P} {compás N} {el D} {remo N} {; O}	O		
+{saluda N} {el D} {rudo N} {arado G} {del P} {rudo N} {Triptolemo R} {, O}	O		
+{y C} {sigue V} {como C} {un D} {dios N} {que Q} {sus D} {sueños N} {destina V} {... O}	O		
+{Y C} {sigue V} {como C} {un D} {dios N} {que Q} {la Q} {dicha G} {estimula V} {, O}	O		
+{y C} {mientras C} {la D} {retórica N} {del P} {pájaro N} {te Q} {adula V}	O		
+{y C} {los D} {astros N} {del P} {cielo N} {te Q} {acompañan V} {, O} {y C} {los D}	B	sirrem_pal-rel	pp16
+{ramos N} {de P} {la D} {Esperanza R} {surgen V} {primaverales G} {, O}	I	sirrem_pal-rel	pp16
+{atraviesa V} {impertérrita N} {por P} {el D} {bosque N} {de P} {males N}	O		
+{sin P} {temer V} {las D} {serpientes G} {; O} {y C} {sigue V} {, O} {como C} {un D} {dios N} {... O}	O		

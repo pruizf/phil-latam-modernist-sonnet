@@ -1,0 +1,14 @@
+{Anoche A t1} {tuve V t2} {un D t3} {sueño N t4} {, O t5} {prenda N t6} {mía Q t7} {, O t8}
+{en P t9} {que Q t10} {te Q t11} {vi V t12} {a P t13} {través N t14} {de P t15} {mi D t16} {deseo N t17} {, O t18}
+{como C t19} {siempre A t20} {con P t21} {ansia N t22} {yo Q t23} {te Q t24} {veo V t25}
+{en P t26} {el D t27} {fondo N t28} {del P t29} {alma N t30} {cada D t31} {día N t32} {. O t33}
+{A P t34} {través N t35} {de P t36} {una D t37} {gasa N t38} {te Q t39} {veía V t40} {, O t41}
+{que C t42} {el D t43} {ambiente N t44} {movía V t45} {en P t46} {su D t47} {aleteo N t48} {; O t49}
+{sobre P t50} {tu D t51} {frente A t52} {flores N t53} {blancas G t54} {creo V t55}
+{que C t56} {en P t57} {mi D t58} {delirio N t59} {ardiente A t60} {percibía V t61} {, O t62}
+{y C t63} {presto V t64} {un D t65} {rayo N t66} {de P t67} {la D t68} {luz N t69} {del P t70} {cielo N t71}
+{iluminó V t72} {tu D t73} {frente A t74} {inmaculada G t75} {; O t76}
+{me Q t77} {miré V t78} {junto G t79} {a P t80} {ti Q t81} {... O t82} {, O t83} {vi V t84} {con P t85} {anhelo N t86}
+{tu D t87} {sonrisa N t88} {de P t89} {luz N t90} {de P t91} {la D t92} {alborada N t93} {, O t94}
+{y C t95} {lloré V t96} {de P t97} {placer N t98} {... O t99} {¡ O t100} {Tenías V t101} {velo N t102}
+{y C t103} {corona N t104} {de P t105} {virgen N t106} {desposada G t107} {! O t108}

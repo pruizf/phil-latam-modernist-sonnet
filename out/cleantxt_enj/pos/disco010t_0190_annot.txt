@@ -1,0 +1,14 @@
+{En P t1} {su D t2} {tostada G t3} {faz N t4} {algo Q t5} {hay V t6} {sombrío N t7} {: O t8}
+{tal Q t9} {vez N t10} {la D t11} {sensación N t12} {de P t13} {lo D t14} {lejano G t15} {, O t16}
+{ya A t17} {que C t18} {ve V t19} {dilatarse V t20} {el D t21} {océano N t22}
+{de P t23} {la D t24} {verdura N t25} {al P t26} {pie N t27} {de P t28} {su D t29} {bohío N t30}
+{El D t31} {encuadra V t32} {al P t33} {redor N t34} {su D t35} {sembradío N t36}
+{y C t37} {acaricia V t38} {la D t39} {tierra N t40} {con P t41} {su D t42} {mano N t43}
+{Enfrena R t44} {un D t45} {potro N t46} {en P t47} {la D t48} {mitad N t49} {de P t50} {un D t51} {llano G t52}
+{o C t53} {a P t54} {nado G t55} {se Q t56} {echa V t57} {en P t58} {la D t59} {mitad N t60} {de P t61} {un D t62} {río N t63} {. O t64}
+{El D t65} {, O t66} {con P t67} {un D t68} {golpe N t69} {, O t70} {desjarreta V t71} {un D t72} {toro N t73} {; O t74}
+{entra V t75} {con P t76} {su D t77} {machete N t78} {en P t79} {el D t80} {boscaje N t81}
+{y C t82} {en P t83} {el D t84} {amor N t85} {con P t86} {su D t87} {cantar V t88} {sonoro G t89} {, O t90}
+{porque C t91} {el D t92} {amor N t93} {de P t94} {la D t95} {mujer N t96} {ingrata G t97}
+{brilla G t98} {sobre P t99} {su D t100} {espíritu N t101} {salvaje G t102}
+{como C t103} {un D t104} {iris N t105} {sobre P t106} {una D t107} {catarata N t108}

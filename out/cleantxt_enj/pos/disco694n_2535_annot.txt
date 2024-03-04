@@ -1,0 +1,14 @@
+{Te Q t1} {he V t2} {visto V t3} {en P t4} {algún D t5} {cuadro N t6} {florentino G t7} {; O t8}
+{has V t9} {sido V t10} {tú Q t11} {escultor N t12} {, O t13} {pintor N t14} {, O t15} {poeta N t16} {: O t17}
+{espíritu N t18} {que Q t19} {canta V t20} {o C t21} {que C t22} {interpreta V t23} {; O t24}
+{bohemio N t25} {humano G t26} {, O t27} {pensador N t28} {divino G t29} {. O t30}
+{Nos Q t31} {hemos V t32} {encontrado V t33} {en P t34} {el D t35} {camino N t36} {, O t37}
+{y C t38} {hoy A t39} {te Q t40} {pinta V t41} {mi D t42} {pluma N t43} {, O t44} {harto G t45} {indiscreta G t46} {, O t47}
+{sin P t48} {poner V t49} {más A t50} {color N t51} {en P t52} {su D t53} {paleta N t54}
+{que C t55} {el D t56} {que Q t57} {a P t58} {la D t59} {gloria N t60} {tuya G t61} {ha V t62} {dado V t63} {el D t64} {sino N t65} {. O t66}
+{La D t67} {gloria N t68} {tuya G t69} {, O t70} {con P t71} {sus D t72} {alas N t73} {de P t74} {oro N t75} {, O t76}
+{empieza V t77} {en P t78} {tu D t79} {florida G t80} {primavera N t81}
+{a P t82} {ofrecerte N t83} {de P t84} {aplausos N t85} {bello G t86} {coro N t87} {; O t88}
+{y C t89} {tú Q t90} {, O t91} {batallador N t92} {en P t93} {tu D t94} {trinchera N t95} {, O t96}
+{triunfante G t97} {suenas G t98} {tu D t99} {clarín N t100} {sonoro G t101}
+{con P t102} {mengua N t103} {de P t104} {la D t105} {envidia N t106} {torpe G t107} {, O t108} {artera N t109} {. O t110}

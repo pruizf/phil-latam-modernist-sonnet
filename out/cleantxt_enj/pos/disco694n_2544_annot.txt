@@ -1,0 +1,14 @@
+{Yo Q t1} {adoro V t2} {a P t3} {una D t4} {sonámbula N t5} {con P t6} {alma N t7} {de P t8} {Eloísa R t9}
+{virgen V t10} {como C t11} {la D t12} {nieve N t13} {y C t14} {honda N t15} {como C t16} {la D t17} {mar N t18} {; O t19}
+{su D t20} {espíritu N t21} {es V t22} {la D t23} {hostia N t24} {de P t25} {mi D t26} {amorosa G t27} {misa N t28}
+{y C t29} {alzo N t30} {al P t31} {son N t32} {de P t33} {una D t34} {dulce G t35} {lira N t36} {crepuscular G t37} {. O t38}
+{Ojos N t39} {de P t40} {evocadora N t41} {, O t42} {gesto N t43} {de P t44} {profetisa N t45} {, O t46}
+{en P t47} {ella Q t48} {hay V t49} {la D t50} {sagrada G t51} {frecuencia N t52} {del P t53} {altar N t54} {; O t55}
+{su D t56} {risa N t57} {es V t58} {la D t59} {sonrisa N t60} {suave G t61} {de P t62} {Monna R t63} {Lisa R t64} {, O t65}
+{sus D t66} {labios N t67} {son V t68} {los D t69} {únicos G t70} {labios N t71} {para P t72} {besar V t73} {, O t74}
+{Y C t75} {he V t76} {de P t77} {besarla V t78} {un D t79} {día N t80} {con P t81} {rojo G t82} {beso N t83} {ardiente A t84} {; O t85}
+{apoyada G t86} {en P t87} {mi D t88} {brazo N t89} {como C t90} {convaleciente G t91}
+{me Q t92} {mirará V t93} {asombrada G t94} {con P t95} {íntimo G t96} {pavor N t97} {; O t98}
+{la D t99} {enamorada G t100} {esfinge N t101} {quedará V t102} {estupefacta G t103} {, O t104}
+{apagaré V t105} {la D t106} {llama N t107} {de P t108} {la D t109} {vestal G t110} {intacta N t111}
+{y C t112} {la D t113} {faunesa N t114} {antigua G t115} {me Q t116} {rugirá V t117} {de P t118} {amor N t119} {! O t120}

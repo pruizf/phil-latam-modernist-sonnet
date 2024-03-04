@@ -1,0 +1,14 @@
+{Este D t1} {gran G t2} {don N t3} {Ramón R t4} {, O t5} {de P t6} {las D t7} {barbas N t8} {de P t9} {chivo N t10} {, O t11}
+{cuya Q t12} {sonrisa N t13} {es V t14} {la D t15} {flor N t16} {de P t17} {su D t18} {figura N t19} {, O t20}
+{parece V t21} {un D t22} {viejo G t23} {dios N t24} {, O t25} {altanero G t26} {y C t27} {esquivo G t28} {, O t29}
+{que Q t30} {se Q t31} {animase V t32} {en P t33} {la D t34} {frialdad N t35} {de P t36} {su D t37} {escultura N t38} {. O t39}
+{El D t40} {cobre N t41} {de P t42} {sus D t43} {ojos N t44} {por P t45} {instanres O t46} {fulgura N t47}
+{y C t48} {da V t49} {una D t50} {llama N t51} {roja G t52} {tras P t53} {un D t54} {ramo N t55} {de P t56} {olivo N t57} {. O t58}
+{Tengo V t59} {la D t60} {sensación N t61} {de P t62} {que C t63} {siento V t64} {y C t65} {que C t66} {vivo V t67}
+{a P t68} {su D t69} {lado N t70} {una D t71} {vida N t72} {más A t73} {intensa G t74} {y C t75} {más A t76} {dura G t77} {. O t78}
+{Este D t79} {gran G t80} {don N t81} {Ramón R t82} {del P t83} {Valle-Inclán R t84} {me Q t85} {inquieta V t86} {, O t87}
+{y C t88} {a P t89} {través N t90} {del P t91} {zodíaco N t92} {de P t93} {mis D t94} {versos N t95} {actuales G t96}
+{se Q t97} {me Q t98} {esfuma V t99} {en P t100} {radiosas G t101} {visiones N t102} {de P t103} {poeta N t104} {, O t105}
+{o C t106} {se Q t107} {me Q t108} {rompe V t109} {en P t110} {un D t111} {fracaso N t112} {de P t113} {cristales N t114} {. O t115}
+{Yo Q t116} {lo Q t117} {he V t118} {visto V t119} {arrancarse V t120} {del P t121} {pecho N t122} {la D t123} {saeta N t124}
+{que Q t125} {le Q t126} {lanzan V t127} {los D t128} {siete D t129} {pecados N t130} {capitales G t131} {. O t132}

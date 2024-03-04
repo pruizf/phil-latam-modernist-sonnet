@@ -1,0 +1,14 @@
+{A P t1} {saludar V t2} {me Q t3} {ofrezco V t4} {y C t5} {a P t6} {celebrar V t7} {me Q t8} {obligo V t9}
+{tu D t10} {triunfo N t11} {, O t12} {Amor R t13} {, O t14} {al P t15} {beso N t16} {de P t17} {la D t18} {estación N t19} {que Q t20} {llega V t21}
+{mientras C t22} {el D t23} {blanco N t24} {cisne G t25} {del P t26} {lago N t27} {azul G t28} {navega V t29}
+{en P t30} {el D t31} {mágico G t32} {parque N t33} {de P t34} {mis D t35} {triunfos N t36} {testigo N t37} {. O t38}
+{Amor R t39} {, O t40} {tu D t41} {hoz N t42} {de P t43} {oro N t44} {ha V t45} {segado V t46} {mí Q t47} {trigo N t48} {; O t49}
+{por P t50} {ti Q t51} {me Q t52} {halaga V t53} {el D t54} {suave G t55} {son N t56} {de P t57} {la D t58} {flauta N t59} {griega G t60}
+{y C t61} {por P t62} {tí V t63} {Venus R t64} {pródiga V t65} {sus D t66} {manzanas N t67} {me Q t68} {entrega V t69}
+{y C t70} {me Q t71} {brinda V t72} {las D t73} {perlas N t74} {de P t75} {las D t76} {mieles N t77} {del P t78} {higo N t79} {. O t80}
+{En P t81} {el D t82} {erecto G t83} {término N t84} {coloco G t85} {una D t86} {corona N t87}
+{en P t88} {que Q t89} {de P t90} {rosas N t91} {frescas G t92} {la D t93} {púrpura N t94} {detona G t95} {; O t96}
+{y C t97} {en P t98} {tanto D t99} {canta V t100} {el D t101} {agua N t102} {bajo P t103} {el D t104} {boscaje N t105} {obscuro G t106} {, O t107}
+{junto G t108} {a P t109} {la D t110} {adolescente N t111} {que Q t112} {en P t113} {el D t114} {misterio N t115} {inicio N t116}
+{apuraré V t117} {alternando V t118} {con P t119} {tu D t120} {dulce G t121} {ejercicio N t122}
+{las D t123} {ánforas N t124} {de P t125} {oro N t126} {del P t127} {divino G t128} {Epícuro R t129} {. O t130}

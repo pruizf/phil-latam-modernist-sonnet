@@ -1,0 +1,14 @@
+{Hermano R t1} {, O t2} {tú Q t3} {que Q t4} {tienes V t5} {la D t6} {luz N t7} {, O t8} {dime V t9} {la D t10} {mía Q t11} {. O t12}
+{Soy V t13} {como C t14} {un D t15} {ciego N t16} {. O t17} {Voy V t18} {sin P t19} {rumbo N t20} {y C t21} {ando V t22} {a P t23} {tientas N t24} {. O t25}
+{Voy V t26} {bajo P t27} {tempestades N t28} {y C t29} {tormentas N t30}
+{ciego G t31} {de P t32} {ensuefio N t33} {y C t34} {loco N t35} {de P t36} {armonía N t37} {. O t38}
+{Ese Q t39} {es V t40} {mi D t41} {mal A t42} {. O t43} {Sofiar V t44} {. O t45} {La D t46} {poesía N t47}
+{es V t48} {la D t49} {camisa N t50} {férrea G t51} {de P t52} {mil D t53} {puntas N t54} {cruentas G t55}
+{que Q t56} {llevo V t57} {sobre P t58} {el D t59} {alma N t60} {. O t61} {Las D t62} {espinas N t63} {sangrientas G t64}
+{dejan V t65} {caer V t66} {las D t67} {gotas N t68} {de P t69} {mi D t70} {melancolía N t71} {. O t72}
+{Y C t73} {así A t74} {voy V t75} {, O t76} {ciego N t77} {y C t78} {loco N t79} {, O t80} {por P t81} {este D t82} {mundo N t83} {amargo G t84} {; O t85}
+{a P t86} {veces N t87} {me Q t88} {parece V t89} {que C t90} {el D t91} {camino N t92} {es V t93} {muy A t94} {largo G t95} {, O t96}
+{y C t97} {a P t98} {veces N t99} {que Q t100} {es V t101} {muy A t102} {corto G t103} {... O t104}
+{Y C t105} {en P t106} {este D t107} {titubeo N t108} {de P t109} {aliento N t110} {y C t111} {agonía N t112} {, O t113}
+{cargo N t114} {lleno G t115} {de P t116} {penas N t117} {lo D t118} {que Q t119} {apenas A t120} {soporto Q t121} {. O t122}
+{¡ O t123} {No A t124} {oyes V t125} {caer V t126} {las D t127} {gotas N t128} {de P t129} {mi D t130} {melancolía N t131} {? O t132}

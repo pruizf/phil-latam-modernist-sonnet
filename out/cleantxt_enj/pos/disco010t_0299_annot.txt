@@ -1,0 +1,14 @@
+{¿ O t1} {Por P t2} {qué Q t3} {sufres G t4} {, O t5} {si C t6} {es V t7} {bello G t8} {cuanto Q t9} {miras N t10} {: O t11}
+{el D t12} {cielo N t13} {, O t14} {el D t15} {campo N t16} {, O t17} {el D t18} {mar N t19} {, O t20} {el D t21} {mundo N t22} {entero G t23} {? O t24}
+{¿ O t25} {Por P t26} {qué Q t27} {blandos G t28} {apóstrofes N t29} {de P t30} {acero N t31} {, O t32}
+{por P t33} {qué Q t34} {protestas N t35} {cuando C t36} {no A t37} {suspiras G t38} {? O t39}
+{¿ O t40} {Por P t41} {qué Q t42} {entre P t43} {nubes N t44} {de P t45} {tristeza N t46} {giras N t47} {, O t48}
+{si C t49} {tras P t50} {de P t51} {cada D t52} {nube N t53} {hay V t54} {un D t55} {lucero N t56} {? O t57}
+{Porque C t58} {sólo A t59} {el D t60} {dolor N t61} {es V t62} {verdadero G t63}
+{y C t64} {todas D t65} {las D t66} {bellezas N t67} {son V t68} {mentiras N t69} {... O t70}
+{En P t71} {la D t72} {misma D t73} {belleza N t74} {el D t75} {dolor N t76} {cabe V t77} {: O t78}
+{¡ O t79} {cuánta D t80} {bella G t81} {mujer N t82} {angustias G t83} {siente V t84}
+{que C t85} {descubrir V t86} {no A t87} {puede V t88} {la D t89} {mirada N t90} {! O t91}
+{Muy A t92} {hermosa G t93} {será V t94} {; O t95} {pero C t96} {¿ O t97} {quién Q t98} {sabe V t99}
+{si C t100} {la D t101} {naturaleza N t102} {es V t103} {solamente A t104}
+{una D t105} {mujer N t106} {hermosa G t107} {... O t108} {y C t109} {desgraciada N t110} {? O t111}

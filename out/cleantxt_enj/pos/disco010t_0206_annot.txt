@@ -1,0 +1,14 @@
+{Parpadeos N t1} {de P t2} {luces N t3} {vacilantes G t4}
+{bordan V t5} {la D t6} {selva N t7} {cuando C t8} {muere V t9} {el D t10} {día N t11} {, O t12}
+{a P t13} {manera N t14} {de P t15} {extraña G t16} {pedrería N t17}
+{que Q t18} {relumbra V t19} {y C t20} {se Q t21} {apaga V t22} {por P t23} {instantes N t24}
+{En P t25} {desatados N t26} {círculos N t27} {errantes G t28} {, O t29}
+{brotan V t30} {cocuyos Q t31} {en P t32} {la D t33} {selva N t34} {umbría V t35} {, O t36}
+{cual Q t37} {si C t38} {alguien Q t39} {, O t40} {con P t41} {la D t42} {fiebre N t43} {de P t44} {la D t45} {orgía N t46} {, O t47}
+{arrojara V t48} {puñados G t49} {de P t50} {diamantes N t51} {. O t52}
+{De P t53} {día N t54} {ocultos G t55} {en P t56} {la D t57} {verde G t58} {alfombra N t59} {, O t60}
+{sólo A t61} {en P t62} {las D t63} {horas N t64} {de P t65} {nocturna G t66} {calma N t67}
+{divagan V t68} {a P t69} {través N t70} {de P t71} {la D t72} {espesura N t73} {; O t74}
+{y C t75} {a P t76} {fuerza N t77} {de P t78} {brillar V t79} {entre P t80} {la D t81} {sombra N t82} {, O t83}
+{acrisolan V t84} {su D t85} {brillo N t86} {, O t87} {como C t88} {el D t89} {alma N t90}
+{que C t91} {a P t92} {fuerza N t93} {de P t94} {sufrir V t95} {se Q t96} {hace V t97} {más A t98} {pura G t99} {. O t100}

@@ -1,0 +1,14 @@
+{En P t1} {el D t2} {bosque N t3} {de P t4} {aromas N t5} {y C t6} {de P t7} {músicas N t8} {lleno G t9} {, O t10}
+{la D t11} {magnolia N t12} {florece V t13} {delicada G t14} {y C t15} {ligera G t16} {, O t17}
+{cual Q t18} {vellón N t19} {que Q t20} {en P t21} {la D t22} {zarzas N t23} {enredado V t24} {estuviera V t25}
+{o C t26} {cual Q t27} {copo N t28} {de P t29} {espuma N t30} {sobre P t31} {lago N t32} {sereno G t33}
+{Es V t34} {un D t35} {ánfora N t36} {digna G t37} {de P t38} {un D t39} {artífice N t40} {heleno G t41} {, O t42}
+{un D t43} {marmóreo N t44} {prodigio N t45} {de P t46} {la D t47} {clásica G t48} {era V t49} {; O t50}
+{y C t51} {destaca V t52} {su D t53} {fina G t54} {redondez N t55} {, O t56} {a P t57} {manera N t58}
+{de P t59} {una D t60} {dama N t61} {que Q t62} {luce V t63} {descotado G t64} {su D t65} {seno N t66}
+{No A t67} {se Q t68} {sabe V t69} {si C t70} {es V t71} {perla V t72} {, O t73} {no A t74} {se Q t75} {sabe V t76} {si C t77} {es V t78} {llanto N t79}
+{Hay V t80} {entre P t81} {ella Q t82} {y C t83} {la D t84} {luna N t85} {cierta D t86} {historia N t87} {de P t88} {encanto N t89}
+{en P t90} {la D t91} {que Q t92} {una D t93} {paloma N t94} {pierde V t95} {acaso A t96} {la D t97} {vida N t98} {; O t99}
+{porque C t100} {es V t101} {pura G t102} {y C t103} {es V t104} {blanca G t105} {y C t106} {es V t107} {graciosa G t108} {y C t109} {es V t110} {leve G t111}
+{como C t112} {un D t113} {rayo N t114} {de P t115} {luna N t116} {que Q t117} {se Q t118} {cuaja V t119} {en P t120} {la D t121} {nieve N t122}
+{o C t123} {como C t124} {una D t125} {paloma N t126} {que Q t127} {se Q t128} {queda V t129} {dormida G t130} {. O t131}

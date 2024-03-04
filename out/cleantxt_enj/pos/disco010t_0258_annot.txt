@@ -1,0 +1,14 @@
+{Mil R t1} {lámparas N t2} {alumbran V t3} {la D t4} {agonía N t5}
+{del P t6} {buen G t7} {Jesús O t8} {. O t9} {En P t10} {el D t11} {rasgado G t12} {velo N t13} {, O t14}
+{palpita N t15} {, O t16} {así A t17} {como C t18} {con P t19} {sacro G t20} {anhelo N t21} {, O t22}
+{el D t23} {germen N t24} {áureo G t25} {del P t26} {Eterno R t27} {Día R t28} {. O t29}
+{Allá A t30} {, O t31} {al P t32} {fondo N t33} {, O t34} {en P t35} {la D t36} {bóveda N t37} {sombría V t38} {, O t39}
+{rueda V t40} {la D t41} {bruma N t42} {con P t43} {pausado G t44} {vuelo N t45} {: O t46}
+{cada D t47} {rincón N t48} {obscuro G t49} {se Q t50} {hace V t51} {un D t52} {cielo N t53} {; O t54}
+{cada D t55} {mundo N t56} {de P t57} {pena N t58} {, O t59} {una D t60} {alegría N t61} {... O t62}
+{¡ O t63} {Impiedad R t64} {es V t65} {la D t66} {luz N t67} {! O t68} {Por P t69} {eso Q t70} {luego A t71}
+{la D t72} {Iglesia R t73} {, O t74} {con P t75} {la D t76} {sombra N t77} {en P t78} {que Q t79} {se Q t80} {enluta V t81} {, O t82}
+{va V t83} {enjugando V t84} {sus D t85} {lágrimas N t86} {de P t87} {fuego N t88} {; O t89}
+{y C t90} {al P t91} {fin N t92} {un D t93} {solo G t94} {cirio N t95} {se Q t96} {estremece V t97} {, O t98}
+{ante P t99} {la D t100} {cruz N t101} {cuya Q t102} {silueta N t103} {enjuta G t104}
+{adelgázase V t105} {más A t106} {cuanto A t107} {más A t108} {crece V t109} {... O t110}

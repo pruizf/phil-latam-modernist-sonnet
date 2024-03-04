@@ -1,0 +1,14 @@
+{Hoy A} {te Q} {censuran V} {con P} {brutal G} {crudeza N}	B	enlace_subj_verb	ld01
+{los D} {que Q} {ayer A} {te Q} {ensalzaron V} {a P} {porfía N} {: O}	I	enlace_subj_verb	ld01
+{se Q} {quiere V} {descubrir V} {la D} {Hipocresía R} {, O}	O		
+{tratando V} {en P} {vano G} {de P} {mentir V} {franqueza N} {. O}	O		
+{El D} {odio N} {mismo G} {que C} {a P} {hostigarte N} {empieza V} {, O}	O		
+{ficción N} {de P} {teatro N} {y C} {trampa N} {de P} {falsía N} {, O}	O		
+{es V} {el D} {casco N} {de P} {honor N} {y C} {bizarría N}	O		
+{con P} {que Q} {cubre V} {la D} {Envidia R} {su D} {cabeza N} {. O}	O		
+{No A} {te Q} {arredre V} {la D} {estúpida G} {comparsa N} {; O}	O		
+{porque C} {tú Q} {siempre A} {arrollarás A} {la D} {farsa N} {, O}	O		
+{al P} {soplo N} {de P} {huracán N} {de P} {tus D} {castigos N} {... O}	O		
+{¡ O} {Vencerías N} {también A} {, O} {si C} {al P} {fin N} {murieras G} {; O}	O		
+{porque C} {yo Q} {sé V} {que C} {el D} {día N} {en P} {que Q} {tú Q} {mueras N}	B	enlace_subj_verb	ld01
+{te Q} {tienen V} {que C} {llorar V} {sus D} {enemigos N} {! O} {... O}	I	enlace_subj_verb	ld01

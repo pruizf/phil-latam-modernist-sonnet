@@ -1,0 +1,14 @@
+{Mientras C} {el D} {brillo N} {de P} {tu D} {gloria N} {augura G}	B	enlace_od_verb	ld02
+{ser V} {en P} {la D} {eternidad N} {sol N} {sin P} {poniente A} {, O}	I	enlace_od_verb	ld02
+{fénix N} {de P} {viva G} {luz N} {, O} {fénix G} {ardiente A} {, O}	O		
+{diamante N} {parangón G} {de P} {la D} {pintura N} {, O}	O		
+{de P} {España R} {está V} {sobre P} {la D} {veste N} {obscura G}	O		
+{tu D} {nombre N} {, O} {como C} {joya N} {reluciente G} {; O}	O		
+{rompe V} {la D} {Envidia R} {el D} {fatigado G} {diente A} {, O}	O		
+{y C} {el D} {Olvido R} {lamenta V} {su D} {amargura N} {. O}	O		
+{Yo Q} {en P} {equívoco G} {altar N} {, O} {tú Q} {en P} {sacro G} {fuego N} {, O}	O		
+{miro V} {a P} {través N} {de P} {mi D} {penumbra N} {el D} {día N}	O		
+{en P} {que Q} {al P} {calor N} {de P} {tu D} {amistad N} {, O} {Don R} {Diego R} {, O}	O		
+{jugando V} {de P} {la D} {luz N} {con P} {la D} {armonía N} {, O}	O		
+{con P} {la D} {alma N} {luz N} {, O} {de P} {tu D} {pincel N} {el D} {juego N}	B	enlace_subj_verb	ld01
+{el D} {alma N} {duplicó V} {de P} {la D} {faz N} {mía Q} {. O}	I	enlace_subj_verb	ld01

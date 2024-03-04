@@ -1,0 +1,14 @@
+{Tu D t1} {cuarteto N t2} {es V t3} {cuadriga N t4} {de P t5} {águilas N t6} {bravas G t7}
+{que Q t8} {aman V t9} {las D t10} {tempestades N t11} {, O t12} {los D t13} {oceanos N t14} {; O t15}
+{las D t16} {pesadas G t17} {tizonas N t18} {, O t19} {las D t20} {férreas N t21} {clavas G t22} {, O t23}
+{son V t24} {las D t25} {armas N t26} {forjadas G t27} {para P t28} {tus D t29} {manos N t30} {. O t31}
+{Tu D t32} {idea N t33} {tiene V t34} {cráteres N t35} {y C t36} {vierte V t37} {lavas G t38} {; O t39}
+{del P t40} {arte N t41} {recorriendo V t42} {montes N t43} {y C t44} {llanos G t45} {, O t46}
+{van V t47} {tus D t48} {rudas N t49} {estrofas G t50} {jamás A t51} {esclavas G t52} {, O t53}
+{como C t54} {un D t55} {tropel N t56} {de P t57} {búfalos N t58} {americanos G t59} {. O t60}
+{Lo D t61} {que Q t62} {suena V t63} {en P t64} {tu D t65} {lira N t66} {lejos A t67} {resuena G t68} {, O t69}
+{como C t70} {cuando C t71} {habla V t72} {el D t73} {bóreas N t74} {, O t75} {o C t76} {cuando C t77} {truena G t78} {. O t79}
+{¡ O t80} {Hijo N t81} {del P t82} {Nuevo G t83} {Mundo R t84} {! O t85} {, O t86} {la D t87} {Humanidad R t88}
+{oiga V t89} {, O t90} {sobre P t91} {la D t92} {frente N t93} {de P t94} {las D t95} {naciones N t96} {, O t97}
+{la D t98} {hímnica N t99} {pompa G t100} {lírica G t101} {de P t102} {tus D t103} {canciones N t104}
+{que Q t105} {saludan V t106} {triunfantes G t107} {la D t108} {Libertad R t109} {. O t110}

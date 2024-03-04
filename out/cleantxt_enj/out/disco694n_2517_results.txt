@@ -1,0 +1,14 @@
+{¿ O} {Por P} {qué Q} {ese D} {orgullo N} {, O} {Elvira R} {? O} {Que C} {se Q} {domen V}	B	enlace_od_verb	ld02
+{en P} {ti Q} {loca G} {ambición N} {, O} {ruines N} {enojos G} {, O}	I	enlace_od_verb	ld02
+{y C} {quítate V} {esa D} {venda V} {de P} {los D} {ojos N} {, O}	O		
+{y C} {que C} {esos D} {ojos N} {a P} {lo D} {real O} {se Q} {asomen V} {. O}	O		
+{Mira V} {, O} {cuando C} {tus D} {ansias N} {vuelo N} {tomen V}	B	enlace_od_verb	ld02
+{y C} {te Q} {finjan V} {grandezas N} {tus D} {antojos N} {, O}	I	enlace_od_verb	ld02
+{bellas G} {- O} {rostro N} {divino G} {, O} {labios N} {rojos- G} {, O}	O		
+{que Q} {unas D} {comen V} {pan N} {duro G} {, O} {otras D} {no A} {comen V} {. O}	O		
+{Bajan V} {a P} {los D} {abismos N} {nieve N} {puras N}	O		
+{cuando C} {rueda V} {el D} {alud N} {; O} {y C} {se Q} {hacen V} {fango A}	O		
+{después A} {de P} {estar V} {en P} {cumbres N} {altaneras G} {. O}	O		
+{¡ O} {Ay O} {, O} {yo Q} {he V} {visto V} {llorar V} {sus D} {desventuras N}	O		
+{a P} {encopetadas G} {hembras N} {de P} {alto G} {rango N}	O		
+{sobre P} {el D} {sucio G} {jergón N} {de P} {las D} {rameras N} {! O}	O		

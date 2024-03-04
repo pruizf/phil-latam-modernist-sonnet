@@ -1,0 +1,14 @@
+{Amado G t1} {es V t2} {la D t3} {palabra N t4} {en P t5} {que Q t6} {amar V t7} {se Q t8} {concreta V t9} {; O t10}
+{Nervo R t11} {es V t12} {la D t13} {vibración N t14} {de P t15} {los D t16} {nervios N t17} {del P t18} {mal N t19} {. O t20}
+{Bendita R t21} {sea V t22} {, O t23} {y C t24} {pura G t25} {la D t26} {canción N t27} {del P t28} {poeta N t29}
+{que Q t30} {lanzó V t31} {sin P t32} {pensar V t33} {su D t34} {frase N t35} {de P t36} {cristal N t37} {. O t38}
+{Fraile R t39} {de P t40} {mis D t41} {suspiros N t42} {, O t43} {celeste G t44} {anacoreta G t45}
+{que Q t46} {tiene V t47} {en P t48} {blancura G t49} {la D t50} {azúcar N t51} {y C t52} {la D t53} {sal N t54} {: O t55}
+{muéstrame V t56} {el D t57} {lirio N t58} {puro G t59} {que Q t60} {sigues G t61} {en P t62} {la D t63} {veta V t64}
+{y C t65} {hazme V t66} {escuchar V t67} {el D t68} {eco N t69} {de P t70} {tu D t71} {alma N t72} {sideral G t73} {! O t74}
+{Generoso G t75} {y C t76} {sutil G t77} {como C t78} {una D t79} {mariposa G t80} {, O t81}
+{encuentra V t82} {en P t83} {mí Q t84} {la D t85} {miel N t86} {de P t87} {lo D t88} {que Q t89} {soy V t90} {capaz G t91}
+{y C t92} {goza V t93} {en P t94} {mí Q t95} {la D t96} {dulce G t97} {fragancia N t98} {de P t99} {la D t100} {rosa N t101} {. O t102}
+{No A t103} {busques V t104} {en P t105} {mis D t106} {gestos N t107} {el D t108} {alma N t109} {de P t110} {mi D t111} {faz N t112} {: O t113}
+{quiere V t114} {lo D t115} {que Q t116} {se Q t117} {aquieta V t118} {, O t119} {busca V t120} {lo D t121} {que Q t122} {reposa V t123} {, O t124}
+{y C t125} {ten V t126} {como C t127} {una D t128} {joya N t129} {la D t130} {perla N t131} {de P t132} {la D t133} {Paz R t134} {! O t135}

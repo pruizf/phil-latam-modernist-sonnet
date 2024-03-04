@@ -1,0 +1,14 @@
+{Yo Q t1} {soy V t2} {un D t3} {semi-centauro N t4} {, O t5}
+{de P t6} {semblante G t7} {avieso N t8} {y C t9} {duro G t10} {, O t11}
+{que Q t12} {remedo V t13} {a P t14} {Minotauro R t15}
+{y C t16} {me Q t17} {copio V t18} {de P t19} {Epicuro R t20} {. O t21}
+{A P t22} {mi D t23} {frente A t24} {agobia V t25} {un D t26} {lauro N t27}
+{que Q t28} {predice V t29} {mi D t30} {futuro N t31} {, O t32}
+{y C t33} {en P t34} {la D t35} {vida N t36} {soy V t37} {un D t38} {Tauro R t39}
+{que Q t40} {derriba V t41} {fuerte G t42} {muro N t43} {. O t44}
+{Yo Q t45} {le Q t46} {canto N t47} {a P t48} {Proserpina R t49} {, O t50}
+{la D t51} {que Q t52} {quema N t53} {corazones N t54}
+{en P t55} {su D t56} {cálida N t57} {piscina N t58} {. O t59}
+{Soy V t60} {Satán R t61} {y C t62} {soy V t63} {Cristo R t64}
+{que Q t65} {agoniza V t66} {entre P t67} {ladrones N t68} {... O t69}
+{¡ O t70} {No A t71} {comprendo V t72} {dónde Q t73} {existo G t74} {! O t75}

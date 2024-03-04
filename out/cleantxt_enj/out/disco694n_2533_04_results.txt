@@ -1,0 +1,14 @@
+{Sí A} {, O} {Dios R} {lo Q} {quiere V} {a P} {veces N} {. O} {La D} {sangre N} {, O} {las D} {matanzas N} {, O}	O		
+{vienen V} {como C} {una D} {triste G} {y C} {aterradora G} {ley N} {; O}	O		
+{señala V} {lo Q} {Infinito V} {momentos N} {de P} {venganzas N} {, O}	O		
+{rompe V} {la D} {jaula N} {el D} {águila N} {, O} {quebranta V} {el D} {yugo N} {el D} {buey N} {. O}	O		
+{Terrible G} {es V} {la D} {tormenta N} {que Q} {trae V} {las D} {asechanzas N} {, O}	O		
+{la D} {rabia N} {del P} {rebaño N} {, O} {las D} {iras N} {de P} {la D} {grey N} {; O}	O		
+{que C} {pone V} {las D} {cabezas N} {sangrientas G} {en P} {las D} {lanzas N}	O		
+{y C} {arranca V} {, O} {con P} {la D} {vida N} {, O} {la D} {pórpura N} {del P} {rey N} {. O}	O		
+{Sí A} {, O} {Dios R} {lo Q} {quiere V} {a P} {veces N} {, O} {y C} {envía V} {el D} {cataclismo N} {: O}	O		
+{hace V} {brotar V} {del P} {fondo N} {siniestro G} {del P} {abismo N}	B	enlace_od_verb	ld02
+{las D} {lívidas G} {borrascas N} {, O} {la D} {negra N} {tempestad N} {; O}	I	enlace_od_verb	ld02
+{para P} {que C} {surja V} {en P} {medio N} {de P} {la D} {ardua G} {noche N} {trágica G} {, O}	O		
+{como C} {divina G} {enseña N} {, O} {como C} {corona N} {mágica G} {, O}	O		
+{tu D} {nimbo D} {constelado N} {de P} {luz N} {, O} {¡ O} {oh O} {Libertad R} {! O}	O		

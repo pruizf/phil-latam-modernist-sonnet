@@ -1,0 +1,14 @@
+{Es V t1} {en P t2} {mi D t3} {juventud N t4} {, O t5} {mi D t6} {juventud N t7} {que Q t8} {juega V t9}
+{con P t10} {versos N t11} {e C t12} {ilusiones N t13} {, O t14} {espada N t15} {de P t16} {oro N t17} {al P t18} {cinto N t19} {; O t20}
+{hay V t21} {en P t22} {mi D t23} {mente N t24} {un D t25} {sueño N t26} {siempre A t27} {vario G t28} {y C t29} {distinto G t30} {, O t31}
+{y C t32} {mi D t33} {espíritu N t34} {ágil G t35} {al P t36} {acaso A t37} {se Q t38} {entrega V t39} {... O t40}
+{En P t41} {cada D t42} {mujer N t43} {miro V t44} {como C t45} {una D t46} {ninfa N t47} {griega G t48} {; O t49}
+{en P t50} {poemas N t51} {sonoros G t52} {sus D t53} {frescas G t54} {gracias N t55} {pinto G t56} {; O t57}
+{y C t58} {esto Q t59} {pasa V t60} {al P t61} {amor N t62} {del P t63} {puerto N t64} {de P t65} {Corinto R t66} {, O t67}
+{o C t68} {en P t69} {la D t70} {rica G t71} {en P t72} {naranjas N t73} {de P t74} {almíbar V t75} {, O t76} {Chinandega R t77} {. O t78}
+{Tiempo R t79} {lejano G t80} {ya A t81} {. O t82} {Mas R t83} {aún A t84} {veo V t85} {azahares N t86}
+{en P t87} {los D t88} {naranjos N t89} {verdes G t90} {, O t91} {impregnados G t92} {de P t93} {aromas N t94} {, O t95}
+{o C t96} {las D t97} {viejas G t98} {fragatas N t99} {que Q t100} {llegan V t101} {de P t102} {los D t103} {mares N t104}
+{lejanos G t105} {; O t106} {o C t107} {el D t108} {icaco N t109} {, O t110} {o C t111} {tupidos G t112} {manglares N t113} {; O t114}
+{o C t115} {tú Q t116} {, O t117} {rostro N t118} {adorado G t119} {en P t120} {ese D t121} {tiempo N t122} {, O t123} {asomas N t124}
+{con P t125} {primeros G t126} {amores N t127} {y C t128} {primeros G t129} {pesares N t130} {. O t131}

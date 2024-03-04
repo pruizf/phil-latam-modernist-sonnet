@@ -1,0 +1,14 @@
+{Del P t1} {sacerdote N t2} {el D t3} {canto N t4} {funerario G t5} {, O t6}
+{los D t7} {acentos N t8} {del P t9} {místico N t10} {salterio G t11} {, O t12}
+{y C t13} {las D t14} {cruces N t15} {del P t16} {triste G t17} {cementerio N t18}
+{y C t19} {el D t20} {humo N t21} {que Q t22} {despide V t23} {el D t24} {incensario N t25} {; O t26}
+{y C t27} {la D t28} {esquila N t29} {del P t30} {alto G t31} {campanario N t32}
+{y C t33} {la D t34} {oración N t35} {envuelta G t36} {en P t37} {el D t38} {misterio N t39} {, O t40}
+{la D t41} {quietud N t42} {del P t43} {oculto G t44} {monasterio N t45}
+{y C t46} {la D t47} {lámpara N t48} {que Q t49} {arde V t50} {ante P t51} {el D t52} {santuario G t53} {; O t54}
+{todo D t55} {eso Q t56} {da V t57} {consuelo N t58} {, O t59} {luz N t60} {y C t61} {vida N t62} {: O t63}
+{las D t64} {esperanzas N t65} {del P t66} {creyente N t67} {escuda V t68} {, O t69}
+{y C t70} {levanta V t71} {a P t72} {la D t73} {fe N t74} {desfallecida G t75} {, O t76}
+{con P t77} {elocuencia N t78} {que Q t79} {conmueve V t80} {, O t81} {muda G t82} {; O t83}
+{y C t84} {el D t85} {bálsamo N t86} {es V t87} {del P t88} {alma N t89} {que Q t90} {está V t91} {herida N t92}
+{por P t93} {el D t94} {hierro N t95} {candente G t96} {de P t97} {la D t98} {duda N t99} {. O t100}

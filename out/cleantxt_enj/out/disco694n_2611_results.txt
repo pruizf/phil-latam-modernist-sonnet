@@ -1,0 +1,14 @@
+{Como C} {Píndaro R} {tiende V} {, O} {hacia P} {el D} {viento N} {que Q} {sopla V} {, O}	O		
+{la D} {vela N} {de P} {su D} {nave N} {, O} {que Q} {es V} {una D} {carabela N}	B	sirrem_noun_prep	pp06.1
+{de P} {Cortés R} {, O} {por P} {audaz G} {, O} {y C} {de P} {Constantinopla R} {, O}	I	sirrem_noun_prep	pp06.1
+{de P} {París R} {y C} {de P} {la D} {India R} {. O} {Su D} {palabra N} {que Q} {vuela V}	B	sirrem_verb_adv	pp11
+{sutilmente A} {, O} {recuerda V} {la D} {más A} {cálida G} {copla N}	IB	sirrem_verb_adv;sirrem_noun_prep	pp11;pp05
+{de P} {Espafia R} {. O} {Su D} {ascendencia N} {un D} {gran G} {misterio N} {vela N} {. O}	I	sirrem_noun_prep	pp05
+{¡ O} {Quién Q} {sabe V} {cuál Q} {caballo N} {dominó V} {su D} {manopla N} {! O}	O		
+{¡ O} {Quién Q} {sabe V} {los D} {encantos N} {que C} {su D} {sonrisa N} {anhela G} {! O}	O		
+{Encaneció V} {muy A} {joven G} {; O} {vivió V} {su D} {hora N} {intensa G} {, O}	O		
+{ebrio G} {de P} {hallar V} {su D} {vida N} {, O} {por P} {tan A} {humana G} {, O} {inmensa G} {; O}	O		
+{y C} {, O} {adolescente G} {, O} {supo V} {de P} {las D} {iras N} {del P} {Mar. R}	O		
+{Por P} {eso Q} {, O} {cuando C} {muera V} {, O} {dirá V} {la D} {Fama R} {: O} {" O} {¡ O} {Nunca A}	B	sirrem_verb_adv	pp11
+{fue V} {una D} {vida N} {tan A} {bella G} {, O} {a P} {pesar N} {de P} {ser V} {trunca A} {, O}	I	sirrem_verb_adv	pp11
+{como C} {ésta Q} {del P} {gran G} {nómada G} {, O} {Don R} {Augusto R} {d' V} {Halmar R} {! O} {" O}	O		

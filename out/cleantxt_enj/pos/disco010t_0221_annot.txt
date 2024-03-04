@@ -1,0 +1,14 @@
+{Tengo V t1} {una D t2} {Virgen R t3} {modelada G t4} {en P t5} {cera N t6} {, O t7}
+{ante P t8} {la D t9} {que Q t10} {arde V t11} {extática G t12} {mi D t13} {vida N t14} {, O t15}
+{cual Q t16} {si C t17} {fuese V t18} {una D t19} {lámpara N t20} {encendida G t21}
+{que C t22} {en P t23} {honor N t24} {de P t25} {un D t26} {amor N t27} {se Q t28} {consumiera V t29} {. O t30}
+{Por P t31} {un D t32} {rayo N t33} {lunar V t34} {de P t35} {primavera N t36}
+{vino V t37} {a P t38} {mí Q t39} {, O t40} {como C t41} {el D t42} {bálsamo N t43} {a P t44} {la D t45} {herida N t46} {, O t47}
+{esta D t48} {gótica G t49} {Virgen R t50} {desprendida G t51}
+{tal D t52} {vez N t53} {de P t54} {una D t55} {litúrgica G t56} {vidriera N t57} {. O t58}
+{Yo Q t59} {haré V t60} {que C t61} {siempre A t62} {inmaculada G t63} {brille V t64}
+{la D t65} {Virgen R t66} {de P t67} {la D t68} {frente N t69} {taciturna G t70}
+{y C t71} {los D t72} {ojos N t73} {metálicos G t74} {y C t75} {tersos G t76} {; O t77}
+{que C t78} {, O t79} {para P t80} {que C t81} {ni C t82} {el D t83} {aire N t84} {la D t85} {mancille N t86} {, O t87}
+{la D t88} {tengo V t89} {- O t90} {sin P t91} {tocar V t92} {- O t93} {en P t94} {una D t95} {urna N t96}
+{hecha G t97} {con P t98} {los D t99} {cristales N t100} {de P t101} {mis D t102} {versos N t103}

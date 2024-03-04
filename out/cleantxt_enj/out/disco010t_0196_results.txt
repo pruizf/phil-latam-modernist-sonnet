@@ -1,0 +1,14 @@
+{Cartagena R} {de P} {Indias R} {: O} {tú Q} {que C} {, O} {a P} {solas G} {, O}	O		
+{entre P} {el D} {rigor N} {de P} {las D} {murallas N} {fieras G} {, O}	O		
+{crees N} {que Q} {te Q} {acarician V} {las D} {banderas N}	B	sirrem_noun_prep	pp06.1
+{de P} {pretéritas N} {huestes G} {españolas G} {; O}	I	sirrem_noun_prep	pp06.1
+{tú Q} {, O} {que Q} {ciñes N} {radiantes G} {aureolas N} {, O}	O		
+{desenvuelves N} {, O} {soñando V} {en P} {las D} {riberas N} {, O}	O		
+{la D} {perezosa G} {voz N} {de P} {tus D} {palmeras N}	O		
+{y C} {el D} {escándalo N} {eterno G} {de P} {tus D} {olas N} {. O}	O		
+{¿ O} {Para P} {qué Q} {es V} {despertar V} {, O} {bella G} {durmiente A} {? O}	O		
+{Los D} {piratas N} {tus D} {sueños N} {mortifican V} {, O}	O		
+{mas A} {tú Q} {, O} {siempre A} {serena G} {, O} {te Q} {destacas V} {; O}	O		
+{y C} {los D} {párpados N} {cierras D} {blandamente G} {, O}	O		
+{mientras C} {que C} {tus D} {palmeras N} {te Q} {abanican V}	O		
+{y C} {tus D} {olas N} {te Q} {mecen V} {como C} {hamacas N} {. O}	O		

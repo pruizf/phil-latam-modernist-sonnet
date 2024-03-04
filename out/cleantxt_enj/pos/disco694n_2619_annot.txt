@@ -1,0 +1,14 @@
+{Peregrino R t1} {que Q t2} {vas V t3} {buscando V t4} {en P t5} {vano G t6}
+{un D t7} {camino N t8} {mejor G t9} {que Q t10} {tu D t11} {camino N t12} {, O t13}
+{¿ O t14} {cómo A t15} {quieres V t16} {que C t17} {yo Q t18} {te Q t19} {de P t20} {la D t21} {mano N t22} {, O t23}
+{si C t24} {mi D t25} {signo N t26} {es V t27} {tu D t28} {signo N t29} {, O t30} {Peregrino R t31} {? O t32}
+{No A t33} {llegarás Q t34} {jamás A t35} {a P t36} {tu D t37} {destino N t38} {; O t39}
+{llevas V t40} {la D t41} {muerte N t42} {en P t43} {ti Q t44} {como C t45} {el D t46} {gusano N t47}
+{que Q t48} {te Q t49} {roe Q t50} {lo D t51} {que Q t52} {tienes V t53} {de P t54} {humano N t55} {... O t56} {, O t57}
+{¡ O t58} {lo D t59} {que Q t60} {tienes V t61} {de P t62} {humano N t63} {y C t64} {de P t65} {divino G t66} {! O t67}
+{¡ O t68} {Sigue V t69} {tranquilamente A t70} {! O t71} {¡ O t72} {oh N t73} {caminante G t74} {! O t75} {, O t76}
+{todavía A t77} {te Q t78} {queda V t79} {muy A t80} {distante G t81}
+{ese D t82} {país N t83} {incógnito G t84} {que Q t85} {sueñas G t86} {... O t87}
+{. O t88} {. O t89} {. O t90} {Y C t91} {soñar V t92} {es V t93} {un D t94} {mal G t95} {. O t96} {Pasa R t97} {y C t98} {olvida V t99} {, O t100}
+{pues C t101} {si C t102} {te Q t103} {empefias N t104} {en P t105} {soñar V t106} {, O t107} {te Q t108} {empeñas V t109}
+{en P t110} {aventar V t111} {la D t112} {llama N t113} {de P t114} {tu D t115} {vida N t116} {. O t117}

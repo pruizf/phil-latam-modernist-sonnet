@@ -1,0 +1,14 @@
+{Mientras C} {haya V} {en P} {la D} {cúspide N} {un D} {tirano N} {, O}	O		
+{mientras C} {haya V} {en P} {el D} {antro N} {un D} {prisionero N} {, O}	O		
+{mientras C} {en P} {la D} {ciudad N} {quiera V} {el D} {guerrero N}	O		
+{hacer V} {lo D} {que Q} {en P} {la D} {breña G} {y C} {en P} {el D} {llano G} {, O}	O		
+{mientras C} {no A} {se Q} {alce V} {el D} {Pueblo R} {soberano N} {, O}	O		
+{yo Q} {, O} {hecho V} {Job R} {de P} {este D} {inmundo N} {estercolero G} {, O}	O		
+{he V} {de P} {cantar V} {las D} {rabias N} {que Q} {el D} {acero N}	B	enlace_subj_verb	ld01
+{siente V} {al P} {hallarse V} {entre P} {la D} {puerca N} {mano N} {... O}	I	enlace_subj_verb	ld01
+{Y C} {cual Q} {mano N} {que Q} {rueda V} {cercenada G}	O		
+{prendida G} {siempre A} {al P} {puño N} {de P} {la D} {espada N} {, O}	O		
+{bregando V} {seguiré V} {siempre A} {con P} {ira N} {... O}	O		
+{Y C} {logrando V} {aplastar V} {a P} {los D} {perversos G}	B	enlace_od_verb	ld02
+{los D} {hundiré N} {en P} {la D} {cárcel N} {de P} {mis D} {versos N} {; O}	I	enlace_od_verb	ld02
+{¡ O} {y C} {como C} {reja G} {les Q} {pondré V} {mi D} {lira N} {! O}	O		

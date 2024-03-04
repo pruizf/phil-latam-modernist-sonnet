@@ -1,0 +1,14 @@
+{Tú Q} {sabes V} {que C} {tu D} {afán N} {es V} {prematuro G} {; O}	O		
+{tú Q} {sabes V} {que C} {no A} {es V} {tiempo N} {todavía A}	B	sirrem_verb_supl	pp26
+{de P} {que C} {derrame N} {el D} {suspirado G} {día N}	IB	sirrem_verb_supl;sirrem_adj_noun	pp26;pp01
+{luz N} {de P} {justicia N} {sobre P} {el D} {antro N} {obscuro G} {. O}	I	sirrem_adj_noun	pp01
+{Si C} {el D} {porvenir N} {es V} {sordo G} {a P} {tu D} {conjuro N} {, O}	O		
+{si C} {es V} {inútil G} {tu D} {ardor N} {en P} {la D} {porfía N} {, O}	O		
+{calla N} {y C} {contempla V} {con P} {mirada N} {fría G}	B	enlace_od_verb	ld02
+{las D} {penumbras N} {inquietas G} {del P} {futuro N} {... O}	I	enlace_od_verb	ld02
+{Canta V} {al P} {sol N} {, O} {cuando C} {el D} {sol N} {bese V} {la D} {cumbre N} {, O}	O		
+{pero C} {hoy A} {, O} {sumido G} {en P} {ti Q} {, O} {sella G} {tu D} {boca N} {: O}	O		
+{¡ O} {y C} {que C} {ruede V} {a P} {tus D} {pies N} {la D} {muchedumbre N} {! O}	O		
+{¡ O} {Más A} {vale V} {ser V} {, O} {guardando V} {el D} {pensamiento N} {, O}	O		
+{mudo G} {y C} {firme G} {a P} {la D} {vez N} {como C} {una D} {roca N} {, O}	O		
+{que Q} {hablador G} {y C} {voluble G} {como C} {el D} {viento N} {! O}	O		

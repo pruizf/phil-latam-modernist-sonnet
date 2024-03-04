@@ -1,0 +1,14 @@
+{Una D} {vez N} {bajo P} {el D} {cóndor N} {de P} {su D} {altura N}	B	sirrem_noun_prep	pd02
+{a P} {pugnar V} {con P} {el D} {boa N} {, O} {que Q} {, O} {hecho V} {un D} {lazo N} {, O}	I	sirrem_noun_prep	pd02
+{dormía V} {astutamente A} {en P} {el D} {regazo N}	B	sirrem_adj_noun	pp02
+{compasivo G} {de P} {trágica G} {espesura N}	I	sirrem_adj_noun	pp02
+{El D} {cóndor N} {picoteó V} {la D} {escama N} {dura G} {; O}	O		
+{y C} {la D} {sierpe N} {, O} {al P} {sentir V} {el D} {picotazo N} {, O}	O		
+{fingió V} {en P} {el D} {césped N} {el D} {nervioso G} {trazo N}	O		
+{con P} {que Q} {la D} {tempestad N} {firma N} {en P} {la D} {anchura N} {. O}	O		
+{El D} {cóndor N} {cogió V} {el D} {boa N} {; O} {y C} {en P} {un D} {vuelo N}	B	sirrem_adj_noun	pp02
+{sacudiólo G} {con P} {ímpetu N} {bravío G} {, O}	I	sirrem_adj_noun	pp02
+{y C} {lo Q} {dejó V} {caer V} {desde P} {su D} {cielo N}	O		
+{Inclinó V} {la D} {mirada N} {al P} {bosque N} {umbrío G} {; O}	O		
+{y C} {pudo V} {ver V} {que C} {, O} {en P} {el D} {lejano G} {suelo N} {, O}	O		
+{en P} {vez N} {del P} {boa N} {, O} {serpenteaba V} {un D} {río N} {. O}	O		

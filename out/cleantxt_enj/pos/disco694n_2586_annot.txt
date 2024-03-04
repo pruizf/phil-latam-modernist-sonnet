@@ -1,0 +1,14 @@
+{Los D t1} {bárbaros N t2} {, O t3} {Francia R t4} {! O t5} {Los D t6} {bárbaros N t7} {, O t8} {cara N t9} {Lutecia R t10} {! O t11}
+{Bajo P t12} {áurea N t13} {rotonda G t14} {reposa V t15} {tu D t16} {gran G t17} {Paladín R t18} {. O t19}
+{Del P t20} {cíclope N t21} {al P t22} {golpe N t23} {, O t24} {¿ O t25} {qué Q t26} {pueden V t27} {las D t28} {risas N t29} {de P t30} {Grecia R t31} {? O t32}
+{¿ O t33} {Qué Q t34} {pueden V t35} {las D t36} {Gracias R t37} {, O t38} {si C t39} {Herakles R t40} {agita V t41} {su D t42} {crin N t43} {? O t44}
+{En P t45} {locas N t46} {faunalias G t47} {no A t48} {sientes V t49} {el D t50} {viento N t51} {que Q t52} {arrecia V t53} {, O t54}
+{el D t55} {viento N t56} {que Q t57} {arrecia V t58} {del P t59} {lado N t60} {del P t61} {férreo G t62} {Berlín R t63} {, O t64}
+{y C t65} {allí A t66} {bajo P t67} {el D t68} {templo N t69} {que Q t70} {tu D t71} {alma N t72} {pagana G t73} {desprecia V t74} {, O t75}
+{tu D t76} {vate N t77} {hecho G t78} {polvo N t79} {no A t80} {puede V t81} {sonar V t82} {su D t83} {clarín N t84} {. O t85}
+{Suspende V t86} {, O t87} {Bizancio R t88} {, O t89} {tu D t90} {fiesta N t91} {mortal G t92} {y C t93} {divina G t94} {, O t95}
+{oh V t96} {Roma R t97} {, O t98} {suspende V t99} {la D t100} {fiesta N t101} {divina G t102} {y C t103} {mortal G t104} {! O t105}
+{Hay V t106} {algo Q t107} {que Q t108} {viene V t109} {como C t110} {una D t111} {invasión N t112} {aquilina G t113}
+{que Q t114} {aguarda V t115} {temblando V t116} {la D t117} {curva N t118} {del P t119} {Arco R t120} {Triunfal R t121} {, O t122}
+{Tannhauser R t123} {! O t124} {Resuena V t125} {la D t126} {marcha N t127} {marcial G t128} {y C t129} {argentina G t130}
+{y C t131} {vese V t132} {a P t133} {lo D t134} {lejos A t135} {la D t136} {gloria N t137} {de P t138} {un D t139} {casco N t140} {imperial G t141} {. O t142}

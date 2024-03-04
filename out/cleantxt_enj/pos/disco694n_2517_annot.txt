@@ -1,0 +1,14 @@
+{¿ O t1} {Por P t2} {qué Q t3} {ese D t4} {orgullo N t5} {, O t6} {Elvira R t7} {? O t8} {Que C t9} {se Q t10} {domen V t11}
+{en P t12} {ti Q t13} {loca G t14} {ambición N t15} {, O t16} {ruines N t17} {enojos G t18} {, O t19}
+{y C t20} {quítate V t21} {esa D t22} {venda V t23} {de P t24} {los D t25} {ojos N t26} {, O t27}
+{y C t28} {que C t29} {esos D t30} {ojos N t31} {a P t32} {lo D t33} {real O t34} {se Q t35} {asomen V t36} {. O t37}
+{Mira V t38} {, O t39} {cuando C t40} {tus D t41} {ansias N t42} {vuelo N t43} {tomen V t44}
+{y C t45} {te Q t46} {finjan V t47} {grandezas N t48} {tus D t49} {antojos N t50} {, O t51}
+{bellas G t52} {- O t53} {rostro N t54} {divino G t55} {, O t56} {labios N t57} {rojos- G t58} {, O t59}
+{que Q t60} {unas D t61} {comen V t62} {pan N t63} {duro G t64} {, O t65} {otras D t66} {no A t67} {comen V t68} {. O t69}
+{Bajan V t70} {a P t71} {los D t72} {abismos N t73} {nieve N t74} {puras N t75}
+{cuando C t76} {rueda V t77} {el D t78} {alud N t79} {; O t80} {y C t81} {se Q t82} {hacen V t83} {fango A t84}
+{después A t85} {de P t86} {estar V t87} {en P t88} {cumbres N t89} {altaneras G t90} {. O t91}
+{¡ O t92} {Ay O t93} {, O t94} {yo Q t95} {he V t96} {visto V t97} {llorar V t98} {sus D t99} {desventuras N t100}
+{a P t101} {encopetadas G t102} {hembras N t103} {de P t104} {alto G t105} {rango N t106}
+{sobre P t107} {el D t108} {sucio G t109} {jergón N t110} {de P t111} {las D t112} {rameras N t113} {! O t114}

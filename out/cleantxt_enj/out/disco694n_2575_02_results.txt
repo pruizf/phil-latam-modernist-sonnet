@@ -1,0 +1,14 @@
+{Alma N} {de P} {oro N} {, O} {fina G} {voz N} {de P} {oro N} {, O}	O		
+{al P} {venir V} {hacia P} {mí Q} {, O} {( O} {por P} {qué Q} {suspiras N} {? O}	O		
+{ya A} {empieza V} {el D} {noble G} {coro N} {de P} {las D} {liras O}	O		
+{a P} {preludiar V} {el D} {himno N} {a P} {tu D} {decoro N} {; O}	O		
+{ya A} {al P} {misterioso G} {son N} {del P} {noble G} {coro N}	B	sirrem_adj_noun	pp01
+{calma N} {el D} {Centauro R} {sus D} {grotescas G} {iras N} {, O}	I	sirrem_adj_noun	pp01
+{y C} {con P} {nueva G} {pasión N} {que Q} {les Q} {inspiras N} {, O}	O		
+{tornan V} {a P} {amarse V} {Angélica R} {y C} {Medoro R} {. O}	O		
+{A P} {Tecrito R} {y C} {Poussin R} {la D} {Fama R} {dote V}	O		
+{con P} {la D} {corona N} {del P} {laurel N} {supremo G} {; O}	O		
+{que C} {en P} {donde Q} {da V} {Cervantes R} {el D} {Quijote R}	O		
+{y C} {yo Q} {las D} {telas N} {con P} {mis D} {luces N} {gemo G} {, O}	O		
+{para P} {Don R} {Luis R} {de P} {Gngora R} {y C} {Argote R}	B	enlace_subj_verb	ld01
+{traerá V} {una D} {nueva G} {palma N} {Polifemo R} {. O}	I	enlace_subj_verb	ld01

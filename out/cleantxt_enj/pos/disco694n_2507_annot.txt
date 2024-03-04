@@ -1,0 +1,14 @@
+{" O t1} {Bernal R t2} {ya A t3} {es V t4} {Sacerdote R t5} {. O t6} {-- G t7} {¡ O t8} {Desgraciado G t9} {! O t10}
+{-- O t11} {Bernal R t12} {ya A t13} {es V t14} {Sacerdote R t15} {. O t16} {-- G t17} {¡ O t18} {Qué D t19} {espantoso G t20} {! O t21}
+{En P t22} {labrarse V t23} {su D t24} {ruina N t25} {, O t26} {¡ O t27} {qué Q t28} {afanoso G t29} {! O t30}
+{En P t31} {huir V t32} {de P t33} {sus D t34} {laureles N t35} {, O t36} {¡ O t37} {qué Q t38} {porfiado G t39} {! O t40}
+{-- O t41} {Un D t42} {porvenir N t43} {y C t44} {gloria N t45} {ha V t46} {despreciado V t47} {. O t48}
+{Es V t49} {un D t50} {loco N t51} {, O t52} {no A t53} {más A t54} {: O t55} {¡ O t56} {es V t57} {lastimoso G t58} {! O t59}
+{¡ O t60} {Cómo Q t61} {corre V t62} {, O t63} {miradle V t64} {, O t65} {presuroso G t66} {, O t67}
+{a P t68} {hondo G t69} {abismo N t70} {! O t71} {¡ O t72} {Detente A t73} {, O t74} {desastrado G t75} {! O t76} {" O t77}
+{Tal Q t78} {grita V t79} {el D t80} {mundo N t81} {en P t82} {sus D t83} {delirios N t84} {vanos G t85} {, O t86}
+{al P t87} {mirar V t88} {de P t89} {Bernal R t90} {el D t91} {santo N t92} {anhelo N t93} {. O t94}
+{El D t95} {sigue V t96} {, O t97} {con P t98} {la D t99} {fe N t100} {de P t101} {los D t102} {cristianos N t103}
+{por P t104} {el D t105} {camino N t106} {que Q t107} {conduce V t108} {al P t109} {Cielo R t110} {; O t111}
+{y C t112} {mientras C t113} {tanto A t114} {, O t115} {Dios R t116} {baja G t117} {a P t118} {sus D t119} {manos N t120}
+{y C t121} {le Q t122} {infunde V t123} {vigor N t124} {, O t125} {paz N t126} {y C t127} {consuelo N t128} {. O t129}

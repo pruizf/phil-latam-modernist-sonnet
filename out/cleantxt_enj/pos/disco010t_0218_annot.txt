@@ -1,0 +1,14 @@
+{En P t1} {la D t2} {reja N t3} {nerviosa G t4} {gime V t5} {una D t6} {serenata N t7} {, O t8}
+{bajo P t9} {un D t10} {celestinaje N t11} {de P t12} {picaresca N t13} {Luna R t14} {; O t15}
+{y C t16} {tras P t17} {la D t18} {celosía N t19} {, O t20} {se Q t21} {presiente V t22} {que C t23} {hay V t24} {una D t25}
+{mujer N t26} {que Q t27} {es V t28} {toda D t29} {hecha G t30} {de P t31} {suspiro N t32} {y C t33} {de P t34} {plata N t35}
+{El D t36} {galán N t37} {embozado G t38} {sus D t39} {querellas N t40} {desata G t41}
+{en P t42} {el D t43} {claro G t44} {silencio N t45} {de P t46} {la D t47} {calle N t48} {moruna G t49} {; O t50}
+{y C t51} {, O t52} {como C t53} {un D t54} {ala N t55} {de P t56} {ave N t57} {que Q t58} {roza V t59} {una D t60} {laguna N t61} {, O t62}
+{va V t63} {diciendo V t64} {en P t65} {su D t66} {canto N t67} {la D t68} {pena N t69} {que Q t70} {lo Q t71} {mata V t72} {. O t73}
+{Cesa V t74} {la D t75} {melodía N t76} {; O t77} {cruje V t78} {la D t79} {celosía N t80} {; O t81}
+{y C t82} {la D t83} {miel N t84} {de P t85} {un D t86} {coloquio N t87} {se Q t88} {disuelve V t89} {en P t90} {la D t91} {hora N t92} {, O t93}
+{hasta P t94} {que C t95} {el D t96} {gallo N t97} {dice V t98} {la D t99} {anunciación N t100} {del P t101} {día N t102} {. O t103}
+{Se Q t104} {alarga V t105} {un D t106} {beso N t107} {bajo P t108} {la D t109} {luna N t110} {macilenta G t111} {, O t112}
+{las D t113} {penumbras N t114} {sonríen V t115} {y C t116} {la D t117} {reja N t118} {se Q t119} {enflora V t120}
+{y C t121} {esto Q t122} {es V t123} {aquí A t124} {y C t125} {en P t126} {mayo O t127} {y C t128} {en P t129} {el D t130} {año N t131} {cuarenta Q t132} {. O t133}

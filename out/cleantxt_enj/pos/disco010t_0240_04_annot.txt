@@ -1,0 +1,14 @@
+{Mientras C t1} {haya V t2} {en P t3} {la D t4} {cúspide N t5} {un D t6} {tirano N t7} {, O t8}
+{mientras C t9} {haya V t10} {en P t11} {el D t12} {antro N t13} {un D t14} {prisionero N t15} {, O t16}
+{mientras C t17} {en P t18} {la D t19} {ciudad N t20} {quiera V t21} {el D t22} {guerrero N t23}
+{hacer V t24} {lo D t25} {que Q t26} {en P t27} {la D t28} {breña G t29} {y C t30} {en P t31} {el D t32} {llano G t33} {, O t34}
+{mientras C t35} {no A t36} {se Q t37} {alce V t38} {el D t39} {Pueblo R t40} {soberano N t41} {, O t42}
+{yo Q t43} {, O t44} {hecho V t45} {Job R t46} {de P t47} {este D t48} {inmundo N t49} {estercolero G t50} {, O t51}
+{he V t52} {de P t53} {cantar V t54} {las D t55} {rabias N t56} {que Q t57} {el D t58} {acero N t59}
+{siente V t60} {al P t61} {hallarse V t62} {entre P t63} {la D t64} {puerca N t65} {mano N t66} {... O t67}
+{Y C t68} {cual Q t69} {mano N t70} {que Q t71} {rueda V t72} {cercenada G t73}
+{prendida G t74} {siempre A t75} {al P t76} {puño N t77} {de P t78} {la D t79} {espada N t80} {, O t81}
+{bregando V t82} {seguiré V t83} {siempre A t84} {con P t85} {ira N t86} {... O t87}
+{Y C t88} {logrando V t89} {aplastar V t90} {a P t91} {los D t92} {perversos G t93}
+{los D t94} {hundiré N t95} {en P t96} {la D t97} {cárcel N t98} {de P t99} {mis D t100} {versos N t101} {; O t102}
+{¡ O t103} {y C t104} {como C t105} {reja G t106} {les Q t107} {pondré V t108} {mi D t109} {lira N t110} {! O t111}

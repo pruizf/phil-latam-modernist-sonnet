@@ -1,0 +1,14 @@
+{Y C t1} {bien A t2} {: O t3} {todo D t4} {ese D t5} {tiempo N t6} {de P t7} {vidas N t8} {amorosas G t9}
+{se Q t10} {estremece V t11} {en P t12} {la D t13} {lira N t14} {del P t15} {poeta N t16} {risueño G t17} {, O t18}
+{que Q t19} {aparece V t20} {en P t21} {diez D t22} {lustros N t23} {como C t24} {el D t25} {único G t26} {dueño N t27}
+{de P t28} {cuanto A t29} {sabe V t30} {a P t31} {mieles N t32} {y C t33} {cuanto A t34} {huele V t35} {a P t36} {rosas N t37}
+{El D t38} {poeta N t39} {sonríe V t40} {cuando C t41} {habla V t42} {de P t43} {esas D t44} {cosas N t45} {; O t46}
+{y C t47} {a P t48} {través N t49} {de P t50} {su D t51} {canto N t52} {, O t53} {como C t54} {a P t55} {través N t56} {de P t57} {un D t58} {sueño N t59} {, O t60}
+{Jesucristo R t61} {sonríe V t62} {también A t63} {desde P t64} {su D t65} {leño N t66}
+{y C t67} {todas D t68} {las D t69} {sonrisas N t70} {se Q t71} {vuelven V t72} {mariposas G t73} {. O t74}
+{Noble G t75} {, O t76} {irónico G t77} {, O t78} {fino G t79} {, O t80} {disimula N t81} {el D t82} {manto N t83}
+{de P t84} {su D t85} {verso N t86} {, O t87} {el D t88} {poeta N t89} {, O t90} {todo D t91} {el D t92} {vicio N t93} {: O t94} {su D t95} {canto N t96}
+{torna V t97} {el D t98} {mal N t99} {de P t100} {las D t101} {gentes N t102} {en P t103} {artístico G t104} {bien N t105} {; O t106}
+{y C t107} {, O t108} {resaltando V t109} {sobre P t110} {la D t111} {liviandad N t112} {oscura G t113} {, O t114}
+{de P t115} {esa D t116} {edad N t117} {que C t118} {él Q t119} {cantaba V t120} {, O t121} {sólo A t122} {, O t123} {al P t124} {fin N t125} {, O t126} {su D t127} {figura N t128}
+{quedará V t129} {por P t130} {los D t131} {siglos N t132} {de P t133} {los D t134} {siglos N t135} {Amén R t136}

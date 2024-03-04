@@ -1,0 +1,14 @@
+{Fue V} {una D} {hora N} {divina G} {para P} {el D} {género N} {humano G} {. O}	O		
+{El D} {Cisne R} {antes A} {cantaba V} {sólo A} {para P} {morir V} {. O}	O		
+{Cuando C} {se Q} {oyó V} {el D} {acento N} {del P} {Cisne R} {wagneriano G}	O		
+{fue V} {en P} {medio N} {de P} {una D} {aurora N} {, O} {fue V} {para P} {revivir V} {. O}	O		
+{Sobre P} {las D} {tempestades N} {del P} {humano N} {oceano G}	O		
+{se Q} {oye V} {el D} {canto N} {del P} {Cisne R} {; O} {no A} {se Q} {cesa V} {de P} {oír V} {, O}	O		
+{dominando V} {el D} {martillo N} {del P} {viejo G} {Thor R} {germano G}	O		
+{o C} {las D} {trompas N} {que Q} {cantan V} {la D} {espada N} {de P} {Argantir R} {. O}	O		
+{¡ O} {Oh O} {Cisne R} {! O} {¡ O} {Oh O} {sacro G} {pájaro N} {! O} {Si C} {antes A} {la D} {blanca G} {Helena R}	B	enlace_subj_verb	ld01
+{del P} {huevo N} {azul G} {de P} {Leda R} {brotó V} {de P} {gracia N} {llena G} {, O}	I	enlace_subj_verb	ld01
+{siendo V} {de P} {la D} {Hermosura R} {la D} {princesa N} {inmortal G} {, O}	O		
+{bajo P} {tus D} {alas N} {la D} {nueva G} {Poesía R} {, O}	O		
+{concibe V} {en P} {una D} {gloria N} {de P} {luz N} {y C} {de P} {harmonía N}	B	enlace_od_verb	ld02
+{la D} {Helena R} {eterna G} {y C} {pura G} {que Q} {encarna V} {el D} {ideal N} {. O}	I	enlace_od_verb	ld02

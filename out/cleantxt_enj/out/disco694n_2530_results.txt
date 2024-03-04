@@ -1,0 +1,14 @@
+{El D} {vasto G} {y C} {misterioso G} {y C} {huracanado G} {viento N}	B	oracional	cp01
+{que Q} {sopla V} {del P} {abismo N} {del P} {hondo G} {firmamento N}	I	oracional	cp01
+{con P} {ala N} {formidable G} {, O} {con P} {ímpetu N} {violento G} {, O}	O		
+{como C} {lanzado G} {al P} {mundo N} {por P} {el D} {poder N} {de P} {Dios R} {, O}	O		
+{ha V} {roto V} {una D} {columna N} {que Q} {el D} {pensamiento N} {humano G}	B	enlace_subj_verb	ld01
+{tenía V} {en P} {este D} {suelo N} {del P} {mundo N} {americano G} {, O}	I	enlace_subj_verb	ld01
+{donde Q} {a P} {los D} {cuatro D} {vientos N} {gigante N} {y C} {soberano N}	O		
+{enviaba V} {al P} {alto G} {genio N} {del P} {porvenir N} {su D} {voz N} {. O}	O		
+{Mas R} {no A} {cantos N} {de P} {duelo N} {debéis N} {alzar V} {, O} {poetas N} {. O}	O		
+{Vibrantes N} {y C} {triunfantes N} {los D} {coros N} {de P} {trompetas N}	B	enlace_subj_verb	ld01
+{saludan V} {al P} {que Q} {cae V} {cubierto G} {de P} {laurel N} {. O}	I	enlace_subj_verb	ld01
+{La D} {gloria N} {es V} {del P} {Maestro R} {: O} {su D} {luz N} {vierte V} {fulgores N} {. O}	O		
+{¡ O} {Preséntense V} {las D} {armas N} {, O} {soldados N} {pensadores N} {, O}	O		
+{que Q} {pasa V} {el D} {carro N} {negro G} {con P} {el D} {cadáver N} {de P} {él Q} {! O}	O		

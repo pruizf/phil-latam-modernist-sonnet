@@ -1,0 +1,14 @@
+{El D t1} {bardo N t2} {melenudo G t3} {y C t4} {decadente G t5}
+{se Q t6} {pasó V t7} {sutilísima G t8} {y C t9} {ligera G t10}
+{la D t11} {mano N t12} {por P t13} {la D t14} {blonda N t15} {cabellera G t16} {, O t17}
+{y C t18} {se Q t19} {la Q t20} {alborotó V t21} {sobre P t22} {la D t23} {frente N t24} {. O t25}
+{Plegó V t26} {después A t27} {el D t28} {labio N t29} {sonriente A t30} {; O t31}
+{alzó V t32} {los D t33} {ojos N t34} {a P t35} {la D t36} {azul G t37} {esfera N t38} {; O t39}
+{y C t40} {con P t41} {voz N t42} {melodiosa G t43} {y C t44} {plañidera G t45}
+{rompió V t46} {el D t47} {silencio N t48} {de P t49} {la D t50} {absorta G t51} {gente N t52} {. O t53}
+{Y C t54} {dijo V t55} {sus D t56} {estrofas N t57} {. O t58} {Nadie Q t59} {pudo V t60}
+{sorprender V t61} {los D t62} {oscuros G t63} {simbolismos N t64} {, O t65}
+{ni C t66} {salió V t67} {nadie Q t68} {del P t69} {asombro N t70} {mudo G t71} {. O t72}
+{De P t73} {súbito N t74} {estallaron V t75} {las D t76} {palmadas N t77} {, O t78}
+{pero C t79} {sonaron V t80} {los D t81} {aplausos N t82} {mismos D t83}
+{como C t84} {si C t85} {hubieran V t86} {sido V t87} {bofetadas V t88} {... O t89}

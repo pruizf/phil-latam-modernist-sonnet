@@ -1,0 +1,14 @@
+{En P} {la D} {playa N} {he V} {encontrado V} {un D} {caracol N} {de P} {oro N}	B	sirrem_adj_noun	pp02
+{macizo G} {y C} {recamado G} {de P} {las D} {perlas N} {más A} {finas G} {; O}	I	sirrem_adj_noun	pp02
+{Europa R} {le Q} {ha V} {tocado V} {con P} {sus D} {manos N} {divinas G}	O		
+{cuando C} {cruzó V} {las D} {ondas N} {sobre P} {el D} {celeste G} {toro N} {. O}	O		
+{He V} {llevado V} {a P} {mis D} {labios N} {el D} {caracol N} {sonoro G}	O		
+{y C} {he V} {suscitado V} {el D} {eco N} {de P} {las D} {dianas N} {marinas G} {, O}	O		
+{le Q} {acerqué V} {a P} {mis D} {oídos N} {y C} {las D} {azules G} {minas N}	B	enlace_subj_verb	ld01
+{me Q} {han V} {contado V} {en P} {voz N} {baja G} {su D} {secreto N} {tesoro N} {. O}	I	enlace_subj_verb	ld01
+{Así A} {la D} {sal N} {me Q} {llega V} {de P} {los D} {vientos N} {amargos G}	B	oracional	cp01
+{que Q} {en P} {sus D} {hinchadas N} {velas N} {sintió V} {la D} {nave N} {Argos R}	I	oracional	cp01
+{cuando C} {amaron V} {los D} {astros N} {el D} {suefio N} {de P} {Jasón R} {; O}	O		
+{y C} {oigo V} {un D} {rumor N} {de P} {olas N} {y C} {un D} {incógnito G} {acento N}	O		
+{y C} {un D} {profundo G} {oleaje N} {y C} {un D} {misterioso G} {viento N} {... O}	O		
+{( O} {El D} {caracol N} {la D} {forma N} {tiene V} {de P} {un D} {corazón N} {) O} {. O}	O		

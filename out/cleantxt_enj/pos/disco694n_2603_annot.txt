@@ -1,0 +1,14 @@
+{En P t1} {las D t2} {constelaciones N t3} {Pitágoras R t4} {leía V t5} {, O t6}
+{yo Q t7} {en P t8} {las D t9} {constelaciones N t10} {pitagóricas G t11} {leo N t12} {: O t13}
+{pero C t14} {se Q t15} {han V t16} {confundido V t17} {dentro A t18} {del P t19} {alma N t20} {mía Q t21}
+{el D t22} {alma N t23} {de P t24} {Pitágoras R t25} {con P t26} {el D t27} {alma N t28} {de P t29} {Orfeo R t30} {. O t31}
+{Sé V t32} {que C t33} {soy V t34} {, O t35} {desde P t36} {el D t37} {tiempo N t38} {del P t39} {Paraíso R t40} {, O t41} {reo V t42} {; O t43}
+{sé V t44} {que C t45} {he V t46} {robado V t47} {el D t48} {fuego N t49} {y C t50} {robé N t51} {la D t52} {armonía N t53} {; O t54}
+{que C t55} {es V t56} {abismo N t57} {mi D t58} {alma N t59} {y C t60} {huracán N t61} {mi D t62} {deseo N t63} {; O t64}
+{que C t65} {sorbo V t66} {el D t67} {infinito G t68} {y C t69} {quiero V t70} {todavía A t71} {... O t72}
+{Pero C t73} {¿ O t74} {qué Q t75} {voy V t76} {a P t77} {hacer V t78} {, O t79} {si C t80} {estoy V t81} {atado G t82} {al P t83} {potro N t84}
+{en P t85} {que Q t86} {, O t87} {ganado V t88} {el D t89} {premio N t90} {, O t91} {siempre A t92} {quiero V t93} {ser V t94} {otro Q t95} {, O t96}
+{y C t97} {en P t98} {que C t99} {, O t100} {dos Q t101} {en P t102} {mí Q t103} {mismo G t104} {, O t105} {triunfa V t106} {uno Q t107} {de P t108} {los D t109} {dos Q t110} {? O t111}
+{En P t112} {la D t113} {arena N t114} {me Q t115} {enseña N t116} {la D t117} {rortuga N t118} {de P t119} {oro N t120}
+{hacia P t121} {dónde Q t122} {conduce V t123} {de P t124} {las D t125} {musas N t126} {el D t127} {coro N t128}
+{y C t129} {en P t130} {dónde Q t131} {triunfa V t132} {, O t133} {augusta V t134} {, O t135} {la D t136} {voluntad N t137} {de P t138} {Dios R t139} {. O t140}

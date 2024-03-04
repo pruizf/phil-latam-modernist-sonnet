@@ -1,0 +1,14 @@
+{Ya A t1} {sin P t2} {odio N t3} {ni C t4} {amor N t5} {, O t6} {la D t7} {fe N t8} {perdida G t9} {, O t10}
+{la D t11} {sonrisa N t12} {borrada G t13} {y C t14} {seco G t15} {el D t16} {llanto N t17} {, O t18}
+{cuando Q t19} {duerme V t20} {Saúl R t21} {le Q t22} {corto G t23} {el D t24} {manto N t25}
+{y C t26} {prosigo V t27} {mi D t28} {marcha N t29} {imerrumpida G t30} {... O t31}
+{¿ O t32} {Para P t33} {qué Q t34} {la D t35} {venganza N t36} {? O t37} {Ya A t38} {la D t39} {herida N t40}
+{se Q t41} {olvidó V t42} {del P t43} {puñal N t44} {... O t45} {¡ O t46} {Ya A t47} {el D t48} {postrer V t49} {canto N t50}
+{el D t51} {cisne N t52} {, O t53} {enfurecido G t54} {del P t55} {espanto N t56}
+{lanzó V t57} {sobre P t58} {las D t59} {charcas N t60} {de P t61} {la D t62} {vida N t63} {! O t64}
+{Cansado G t65} {ya A t66} {de P t67} {este D t68} {combate N t69} {recio A t70} {, O t71}
+{todo Q t72} {lo Q t73} {juzgo V t74} {y C t75} {lo Q t76} {desprecio N t77} {todo Q t78} {, O t79}
+{desde P t80} {la D t81} {excelsltud N t82} {de P t83} {mi D t84} {desprecio N t85} {; O t86}
+{y C t87} {mi D t88} {desprecio N t89} {en P t90} {colosal N t91} {marea N t92} {, O t93}
+{sobre P t94} {toda D t95} {montaña N t96} {sube V t97} {un D t98} {codo N t99}
+{y C t100} {sobre P t101} {todo Q t102} {espíritu N t103} {una D t104} {idea N t105} {... O t106}

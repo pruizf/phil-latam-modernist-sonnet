@@ -1,0 +1,14 @@
+{El D t1} {pilluelo N t2} {del P t3} {campo N t4} {es V t5} {el D t6} {pilluelo N t7}
+{más A t8} {lleno G t9} {de P t10} {destreza N t11} {y C t12} {de P t13} {osadía N t14} {, O t15}
+{que Q t16} {se Q t17} {despierta V t18} {cuando C t19} {el D t20} {nuevo G t21} {día N t22}
+{le Q t23} {despierta V t24} {también A t25} {allá A t26} {, O t27} {en P t28} {el D t29} {cielo N t30} {. O t31}
+{Métese R t32} {en P t33} {el D t34} {corral N t35} {. O t36} {Arroja V t37} {al P t38} {suelo N t39}
+{el D t40} {árbol N t41} {más A t42} {amado G t43} {en P t44} {la D t45} {alquería N t46} {; O t47}
+{y C t48} {escala N t49} {el D t50} {muro N t51} {, O t52} {y C t53} {rueda V t54} {por P t55} {la D t56} {vía N t57} {, O t58}
+{y C t59} {cruza V t60} {el D t61} {monte N t62} {sobre P t63} {un D t64} {asno N t65} {en P t66} {pelo N t67} {. O t68}
+{Sacudiendo V t69} {el D t70} {mechón N t71} {en P t72} {su D t73} {escondrijo N t74}
+{trépase V t75} {al P t76} {pino N t77} {o C t78} {se Q t79} {hunde V t80} {entre P t81} {las D t82} {yedras N t83}
+{con P t84} {su D t85} {rojo G t86} {pañuelo N t87} {al P t88} {cuello N t89} {fijo G t90} {. O t91}
+{Y C t92} {allá A t93} {en P t94} {la D t95} {calina N t96} {de P t97} {sus D t98} {ocios D t99} {vagos N t100}
+{busca V t101} {piedras N t102} {, O t103} {y C t104} {rompe V t105} {con P t106} {las D t107} {piedras N t108}
+{¡ O t109} {todos D t110} {los D t111} {vidrios N t112} {de P t113} {los D t114} {tersos N t115} {lagos G t116} {! O t117} {... O t118}

@@ -1,0 +1,14 @@
+{El D} {Rey R} {del P} {Sol R} {, O} {el D} {hombre N} {que Q} {vio V} {a P} {sus D} {pies N} {la D} {Esfera R} {, O}	O		
+{enderezando V} {al P} {punto N} {su D} {testa N} {coronada G} {, O}	O		
+{preguntó V} {: O} {- O} {¿ O} {Quién Q} {detiene V} {mi D} {carroza N} {? O} {- O} {Una D} {espada N}	B	enlace_subj_verb	ld01
+{es V} {menos A} {penetrante G} {que C} {una D} {pupila G} {fiera N}	IB	enlace_subj_verb;sirrem_adj_noun	ld01;pp02
+{Vergonzante G} {que Q} {un D} {día N} {su D} {harapos N} {zurciera V}	I	sirrem_adj_noun	pp02
+{con P} {un D} {rayo N} {de P} {gloria N} {, O} {resistió V} {la D} {mirada N} {; O}	O		
+{y C} {arrojó V} {a P} {las D} {alturas N} {una D} {frase N} {vaciada G}	O		
+{en P} {los D} {épicos N} {moldes G} {de P} {la D} {clásica G} {era N}	O		
+{Tal Q} {el D} {Rey R} {: O} {- O} {¿ O} {Quién Q} {detiene V} {mi D} {carroza N} {? O} {Aquel D} {hombre N}	B	enlace_subj_verb	ld01
+{se Q} {acercó V} {respetuosos G} {, O} {y C} {, O} {en P} {lugar N} {de P} {su D} {nombre N} {, O}	I	enlace_subj_verb	ld01
+{- O} {¡ O} {Quién Q} {te Q} {ha V} {dado V} {más A} {tierras N} {que C} {tu D} {padre N} {! O} {- O} {le Q} {dijo V}	B	enlace_subj_verb	ld01
+{Carlos R} {V R} {abrió V} {entonces A} {su D} {carroza N} {al P} {instante N} {; O}	I	enlace_subj_verb	ld01
+{y C} {rogándole V} {luego A} {que C} {pasara V} {adelante A} {, O}	O		
+{lo Q} {sentó V} {a P} {su D} {derecha N} {, O} {como C} {Dios R} {a P} {su D} {Hijo N} {. O}	O		

@@ -1,0 +1,14 @@
+{Como C} {desborde V} {que C} {febril O} {avanza V}	O		
+{por P} {las D} {campiñas N} {con P} {salvaje G} {brío N} {, O}	O		
+{la D} {ciudad N} {se Q} {despuebla V} {en P} {el D} {estío N}	O		
+{y C} {hacia P} {la D} {aldea N} {sin P} {temor N} {se Q} {lanza V} {. O}	O		
+{Contúrbase V} {la D} {dulce G} {venturanza N}	B	sirrem_noun_prep	pp05
+{de P} {la D} {aldea N} {a P} {la D} {fuerza N} {del P} {gentío N} {, O}	I	sirrem_noun_prep	pp05
+{como C} {laguna N} {al P} {recibir V} {un D} {río N} {, O}	O		
+{que Q} {ansioso G} {de P} {amplitud N} {por P} {fin N} {la Q} {alcanza V} {. O}	O		
+{De P} {gozar V} {ya A} {cansado G} {, O} {noche N} {y C} {día N} {, O}	O		
+{-- G} {en P} {el D} {mar N} {o C} {en P} {el D} {campo N} {, O} {brisa N} {u C} {ola-- N} {, O}	O		
+{huye V} {el D} {tumulto N} {a P} {la D} {ciudad N} {sombría V} {; O}	O		
+{mas A} {siempre A} {inmensa G} {hacia P} {la D} {aldea N} {sola G}	B	enlace_subj_verb	ld01
+{toma V} {en P} {verano N} {aquella D} {farsa N} {impía V} {, O}	I	enlace_subj_verb	ld01
+{que Q} {se Q} {viste V} {de P} {frac N} {o C} {arrastra V} {cola N} {... O}	O		

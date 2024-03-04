@@ -1,0 +1,14 @@
+{Tu D} {cuarteto N} {es V} {cuadriga N} {de P} {águilas N} {bravas G}	B	oracional	cp01
+{que Q} {aman V} {las D} {tempestades N} {, O} {los D} {oceanos N} {; O}	I	oracional	cp01
+{las D} {pesadas G} {tizonas N} {, O} {las D} {férreas N} {clavas G} {, O}	O		
+{son V} {las D} {armas N} {forjadas G} {para P} {tus D} {manos N} {. O}	O		
+{Tu D} {idea N} {tiene V} {cráteres N} {y C} {vierte V} {lavas G} {; O}	O		
+{del P} {arte N} {recorriendo V} {montes N} {y C} {llanos G} {, O}	O		
+{van V} {tus D} {rudas N} {estrofas G} {jamás A} {esclavas G} {, O}	O		
+{como C} {un D} {tropel N} {de P} {búfalos N} {americanos G} {. O}	O		
+{Lo D} {que Q} {suena V} {en P} {tu D} {lira N} {lejos A} {resuena G} {, O}	O		
+{como C} {cuando C} {habla V} {el D} {bóreas N} {, O} {o C} {cuando C} {truena G} {. O}	O		
+{¡ O} {Hijo N} {del P} {Nuevo G} {Mundo R} {! O} {, O} {la D} {Humanidad R}	B	enlace_subj_verb	ld01
+{oiga V} {, O} {sobre P} {la D} {frente N} {de P} {las D} {naciones N} {, O}	I	enlace_subj_verb	ld01
+{la D} {hímnica N} {pompa G} {lírica G} {de P} {tus D} {canciones N}	B	oracional	cp01
+{que Q} {saludan V} {triunfantes G} {la D} {Libertad R} {. O}	I	oracional	cp01

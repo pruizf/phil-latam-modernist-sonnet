@@ -1,0 +1,14 @@
+{Eres V t1} {fría G t2} {. O t3} {A P t4} {tus D t5} {labios N t6} {no A t7} {se Q t8} {asoma V t9}
+{ni C t10} {la D t11} {risa N t12} {, O t13} {ni C t14} {el D t15} {grito N t16} {, O t17} {ni C t18} {la D t19} {queja N t20} {: O t21}
+{estatua N t22} {fueras G t23} {en P t24} {la D t25} {Atenas R t26} {vieja G t27} {, O t28}
+{mujer N t29} {no A t30} {fueras G t31} {en P t32} {la D t33} {vieja G t34} {Roma R t35} {. O t36}
+{Como C t37} {estatua N t38} {de P t39} {sal N t40} {, O t41} {si C t42} {a P t43} {veces N t44} {toma V t45}
+{gesto N t46} {vibrante G t47} {el D t48} {arco N t49} {de P t50} {tu D t51} {ceja N t52} {, O t53}
+{es V t54} {porque C t55} {en P t56} {tu D t57} {pupila N t58} {se Q t59} {refleja V t60}
+{el D t61} {rojo N t62} {incendio N t63} {de P t64} {infernal G t65} {Sodoma R t66} {. O t67}
+{¡ O t68} {Tú Q t69} {desdeñaste V t70} {a P t71} {jóvenes N t72} {de P t73} {brío N t74} {, O t75}
+{y C t76} {en P t77} {matrimonio N t78} {trágico G t79} {y C t80} {sombrío G t81}
+{a P t82} {un D t83} {anciano N t84} {te Q t85} {uniste V t86} {sin P t87} {conciencia N t88} {; O t89}
+{y C t90} {la D t91} {justicia N t92} {del P t93} {amor N t94} {burlado G t95} {, O t96}
+{como C t97} {que C t98} {eres V t99} {de P t100} {sal N t101} {, O t102} {te Q t103} {ha V t104} {condenado V t105}
+{a P t106} {que C t107} {te Q t108} {lama V t109} {el D t110} {buey N t111} {de P t112} {la D t113} {Impotencia R t114} {! O t115}

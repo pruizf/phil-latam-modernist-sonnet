@@ -1,0 +1,14 @@
+{Puede V t1} {ajustarse V t2} {al P t3} {pecho N t4} {coraza N t5} {férrea G t6} {y C t7} {dura G t8} {; O t9}
+{puede V t10} {regir V t11} {la D t12} {lanza N t13} {, O t14} {la D t15} {rienda N t16} {del P t17} {corcel N t18} {; O t19}
+{sus D t20} {músculos N t21} {de P t22} {atleta N t23} {soportan V t24} {la D t25} {armadura N t26} {; O t27} {... O t28}
+{pero C t29} {él Q t30} {busca V t31} {en P t32} {las D t33} {bocas N t34} {rosadas G t35} {leche N t36} {y C t37} {miel N t38} {. O t39}
+{Artista R t40} {, O t41} {hijo N t42} {de P t43} {Capua R t44} {, O t45} {que Q t46} {adora V t47} {la D t48} {hermosura N t49} {, O t50}
+{la D t51} {carne N t52} {femenina G t53} {prefiere V t54} {su D t55} {pincel N t56} {; O t57}
+{y C t58} {en P t59} {el D t60} {recinto N t61} {oculto G t62} {de P t63} {tibia N t64} {alcoba G t65} {obscura V t66} {, O t67}
+{agrega V t68} {mirto A t69} {y C t70} {rosas N t71} {a P t72} {su D t73} {triunfal G t74} {laurel N t75} {. O t76}
+{Canta Q t77} {de P t78} {los D t79} {oarystis N t80} {el D t81} {delicioso G t82} {instante N t83} {, O t84}
+{los D t85} {besos N t86} {y C t87} {el D t88} {delirio N t89} {de P t90} {la D t91} {mujer N t92} {amante N t93} {; O t94}
+{y C t95} {en P t96} {sus D t97} {palabras N t98} {tiene V t99} {perfume N t100} {, O t101} {alma N t102} {, O t103} {color N t104} {. O t105}
+{Su D t106} {ave N t107} {es V t108} {la D t109} {venusina N t110} {, O t111} {la D t112} {tímida G t113} {paloma N t114} {. O t115}
+{Vencido G t116} {hubiera V t117} {en P t118} {Grecia R t119} {, O t120} {vencido G t121} {hubiera V t122} {en P t123} {Roma R t124} {, O t125}
+{en P t126} {todos D t127} {los D t128} {combates N t129} {del P t130} {arte N t131} {o C t132} {del P t133} {amor N t134} {. O t135}

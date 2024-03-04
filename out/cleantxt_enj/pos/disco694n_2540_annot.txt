@@ -1,0 +1,14 @@
+{Poesía N t1} {dulce G t2} {y C t3} {mística N t4} {, O t5}
+{busca V t6} {a P t7} {la D t8} {blanca G t9} {cubana N t10}
+{que Q t11} {se Q t12} {asomó V t13} {a P t14} {la D t15} {ventana N t16}
+{como C t17} {una D t18} {visión N t19} {artística G t20} {. O t21}
+{Misteriosa G t22} {y C t23} {cabalística G t24} {, O t25}
+{puede V t26} {dar V t27} {celos N t28} {a P t29} {Diana R t30} {, O t31}
+{con P t32} {su D t33} {faz N t34} {de P t35} {porcelana N t36}
+{de P t37} {una D t38} {blancura G t39} {eucarística N t40} {. O t41}
+{Llena R t42} {de P t43} {un D t44} {prestigio N t45} {asiático G t46} {, O t47}
+{roja G t48} {, O t49} {en P t50} {el D t51} {rostro N t52} {enigmático G t53} {, O t54}
+{su D t55} {boca N t56} {púrpura G t57} {finge N t58}
+{y C t59} {al P t60} {sonreírse V t61} {vi V t62} {en P t63} {ella Q t64}
+{el D t65} {resplandor N t66} {de P t67} {una D t68} {estrella N t69}
+{que Q t70} {fuese V t71} {alma N t72} {de P t73} {una D t74} {esfinge N t75} {. O t76}

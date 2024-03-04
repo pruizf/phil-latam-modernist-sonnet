@@ -1,0 +1,14 @@
+{Yo Q} {te Q} {daría V} {del P} {callado G} {ambiente N}	B	enlace_subj_verb	ld01
+{el D} {beso N} {perfumado G} {y C} {misterioso G} {; O}	I	enlace_subj_verb	ld01
+{te Q} {daría V} {el D} {enjambre N} {vaporoso G}	B	sirrem_noun_prep	pp05
+{de P} {sueños N} {que Q} {se Q} {agitan V} {en P} {mi D} {mente N} {; O}	I	sirrem_noun_prep	pp05
+{los D} {fulgores N} {del P} {alba N} {en P} {el D} {Oriente R}	O		
+{del P} {arroyo N} {el D} {suspiro N} {cadencioso G} {, O}	O		
+{los D} {rayos N} {del P} {lucero N} {primoroso G} {, O}	O		
+{las D} {linfas N} {claras G} {de P} {la D} {mansa N} {fuente N} {. O}	O		
+{Calma N} {, O} {pues C} {, O} {¡ O} {oh O} {mujer N} {! O} {, O} {mi D} {devaneo N} {, O}	O		
+{y C} {no A} {seas V} {conmigo Q} {tan A} {ingrata G} {; O}	O		
+{en P} {ti Q} {la D} {luz N} {de P} {mi D} {esperanza N} {veo V}	O		
+{y C} {tu D} {mirar V} {me Q} {enciende V} {y C} {me Q} {arrebata V}	O		
+{-- O} {Señor O} {poeta N} {, O} {vaya V} {usté V} {a P} {paseo N} {; O}	O		
+{¡ O} {otros D} {hay V} {que C} {me Q} {ofrecen V} {mucha D} {plata N} {! O}	O		

@@ -1,0 +1,14 @@
+{En P t1} {la D t2} {tranquila G t3} {noche N t4} {, O t5} {mis D t6} {nostalgias N t7} {amargas G t8} {sufría V t9} {. O t10}
+{En P t11} {busca N t12} {de P t13} {quietud N t14} {, O t15} {bajé V t16} {al P t17} {fresco G t18} {y C t19} {callado G t20} {jardín N t21} {. O t22}
+{En P t23} {el D t24} {obscuro G t25} {cielo N t26} {Venus R t27} {bella G t28} {temblando V t29} {lucía V t30} {, O t31}
+{como C t32} {incrustado V t33} {en P t34} {ébano N t35} {un D t36} {dorado G t37} {y C t38} {divino G t39} {jazmín N t40} {. O t41}
+{A P t42} {mi D t43} {alma N t44} {enamorada G t45} {, O t46} {una D t47} {reina N t48} {oriental G t49} {parecía V t50}
+{que C t51} {esperaba V t52} {a P t53} {su D t54} {amante N t55} {, O t56} {bajo P t57} {el D t58} {techo N t59} {de P t60} {su D t61} {camarín N t62} {, O t63}
+{o C t64} {que C t65} {, O t66} {llevada G t67} {en P t68} {hombros N t69} {, O t70} {la D t71} {profunda G t72} {extensión N t73} {recorría V t74} {, O t75}
+{triunfante G t76} {y C t77} {luminosa G t78} {, O t79} {recostada G t80} {sobre P t81} {su D t82} {palanquín N t83} {. O t84}
+{" O t85} {¡ O t86} {Oh O t87} {reina N t88} {rubia G t89} {! O t90} {díjele- N t91} {, O t92} {mi D t93} {alma N t94} {quiere V t95} {dejar V t96} {su D t97} {crisálida N t98}
+{y C t99} {volar V t100} {hacia P t101} {ti Q t102} {, O t103} {y C t104} {tus D t105} {labios N t106} {de P t107} {fuego N t108} {besar V t109} {; O t110}
+{y C t111} {flotar V t112} {en P t113} {el D t114} {nimbo N t115} {que Q t116} {derrama V t117} {en P t118} {tu D t119} {frente A t120} {luz N t121} {pálida G t122} {, O t123}
+{y C t124} {en P t125} {siderales G t126} {éxtasis N t127} {no A t128} {dejarte V t129} {un D t130} {momento N t131} {de P t132} {amar V t133} {" O t134} {. O t135}
+{El D t136} {aire N t137} {de P t138} {la D t139} {noche N t140} {, O t141} {refrescaba V t142} {la D t143} {atmósfera N t144} {cálida G t145} {. O t146}
+{Venus R t147} {, O t148} {desde P t149} {el D t150} {abismo N t151} {, O t152} {me Q t153} {miraba V t154} {con P t155} {triste G t156} {mirar V t157} {. O t158}

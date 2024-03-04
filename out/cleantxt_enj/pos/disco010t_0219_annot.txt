@@ -1,0 +1,14 @@
+{Episodios N t1} {galantes G t2} {: O t3} {citas N t4} {breves G t5} {y C t6} {oscuras G t7} {; O t8}
+{femeninos G t9} {perfiles N t10} {en P t11} {cerradas G t12} {calesas N t13} {; O t14}
+{silbidos N t15} {que Q t16} {se Q t17} {cruzan V t18} {en P t19} {la D t20} {sombras N t21} {espesas G t22} {; O t23}
+{y C t24} {brazos N t25} {donjuanescos G t26} {que Q t27} {aprisionan V t28} {cinturas N t29} {. O t30}
+{Abadías N t31} {que Q t32} {amparan V t33} {un D t34} {hervor N t35} {de P t36} {locuras N t37} {, O t38}
+{monasterios N t39} {que Q t40} {tienen V t41} {encantadas G t42} {princesas N t43} {; O t44}
+{breviarios N t45} {en P t46} {que Q t47} {cartas N t48} {de P t49} {amor N t50} {laten V t51} {opresas N t52} {, O t53}
+{rosarios N t54} {que Q t55} {en P t56} {los D t57} {dedos N t58} {cuentan V t59} {cien D t60} {aventuras N t61} {. O t62}
+{Es V t63} {un D t64} {tiempo N t65} {que Q t66} {pasa V t67} {todo Q t68} {él Q t69} {de P t70} {soslayo N t71} {: O t72}
+{la D t73} {mujer N t74} {sospechosa G t75} {sufre V t76} {siempre A t77} {un D t78} {desmayo N t79}
+{y C t80} {el D t81} {galán N t82} {bajo P t83} {el D t84} {lecho N t85} {disimula V t86} {una D t87} {cita N t88} {. O t89}
+{Se Q t90} {diría V t91} {que C t92} {Venus R t93} {a P t94} {rezar V t95} {ha V t96} {aprendido V t97} {; O t98}
+{y C t99} {, O t100} {beatíficamente A t101} {, O t102} {moja V t103} {el D t104} {ramo N t105} {florido G t106}
+{de P t107} {sus D t108} {dedos N t109} {rosados G t110} {en P t111} {el D t112} {agua N t113} {bendita G t114}

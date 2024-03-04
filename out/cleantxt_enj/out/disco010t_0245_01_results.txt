@@ -1,0 +1,14 @@
+{Y C} {habló V} {el D} {Pegaso R} {, O} {y C} {dijo V} {: O} {-- O} {Yo Q} {no A} {daré V} {mis D} {crines N}	O		
+{Para P} {arcos N} {gemidores G} {de P} {trémulos N} {violines N} {, O}	O		
+{Sino R} {para P} {que C} {triunfen V} {, O} {como C} {penacho N} {fiero G} {, O}	O		
+{Sobre P} {la D} {bizarría N} {de P} {un D} {casco N} {de P} {guerrero N} {. O}	O		
+{Mis D} {alas N} {son V} {banderas N} {, O} {que Q} {excelsos G} {paladines N}	O		
+{Quisieran R} {como C} {gloria N} {de P} {su D} {blasón N} {severo G} {; O}	O		
+{En P} {mi D} {relincho N} {tiemblan V} {los D} {épicos N} {clarines G} {; O}	O		
+{Y C} {bajo P} {mis D} {galopes N} {hay V} {músicas N} {de P} {acero N} {... O}	O		
+{Al P} {enarcar V} {las D} {alas N} {, O} {se Q} {encrespa V} {y C} {embravece V}	B	enlace_subj_verb	ld01
+{La D} {crin N} {sobre P} {mi D} {cuello N} {, O} {que Q} {en P} {su D} {perfil N} {parece V}	I	enlace_subj_verb	ld01
+{un D} {arpa N} {: O} {en P} {el D} {cordaje N} {vibra V} {solemne G} {oda N} {... O}	O		
+{Y C} {al P} {sacudir V} {las D} {alas N} {, O} {el D} {ojo N} {parpadea V} {; O}	O		
+{Y C} {, O} {de P} {mi D} {cuello N} {a P} {mi D} {anca N} {, O} {la D} {piel N} {rápida G} {ondea C}	B	sirrem_pal-rel	pp14
+{Cual R} {si C} {una D} {sola G} {arruga V} {la D} {recorriese N} {toda D} {... O}	I	sirrem_pal-rel	pp14

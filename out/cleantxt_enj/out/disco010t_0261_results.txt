@@ -1,0 +1,14 @@
+{¡ O} {Entrad O} {! O} {-- O} {me Q} {dijo V} {el D} {estirado G} {paje N} {; O}	O		
+{frunció V} {la D} {faz N} {con P} {rápida G} {sonrisa N} {; O}	O		
+{y C} {descorrió V} {de P} {golpe N} {en P} {la D} {cornisa N}	B	enlace_od_verb	ld02
+{el D} {doblegado G} {alón N} {del P} {cortinaje N} {. O}	I	enlace_od_verb	ld02
+{Ceñido G} {el D} {cuello N} {de P} {espumoso G} {encaje N} {, O}	O		
+{surgió V} {ella Q} {leve G} {, O} {vaporosa G} {, O} {aprisa A} {, O}	O		
+{ahogando V} {el D} {taconeo N} {con P} {que Q} {pisa V}	O		
+{entre P} {el D} {frufrú N} {de P} {su D} {sedoso G} {traje N} {. O}	O		
+{Nos Q} {saludamos V} {con P} {cortés G} {palabra N} {. O}	O		
+{Hablamos V} {del P} {estío N} {adusto G} {y C} {fiero G}	O		
+{y C} {del P} {trabajo N} {que Q} {fecunda G} {y C} {labra N} {. O}	O		
+{Hablamos Q} {de P} {la D} {ardiente A} {poesía N} {; O}	O		
+{hablamos V} {con P} {ardor N} {... O} {Cogí V} {el D} {sombrero N} {; O}	O		
+{y C} {le Q} {estreché V} {la D} {mano N} {: O} {¡ O} {estaba V} {fría G} {! O}	O		

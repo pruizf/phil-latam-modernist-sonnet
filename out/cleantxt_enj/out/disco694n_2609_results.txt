@@ -1,0 +1,14 @@
+{Puesto V} {que C} {tú Q} {me Q} {dices N} {que Q} {eres V} {mi D} {hijo N} {, O} {¡ O} {hijo N} {mío D} {! O}	O		
+{y C} {tienes V} {fe N} {en P} {mis D} {lirios N} {, O} {confianza N} {en P} {mis D} {rosas N} {, O}	O		
+{voy V} {a P} {confiarte V} {ideas N} {, O} {voy V} {a P} {decirte V} {cosas N} {, O}	O		
+{y C} {amarás A} {grandemente G} {a P} {tu D} {Rubén R} {Darío R} {. O}	O		
+{Tú Q} {comprendes V} {mis D} {versos N} {e C} {interpretas N} {mis D} {prosas G}	O		
+{y C} {las D} {aguas N} {que Q} {corren V} {en P} {mi D} {profundo G} {río N} {, O}	O		
+{y C} {, O} {así A} {, O} {cuando C} {te Q} {hable V} {de P} {las D} {Musas R} {hermosas G} {, O}	O		
+{séme V} {profundamente A} {y C} {eternamente A} {mío D} {. O}	O		
+{Algo Q} {de P} {la D} {ilusión N} {, O} {algo Q} {del P} {pensamiento N} {, O}	O		
+{algo Q} {del P} {corazón N} {, O} {algo Q} {del P} {sentimiento N} {, O}	O		
+{de P} {las D} {cosas N} {que Q} {son V} {, O} {de P} {las D} {cosas N} {que Q} {siento V} {: O}	O		
+{lo D} {que Q} {he V} {visto V} {en P} {la D} {tierra N} {, O} {lo D} {que Q} {he V} {oído V} {en P} {el D} {mar N} {, O}	O		
+{lo D} {que Q} {puedo V} {ofrecer V} {, O} {lo D} {que Q} {brinda V} {mi D} {aliento N}	O		
+{y C} {lo D} {que Q} {en P} {mi D} {palabra N} {te Q} {pueda V} {yo Q} {ofrendar V} {. O}	O		

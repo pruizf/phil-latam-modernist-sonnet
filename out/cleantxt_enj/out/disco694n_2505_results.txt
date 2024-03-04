@@ -1,0 +1,14 @@
+{En P} {este D} {eden V} {del P} {mundo N} {americano G}	O		
+{Do R} {te Q} {trajeron V} {procelosos G} {vientos N} {, O}	O		
+{No A} {escuchar V} {te Q} {entristece V} {los D} {concentos N}	O		
+{Y C} {armonias N} {de P} {aquel D} {suelo N} {italiano G} {. O}	O		
+{Calla R} {, O} {que Q} {cuando C} {tu D} {mueves N} {la D} {mano N}	B	enlace_subj_verb	ld01
+{Y C} {notas N} {das V} {a P} {los D} {favonios N} {lentos G}	IB	enlace_subj_verb;sirrem_noun_prep	ld01;pp05
+{De P} {tu D} {ITALIA R} {se Q} {escuchan V} {los D} {acentos N}	I	sirrem_noun_prep	pp05
+{En P} {las D} {cuerdas N} {sonoras G} {de P} {tu D} {piano N} {. O}	O		
+{A P} {el D} {corre V} {, O} {pues C} {, O} {alegre G} {y C} {placentero G} {: O}	O		
+{La D} {gloria N} {del P} {artista N} {no A} {es V} {un D} {mito N} {, O}	O		
+{Y C} {al P} {cruzar V} {de P} {la D} {vida N} {en P} {el D} {sendero N} {, O}	O		
+{Tiene V} {solo A} {un D} {ideal N} {, O} {ideal G} {bendito G} {, O}	O		
+{Una D} {patria N} {, O} {mi D} {hogar N} {, O} {el D} {mundo N} {entero G} {, O}	O		
+{Y C} {uria V} {contemplacion N} {: O} {! O} {el D} {Infinito R} {! O} {... O}	O		

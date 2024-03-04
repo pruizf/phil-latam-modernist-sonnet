@@ -1,0 +1,14 @@
+{La D t1} {dulzura N t2} {del P t3} {ángelus N t4} {matinal G t5} {y C t6} {divino G t7}
+{que Q t8} {diluyen V t9} {ingenuas G t10} {campanas N t11} {provinciales G t12} {, O t13}
+{en P t14} {un D t15} {aire N t16} {inocente G t17} {a P t18} {fuerza N t19} {de P t20} {rosales N t21} {, O t22}
+{de P t23} {plegarias N t24} {, O t25} {de P t26} {ensueños N t27} {de P t28} {virgen N t29} {, O t30} {y C t31} {de P t32} {trino N t33}
+{de P t34} {ruiseñor N t35} {, O t36} {opuesto G t37} {todo Q t38} {al P t39} {rudo N t40} {destino N t41}
+{que Q t42} {no A t43} {cree V t44} {en P t45} {Dios R t46} {... O t47} {El D t48} {áureo N t49} {ovillo G t50} {vespertino G t51}
+{que C t52} {la D t53} {tarde N t54} {devana G t55} {tras P t56} {opacos D t57} {cristales N t58}
+{por P t59} {tejer V t60} {la D t61} {inconsútil G t62} {tela N t63} {de P t64} {nuestros D t65} {males N t66}
+{todos D t67} {hechos N t68} {de P t69} {carne N t70} {y C t71} {aromados N t72} {de P t73} {vino N t74} {... O t75}
+{Y C t76} {esta D t77} {atroz G t78} {amargura N t79} {de P t80} {no A t81} {gustar V t82} {de P t83} {nada Q t84} {, O t85}
+{de P t86} {no A t87} {saber V t88} {adónde Q t89} {dirigir V t90} {nuestra D t91} {prora N t92} {, O t93}
+{mientras C t94} {el D t95} {pobre N t96} {esquife N t97} {en P t98} {la D t99} {noche N t100} {cerrada G t101}
+{va V t102} {en P t103} {las D t104} {hostiles G t105} {olas N t106} {huérfano N t107} {de P t108} {la D t109} {aurora N t110} {... O t111}
+{¡ O t112} {Oh O t113} {suaves G t114} {campanadas G t115} {entre P t116} {la D t117} {madrugada N t118} {! O t119}

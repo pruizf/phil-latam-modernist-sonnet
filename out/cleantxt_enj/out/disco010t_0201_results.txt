@@ -1,0 +1,14 @@
+{Lloran V} {las D} {cumbres N} {lágrimas N} {de P} {hielo N} {, O}	O		
+{que Q} {corren V} {por P} {las D} {trágicas N} {pendientes G} {, O}	O		
+{y C} {van V} {formando V} {en P} {su D} {camino N} {fuentes N} {, O}	O		
+{enamoradas G} {del P} {azul N} {del P} {cielo N} {. O}	O		
+{Entre P} {las D} {grietas N} {del P} {musgoso G} {suelo N} {, O}	O		
+{aprisionan V} {sus D} {linfas N} {los D} {torrentes N} {, O}	O		
+{a P} {manera N} {de P} {alhajas N} {refulgentes G}	B	sirrem_adj_prep	pd02
+{entre P} {estuches N} {de P} {verde G} {terciopelo N}	I	sirrem_adj_prep	pd02
+{Súbito R} {ensanchan V} {sus D} {ruidosas G} {quejas N} {; O}	O		
+{y C} {, O} {dibujando V} {monacales G} {tocas N} {, O}	O		
+{envuelven P} {su D} {cristal N} {en P} {densas G} {brumas N} {. O}	O		
+{Y C} {el D} {río N} {nace V} {, O} {cual Q} {tropel N} {de P} {ovejas N}	B	oracional	cp01
+{que Q} {va V} {dejando V} {en P} {las D} {filudas N} {rocas G}	IB	oracional;enlace_od_verb	cp01;ld02
+{enredado V} {el D} {vellón N} {de P} {su D} {espumas N}	I	enlace_od_verb	ld02

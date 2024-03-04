@@ -1,0 +1,14 @@
+{Allá A} {en P} {la D} {hermosa G} {tierra N} {del P} {Oriente R} {, O}	O		
+{cuando Q} {Febo R} {sus D} {rayos N} {encendía V} {, O}	O		
+{la D} {estatua N} {de P} {Memnón R} {frases N} {decía V}	O		
+{en P} {un D} {lenguaje N} {incomprensible G} {, O} {ingente G} {. O}	O		
+{Cuando C} {de P} {Unión R} {el D} {Sol R} {resplandeciente A}	O		
+{en P} {su D} {orto G} {anuncie N} {el D} {venturoso G} {día N}	B	oracional	cp01
+{que Q} {al P} {Centro R} {de P} {la D} {América R} {sonría V}	I	oracional	cp01
+{y C} {llene V} {de P} {entusiasmo N} {un D} {Continente R} {, O}	O		
+{y C} {cuando C} {el D} {grito N} {por P} {doquier A} {se Q} {extienda V}	B	enlace_subj_verb	ld01
+{que C} {dé V} {la D} {buena G} {nueva G} {a P} {todo D} {el D} {mundo N}	I	enlace_subj_verb	ld01
+{y C} {en P} {cada D} {pecho N} {el D} {patriotismo N} {encienda V}	O		
+{con P} {ardiente A} {fervor N} {puro G} {y C} {profundo G} {; O}	O		
+{¡ O} {un D} {himno N} {cantará V} {de P} {gloria N} {, O} {entonce N} {, O}	O		
+{lleno G} {de P} {vida N} {, O} {el D} {insensible G} {bronce N} {! O}	O		

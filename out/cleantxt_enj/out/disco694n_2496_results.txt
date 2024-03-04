@@ -1,0 +1,14 @@
+{En P} {medio D} {del P} {abismo N} {de P} {la D} {duda N}	B	sirrem_adj_noun	pp02
+{lleno G} {de P} {oscuridad N} {, O} {de P} {sombra N} {vana G}	I	sirrem_adj_noun	pp02
+{hay V} {una D} {estrella N} {que Q} {reflejos N} {mana N}	B	enlace_subj_verb	ld01
+{sublime V} {, O} {sí A} {, O} {mas A} {silenciosa G} {, O} {muda G} {. O}	I	enlace_subj_verb	ld01
+{Ella Q} {, O} {con P} {su D} {fulgor N} {divino G} {, O} {escuda N} {, O}	O		
+{alienta N} {y C} {guía N} {a P} {la D} {conciencia N} {humana G} {, O}	O		
+{cuando C} {el D} {genio N} {del P} {mal N} {con P} {furia N} {insana G}	B	enlace_subj_verb	ld01
+{golpéala G} {feroz G} {, O} {con P} {mano N} {ruda G} {. O}	I	enlace_subj_verb	ld01
+{¿ O} {Esa D} {estrella N} {brotó V} {del P} {germen N} {puro G}	B	sirrem_noun_prep	pp05
+{de P} {la D} {humana G} {creación N} {? O} {¿ O} {Bajó V} {del P} {cielo N}	I	sirrem_noun_prep	pp05
+{a P} {iluminar V} {el D} {porvenir N} {oscuro G} {? O}	O		
+{¿ O} {A P} {servir V} {al P} {que Q} {llora V} {de P} {consuelo N} {? O}	O		
+{No A} {sé V} {, O} {mas A} {eso Q} {que C} {a P} {nuestra D} {alma N} {inflama V}	B	sirrem_verb_adv	pp11
+{ya A} {sabéis V} {, O} {ya A} {sabéis N} {, O} {la D} {Fe N} {se Q} {llama V} {. O}	I	sirrem_verb_adv	pp11

@@ -1,0 +1,14 @@
+{El D t1} {genio N t2} {no A t3} {es V t4} {la D t5} {nube N t6} {, O t7} {que Q t8} {de P t9} {rayos N t10} {preñada G t11} {, O t12}
+{busca V t13} {un D t14} {lecho N t15} {en P t16} {las D t17} {sombras N t18} {; O t19} {el D t20} {genio N t21} {no A t22} {es V t23} {la D t24} {espada N t25} {, O t26}
+{que Q t27} {, O t28} {de P t29} {sangre N t30} {sedienta G t31} {, O t32} {se Q t33} {goza V t34} {en P t35} {el D t36} {combate N t37} {: O t38}
+{es V t39} {el D t40} {peñón N t41} {, O t42} {no A t43} {el D t44} {río N t45} {; O t46} {la D t47} {valla N t48} {, O t49} {no A t50} {el D t51} {embate N t52} {... O t53}
+{El D t54} {genio N t55} {es V t56} {como C t57} {el D t58} {cóndor N t59} {, O t60} {que Q t61} {con P t62} {veloz G t63} {mirada N t64}
+{bajo P t65} {sus D t66} {pies N t67} {contempla V t68} {la D t69} {tempestad N t70} {airada G t71} {; O t72}
+{pero C t73} {garras N t74} {no A t75} {tiene V t76} {, O t77} {sino C t78} {alas N t79} {con P t80} {que Q t81} {abate V t82}
+{las D t83} {alturas N t84} {en P t85} {donde Q t86} {nada Q t87} {vibra V t88} {, O t89} {ni C t90} {late V t91} {. O t92}
+{Cuando C t93} {el D t94} {genio N t95} {contempla V t96} {los D t97} {abismos N t98} {, O t99} {entonces A t100}
+{hay V t101} {en P t102} {sus D t103} {verbos N t104} {fraguas N t105} {, O t106} {dinamitas N t107} {y C t108} {bronces N t109} {; O t110}
+{porque C t111} {él Q t112} {todo D t113} {lo D t114} {dora G t115} {, O t116} {como C t117} {la D t118} {luz N t119} {del P t120} {día N t121} {. O t122}
+{Tal D t123} {Dios R t124} {, O t125} {que Q t126} {ve V t127} {impasible G t128} {la D t129} {dicha N t130} {y C t131} {el D t132} {quebranto N t133} {, O t134}
+{nunca A t135} {se Q t136} {ha V t137} {sonreído V t138} {, O t139} {nunca A t140} {ha V t141} {vertido N t142} {llanto N t143} {; O t144}
+{porque C t145} {Dios R t146} {esta D t147} {inmóvil G t148} {, O t149} {y C t150} {lo Q t151} {humano G t152} {varía V t153} {... O t154}

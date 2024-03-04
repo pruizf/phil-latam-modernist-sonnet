@@ -1,0 +1,14 @@
+{Enorme G t1} {tronco N t2} {que Q t3} {arrastró V t4} {la D t5} {ola N t6} {, O t7}
+{yace V t8} {el D t9} {caimán N t10} {varado G t11} {en P t12} {la D t13} {ribera N t14} {; O t15}
+{espinazo N t16} {de P t17} {abrupta G t18} {cordillera N t19} {, O t20}
+{fauces N t21} {de P t22} {abismo N t23} {y C t24} {formidable G t25} {cola N t26} {. O t27}
+{El D t28} {sol N t29} {le Q t30} {envuelve V t31} {en P t32} {fúlgida G t33} {aureola N t34} {, O t35}
+{y C t36} {parece V t37} {lucir V t38} {cota N t39} {y C t40} {cimera N t41} {, O t42}
+{cual Q t43} {monstruo N t44} {de P t45} {metal N t46} {que Q t47} {reverbera V t48}
+{y C t49} {que C t50} {al P t51} {reverberar V t52} {se Q t53} {tornasola V t54} {. O t55}
+{Inmóvil R t56} {como C t57} {un D t58} {ídolo N t59} {sagrado G t60} {, O t61}
+{ceñido G t62} {en P t63} {mallas N t64} {de P t65} {compacto N t66} {acero N t67} {, O t68}
+{está V t69} {ante P t70} {el D t71} {agua N t72} {estático G t73} {y C t74} {sombrío G t75} {, O t76}
+{a P t77} {manera N t78} {de P t79} {un D t80} {príncipe N t81} {encantado G t82}
+{que Q t83} {vive V t84} {eternamente A t85} {prisionero N t86}
+{en P t87} {el D t88} {palacio N t89} {de P t90} {cristal N t91} {de P t92} {un D t93} {río N t94}

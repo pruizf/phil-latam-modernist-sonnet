@@ -1,0 +1,14 @@
+{En P t1} {los D t2} {días N t3} {de P t4} {azul N t5} {de P t6} {mi D t7} {dorada G t8} {infancia N t9} {, O t10}
+{yo Q t11} {solía V t12} {pensar V t13} {en P t14} {Grecia R t15} {y C t16} {en P t17} {Bolivia R t18} {: O t19}
+{en P t20} {Grecia R t21} {hallaba V t22} {el D t23} {néctar N t24} {que Q t25} {la D t26} {nostalgia N t27} {alivia G t28} {, O t29}
+{y C t30} {en P t31} {Bolivia R t32} {encontraba V t33} {una D t34} {arcaica G t35} {fragancia N t36} {. O t37}
+{La D t38} {fragancia N t39} {sutil G t40} {que Q t41} {da V t42} {la D t43} {coca N t44} {rancia G t45} {, O t46}
+{o C t47} {el D t48} {alma N t49} {de P t50} {la D t51} {quena N t52} {que Q t53} {solloza V t54} {en P t55} {la D t56} {tibia N t57} {; O t58}
+{la D t59} {suave G t60} {voz N t61} {indígena G t62} {que Q t63} {la D t64} {fiereza N t65} {entibia G t66} {, O t67}
+{o C t68} {el D t69} {dios N t70} {Manchaipuíto R t71} {, O t72} {en P t73} {su D t74} {sombría N t75} {estancia N t76} {. O t77}
+{El D t78} {tirso N t79} {griego G t80} {rige V t81} {la D t82} {primitiva G t83} {danza N t84} {, O t85}
+{y C t86} {sobre P t87} {la D t88} {sublime G t89} {pradera N t90} {de P t91} {esperanza N t92}
+{nuestro D t93} {Pegaso R t94} {joven G t95} {, O t96} {mordiendo V t97} {el D t98} {freno N t99} {, O t100} {brinca N t101} {. O t102}
+{Y C t103} {bajo P t104} {de P t105} {la D t106} {timba N t107} {del P t108} {misterioso G t109} {cielo N t110} {, O t111}
+{si C t112} {Sol R t113} {y C t114} {Luna R t115} {han V t116} {sido V t117} {los D t118} {divos N t119} {del P t120} {abuelo N t121} {, O t122}
+{con P t123} {Sol R t124} {y C t125} {Luna R t126} {triunfan V t127} {los D t128} {vástagos N t129} {del P t130} {Inca R t131} {. O t132}

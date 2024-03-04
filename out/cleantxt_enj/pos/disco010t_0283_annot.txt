@@ -1,0 +1,14 @@
+{Tu D t1} {alma N t2} {no A t3} {está V t4} {, O t5} {como C t6} {tu D t7} {cuerpo N t8} {, O t9} {inerte G t10} {. O t11}
+{Cuando C t12} {te Q t13} {veo V t14} {muda G t15} {y C t16} {pensativa G t17} {, O t18}
+{con P t19} {la D t20} {dureza N t21} {de P t22} {una D t23} {estatua N t24} {viva G t25} {, O t26}
+{me Q t27} {pareces N t28} {el D t29} {Ángel N t30} {de P t31} {la D t32} {Muerte R t33} {... O t34}
+{Eres V t35} {, O t36} {fingiendo V t37} {, O t38} {por P t39} {contraria G t40} {suerte N t41} {, O t42}
+{dócil G t43} {, O t44} {flexible G t45} {y C t46} {a P t47} {la D t48} {vez N t49} {esquiva G t50} {: O t51}
+{si C t52} {dócil G t53} {como C t54} {el D t55} {junco N t56} {eres V t57} {altiva G t58} {, O t59}
+{flexible G t60} {como C t61} {el D t62} {látigo N t63} {eres V t64} {fuerte G t65} {. O t66}
+{Sé V t67} {que C t68} {me Q t69} {amas N t70} {y C t71} {finges N t72} {que Q t73} {no A t74} {me Q t75} {amas N t76} {. O t77}
+{¿ O t78} {Cuál Q t79} {pensamiento N t80} {entre P t81} {tu D t82} {mente N t83} {gira N t84}
+{que Q t85} {bajo N t86} {de P t87} {la D t88} {nieve N t89} {oculta G t90} {llamas N t91} {? O t92}
+{Lo Q t93} {sé V t94} {: O t95} {finges V t96} {desdén N t97} {, O t98} {me Q t99} {muestras N t100} {duda V t101} {, O t102}
+{mientes N t103} {, O t104} {sí A t105} {; O t106} {porque C t107} {a P t108} {veces N t109} {la D t110} {mentira N t111}
+{es V t112} {el D t113} {rubor N t114} {de P t115} {la D t116} {Verdad R t117} {desnuda G t118} {! O t119} {... O t120}

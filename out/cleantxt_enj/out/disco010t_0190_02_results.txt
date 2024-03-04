@@ -1,0 +1,14 @@
+{Hoy A} {¡ O} {oh O} {mundo N} {brutal G} {! O} {mi D} {alma N} {te Q} {mira V}	O		
+{con P} {lástima N} {y C} {desprecio N} {; O} {que C} {tú Q} {mismo A} {, O}	O		
+{a P} {sepultarte V} {al P} {fondo N} {del P} {abismo N} {, O}	O		
+{vas V} {impotente G} {en P} {medio D} {de P} {tu D} {ira N} {... O}	O		
+{El D} {sacro G} {fuego N} {que C} {a P} {cantar V} {me Q} {inspira V}	B	enlace_subj_verb	ld01
+{resistirá V} {tus D} {golpes N} {de P} {egoísmo N} {: O}	I	enlace_subj_verb	ld01
+{no A} {insultes N} {mi D} {doliente A} {escepticismo. N} {, O}	O		
+{no A} {profanes V} {eÌ O} {culto N} {de P} {mi D} {lira N} {... O}	O		
+{¡ O} {Vano R} {es V} {que C} {quieras V} {apagar V} {mi D} {fuego N} {! O}	O		
+{Tenaz G} {y C} {altivo G} {-- O} {al P} {modo N} {de P} {aquel D} {griego G}	B	sirrem_adj_adv	pp10
+{ya A} {que C} {nunca A} {tu D} {aplauso N} {me Q} {concedes N} {, O}	I	sirrem_adj_adv	pp10
+{... O} {saldré V} {a P} {encontrar V} {el D} {carro N} {del P} {Destino R} {; O}	O		
+{y C} {, O} {arrojándome V} {en P} {medio D} {del P} {camino N} {, O}	O		
+{gritaré V} {a P} {toda D} {voz N} {: O} {-- O} {¡ O} {Pasa R} {si C} {puedes V} {! O} {... O}	O		

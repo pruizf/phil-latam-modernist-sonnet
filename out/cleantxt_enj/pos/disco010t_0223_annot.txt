@@ -1,0 +1,14 @@
+{¡ O t1} {Qué Q t2} {impresión N t3} {de P t4} {alegría N t5} {da V t6} {esta D t7} {casa N t8} {, O t9} {a P t10} {manera N t11}
+{de P t12} {canoa N t13} {que Q t14} {duerme V t15} {junto G t16} {a P t17} {un D t18} {brazo N t19} {de P t20} {mar N t21} {! O t22}
+{Leve D t23} {techo N t24} {de P t25} {pajas N t26} {y C t27} {armazón N t28} {de P t29} {madera N t30} {, O t31}
+{que Q t32} {recortan V t33} {sus D t34} {líneas N t35} {entre P t36} {un D t37} {verde N t38} {palmar V t39}
+{Aunque C t40} {el D t41} {agua N t42} {la D t43} {acosa N t44} {, O t45} {se Q t46} {levanta V t47} {ligera G t48}
+{sobre P t49} {estacas N t50} {que Q t51} {préstanle V t52} {expresión N t53} {singular G t54}
+{de P t55} {mujer N t56} {, O t57} {en P t58} {la D t59} {blanda G t60} {y C t61} {arenosa G t62} {ribera N t63} {, O t64}
+{aprendiendo V t65} {, O t66} {en P t67} {las D t68} {puntas N t69} {de P t70} {sus D t71} {pies N t72} {, O t73} {a P t74} {bailar V t75}
+{Goza R t76} {de P t77} {una D t78} {pureza N t79} {de P t80} {cristal N t81} {en P t82} {su D t83} {ambiente N t84}
+{Coquetea R t85} {en P t86} {las D t87} {linfas N t88} {Se Q t89} {enguirnalda V t90} {la D t91} {frente A t92}
+{el D t93} {rumor N t94} {de P t95} {las D t96} {fondas N t97} {le Q t98} {regala V t99} {un D t100} {collar N t101} {. O t102}
+{Y C t103} {hasta P t104} {aumenta V t105} {esta D t106} {dicha N t107} {de P t108} {sencillo G t109} {donaire N t110}
+{tal D t111} {cual Q t112} {garza N t113} {, O t114} {que Q t115} {, O t116} {a P t117} {veces N t118} {, O t119} {zigzaguea V t120} {en P t121} {el D t122} {aire N t123} {, O t124}
+{como C t125} {copo N t126} {de P t127} {espuma N t128} {que Q t129} {rompiese V t130} {a P t131} {volar V t132}

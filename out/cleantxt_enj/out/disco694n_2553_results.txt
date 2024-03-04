@@ -1,0 +1,14 @@
+{En P} {el D} {verde G} {laurel N} {que Q} {decora V} {la D} {frente N}	B	oracional	cp01
+{que Q} {besaron V} {los D} {sueños N} {y C} {pulieron V} {las D} {horas N} {, O}	I	oracional	cp01
+{una D} {hoja N} {suscita V} {como C} {la D} {luz N} {naciente A}	B	enlace_od_verb	ld02
+{en P} {que C} {entreabren V} {sus D} {ojos N} {de P} {fuego N} {las D} {auroras N} {; O}	I	enlace_od_verb	ld02
+{o C} {las Q} {solares G} {pompas N} {, O} {o C} {los D} {fastos N} {de P} {Oriente R} {, O}	O		
+{preseas G} {bizantinas N} {, O} {diademas N} {de P} {Theodoras R} {, O}	O		
+{o C} {la Q} {lejana G} {Cólquida R} {que C} {el D} {soñador N} {presiente G}	O		
+{y C} {adonde C} {los D} {Jasones R} {dirigirán V} {las D} {proras N} {. O}	O		
+{Hoja R} {de P} {oro N} {rojo G} {, O} {mayor G} {es V} {tu D} {valía N} {, O}	O		
+{pues C} {para P} {tus D} {colores N} {imperiales G} {evocas N}	B	sirrem_noun_prep	pd02
+{con P} {el D} {triunfo N} {de P} {otoño N} {y C} {la D} {sangre N} {del P} {día N} {, O}	I	sirrem_noun_prep	pd02
+{el D} {marfil N} {de P} {las D} {frentes N} {, O} {la D} {brasa N} {de P} {las D} {bocas N} {, O}	O		
+{y C} {la D} {autumnal G} {tristeza N} {de P} {las D} {vírgenes N} {locas G}	B	sirrem_adj_prep	pd01
+{por P} {la D} {Lujuria R} {, O} {madre N} {de P} {la D} {Melancolía R} {. O}	I	sirrem_adj_prep	pd01

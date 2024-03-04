@@ -1,0 +1,14 @@
+{Nunca A} {supe V} {que C} {vieja G} {caravana N}	B	enlace_subj_verb	ld01
+{resbaló V} {por P} {tus D} {márgenes N} {frondosas G} {, O}	I	enlace_subj_verb	ld01
+{bebió V} {en P} {tus D} {aguas N} {y C} {peinó V} {con P} {rosas N}	B	enlace_od_verb	ld02
+{tu D} {retorcida G} {cabellera N} {cana G}	I	enlace_od_verb	ld02
+{Hay V} {en P} {el D} {culto N} {de P} {tu D} {pompa N} {indiana G}	B	sirrem_adj_noun	pp01
+{sombras N} {de P} {héroes N} {, O} {espíritus N} {de P} {diosas G} {, O}	I	sirrem_adj_noun	pp01
+{y C} {ecos N} {de P} {una D} {sbatallas N} {fragorosas G}	B	oracional	cp01
+{que Q} {parecen V} {venir V} {del P} {Ramayana R}	I	oracional	cp01
+{En P} {tu D} {caudal N} {de P} {trágicas N} {arrugas G} {, O}	O		
+{hacen V} {temblar V} {sus D} {mallas N} {los D} {caimanes N}	B	enlace_od_verb	ld02
+{y C} {brillar V} {su D} {coraza N} {las D} {tortugas N} {, O}	I	enlace_od_verb	ld02
+{y C} {en P} {tu D} {escudo N} {ovalado G} {y C} {reluciente A} {, O}	O		
+{alrededor A} {de P} {un D} {choque N} {de P} {titanes N} {, O}	O		
+{pone V} {su D} {monograma N} {una D} {serpiente N} {. O}	O		

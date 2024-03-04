@@ -1,0 +1,14 @@
+{La D} {gloria N} {será V} {tuya V} {si C} {tu D} {alma N} {retiene V}	B	enlace_od_verb	ld02
+{lo D} {que Q} {está V} {en P} {la D} {profunda G} {voluntad N} {de P} {infinito G}	I	enlace_od_verb	ld02
+{que C} {el D} {Amor R} {o C} {el D} {Dolor R} {nos Q} {explica V} {en P} {el D} {grito N}	B	oracional	cp01
+{que Q} {en P} {el D} {suspiro N} {espera V} {o C} {que C} {en P} {el D} {llanto N} {viene V} {. O}	I	oracional	cp01
+{No A} {aguardes V} {que C} {el D} {inmenso G} {clarín N} {de P} {oro N} {truene G} {: O}	O		
+{a P} {las D} {nupcias N} {del P} {Cielo N} {con P} {mis D} {versos N} {te Q} {invito V} {... O}	O		
+{¡ O} {Que C} {en P} {tus D} {jardines N} {nunca A} {perfume Q} {lo Q} {maldito G} {, O}	O		
+{ni C} {oigas N} {al P} {Fauno-Diablo R} {que C} {su D} {siringa N} {suene V} {! O}	O		
+{Pero C} {marcha N} {, O} {Poeta R} {, O} {con P} {tu D} {flauta N} {y C} {tu D} {lira N}	O		
+{a P} {donde Q} {Dios R} {te Q} {llame V} {y C} {tu D} {instinto N} {te Q} {lleve V} {; O}	O		
+{y C} {meditando V} {en P} {lo D} {que Q} {la D} {Vida R} {te Q} {inspira V}	B	enlace_od_verb	ld02
+{haz V} {tus D} {versos N} {de P} {noche N} {, O} {haz G} {tus D} {versos N} {de P} {nieve N} {; O}	I	enlace_od_verb	ld02
+{dilucida G} {en P} {la D} {aurora N} {y C} {en P} {la D} {tarde N} {suspira G} {, O}	O		
+{con P} {el D} {dáctilo N} {dóctil G} {y C} {con P} {la D} {danza N} {leve G} {. O}	O		

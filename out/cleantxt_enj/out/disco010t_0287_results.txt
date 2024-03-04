@@ -1,0 +1,14 @@
+{Eres V} {fría G} {. O} {A P} {tus D} {labios N} {no A} {se Q} {asoma V}	B	enlace_od_verb	ld02
+{ni C} {la D} {risa N} {, O} {ni C} {el D} {grito N} {, O} {ni C} {la D} {queja N} {: O}	I	enlace_od_verb	ld02
+{estatua N} {fueras G} {en P} {la D} {Atenas R} {vieja G} {, O}	O		
+{mujer N} {no A} {fueras G} {en P} {la D} {vieja G} {Roma R} {. O}	O		
+{Como C} {estatua N} {de P} {sal N} {, O} {si C} {a P} {veces N} {toma V}	B	enlace_od_verb	ld02
+{gesto N} {vibrante G} {el D} {arco N} {de P} {tu D} {ceja N} {, O}	I	enlace_od_verb	ld02
+{es V} {porque C} {en P} {tu D} {pupila N} {se Q} {refleja V}	B	enlace_od_verb	ld02
+{el D} {rojo N} {incendio N} {de P} {infernal G} {Sodoma R} {. O}	I	enlace_od_verb	ld02
+{¡ O} {Tú Q} {desdeñaste V} {a P} {jóvenes N} {de P} {brío N} {, O}	O		
+{y C} {en P} {matrimonio N} {trágico G} {y C} {sombrío G}	O		
+{a P} {un D} {anciano N} {te Q} {uniste V} {sin P} {conciencia N} {; O}	O		
+{y C} {la D} {justicia N} {del P} {amor N} {burlado G} {, O}	O		
+{como C} {que C} {eres V} {de P} {sal N} {, O} {te Q} {ha V} {condenado V}	O		
+{a P} {que C} {te Q} {lama V} {el D} {buey N} {de P} {la D} {Impotencia R} {! O}	O		

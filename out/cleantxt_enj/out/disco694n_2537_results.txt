@@ -1,0 +1,14 @@
+{Los D} {que Q} {vieron V} {la D} {patria N} {bandera N}	B	sirrem_adj_noun	pp01
+{empapada G} {en P} {la D} {sangre N} {de P} {Junio O} {; O}	I	sirrem_adj_noun	pp01
+{los D} {que Q} {oyeron V} {vibrar V} {los D} {clarines N}	O		
+{en P} {la D} {diana N} {del P} {lívido G} {triunfo N} {; O}	O		
+{los D} {que Q} {al P} {vivo G} {relámpago N} {trágico G}	B	oracional	cp01
+{que Q} {recorre V} {la D} {historia N} {del P} {mundo N} {, O}	I	oracional	cp01
+{vieron V} {lleno G} {de P} {horror N} {a P} {Espartaco R}	O		
+{y C} {del P} {duelo N} {al P} {espectro N} {de P} {Bruto R} {; O}	O		
+{los D} {que Q} {miran V} {tu D} {límpido G} {nombre N}	O		
+{como C} {enseña N} {de P} {honor N} {y C} {de P} {orgullo N} {, O}	O		
+{hoy A} {presentan V} {las D} {armas N} {al P} {paso N}	B	sirrem_noun_prep	pp06.1
+{del P} {arcángel N} {vestido G} {de P} {luto N}	IB	sirrem_noun_prep;oracional	pp06.1;cp01
+{que Q} {es V} {guardián N} {del P} {laurel N} {de P} {tu D} {gloria N}	I	oracional	cp01
+{en P} {la D} {tierra N} {en P} {que Q} {está V} {tu D} {sepulcro N} {. O}	O		

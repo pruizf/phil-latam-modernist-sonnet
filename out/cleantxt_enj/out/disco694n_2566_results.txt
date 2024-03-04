@@ -1,0 +1,14 @@
+{¿ O} {Tienes N} {, O} {joven G} {amigo N} {, O} {ceñida G} {la D} {coraza N}	O		
+{para P} {empezar V} {, O} {valiente G} {, O} {la D} {divina G} {pelea N} {? O}	O		
+{¿ O} {Has G} {visto V} {si C} {resiste V} {el D} {metal N} {de P} {tu D} {idea N}	B	enlace_od_verb	ld02
+{la D} {furia N} {del P} {mandoble N} {y C} {el D} {peso N} {de P} {la D} {maza N} {? O}	I	enlace_od_verb	ld02
+{¿ O} {Te Q} {sientes V} {con P} {la D} {sangre N} {de P} {la D} {celeste G} {raza N}	B	oracional	cp01
+{que Q} {vida N} {con P} {los D} {números N} {pitagóricos G} {crea V} {? O}	I	oracional	cp01
+{¿ O} {Y C} {, O} {como C} {el D} {fuerte G} {Herakles R} {al P} {león N} {de P} {Nemea R} {, O}	O		
+{a P} {los D} {sangrientos N} {tigres G} {del P} {mal G} {daría V} {caza N} {? O}	O		
+{¿ O} {Te Q} {enternece V} {el D} {azul N} {de P} {una D} {noche N} {tranquila G} {? O}	O		
+{¿ O} {Escuchas Q} {pensativo G} {el D} {sonar V} {de P} {la D} {esquila N}	B	enlace_subj_verb	ld01
+{cuando C} {el D} {Ángelus N} {dice V} {el D} {alma N} {de P} {la D} {tarde N} {? O} {... O}	I	enlace_subj_verb	ld01
+{¿ O} {Tu D} {corazón N} {las D} {voces N} {ocultas G} {interpreta V} {? O}	O		
+{Sigue V} {, O} {entonces A} {, O} {tu D} {rumbo N} {de P} {amor N} {. O} {Eres V} {poeta N} {. O}	O		
+{La D} {belleza N} {te Q} {cubre V} {de P} {luz N} {y C} {Dios R} {te Q} {guarde V} {. O}	O		

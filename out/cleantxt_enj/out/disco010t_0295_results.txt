@@ -1,0 +1,14 @@
+{No A} {es V} {demás Q} {que C} {el D} {volcán N} {proteste G} {, O} {y C} {brame N} {, O}	O		
+{y C} {salte V} {de P} {su D} {asiento N} {; O} {no A} {es V} {en P} {vano G} {, O}	O		
+{si C} {sorprende V} {a P} {Pompeya R} {y C} {Herculano R}	O		
+{desatentadas G} {en P} {la D} {orgía N} {infame G} {... O}	O		
+{No A} {, O} {no A} {es V} {demás Q} {que C} {el D} {corazón N} {se Q} {inflame V}	O		
+{y C} {que C} {el D} {látigo N} {vibre G} {entre P} {la D} {mano N} {, O}	O		
+{si C} {, O} {al P} {rebelde G} {castigo N} {, O} {el D} {vil G} {tirano N}	B	sirrem_noun_prep	pp05
+{de P} {su D} {castigador N} {las D} {plantas N} {lame V} {. O}	I	sirrem_noun_prep	pp05
+{Justo R} {es V} {que C} {estallen V} {, O} {cuando C} {el D} {Bien A} {claudica G} {, O}	O		
+{volcán N} {de P} {sangre N} {, O} {rebelión N} {de P} {llamas N} {: O}	O		
+{la D} {sangre N} {borra G} {, O} {el D} {fuego N} {purifica V} {... O}	O		
+{¡ O} {A P} {los D} {primeros G} {golpes N} {que Q} {lo Q} {hienden V} {, O}	O		
+{ceden V} {del P} {árbol N} {las D} {endebles G} {ramas N}	O		
+{y C} {los D} {frutos N} {podridos G} {se Q} {desprenden V} {! O}	O		

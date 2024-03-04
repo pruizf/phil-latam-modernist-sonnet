@@ -1,0 +1,14 @@
+{No A} {la D} {flauta N} {del P} {dios N} {, O} {alegre G} {avena N}	B	sirrem_noun_prep	pp05
+{del P} {bosque N} {griego G} {, O} {en P} {que Q} {trinar V} {solía V} {; O}	I	sirrem_noun_prep	pp05
+{es V} {flauta G} {cual Q} {paloma N} {en P} {agonía N}	O		
+{la D} {que Q} {en P} {las D} {noches N} {de P} {los D} {Andes R} {suena V}	B	enlace_subj_verb	ld01
+{¡ O} {Cuán R} {profundo G} {lamento N} {el D} {de P} {la D} {quena N} {! O}	I	enlace_subj_verb	ld01
+{La D} {quena N} {en P} {medio N} {de P} {la D} {puna N} {fría G}	B	enlace_subj_verb	ld01
+{desenvuelve V} {su D} {larga G} {melodía N}	IB	enlace_subj_verb;sirrem_adj_noun	ld01;pp03
+{más A} {penetrante G} {cuanto A} {más A} {serena G}	I	sirrem_adj_noun	pp03
+{Desgranando V} {las D} {perlas N} {de P} {su D} {lloro N} {, O}	O		
+{a P} {veces N} {hunde V} {el D} {musical G} {lamento N}	O		
+{en P} {el D} {hueco N} {de P} {un D} {cántaro N} {sonoro G} {; O}	O		
+{y C} {entonces A} {finge V} {, O} {en P} {la D} {nocturna G} {calma N} {, O}	O		
+{soplo N} {del P} {alma N} {convertido G} {en P} {viento N} {, O}	O		
+{soplo N} {del P} {viento N} {convertido G} {en P} {alma N} {. O}	O		

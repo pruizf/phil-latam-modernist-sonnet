@@ -1,0 +1,14 @@
+{No A} {me Q} {ames V} {como C} {a P} {un D} {hombre N} {que Q} {penetra V} {en P} {tu D} {vida N} {, O}	O		
+{ámame N} {como C} {a P} {un D} {libro N} {grato G} {a P} {tu D} {corazón N} {, O}	O		
+{que Q} {ardientemente A} {sabe V} {cauterizar V} {tu D} {herida N}	O		
+{o C} {que C} {como C} {un D} {consuelo N} {te Q} {ofrece V} {una D} {canción N} {. O}	O		
+{Un D} {libro N} {( O} {Sólo A} {un D} {alma N} {que Q} {de P} {letras N} {vestida G}	B	enlace_subj_verb	ld01
+{surge V} {a P} {tus D} {ojo O} {como C} {fantástica G} {visión N} {) O}	I	enlace_subj_verb	ld01
+{Tendrás R} {en P} {él Q} {tu D} {acaso A} {página N} {preferida G}	B	oracional	cp01
+{que Q} {te Q} {hablará V} {de P} {muchas D} {cosas N} {que Q} {ya A} {no A} {son V}	IB	oracional;enlace_subj_verb	cp01;ld01
+{Ámame V} {como C} {a P} {un D} {libro N} {de P} {sabio G} {o C} {de P} {poeta N} {, O}	I	enlace_subj_verb	ld01
+{en P} {el D} {que Q} {hallen V} {refugio N} {tu D} {combustión N} {secreta G}	O		
+{y C} {tu D} {temor N} {por P} {cuanto A} {pueda V} {venir V} {después A}	B	enlace_subj_verb	ld01
+{Ámame Q} {como C} {a P} {un D} {libro N} {de P} {ensueños N} {y C} {de P} {arcanos G} {, O}	I	enlace_subj_verb	ld01
+{que Q} {, O} {en P} {un D} {arranque N} {brusco G} {, O} {se Q} {escapa V} {de P} {tus D} {manos N} {, O}	O		
+{para P} {dejar V} {sus D} {hojas N} {deshechas G} {a P} {tus D} {pies N} {. O}	O		

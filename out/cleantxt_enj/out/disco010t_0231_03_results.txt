@@ -1,0 +1,14 @@
+{Siempre A} {que C} {el D} {sol N} {se Q} {rinde V} {en P} {su D} {carrera N} {, O}	O		
+{La D} {virgen G} {selva N} {enluta G} {sus D} {paisajes N} {; O}	O		
+{Y C} {hay V} {pláticas N} {de P} {viento N} {en P} {los D} {follajes N} {. O}	O		
+{Besos N} {de P} {amor N} {y C} {apóstrofes N} {de P} {fiera N} {. O}	O		
+{Se Q} {presiente V} {lejana G} {madriguera N} {; O}	O		
+{Se Q} {ven V} {sombras N} {jugando V} {en P} {los D} {ramajes N} {; O}	O		
+{Y C} {se Q} {adivina V} {un D} {grupo N} {de P} {salvajes G}	O		
+{Alrededor A} {de P} {luminosa G} {hoguera N} {... O}	O		
+{La D} {selva N} {ciñe V} {en P} {su D} {profundo G} {duelo N}	B	sirrem_noun_prep	pd02
+{Por P} {corona N} {el D} {relámpago N} {fulgente G} {, O}	I	sirrem_noun_prep	pd02
+{Que C} {el D} {ala N} {bate V} {en P} {el D} {negror N} {del P} {cielo N} {, O}	O		
+{¡ O} {Hasta P} {que C} {el D} {sol N} {, O} {al P} {verla V} {de P} {soslayo N} {, O}	O		
+{Funde R} {, O} {para P} {corona N} {de P} {su D} {frente N} {. O}	O		
+{Siete D} {colores N} {en P} {un D} {solo G} {rayo N} {! O} {... O}	O		

@@ -1,0 +1,14 @@
+{Lo D t1} {que Q t2} {habla V t3} {, O t4} {en P t5} {el D t6} {silencio N t7} {de P t8} {mi D t9} {vida N t10} {, O t11}
+{de P t12} {voz N t13} {, O t14} {canción N t15} {, O t16} {llamada G t17} {, O t18} {trino N t19} {o C t20} {queja N t21}
+{no A t22} {lo Q t23} {oirá V t24} {ya A t25} {Desdémona R t26} {dormida G t27} {, O t28}
+{porque C t29} {ya A t30} {el D t31} {ruiseñor N t32} {no A t33} {está V t34} {en P t35} {la D t36} {reja N t37} {. O t38}
+{La D t39} {esencia N t40} {de P t41} {la D t42} {sangre N t43} {de P t44} {mi D t45} {herida N t46} {, O t47}
+{el D t48} {misterio N t49} {profundo G t50} {de P t51} {mi D t52} {queja N t53} {, O t54}
+{y C t55} {lo D t56} {que Q t57} {puso V t58} {en P t59} {mi D t60} {panal N t61} {la D t62} {abeja N t63} {, O t64}
+{mientras C t65} {parió V t66} {la D t67} {leona N t68} {en P t69} {su D t70} {guarida N t71} {: O t72}
+{todo D t73} {lo D t74} {que Q t75} {hay V t76} {en P t77} {mí Q t78} {de P t79} {complicado G t80} {, O t81}
+{de P t82} {pecador N t83} {sutil G t84} {o C t85} {de P t86} {perverso G t87} {, O t88}
+{vino V t89} {de P t90} {amar V t91} {o C t92} {extracto G t93} {de P t94} {pecado N t95} {, O t96}
+{abarcando V t97} {en P t98} {mi D t99} {afán N t100} {el D t101} {universo N t102} {, O t103}
+{todo D t104} {eso Q t105} {lo Q t106} {he V t107} {exprimido V t108} {y C t109} {lo Q t110} {he V t111} {brindado V t112}
+{en P t113} {sacrificio N t114} {, O t115} {inspiración N t116} {y C t117} {verso N t118} {. O t119}

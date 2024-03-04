@@ -1,0 +1,14 @@
+{Maravillosamente A} {danzaba V} {. O} {Los D} {diamantes G}	B	sirrem_adj_noun	pp02
+{negros N} {de P} {sus D} {pupilas N} {vertían V} {su D} {destello N} {; O}	I	sirrem_adj_noun	pp02
+{era V} {bello G} {su D} {rostro N} {, O} {era V} {un D} {rostro N} {tan A} {bello G}	O		
+{como C} {el D} {de P} {las D} {gitanas N} {de P} {don N} {Miguel R} {Cervantes R} {. O}	O		
+{Ornábase R} {con P} {rojos N} {claveles G} {detonantes G}	O		
+{la D} {redondez N} {obscura G} {del P} {casco N} {del P} {cabello N} {, O}	O		
+{y C} {la D} {cabeza N} {firme G} {sobre P} {el D} {bronce N} {del P} {cuello N}	O		
+{tenía V} {la D} {pátina N} {de P} {las D} {horas N} {errantes G} {. O}	O		
+{Las D} {guitarras N} {decían V} {en P} {sus D} {cuerdas N} {sonoras G}	B	enlace_subj_verb	ld01
+{las D} {vagas N} {aventuras N} {y C} {las D} {errantes G} {horas N} {, O}	I	enlace_subj_verb	ld01
+{volaban V} {los D} {fandangos N} {, O} {daba V} {el D} {clavel N} {fragancia N} {; O}	O		
+{la D} {gitana N} {, O} {embriagada G} {de P} {lujuria N} {y C} {cariño N} {, O}	O		
+{sintió V} {cómo Q} {caía V} {dentro A} {de P} {su D} {corpiño N}	B	enlace_subj_verb	ld01
+{el D} {bello G} {luis N} {de P} {oro N} {del P} {artista N} {de P} {Francia R} {. O}	I	enlace_subj_verb	ld01

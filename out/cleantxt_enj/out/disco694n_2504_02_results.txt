@@ -1,0 +1,14 @@
+{Góngora N} {, O} {con P} {las D} {ondas N} {de P} {su D} {ingenio N} {, O}	O		
+{antes A} {tranquilo G} {manantial N} {de P} {amores N} {, O}	O		
+{derramó V} {de P} {su D} {mente N} {los D} {fulgores N}	B	sirrem_noun_prep	pp06.1
+{de P} {la D} {española G} {musa N} {en P} {el D} {proscenio N} {. O}	I	sirrem_noun_prep	pp06.1
+{Mas R} {, O} {¡ O} {ay O} {! O} {, O} {la D} {ruda G} {tempestad N} {del P} {genio N}	B	sirrem_noun_prep	pd02
+{con P} {sus D} {horrendos N} {rayos N} {vibradores G} {, O}	I	sirrem_noun_prep	pd02
+{de P} {su D} {alma N} {en P} {el D} {vergel N} {, O} {trochó V} {las D} {flores N}	B	oracional	cp01
+{que Q} {aromaron V} {su D} {dulce G} {prigenio N} {. O}	I	oracional	cp01
+{No A} {de P} {otro D} {modo N} {a P} {la D} {risueña N} {Hecate R} {, O}	O		
+{cada D} {en P} {los D} {aires N} {nubarrón G} {sombrío N}	O		
+{cuando C} {Aquilón R} {sañoso G} {al P} {roble V} {abate N} {, O}	O		
+{la D} {dulce G} {faz N} {enturbia G} {. O} {El D} {murmurío N}	B	sirrem_noun_prep	pp06.1
+{del P} {de P} {su D} {numen N} {manantial N} {rïente G} {, O}	I	sirrem_noun_prep	pp06.1
+{trócose V} {en P} {el D} {rugido N} {del P} {torrente N} {. O}	O		

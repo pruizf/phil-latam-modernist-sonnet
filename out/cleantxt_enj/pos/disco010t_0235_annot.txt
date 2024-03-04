@@ -1,0 +1,14 @@
+{¿ O t1} {De P t2} {dónde Q t3} {aquella D t4} {de P t5} {abultado G t6} {seno N t7} {, O t8}
+{blanca G t9} {a P t10} {manera N t11} {de P t12} {ritual G t13} {paloma N t14} {? O t15}
+{Quizás A t16} {del P t17} {bosque N t18} {de P t19} {vetusto G t20} {aroma N t21} {, O t22}
+{porque C t23} {es V t24} {la D t25} {ninfa N t26} {del P t27} {pasado G t28} {heleno N t29} {. O t30}
+{Lascivo G t31} {amante N t32} {, O t33} {de P t34} {cautela N t35} {lleno G t36} {, O t37}
+{corre V t38} {tras P t39} {ella Q t40} {; O t41} {entre P t42} {las D t43} {manos N t44} {toma V t45}
+{el D t46} {talle N t47} {; O t48} {y C t49} {luego A t50} {, O t51} {sobre P t52} {el D t53} {hombro N t54} {asoma V t55}
+{su D t56} {puntiaguda G t57} {barba N t58} {de P t59} {sileno N t60} {. O t61}
+{¡ O t62} {Mitológico G t63} {grupo N t64} {! O t65} {La D t66} {escultura N t67}
+{copiarlo Q t68} {debe V t69} {; O t70} {que C t71} {, O t72} {con P t73} {nuevos G t74} {trajes N t75} {, O t76}
+{al P t77} {remozar V t78} {la D t79} {clásica G t80} {aventura N t81} {, O t82}
+{forman V t83} {pareja N t84} {de P t85} {exquisito G t86} {gusto N t87}
+{una D t88} {ninfa N t89} {entre P t90} {un D t91} {vértigo N t92} {de P t93} {encajes N t94}
+{y C t95} {un D t96} {sileno N t97} {de P t98} {frac N t99} {que Q t100} {le Q t101} {da V t102} {un D t103} {susto N t104} {. O t105}

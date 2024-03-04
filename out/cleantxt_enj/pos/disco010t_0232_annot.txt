@@ -1,0 +1,14 @@
+{¿ O t1} {A P t2} {qué Q t3} {matarme V t4} {? O t5} {Quedará V t6} {pendiente G t7}
+{siempre A t8} {el D t9} {recuerdo N t10} {de P t11} {mi D t12} {vida N t13} {entera G t14} {; O t15}
+{y C t16} {me Q t17} {aflige V t18} {pensar V t19} {que C t20} {, O t21} {cuando C t22} {muera V t23} {, O t24}
+{viviré V t25} {en P t26} {la D t27} {memoria N t28} {de P t29} {la D t30} {gente N t31} {. O t32}
+{No A t33} {, O t34} {no A t35} {puedo V t36} {dejar V t37} {que C t38} {se Q t39} {lamente A t40}
+{mi D t41} {heroica N t42} {acción N t43} {con P t44} {frase N t45} {lastimera G t46} {... O t47}
+{y C t48} {que C t49} {todo D t50} {el D t51} {que Q t52} {piense V t53} {: O t54} {-- O t55} {¡ O t56} {Un D t57} {hombre N t58} {era V t59} {! O t60}
+{diga V t61} {con P t62} {falsedad N t63} {: O t64} {-- O t65} {¡ O t66} {Era V t67} {un D t68} {demente N t69} {! O t70}
+{Cuando C t71} {siento V t72} {llegar V t73} {horas N t74} {fatales G t75} {, O t76}
+{envidio N t77} {sólo A t78} {al P t79} {que Q t80} {por P t81} {suerte N t82} {rara G t83}
+{muérese V t84} {en P t85} {las D t86} {entrañas N t87} {maternales G t88} {; O t89}
+{mas A t90} {no A t91} {comprendo V t92} {el D t93} {paso N t94} {del P t95} {suicida N t96} {, O t97}
+{dejando V t98} {el D t99} {rastro N t100} {aquí A t101} {: O t102} {me Q t103} {suicidara V t104} {, O t105}
+{¡ O t106} {si C t107} {pudiera V t108} {borrar V t109} {toda D t110} {mi D t111} {vida N t112} {! O t113} {... O t114}

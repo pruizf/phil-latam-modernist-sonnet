@@ -1,0 +1,14 @@
+{A P t1} {veces N t2} {, O t3} {cuando C t4} {pienso V t5} {que C t6} {no A t7} {es V t8} {nada Q t9}
+{la D t10} {grandeza N t11} {más A t12} {alta G t13} {de P t14} {la D t15} {vida N t16} {, O t17}
+{rasgar V t18} {quiero V t19} {las D t20} {vendas N t21} {de P t22} {mi D t23} {herida N t24}
+{y C t25} {bajo P t26} {el D t27} {firme G t28} {pie N t29} {quebrar V t30} {mi D t31} {espada N t32} {. O t33}
+{Cuando C t34} {a P t35} {veces N t36} {, O t37} {después A t38} {de P t39} {la D t40} {jornada N t41} {, O t42}
+{llego V t43} {a P t44} {ver V t45} {que C t46} {el D t47} {estímulo N t48} {se Q t49} {olvida V t50} {, O t51}
+{admiro V t52} {el D t53} {audaz G t54} {paso N t55} {del P t56} {suicida N t57} {, O t58}
+{conquistador N t59} {de P t60} {la D t61} {verdad N t62} {callada G t63} {... O t64}
+{Veré R t65} {desde P t66} {hoy A t67} {, O t68} {por P t69} {eso Q t70} {, O t71} {indiferente G t72}
+{al P t73} {héroe N t74} {que C t75} {su D t76} {diestra N t77} {hunde V t78} {en P t79} {la D t80} {brasa N t81}
+{y C t82} {al P t83} {que Q t84} {defiende V t85} {con P t86} {su D t87} {diestra N t88} {un D t89} {puente N t90}
+{que Q t91} {ante P t92} {la D t93} {ley N t94} {que Q t95} {lo Q t96} {sojuzga V t97} {todo Q t98} {, O t99}
+{no A t100} {es V t101} {mérito N t102} {el D t103} {dejar V t104} {cuando C t105} {se Q t106} {pasa V t107}
+{estampadas G t108} {las D t109} {huellas N t110} {en P t111} {el D t112} {lodo N t113} {. O t114}

@@ -1,0 +1,14 @@
+{Joven R} {asno G} {, O} {que Q} {trotas N} {y C} {te Q} {alejas V}	B	enlace_subj_verb	ld01
+{con P} {tu D} {carga N} {de P} {amor N} {, O} {oye V} {mi D} {acento N} {; O}	I	enlace_subj_verb	ld01
+{y C} {no A} {porque C} {te Q} {zumbe V} {alegre G} {el D} {viento N}	B	enlace_od_verb	ld02
+{sacudas N} {tus D} {larguísimas G} {orejas N} {. O}	I	enlace_od_verb	ld02
+{Óyeme N} {, O} {asno N} {cruel G} {, O} {¿ O} {por P} {qué Q} {no A} {cejas G} {? O} {... O}	O		
+{¿ O} {Por P} {qué Q} {huyes V} {con P} {tu D} {aldeana N} {en P} {el D} {asiento N} {, O}	O		
+{si C} {símbolos N} {de P} {dicha N} {son V} {, O} {jumento N} {, O}	O		
+{las D} {herraduras N} {que Q} {estampadas G} {dejas N} {? O}	O		
+{¡ O} {Joven R} {asno G} {, O} {oye V} {bien A} {! O} {Yo Q} {te Q} {daría V}	B	enlace_subj_verb	ld01
+{este D} {rincón N} {que Q} {es V} {el D} {mejor G} {del P} {prado N} {, O}	I	enlace_subj_verb	ld01
+{este D} {árbol N} {que Q} {hace V} {sombra N} {todo D} {el D} {día N} {, O}	O		
+{este D} {arroyuelo N} {que Q} {temblando V} {arranca G} {... O}	O		
+{¡ O} {por P} {ese D} {pie N} {que Q} {aprieta V} {tu D} {costado V} {, O}	O		
+{por P} {esa D} {mano N} {que Q} {palmea V} {tu D} {anca G} {! O}	O		

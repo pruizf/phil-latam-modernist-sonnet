@@ -1,0 +1,14 @@
+{Sé V t1} {que C t2} {amas N t3} {a P t4} {otro Q t5} {; O t6} {que C t7} {olvidaste V t8} {todos Q t9}
+{te Q t10} {los D t11} {versitos N t12} {que Q t13} {te Q t14} {hice V t15} {. O t16} {¡ O t17} {Bravo R t18} {! O t19} {¡ O t20} {Bravo R t21} {! O t22}
+{Esto Q t23} {se Q t24} {llama V t25} {, O t26} {pues C t27} {, O t28} {dar V t29} {en P t30} {el D t31} {clavo N t32}
+{y C t33} {divertirse V t34} {amando V t35} {de P t36} {mil D t37} {modos N t38} {. O t39}
+{Que C t40} {amen N t41} {de P t42} {veras N t43} {los D t44} {que Q t45} {están V t46} {beodos N t47}
+{de P t48} {platonismo N t49} {fútil G t50} {; O t51} {el D t52} {esclavo N t53}
+{de P t54} {amadas N t55} {de P t56} {novela N t57} {, O t58} {y C t59} {el D t60} {que Q t61} {al P t62} {cabo N t63}
+{se Q t64} {pierde V t65} {de P t66} {esa D t67} {senda N t68} {en P t69} {los D t70} {recodos N t71} {. O t72}
+{Pero C t73} {¿ O t74} {amar V t75} {tú Q t76} {? O t77} {No A t78} {entiendo V t79} {ese D t80} {vocablo N t81} {. O t82}
+{Y C t83} {si C t84} {me Q t85} {amabas N t86} {, O t87} {dices N t88} {: O t89} {muy A t90} {mal A t91} {hecho G t92} {. O t93}
+{¿ O t94} {Me Q t95} {olvidaste V t96} {? O t97} {¡ O t98} {Sublime O t99} {! O t100} {¡ O t101} {Voto V t102} {al P t103} {diablo N t104} {! O t105}
+{Y C t106} {no A t107} {hay V t108} {que C t109} {arrepentirse V t110} {; O t111} {a P t112} {lo D t113} {hecho G t114} {, O t115} {pecho N t116} {. O t117}
+{Mira V t118} {, O t119} {no A t120} {es V t121} {broma N t122} {, O t123} {con P t124} {franqueza N t125} {te Q t126} {hablo V t127} {: O t128}
+{sigue V t129} {en P t130} {tu D t131} {nuevo G t132} {amor N t133} {, O t134} {y C t135} {... O t136} {¡ O t137} {buen G t138} {provecho N t139} {! O t140}

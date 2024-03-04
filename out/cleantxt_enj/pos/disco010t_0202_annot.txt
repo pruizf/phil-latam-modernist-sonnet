@@ -1,0 +1,14 @@
+{Copia D t1} {el D t2} {lago N t3} {en P t4} {sus D t5} {vidrios N t6} {palpitantes G t7}
+{cuanto A t8} {se Q t9} {asoma V t10} {en P t11} {su D t12} {contorno N t13} {vago G t14} {, O t15}
+{como C t16} {si C t17} {fuera V t18} {el D t19} {voluptuoso G t20} {halago N t21}
+{de P t22} {una D t23} {coquetería N t24} {de P t25} {gigantes N t26}
+{Llega V t27} {un D t28} {río N t29} {cual Q t30} {sarta N t31} {de P t32} {diamantes N t33} {; O t34}
+{y C t35} {, O t36} {por P t37} {virtud N t38} {de P t39} {milagroso G t40} {mago N t41} {, O t42}
+{en P t43} {el D t44} {fondo N t45} {del P t46} {bosque N t47} {, O t48} {deja V t49} {un D t50} {lago N t51}
+{como C t52} {un D t53} {collar N t54} {de P t55} {chispas N t56} {relumbrantes G t57} {. O t58}
+{Al P t59} {ver V t60} {el D t61} {lago N t62} {, O t63} {entonces A t64} {, O t65} {se Q t66} {dijera V t67}
+{que C t68} {la D t69} {larga G t70} {serpiente N t71} {que Q t72} {antes A t73} {era V t74}
+{se Q t75} {ha V t76} {ensortijado V t77} {entre P t78} {la D t79} {selva N t80} {hosca G t81} {; O t82}
+{porque C t83} {así A t84} {son V t85} {, O t86} {en P t87} {la D t88} {montaña N t89} {andina G t90} {, O t91}
+{el D t92} {río N t93} {una D t94} {serpiente N t95} {que Q t96} {camina V t97}
+{y C t98} {el D t99} {lago N t100} {una D t101} {serpiente N t102} {que Q t103} {se Q t104} {enrosca V t105}

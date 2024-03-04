@@ -1,0 +1,14 @@
+{Hay V} {en P} {la D} {paz N} {de P} {la D} {ciudades N} {yertas G}	B	sirrem_adj_noun	pp01
+{ficción N} {de P} {campamentos N} {desolados G} {, O}	I	sirrem_adj_noun	pp01
+{en P} {donde Q} {, O} {mientras C} {duermen V} {los D} {soldados N} {, O}	O		
+{se Q} {oyen V} {sonar V} {tristísimos V} {alertas G}	B	enlace_subj_verb	ld01
+{Vetustas R} {casas N} {, O} {rechinantes N} {puertas N} {; O}	I	enlace_subj_verb	ld01
+{colgaduras N} {de P} {musgo N} {en P} {los D} {tejados N} {; O}	O		
+{escombros N} {contra P} {escombros N} {recostados G} {; O}	O		
+{y C} {, O} {dormidas G} {al P} {Sol R} {, O} {plazas N} {desiertas G} {. O}	O		
+{Histórica G} {ciudad N} {: O} {nada Q} {amortigua G}	B	enlace_subj_verb	ld01
+{la D} {pompa N} {colonial G} {que Q} {la D} {engalana N} {, O}	I	enlace_subj_verb	ld01
+{ni C} {su D} {hispano G} {blasón N} {mancha N} {de P} {lodo N} {. O}	O		
+{Tiene V} {el D} {encanto N} {de P} {la D} {edad N} {antigua G} {; O}	O		
+{y C} {la D} {mayor G} {felicidad N} {humana G} {: O}	O		
+{¡ O} {la D} {de P} {vivir V} {indiferente G} {a P} {todo Q} {! O}	O		

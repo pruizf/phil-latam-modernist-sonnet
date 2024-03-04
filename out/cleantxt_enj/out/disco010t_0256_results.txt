@@ -1,0 +1,14 @@
+{El D} {dómine N} {paciente G} {y C} {circunflejo G} {, O}	O		
+{de P} {calado N} {birrete G} {, O} {se Q} {pasea V} {; O}	O		
+{y C} {medita V} {y C} {trabaja V} {en P} {una D} {idea N} {, O}	O		
+{con P} {febril G} {ademán N} {y C} {hosco N} {entrecejo G} {. O}	O		
+{Mientras C} {uno Q} {decora V} {con P} {despejo N} {, O}	O		
+{otro D} {alumno N} {cantando V} {deletrea G} {; O}	O		
+{y C} {la D} {tropa N} {infanlil G} {chilla G} {y C} {vocea G} {, O}	O		
+{fija G} {y C} {pendiente G} {del P} {callado G} {viejo G} {. O}	O		
+{¿ O} {En P} {qué Q} {piensa V} {el D} {señor N} {? O} {Pierna V} {que C} {todo Q}	O		
+{a P} {golpe N} {de P} {palmeta N} {y C} {por P} {espanto N} {, O}	O		
+{si C} {no A} {cambia V} {de P} {ser V} {, O} {cambia V} {de P} {modo N} {; O}	O		
+{y C} {piensa V} {que C} {no A} {hay V} {acto N} {ni C} {hay V} {objeto N} {, O}	O		
+{que Q} {no A} {se Q} {encierre V} {en P} {la D} {lección N} {de P} {canto N}	B	sirrem_noun_prep	pp06.1
+{de P} {la D} {escala N} {inmortal G} {del P} {alfabeto N} {. O}	I	sirrem_noun_prep	pp06.1

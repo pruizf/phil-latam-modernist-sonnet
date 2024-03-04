@@ -1,0 +1,14 @@
+{Gloria N t1} {al P t2} {laboratorio N t3} {de P t4} {Canidia R t5} {, O t6}
+{gloria N t7} {al P t8} {sapo N t9} {y C t10} {la D t11} {araña N t12} {y C t13} {su D t14} {veneno N t15} {, O t16}
+{gloria N t17} {al P t18} {duro G t19} {guijarro N t20} {, O t21} {gloria N t22} {al P t23} {cieno N t24} {, O t25}
+{gloria N t26} {al P t27} {áspero G t28} {errar V t29} {, O t30} {gloria N t31} {a P t32} {la D t33} {insidia N t34} {, O t35}
+{gloria N t36} {a P t37} {la D t38} {cucaracha N t39} {que Q t40} {fastidia V t41} {, O t42}
+{gloria N t43} {al P t44} {diente N t45} {de P t46} {can N t47} {de P t48} {rabia N t49} {lleno G t50} {, O t51}
+{gloria N t52} {al P t53} {parche N t54} {vulgar G t55} {que Q t56} {imita V t57} {al P t58} {trueno N t59} {, O t60}
+{gloria N t61} {al P t62} {odio N t63} {bestial G t64} {, O t65} {gloria N t66} {a P t67} {la D t68} {envidia N t69} {. O t70}
+{Gloria N t71} {a P t72} {las D t73} {ictericias N t74} {devorantes G t75}
+{que Q t76} {sufre V t77} {el D t78} {odiador N t79} {; O t80} {gloria N t81} {a P t82} {la D t83} {escoria N t84}
+{que Q t85} {parece V t86} {la D t87} {luz N t88} {de P t89} {los D t90} {diamantes N t91} {, O t92}
+{pues C t93} {toda D t94} {esa D t95} {miseria N t96} {transitoria G t97}
+{hace V t98} {afirmar V t99} {al P t100} {paso N t101} {a P t102} {los D t103} {Atlantes R t104}
+{cargados G t105} {con P t106} {el D t107} {orbe N t108} {de P t109} {su D t110} {gloria N t111} {. O t112}

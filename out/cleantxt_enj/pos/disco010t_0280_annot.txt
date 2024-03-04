@@ -1,0 +1,14 @@
+{Si C t1} {el D t2} {espacio N t3} {se Q t4} {encuentra V t5} {oscuro G t6} {y C t7} {frío G t8}
+{del P t9} {alto G t10} {azul N t11} {tras P t12} {el D t13} {ficticio G t14} {velo N t15} {, O t16}
+{tú Q t17} {, O t18} {que Q t19} {en P t20} {los D t21} {ojos N t22} {tienes V t23} {todo D t24} {un D t25} {cielo N t26} {, O t27}
+{tienes V t28} {tras P t29} {de P t30} {los D t31} {ojos N t32} {el D t33} {vacío N t34} {... O t35}
+{Tras P t36} {el D t37} {velo N t38} {celeste G t39} {¡ O t40} {oh N t41} {, O t42} {amor N t43} {mío D t44} {! O t45}
+{existe V t46} {un D t47} {Dios R t48} {para P t49} {el D t50} {creyente N t51} {anhelo N t52} {; O t53}
+{y C t54} {los D t55} {astros N t56} {, O t57} {sin P t58} {fin N t59} {, O t60} {tienden V t61} {el D t62} {vuelo N t63} {; O t64}
+{donde C t65} {el D t66} {reino N t67} {de P t68} {Dios R t69} {niega V t70} {el D t71} {impío N t72} {... O t73}
+{Pero C t74} {tú Q t75} {siempre A t76} {, O t77} {con P t78} {imbécil G t79} {calma N t80} {, O t81}
+{yerta N t82} {al P t83} {placer N t84} {y C t85} {yerta D t86} {a P t87} {los D t88} {enojos N t89} {, O t90}
+{inmóvil G t91} {, O t92} {muestras N t93} {la D t94} {aridez N t95} {de P t96} {tu D t97} {alma N t98} {. O t99}
+{Y C t100} {así A t101} {detrás A t102} {de P t103} {tus D t104} {pupilas N t105} {bellas G t106} {, O t107}
+{y C t108} {así A t109} {detrás A t110} {de P t111} {tus D t112} {azules G t113} {ojos N t114}
+{¡ O t115} {hay V t116} {un D t117} {cielo N t118} {sin P t119} {Dios R t120} {y C t121} {sin P t122} {estrellas N t123} {! O t124}

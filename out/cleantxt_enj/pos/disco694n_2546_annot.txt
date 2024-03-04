@@ -1,0 +1,14 @@
+{Alberto R t1} {, O t2} {en P t3} {el D t4} {propileo N t5} {del P t6} {templo N t7} {soberano N t8}
+{donde Q t9} {Renán R t10} {rezaba V t11} {, O t12} {Verlaine R t13} {cantado G t14} {hubiera V t15} {. O t16}
+{Primavera N t17} {una D t18} {rosa N t19} {de P t20} {amor N t21} {tiene V t22} {en P t23} {la D t24} {mano N t25}
+{y C t26} {cerca A t27} {de P t28} {la D t29} {joven N t30} {y C t31} {dulce G t32} {Primavera N t33} {. O t34}
+{Término R t35} {su D t36} {sonrisa N t37} {de P t38} {piedra N t39} {brinda V t40} {en P t41} {vano G t42}
+{a P t43} {la D t44} {desnuda G t45} {náyade N t46} {y C t47} {a P t48} {la D t49} {ninfa D t50} {hechicera N t51}
+{que Q t52} {viene V t53} {a P t54} {la D t55} {soberbia N t56} {fiesta N t57} {de P t58} {la D t59} {pradera N t60}
+{y C t61} {del P t62} {boscaje N t63} {, O t64} {en P t65} {busca N t66} {del P t67} {lírico G t68} {Sylvano R t69} {. O t70}
+{Sobre P t71} {su D t72} {altar N t73} {de P t74} {oro N t75} {se Q t76} {levanta V t77} {la D t78} {Dea R t79} {, O t80}
+{- O t81} {tal D t82} {en P t83} {su D t84} {aspecto N t85} {icónico G t86} {la D t87} {virgen G t88} {bizantinatoda N t89}
+{la D t90} {belleza N t91} {humana G t92} {ante P t93} {su D t94} {luz N t95} {es V t96} {fea G t97} {; O t98}
+{toda D t99} {visión N t100} {humana G t101} {, O t102} {a P t103} {su D t104} {luz N t105} {es V t106} {divina G t107} {: O t108}
+{y C t109} {ésa Q t110} {es V t111} {la D t112} {virtud N t113} {sacra G t114} {de P t115} {la D t116} {divina G t117} {Idea R t118}
+{cuya Q t119} {alma N t120} {es V t121} {una D t122} {sombra N t123} {que Q t124} {todo Q t125} {lo Q t126} {ilumina V t127} {. O t128}

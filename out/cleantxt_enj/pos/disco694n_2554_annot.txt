@@ -1,0 +1,14 @@
+{¡ O t1} {Dafne O t2} {, O t3} {divina G t4} {Dafne R t5} {! O t6} {Buscar R t7} {quiero V t8} {la D t9} {leve G t10}
+{cafía N t11} {que Q t12} {corresponda V t13} {a P t14} {tus D t15} {labios N t16} {esquivos G t17} {; O t18}
+{haré V t19} {de P t20} {ella Q t21} {mi D t22} {flauta N t23} {e C t24} {inventaré V t25} {motivos N t26}
+{que Q t27} {extasiarán V t28} {de P t29} {amor N t30} {a P t31} {los D t32} {cisnes N t33} {de P t34} {nieve N t35} {. O t36}
+{Al P t37} {canto N t38} {mío D t39} {el D t40} {tiempo N t41} {parecerá V t42} {más A t43} {breve G t44} {; O t45}
+{como C t46} {Pan N t47} {en P t48} {el D t49} {campo N t50} {haré V t51} {danzar V t52} {los D t53} {chivos N t54} {; O t55}
+{como C t56} {Orfeo R t57} {tendré V t58} {los D t59} {leones N t60} {cautivos N t61} {, O t62}
+{y C t63} {moveré V t64} {el D t65} {imperio N t66} {de P t67} {Amor R t68} {que Q t69} {todo Q t70} {mueve V t71} {. O t72}
+{Y C t73} {todo D t74} {será V t75} {, O t76} {Dafne R t77} {, O t78} {por P t79} {la D t80} {virtud N t81} {secreta G t82}
+{que Q t83} {en P t84} {la D t85} {fibra N t86} {sutil G t87} {de P t88} {la D t89} {cafía N t90} {coloca V t91}
+{con P t92} {la D t93} {pasin N t94} {del P t95} {dios N t96} {el D t97} {suefío N t98} {del P t99} {poeta N t100} {; O t101}
+{porque C t102} {si C t103} {de P t104} {la D t105} {flauta N t106} {la D t107} {boca N t108} {mía Q t109} {toca V t110}
+{el D t111} {sonoro G t112} {carrizo N t113} {, O t114} {su D t115} {misterio N t116} {interpreta V t117}
+{y C t118} {la D t119} {armonía N t120} {nace V t121} {del P t122} {beso N t123} {de P t124} {tu D t125} {boca N t126} {. O t127}

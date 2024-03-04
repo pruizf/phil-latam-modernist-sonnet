@@ -1,0 +1,14 @@
+{Antonino R t1} {Lamberti R t2} {, O t3} {el D t4} {peristilo N t5}
+{del P t6} {sacro G t7} {templo N t8} {se Q t9} {alza N t10} {en P t11} {la D t12} {colina N t13} {, O t14}
+{y C t15} {llega V t16} {una D t17} {fragancia N t18} {tiburtina G t19}
+{que Q t20} {acariciara V t21} {a P t22} {Horacio R t23} {y C t24} {a P t25} {Camilo R t26} {. O t27}
+{Es V t28} {la D t29} {reina N t30} {de P t31} {Pafos R t32} {y C t33} {de P t34} {Milo R t35}
+{que Q t36} {dio V t37} {la D t38} {aurora N t39} {de P t40} {la D t41} {luz N t42} {latina G t43} {, O t44}
+{en P t45} {donde Q t46} {halló V t47} {, O t48} {por P t49} {la D t50} {virtud N t51} {divina G t52} {, O t53}
+{gesto N t54} {la D t55} {estatua N t56} {, O t57} {la D t58} {palabra N t59} {estilo N t60} {. O t61}
+{Amemos V t62} {, O t63} {Antonino R t64} {, O t65} {de P t66} {tu D t67} {Roma R t68}
+{la D t69} {armonía N t70} {sagrada G t71} {, O t72} {que Q t73} {aún A t74} {subsiste V t75} {, O t76}
+{de P t77} {la D t78} {gloria N t79} {fugaz G t80} {que C t81} {el D t82} {tiempo N t83} {dorna V t84} {, O t85}
+{y C t86} {que C t87} {en P t88} {el D t89} {verso N t90} {o C t91} {piedra N t92} {, O t93} {que Q t94} {resiste V t95} {, O t96}
+{rosa N t97} {del P t98} {mármol N t99} {, O t100} {lirio N t101} {del P t102} {idioma N t103} {, O t104}
+{da V t105} {la D t106} {fragancia N t107} {eterna G t108} {de P t109} {lo D t110} {triste G t111} {. O t112}

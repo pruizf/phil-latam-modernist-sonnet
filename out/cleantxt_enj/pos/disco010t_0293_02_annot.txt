@@ -1,0 +1,14 @@
+{Y C t1} {habló V t2} {el D t3} {poeta N t4} {, O t5} {y C t6} {dijo V t7} {: O t8} {-- O t9} {Conozco V t10} {tus D t11} {vigores N t12} {, O t13}
+{Y C t14} {aplaudo V t15} {el D t16} {ritmo N t17} {en P t18} {que Q t19} {hablan V t20} {tus D t21} {cascos N t22} {habladores G t23} {; O t24}
+{Sé V t25} {de P t26} {tu D t27} {vuelo N t28} {el D t29} {rumbo N t30} {por P t31} {el D t32} {Azul R t33} {, O t34} {a P t35} {modo N t36}
+{De P t37} {un D t38} {paso N t39} {de P t40} {conquista N t41} {que Q t42} {lo Q t43} {conquista N t44} {todo Q t45} {; O t46}
+{Y C t47} {asiéntome V t48} {en P t49} {tu D t50} {anca G t51} {, O t52} {que Q t53} {orlada G t54} {con P t55} {mil D t56} {flores N t57} {, O t58}
+{Es V t59} {redondez N t60} {y C t61} {es V t62} {lustre N t63} {como C t64} {obra N t65} {de P t66} {escultores N t67} {; O t68}
+{Y C t69} {engriome G t70} {en P t71} {tu D t72} {escape N t73} {y C t74} {en P t75} {la D t76} {carrera N t77} {beodo G t78}
+{Tiendo R t79} {sobre P t80} {tu D t81} {mármol N t82} {mi D t83} {humanidad N t84} {de P t85} {lodo N t86} {... O t87}
+{¡ O t88} {Y C t89} {bien A t90} {! O t91} {Dame V t92} {una D t93} {sola G t94} {de P t95} {tus D t96} {sonoras G t97} {crines N t98} {, O t99}
+{Para P t100} {ajustarla V t101} {a P t102} {un D t103} {arco N t104} {, O t105} {no A t106} {de P t107} {arrullar V t108} {violines N t109}
+{Sino R t110} {de P t111} {flechar V t112} {verbos N t113} {en P t114} {desatada N t115} {lidia G t116} {. O t117}
+{¡ O t118} {Ya A t119} {de P t120} {tu D t121} {recia G t122} {cola N t123} {, O t124} {ya A t125} {de P t126} {tu D t127} {cuello N t128} {rudo G t129} {, O t130}
+{Dame Q t131} {una Q t132} {de P t133} {tus D t134} {crines N t135} {; O t136} {que C t137} {quiero V t138} {hacer V t139} {un D t140} {nudo N t141}
+{Para P t142} {que C t143} {tenga V t144} {su D t145} {horca N t146} {la D t147} {lengua N t148} {de P t149} {la D t150} {Envidia R t151} {! O t152} {... O t153}

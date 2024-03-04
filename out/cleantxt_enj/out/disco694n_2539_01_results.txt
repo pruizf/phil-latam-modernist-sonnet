@@ -1,0 +1,14 @@
+{Castillo R} {que Q} {decoras N} {la D} {ribera N} {, O}	O		
+{boscaje N} {que Q} {decoras N} {el D} {castillo N} {, O}	O		
+{paloma N} {que Q} {estremeces N} {el D} {tomillo N} {, O}	O		
+{onda N} {que Q} {vas V} {por P} {la D} {corriente N} {fiera V} {; O}	O		
+{espuma N} {virginal G} {, O} {brisa N} {ligera G} {, O}	O		
+{canción N} {de P} {trovador N} {, O} {canto N} {sencillo G} {, O}	O		
+{estrella N} {que Q} {en P} {el D} {Rhin R} {hundes G} {tu D} {brillo N} {, O}	O		
+{Loreley R} {de P} {la D} {verde G} {cabellera N} {; O}	O		
+{cisne Q} {de P} {nieve N} {, O} {pájaro N} {sagrado G} {, O}	O		
+{esquife N} {del P} {celeste G} {enamorado G} {, O}	O		
+{barca N} {del P} {joven N} {dios N} {, O} {lirio N} {del P} {Rhin R} {: O}	O		
+{de P} {las D} {trompetas N} {el D} {vibrante G} {coro N}	B	enlace_subj_verb	ld01
+{anuncia V} {el D} {casco N} {de P} {diamante N} {y C} {oro N}	IB	enlace_subj_verb;sirrem_noun_prep	ld01;pp06.1
+{del P} {rubio G} {caballero N} {: O} {Lohengrín R} {! O}	I	sirrem_noun_prep	pp06.1

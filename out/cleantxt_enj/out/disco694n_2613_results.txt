@@ -1,0 +1,14 @@
+{Te Q} {recomiendo V} {a P} {ti Q} {, O} {mi D} {poeta N} {amigo N} {, O}	O		
+{que Q} {comprendas N} {mañana A} {mi D} {profundo G} {cariño N} {, O}	O		
+{y C} {que C} {escuches N} {mi D} {voz N} {en P} {la D} {voz N} {de P} {mi D} {niño N} {, O}	O		
+{y C} {que C} {aceptes V} {la D} {hostia N} {en P} {la D} {virtud N} {del P} {trigo N} {. O}	O		
+{Sabe V} {que C} {, O} {cuando C} {muera V} {, O} {yo Q} {te Q} {escucho V} {y C} {te Q} {sigo V} {: O}	O		
+{que C} {si C} {haces V} {bien A} {, O} {te Q} {aplaudo V} {; O} {que C} {si C} {haces V} {mal A} {, O} {te Q} {riño V} {; O}	O		
+{si C} {soy V} {lira N} {, O} {te Q} {canto N} {; O} {si C} {cíngulo V} {, O} {te Q} {ciño N} {; O}	O		
+{si C} {en P} {tu D} {cerebro N} {, O} {seso N} {, O} {y C} {si C} {en P} {tu D} {vientre N} {, O} {ombligo N} {. O}	O		
+{Y C} {comprende V} {que C} {en P} {el D} {don N} {de P} {la D} {pura G} {vida N} {, O}	O		
+{que Q} {no A} {se Q} {puede V} {dar V} {manca G} {ni C} {dividida G}	O		
+{para P} {los D} {que Q} {creemos V} {que C} {hay V} {algo Q} {supremo G} {, O}	O		
+{yo Q} {me Q} {pongo V} {a P} {esperar V} {a P} {la D} {esperanza N} {ida N} {, O}	O		
+{y C} {conduzco V} {entre P} {tanto A} {la D} {barca N} {de P} {mi D} {vida N} {; O}	O		
+{Caronte R} {es V} {el D} {piloto N} {, O} {mas A} {yo Q} {dirijo V} {el D} {remo N} {. O}	O		

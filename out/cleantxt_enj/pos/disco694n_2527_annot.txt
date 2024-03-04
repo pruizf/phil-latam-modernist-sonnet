@@ -1,0 +1,14 @@
+{Ya A t1} {de P t2} {su D t3} {corintio G t4} {templo N t5} {cincela V t6} {una D t7} {metopa N t8} {, O t9}
+{ya A t10} {de P t11} {un D t12} {morisco N t13} {alcázar V t14} {el D t15} {capitel N t16} {sutil G t17} {; O t18}
+{ya A t19} {, O t20} {como C t21} {Benvenuto R t22} {, O t23} {del P t24} {oro N t25} {de P t26} {una D t27} {copa N t28}
+{forma V t29} {un D t30} {joyel N t31} {artístico G t32} {, O t33} {prodigio N t34} {del P t35} {buril N t36} {. O t37}
+{Pinta G t38} {las D t39} {dulces N t40} {Gracias R t41} {, O t42} {o C t43} {la D t44} {desnuda N t45} {Europa R t46} {, O t47}
+{en P t48} {el D t49} {pulido N t50} {borde N t51} {de P t52} {un D t53} {vaso N t54} {de P t55} {marfil N t56} {, O t57}
+{o C t58} {a P t59} {Diana R t60} {, O t61} {diosa G t62} {virgen N t63} {de P t64} {desceñida G t65} {ropa N t66} {, O t67}
+{con P t68} {aire N t69} {cinegético G t70} {, O t71} {o C t72} {en P t73} {grupo N t74} {pastoril G t75} {. O t76}
+{La D t77} {musa N t78} {que Q t79} {al P t80} {poeta N t81} {sus D t82} {cánticos N t83} {inspira V t84}
+{no A t85} {lleva V t86} {la D t87} {vibrante G t88} {trompeta N t89} {de P t90} {metal N t91} {, O t92}
+{ni C t93} {es V t94} {la D t95} {bacante G t96} {loca G t97} {que Q t98} {canta V t99} {y C t100} {que Q t101} {delira A t102} {, O t103}
+{en P t104} {el D t105} {amor N t106} {fogosa G t107} {, O t108} {y C t109} {en P t110} {el D t111} {placer N t112} {triunfal G t113} {: O t114}
+{ella Q t115} {al P t116} {cantor N t117} {ofrece V t118} {la D t119} {septicorde G t120} {lira N t121} {, O t122}
+{o C t123} {, O t124} {rítmica G t125} {y C t126} {sonora G t127} {, O t128} {la D t129} {flauta N t130} {de P t131} {cristal N t132} {. O t133}

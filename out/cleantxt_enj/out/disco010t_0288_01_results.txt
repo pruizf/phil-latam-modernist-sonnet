@@ -1,0 +1,14 @@
+{Estaba V} {ansioso G} {de P} {luchar V} {. O} {No A} {en P} {vano G}	O		
+{se Q} {estremecía V} {la D} {vibrante G} {espada N}	B	sirrem_noun_prep	pd02
+{por P} {cruzar V} {, O} {en P} {la D} {lid N} {, O} {desenvainada G} {, O}	I	sirrem_noun_prep	pd02
+{cual Q} {voladora G} {sierpe V} {en P} {el D} {oceano N} {. O}	O		
+{Más A} {noble G} {es V} {ser V} {torrente N} {que Q} {pantano G} {; O}	O		
+{y C} {era V} {justo A} {oponer V} {en P} {lucha N} {airada G}	B	enlace_od_verb	ld02
+{contra P} {la D} {oscuridad N} {una D} {mirada N}	I	enlace_od_verb	ld02
+{y C} {un D} {amor N} {puro G} {contra P} {el D} {odio N} {humano G} {. O}	O		
+{Palpitando R} {de P} {horror N} {, O} {con P} {ansias N} {sumas G} {, O}	O		
+{mi D} {corazón N} {clavado G} {de P} {puñales N}	B	enlace_subj_verb	ld01
+{sería V} {un D} {ave N} {de P} {aceradas G} {plumas N} {... O}	I	enlace_subj_verb	ld01
+{¡ O} {Preciso V} {era V} {subir V} {! O} {Perdí V} {la D} {calma N} {; O}	O		
+{y C} {me Q} {lancé V} {a P} {los D} {ásperos N} {breñales G} {: O}	O		
+{¡ O} {cuando C} {a P} {lo D} {alto G} {llegué V} {, O} {sólo A} {era V} {un D} {alma N} {! O}	O		

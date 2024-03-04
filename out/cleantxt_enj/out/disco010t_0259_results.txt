@@ -1,0 +1,14 @@
+{Hasta P} {el D} {árbol N} {tronchado G} {en P} {el D} {camino N} {, O}	O		
+{sin P} {hojas N} {, O} {y C} {sin P} {frutos N} {, O} {y C} {sin P} {flores N} {, O}	O		
+{puede V} {prestar V} {asiento N} {a P} {los D} {pastores N}	O		
+{y C} {un D} {báculo N} {prestar V} {al P} {peregrino N} {. O}	O		
+{Así A} {el D} {anciano N} {de P} {experiencia N} {y C} {tino G}	B	enlace_subj_verb	ld01
+{máximas G} {da V} {que C} {evitan V} {sinsabores N} {: O}	I	enlace_subj_verb	ld01
+{y C} {sin P} {savia N} {, O} {ni C} {aroma N} {, O} {ni C} {colores N} {, O}	O		
+{cumple V} {su D} {ley N} {y C} {tiene V} {su D} {destino N} {. O}	O		
+{¡ O} {Oh O} {, O} {labrador O} {! O} {Escucha D} {mi D} {consejo N} {: O}	O		
+{te Q} {debes V} {resistir V} {cual Q} {me Q} {resisto V}	B	sirrem_verb_supl	pp23
+{a P} {cortar V} {ramas A} {aunque C} {estén V} {desnudas G}	I	sirrem_verb_supl	pp23
+{porque C} {puede V} {salir V} {de P} {un D} {árbol N} {viejo G}	B	sirrem_adj_adv	pp10
+{quizás A} {la D} {cruz N} {en P} {que Q} {sucumba V} {un D} {Cristo R} {, O}	I	sirrem_adj_adv	pp10
+{quizás A} {la Q} {rama N} {en P} {que Q} {se Q} {cuelgue V} {un D} {Judas R} {. O}	O		

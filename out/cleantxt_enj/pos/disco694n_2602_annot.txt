@@ -1,0 +1,14 @@
+{Al P t1} {dar V t2} {aire N t3} {a P t4} {tu D t5} {frente A t6}
+{esta D t7} {ala N t8} {de P t9} {armonía N t10}
+{en P t11} {que C t12} {la D t13} {poesía N t14}
+{por P t15} {ti Q t16} {vibrar V t17} {se Q t18} {siente V t19} {, O t20}
+{sentirás A t21} {de P t22} {repente N t23}
+{soplos G t24} {de P t25} {simpatía N t26} {: O t27}
+{seré V t28} {el D t29} {aura N t30} {que Q t31} {envía V t32}
+{Centro-América R t33} {ardiente A t34} {. O t35}
+{Serás V t36} {como C t37} {el D t38} {perfume N t39}
+{cálido G t40} {que Q t41} {resume V t42}
+{algo Q t43} {que Q t44} {en P t45} {ti Q t46} {se Q t47} {fragua N t48}
+{y C t49} {que Q t50} {tu D t51} {ser V t52} {duplica V t53} {: O t54}
+{¡ O t55} {lirio N t56} {de P t57} {Nicaragua R t58} {, O t59}
+{rosa N t60} {de P t61} {Costa R t62} {Rica R t63} {! O t64}

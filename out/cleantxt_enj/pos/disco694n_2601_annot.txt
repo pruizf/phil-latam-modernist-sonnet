@@ -1,0 +1,14 @@
+{Amo V t1} {las D t2} {carabelas N t3} {de P t4} {Cristóbal R t5}
+{porque C t6} {iban V t7} {sin P t8} {rumbo N t9} {sobre P t10} {el D t11} {mar N t12} {; O t13}
+{y C t14} {porque C t15} {desplegaban V t16} {blancas G t17} {velas N t18}
+{sobre P t19} {la D t20} {inmensidad N t21} {del P t22} {mar N t23} {azul G t24} {. O t25}
+{Galleta R t26} {dura G t27} {y C t28} {pescado V t29} {podrido G t30}
+{para P t31} {los D t32} {héroes N t33} {fue V t34} {pan N t35} {de P t36} {ilusión N t37} {; O t38}
+{y C t39} {era V t40} {Catay R t41} {la D t42} {esencia N t43} {de P t44} {su D t45} {esencia N t46}
+{fundiendo V t47} {en P t48} {sol N t49} {lo D t50} {que Q t51} {era V t52} {voluntad N t53} {. O t54}
+{De P t55} {agua N t56} {profusa G t57} {y C t58} {cielos N t59} {mentirosos G t60}
+{hicieron V t61} {su D t62} {coraza N t63} {de P t64} {esperar V t65} {; O t66}
+{sueños N t67} {de P t68} {luz N t69} {y C t70} {páginas N t71} {de P t72} {Antillas R t73}
+{a P t74} {su D t75} {hogar N t76} {dieron V t77} {esperanza N t78} {y C t79} {sol N t80} {. O t81}
+{El D t82} {Santo R t83} {Cristo R t84} {que Q t85} {estaba V t86} {a P t87} {su D t88} {puerta N t89}
+{les Q t90} {dio V t91} {la D t92} {vida N t93} {con P t94} {la D t95} {fe N t96} {de P t97} {Dios R t98} {. O t99}

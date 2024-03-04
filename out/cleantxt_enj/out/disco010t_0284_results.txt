@@ -1,0 +1,14 @@
+{Eres V} {fría G} {; O} {y C} {así A} {como C} {los D} {yesos N}	B	oracional	cp01
+{que Q} {en P} {trepadora G} {red N} {ostentan V} {flores N} {, O}	I	oracional	cp01
+{te Q} {enfatúas N} {de P} {tus D} {galas N} {exteriores G} {, O}	O		
+{bella G} {envoltura N} {de P} {mezquinos N} {huesos N} {... O}	O		
+{Ayer A} {me Q} {amaste V} {, O} {hoy A} {me Q} {desdeñas G} {. O} {Esos D}	O		
+{que Q} {se Q} {afanan V} {por P} {ser V} {mis D} {sucesores N} {, O}	O		
+{mi D} {amor N} {repetirán V} {con P} {sus D} {amores N} {, O}	O		
+{porque C} {te Q} {besarán V} {sobre P} {mis D} {besos N} {... O}	O		
+{Pero C} {borra N} {mi D} {nombre N} {de P} {tu D} {historia N}	B	enlace_subj_verb	ld01
+{ya A} {que C} {flo V} {tuvo V} {tu D} {pasión N} {ternura N} {, O}	I	enlace_subj_verb	ld01
+{ya A} {que C} {no A} {tiene V} {tu D} {desdén N} {memoria N} {. O}	O		
+{Lamenta V} {sólo A} {tu D} {primer G} {fracaso N} {; O}	O		
+{porque C} {antes A} {que C} {la D} {sed N} {que Q} {el D} {vaso N} {apura V}	B	enlace_od_verb	ld02
+{terminose V} {el D} {licor N} {... O} {¡ O} {se Q} {rompió V} {el D} {vaso N} {! O}	I	enlace_od_verb	ld02

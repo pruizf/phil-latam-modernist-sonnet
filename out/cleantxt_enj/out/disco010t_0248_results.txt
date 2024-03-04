@@ -1,0 +1,14 @@
+{Echado G} {está V} {a P} {mis D} {pies N} {: O} {hunde V} {dormido G}	B	enlace_od_verb	ld02
+{la D} {cabeza N} {en P} {las D} {patas N} {delanteras G}	I	enlace_od_verb	ld02
+{y C} {así A} {sueña V} {con P} {todas D} {sus D} {carreras N}	O		
+{y C} {con P} {todas D} {las D} {liebres N} {que Q} {ha V} {cogido V} {. O}	O		
+{Largo R} {, O} {elástico G} {-- O} {así A} {como C} {tendido G}	O		
+{con P} {ímpetu N} {veloz G} {en P} {las D} {ligeras G}	B	sirrem_adj_noun	pp02
+{ansias N} {conque C} {recorre V} {las D} {praderas N}	I	sirrem_adj_noun	pp02
+{se Q} {despierta V} {y C} {sacude V} {al P} {menor G} {ruido N} {. O}	O		
+{La D} {cenicienta N} {piel N} {, O} {aunque C} {se Q} {afana V}	B	enlace_od_verb	ld02
+{el D} {hueso N} {por P} {salir V} {con P} {raro G} {empeño N} {, O}	I	enlace_od_verb	ld02
+{finge N} {el D} {lustre N} {de P} {limpia G} {porcelana N} {. O}	O		
+{Súbito R} {tiembla V} {: O} {con P} {extraña G} {fiebre N} {; O}	O		
+{porque C} {ve V} {que C} {en P} {los D} {campos N} {del P} {ensueño N}	B	oracional	cp01
+{donde Q} {menos A} {se Q} {piensa V} {está V} {la D} {liebre N} {. O}	I	oracional	cp01

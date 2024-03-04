@@ -1,0 +1,14 @@
+{Silencio R} {y C} {soledad N} {Nada Q} {se Q} {mueve V}	B	sirrem_verb_adv	pp11
+{Apenas A} {, O} {a P} {lo D} {lejos A} {, O} {en P} {hilera N} {, O}	I	sirrem_verb_adv	pp11
+{las D} {vicuñas N} {con P} {rápida G} {carrera N}	B	enlace_subj_verb	ld01
+{pasan V} {, O} {a P} {modo N} {de P} {una D} {sombra N} {leve G}	I	enlace_subj_verb	ld01
+{¿ O} {Quién Q} {a P} {medir V} {esa D} {extensión N} {se Q} {atreve V} {? O}	O		
+{Sólo A} {la D} {desplegada G} {cordillera N} {, O}	O		
+{que Q} {s N} {encorva V} {después A} {, O} {a P} {la D} {manera N}	B	sirrem_noun_prep	pp06.1
+{de P} {un D} {colosal N} {paréntesis N} {de P} {nieve N}	I	sirrem_noun_prep	pp06.1
+{Vano R} {será V} {que C} {busque V} {la D} {mirada N}	O		
+{alegría N} {de P} {vívidos G} {colores N} {, O}	O		
+{en P} {la D} {tristeza N} {de P} {la D} {puna N} {helada G} {: O}	O		
+{sin P} {mariposas N} {, O} {pájaros N} {, O} {ni C} {flores N} {, O}	O		
+{es V} {una D} {inmensidad N} {deshabitada G} {, O}	O		
+{como C} {si C} {fuese V} {un D} {alma N} {sin P} {amores N} {. O}	O		

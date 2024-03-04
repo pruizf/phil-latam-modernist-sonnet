@@ -1,0 +1,14 @@
+{¡ O} {Llena G} {eres V} {de P} {gracia N} {, O} {madre N} {Naturaleza R} {! O}	O		
+{Tú Q} {pones V} {en P} {mis D} {ojos N} {este D} {Edén R} {no A} {perdido G} {; O}	O		
+{tú Q} {pones N} {las D} {más A} {hondas G} {palabras N} {en P} {mi D} {oído N} {: O}	O		
+{tú Q} {pones N} {el D} {más A} {alto G} {laurel N} {en P} {mi D} {cabeza N}	O		
+{Y C} {desde P} {que C} {en P} {ti Q} {acaba V} {todo D} {lo D} {que Q} {en P} {mí Q} {empieza V} {, O}	O		
+{te Q} {hago V} {saber V} {ahora A} {lo D} {que Q} {de P} {ti Q} {he V} {aprendido V} {: O}	O		
+{sólo A} {por P} {ti Q} {mi D} {verso N} {tiene V} {este D} {buen G} {sentido N}	B	sirrem_noun_prep	pp05
+{de P} {la D} {melancolía N} {bajo P} {la D} {fortaleza N}	I	sirrem_noun_prep	pp05
+{Naturaleza R} {madre N} {: O} {todo Q} {mi D} {amor N} {es V} {tuyo Q}	O		
+{En P} {los D} {cañaverales N} {soy V} {un D} {vivaz N} {cocuyo G} {, O}	O		
+{que Q} {horada V} {la D} {espesura N} {con P} {un D} {furor N} {cruel G}	O		
+{Y C} {en P} {las D} {palmeras N} {sueño N} {con P} {la D} {triunfal G} {entrada N}	O		
+{en P} {el D} {corazón N} {mismo G} {de P} {la D} {mujer N} {amada G}	B	sirrem_noun_prep	pp05
+{de P} {besos N} {tropicales G} {más A} {dulces G} {que C} {la D} {miel N}	I	sirrem_noun_prep	pp05

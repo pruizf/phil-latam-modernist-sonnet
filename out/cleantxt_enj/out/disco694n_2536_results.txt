@@ -1,0 +1,14 @@
+{Colombia R} {es V} {una D} {tierra N} {de P} {leones N} {; O}	O		
+{el D} {esplendor N} {del P} {cielo N} {es V} {su D} {oriflama N} {; O}	O		
+{tiene V} {un D} {trueno N} {perenne G} {: O} {el D} {Tequendama R} {, O}	O		
+{y C} {un D} {Olimpo R} {divino G} {: O} {sus D} {canciones N} {. O}	O		
+{Siempre A} {serán V} {soberbios N} {tus D} {pendones N} {, O}	O		
+{bajo P} {la D} {aureola N} {que Q} {a P} {la D} {gloria N} {inflama G} {; O}	O		
+{siempre A} {será V} {la D} {tierra N} {que Q} {derrama V}	B	enlace_od_verb	ld02
+{la D} {savia N} {de P} {los D} {grandes G} {corazones N} {. O}	I	enlace_od_verb	ld02
+{En P} {sus D} {historias N} {nobles G} {y C} {triunfales G}	O		
+{resplandecen V} {egregios N} {paladines G} {, O}	O		
+{coronados G} {de P} {lauros N} {fraternales G} {. O}	O		
+{Y C} {se Q} {oyen V} {en P} {sus D} {campos N} {y C} {confines N}	B	enlace_subj_verb	ld01
+{Boyacá R} {y C} {sus D} {tambores N} {inmortales G} {, O}	I	enlace_subj_verb	ld01
+{y C} {el D} {Santuario R} {y C} {sus D} {épicos N} {clarines G} {. O}	O		

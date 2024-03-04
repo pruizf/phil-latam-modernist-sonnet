@@ -1,0 +1,14 @@
+{Mientras C t1} {el D t2} {brillo N t3} {de P t4} {tu D t5} {gloria N t6} {augura G t7}
+{ser V t8} {en P t9} {la D t10} {eternidad N t11} {sol N t12} {sin P t13} {poniente A t14} {, O t15}
+{fénix N t16} {de P t17} {viva G t18} {luz N t19} {, O t20} {fénix G t21} {ardiente A t22} {, O t23}
+{diamante N t24} {parangón G t25} {de P t26} {la D t27} {pintura N t28} {, O t29}
+{de P t30} {España R t31} {está V t32} {sobre P t33} {la D t34} {veste N t35} {obscura G t36}
+{tu D t37} {nombre N t38} {, O t39} {como C t40} {joya N t41} {reluciente G t42} {; O t43}
+{rompe V t44} {la D t45} {Envidia R t46} {el D t47} {fatigado G t48} {diente A t49} {, O t50}
+{y C t51} {el D t52} {Olvido R t53} {lamenta V t54} {su D t55} {amargura N t56} {. O t57}
+{Yo Q t58} {en P t59} {equívoco G t60} {altar N t61} {, O t62} {tú Q t63} {en P t64} {sacro G t65} {fuego N t66} {, O t67}
+{miro V t68} {a P t69} {través N t70} {de P t71} {mi D t72} {penumbra N t73} {el D t74} {día N t75}
+{en P t76} {que Q t77} {al P t78} {calor N t79} {de P t80} {tu D t81} {amistad N t82} {, O t83} {Don R t84} {Diego R t85} {, O t86}
+{jugando V t87} {de P t88} {la D t89} {luz N t90} {con P t91} {la D t92} {armonía N t93} {, O t94}
+{con P t95} {la D t96} {alma N t97} {luz N t98} {, O t99} {de P t100} {tu D t101} {pincel N t102} {el D t103} {juego N t104}
+{el D t105} {alma N t106} {duplicó V t107} {de P t108} {la D t109} {faz N t110} {mía Q t111} {. O t112}

@@ -1,0 +1,14 @@
+{Hablaba V t1} {de P t2} {la D t3} {muerte N t4} {y C t5} {la Q t6} {sentía V t7}
+{como C t8} {un D t9} {temblor N t10} {de P t11} {vida N t12} {demorada G t13} {, O t14}
+{como C t15} {una D t16} {soledad N t17} {arrebujada G t18}
+{en P t19} {el D t20} {fondo N t21} {de P t22} {cada D t23} {compañía N t24} {. O t25}
+{La D t26} {imaginaba V t27} {en P t28} {todo D t29} {lo D t30} {que Q t31} {hacía V t32}
+{retroceder V t33} {la D t34} {luz N t35} {o C t36} {la D t37} {mirada N t38} {, O t39}
+{buscando V t40} {en P t41} {la D t42} {palabra N t43} {silenciada G t44}
+{el D t45} {eco N t46} {de P t47} {la D t48} {voz N t49} {que Q t50} {disolvía V t51}
+{Hoy A t52} {que C t53} {tengo V t54} {una D t55} {muerte N t56} {que Q t57} {me Q t58} {vive V t59}
+{sé V t60} {que C t61} {toda D t62} {la D t63} {suerte N t64} {que Q t65} {se Q t66} {escribe V t67}
+{por P t68} {la D t69} {ruta N t70} {del P t71} {canto N t72} {se Q t73} {desvía V t74}
+{Sólo A t75} {el D t76} {hondo G t77} {silencio N t78} {que Q t79} {no A t80} {expreso G t81}
+{lleva V t82} {el D t83} {caudal N t84} {de P t85} {mi D t86} {dolor N t87} {y C t88} {el D t89} {peso N t90} {, O t91}
+{porque C t92} {es V t93} {dolor N t94} {cuanto A t95} {era V t96} {poesía N t97}

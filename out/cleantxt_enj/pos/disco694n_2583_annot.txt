@@ -1,0 +1,14 @@
+{Sobre P t1} {el D t2} {caro G t3} {despojo N t4} {esta D t5} {urna N t6} {cincelo N t7} {: O t8}
+{un D t9} {amable G t10} {frescor N t11} {de P t12} {inmortal G t13} {siempreviva G t14}
+{que Q t15} {decore V t16} {la D t17} {greca N t18} {de P t19} {la D t20} {urna N t21} {votiva G t22}
+{en P t23} {la D t24} {copa N t25} {que Q t26} {guarda V t27} {rocío N t28} {del P t29} {cielo N t30} {; O t31}
+{una D t32} {alondra N t33} {fugaz G t34} {sorprendida G t35} {en P t36} {su D t37} {vuelo N t38}
+{cuando C t39} {fuese V t40} {a P t41} {cantar V t42} {en P t43} {la D t44} {rama N t45} {de P t46} {oliva N t47} {, O t48}
+{una D t49} {estatua N t50} {de P t51} {Diana R t52} {en P t53} {la D t54} {selva N t55} {nativa G t56}
+{que Q t57} {la D t58} {Musa R t59} {Armonía R t60} {envolviera V t61} {en P t62} {su D t63} {velo N t64} {. O t65}
+{Tal Q t66} {si C t67} {fuese V t68} {escultor N t69} {con P t70} {amor N t71} {cincelara V t72}
+{en P t73} {el D t74} {mármol N t75} {divino G t76} {que Q t77} {me Q t78} {brinda V t79} {Carrara R t80} {, O t81}
+{coronando V t82} {la D t83} {obra N t84} {una D t85} {lira N t86} {, O t87} {una D t88} {cruz N t89} {; O t90}
+{y C t91} {sería V t92} {mi D t93} {sueño N t94} {, O t95} {al P t96} {nacer V t97} {de P t98} {la D t99} {aurora N t100} {, O t101}
+{contemplar V t102} {en P t103} {la D t104} {faz N t105} {de P t106} {una D t107} {niña N t108} {que Q t109} {llora V t110}
+{una D t111} {lágrima N t112} {llena G t113} {de P t114} {amor N t115} {y C t116} {de P t117} {luz N t118} {. O t119}

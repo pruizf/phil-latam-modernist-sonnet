@@ -1,0 +1,14 @@
+{Joven R} {, O} {te Q} {ofrezco V} {el D} {don N} {de P} {esta D} {copa N} {de P} {plata N}	O		
+{para P} {que C} {un D} {día N} {puedas N} {colmar V} {la D} {sed N} {ardiente A} {, O}	O		
+{la D} {sed N} {que Q} {con P} {su D} {fuego N} {más A} {que C} {la D} {muerte N} {mata V} {. O}	O		
+{Mas R} {debes V} {abrevarte V} {tan A} {sólo A} {en P} {una D} {fuente N} {, O}	O		
+{otra D} {agua N} {que Q} {la Q} {suya Q} {tendrá V} {que C} {serte V} {ingrata G} {, O}	O		
+{busca V} {su D} {oculto G} {origen N} {en P} {la D} {gruta N} {viviente G}	B	oracional	cp01
+{donde Q} {la D} {interna G} {música N} {de P} {su D} {cristal N} {desata G} {, O}	I	oracional	cp01
+{junto G} {al P} {árbol N} {que Q} {llora V} {y C} {la D} {roca N} {que Q} {siente V} {. O}	O		
+{Guíete V} {el D} {misterioso G} {eco N} {de P} {su D} {murmullo N} {, O}	O		
+{asciende V} {por P} {los D} {riscos N} {ásperos G} {del P} {orgullo N} {, O}	O		
+{baja N} {por P} {la D} {constancia N} {y C} {desciende V} {al P} {abismo N}	B	oracional	cp01
+{cuya Q} {entrada N} {sombría V} {guardan V} {siete D} {panteras N} {: O}	I	oracional	cp01
+{son V} {los D} {Siete D} {Pecados R} {las D} {siete D} {bestias N} {fieras G} {. O}	O		
+{Llena V} {la D} {copa N} {y C} {bebe N} {: O} {la D} {fuente N} {está V} {en P} {ti Q} {mismo G} {, O}	O		

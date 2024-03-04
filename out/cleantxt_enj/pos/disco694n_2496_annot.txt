@@ -1,0 +1,14 @@
+{En P t1} {medio D t2} {del P t3} {abismo N t4} {de P t5} {la D t6} {duda N t7}
+{lleno G t8} {de P t9} {oscuridad N t10} {, O t11} {de P t12} {sombra N t13} {vana G t14}
+{hay V t15} {una D t16} {estrella N t17} {que Q t18} {reflejos N t19} {mana N t20}
+{sublime V t21} {, O t22} {sí A t23} {, O t24} {mas A t25} {silenciosa G t26} {, O t27} {muda G t28} {. O t29}
+{Ella Q t30} {, O t31} {con P t32} {su D t33} {fulgor N t34} {divino G t35} {, O t36} {escuda N t37} {, O t38}
+{alienta N t39} {y C t40} {guía N t41} {a P t42} {la D t43} {conciencia N t44} {humana G t45} {, O t46}
+{cuando C t47} {el D t48} {genio N t49} {del P t50} {mal N t51} {con P t52} {furia N t53} {insana G t54}
+{golpéala G t55} {feroz G t56} {, O t57} {con P t58} {mano N t59} {ruda G t60} {. O t61}
+{¿ O t62} {Esa D t63} {estrella N t64} {brotó V t65} {del P t66} {germen N t67} {puro G t68}
+{de P t69} {la D t70} {humana G t71} {creación N t72} {? O t73} {¿ O t74} {Bajó V t75} {del P t76} {cielo N t77}
+{a P t78} {iluminar V t79} {el D t80} {porvenir N t81} {oscuro G t82} {? O t83}
+{¿ O t84} {A P t85} {servir V t86} {al P t87} {que Q t88} {llora V t89} {de P t90} {consuelo N t91} {? O t92}
+{No A t93} {sé V t94} {, O t95} {mas A t96} {eso Q t97} {que C t98} {a P t99} {nuestra D t100} {alma N t101} {inflama V t102}
+{ya A t103} {sabéis V t104} {, O t105} {ya A t106} {sabéis N t107} {, O t108} {la D t109} {Fe N t110} {se Q t111} {llama V t112} {. O t113}

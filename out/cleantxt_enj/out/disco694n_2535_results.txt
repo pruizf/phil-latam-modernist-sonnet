@@ -1,0 +1,14 @@
+{Te Q} {he V} {visto V} {en P} {algún D} {cuadro N} {florentino G} {; O}	O		
+{has V} {sido V} {tú Q} {escultor N} {, O} {pintor N} {, O} {poeta N} {: O}	O		
+{espíritu N} {que Q} {canta V} {o C} {que C} {interpreta V} {; O}	O		
+{bohemio N} {humano G} {, O} {pensador N} {divino G} {. O}	O		
+{Nos Q} {hemos V} {encontrado V} {en P} {el D} {camino N} {, O}	O		
+{y C} {hoy A} {te Q} {pinta V} {mi D} {pluma N} {, O} {harto G} {indiscreta G} {, O}	O		
+{sin P} {poner V} {más A} {color N} {en P} {su D} {paleta N}	O		
+{que C} {el D} {que Q} {a P} {la D} {gloria N} {tuya G} {ha V} {dado V} {el D} {sino N} {. O}	O		
+{La D} {gloria N} {tuya G} {, O} {con P} {sus D} {alas N} {de P} {oro N} {, O}	O		
+{empieza V} {en P} {tu D} {florida G} {primavera N}	B	enlace_od_verb	ld02
+{a P} {ofrecerte N} {de P} {aplausos N} {bello G} {coro N} {; O}	I	enlace_od_verb	ld02
+{y C} {tú Q} {, O} {batallador N} {en P} {tu D} {trinchera N} {, O}	O		
+{triunfante G} {suenas G} {tu D} {clarín N} {sonoro G}	B	sirrem_adj_prep	pd02
+{con P} {mengua N} {de P} {la D} {envidia N} {torpe G} {, O} {artera N} {. O}	I	sirrem_adj_prep	pd02

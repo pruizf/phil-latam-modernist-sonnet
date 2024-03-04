@@ -1,0 +1,14 @@
+{Viste V} {de P} {seda N} {: O} {alhajes N} {de P} {gran G} {tono N} {; O}	O		
+{pechera G} {en P} {que C} {el D} {encaje N} {hace V} {una D} {ola N} {, O}	O		
+{y C} {bajo P} {el D} {cinto N} {, O} {un D} {mango N} {de P} {pistola N} {, O}	O		
+{que Q} {él Q} {aprieta V} {entre P} {el D} {puño N} {de P} {su D} {encono N} {. O}	O		
+{Piramidal P} {sombrero N} {, O} {esbelto G} {cono N} {, O}	O		
+{es V} {distintivo N} {en P} {su D} {figura N} {sola G} {, O}	O		
+{que Q} {en P} {el D} {bridón N} {de P} {enjaezada G} {cola N}	B	enlace_subj_verb	ld01
+{no A} {cambiaría V} {su D} {silla N} {por P} {un D} {trono N}	I	enlace_subj_verb	ld01
+{Siéntase R} {a P} {firme G} {; O} {el D} {látigo N} {chasquea V} {; O}	O		
+{restriega N} {el D} {bruto G} {su D} {chispeante G} {callo N} {, O}	O		
+{y C} {vigorosamente A} {se Q} {pasea V} {. O}	O		
+{Dudase V} {al P} {ver V} {la D} {olímpica G} {figura N}	B	enlace_od_verb	ld02
+{si C} {es V} {el D} {triunfo N} {de P} {un D} {hombre N} {en P} {su D} {caballo N}	I	enlace_od_verb	ld02
+{o C} {si C} {es V} {la D} {animación N} {de P} {una D} {escultura N}	O		

@@ -1,0 +1,14 @@
+{¿ O t1} {Recuerdas N t2} {que Q t3} {querías N t4} {ser V t5} {una D t6} {Margarita R t7}
+{Gautier R t8} {? O t9} {Fijo R t10} {en P t11} {mi D t12} {mente N t13} {tu D t14} {extraño G t15} {rostro N t16} {está V t17} {, O t18}
+{cuando C t19} {cenamos V t20} {juntos G t21} {, O t22} {en P t23} {la D t24} {primera G t25} {cita N t26} {, O t27}
+{en P t28} {una D t29} {noche N t30} {alegre G t31} {que Q t32} {nunca A t33} {volverá V t34} {. O t35}
+{Tus N t36} {labios N t37} {escarlatas N t38} {de P t39} {púrpura N t40} {maldita G t41}
+{sorbían V t42} {el D t43} {champafia N t44} {del P t45} {fino G t46} {baccarat N t47} {; O t48}
+{tus D t49} {dedos N t50} {deshojaban V t51} {la D t52} {blanca G t53} {margarita N t54} {, O t55}
+{" O t56} {Sí A t57} {... O t58} {no A t59} {... O t60} {sí A t61} {... O t62} {no A t63} {... O t64} {" O t65} {y C t66} {sabías N t67} {que Q t68} {te Q t69} {adoraba V t70} {ya A t71} {! O t72}
+{Después A t73} {, O t74} {¡ O t75} {oh O t76} {flor N t77} {de P t78} {Histeria R t79} {! O t80} {, O t81} {llorabas N t82} {y C t83} {reías N t84} {; O t85}
+{tus D t86} {besos N t87} {y C t88} {tus D t89} {lágrimas N t90} {tuve V t91} {en P t92} {mi D t93} {boca N t94} {yo Q t95} {; O t96}
+{tus D t97} {risas N t98} {, O t99} {tus D t100} {fragancias N t101} {, O t102} {tus D t103} {quejas N t104} {, O t105} {eran V t106} {mías N t107} {. O t108}
+{Y C t109} {en P t110} {una D t111} {tarde N t112} {triste G t113} {de P t114} {los D t115} {más A t116} {dulces G t117} {días N t118} {, O t119}
+{la D t120} {Muerte R t121} {, O t122} {la D t123} {celosa G t124} {, O t125} {por P t126} {ver V t127} {si C t128} {me Q t129} {querías N t130} {, O t131}
+{como C t132} {a P t133} {una D t134} {margarita N t135} {de P t136} {amor N t137} {, O t138} {te Q t139} {deshojó V t140} {! O t141}

@@ -1,0 +1,14 @@
+{¿ O} {Recuerdas N} {que Q} {querías N} {ser V} {una D} {Margarita R}	O		
+{Gautier R} {? O} {Fijo R} {en P} {mi D} {mente N} {tu D} {extraño G} {rostro N} {está V} {, O}	O		
+{cuando C} {cenamos V} {juntos G} {, O} {en P} {la D} {primera G} {cita N} {, O}	O		
+{en P} {una D} {noche N} {alegre G} {que Q} {nunca A} {volverá V} {. O}	O		
+{Tus N} {labios N} {escarlatas N} {de P} {púrpura N} {maldita G}	B	enlace_subj_verb	ld01
+{sorbían V} {el D} {champafia N} {del P} {fino G} {baccarat N} {; O}	I	enlace_subj_verb	ld01
+{tus D} {dedos N} {deshojaban V} {la D} {blanca G} {margarita N} {, O}	O		
+{" O} {Sí A} {... O} {no A} {... O} {sí A} {... O} {no A} {... O} {" O} {y C} {sabías N} {que Q} {te Q} {adoraba V} {ya A} {! O}	O		
+{Después A} {, O} {¡ O} {oh O} {flor N} {de P} {Histeria R} {! O} {, O} {llorabas N} {y C} {reías N} {; O}	O		
+{tus D} {besos N} {y C} {tus D} {lágrimas N} {tuve V} {en P} {mi D} {boca N} {yo Q} {; O}	O		
+{tus D} {risas N} {, O} {tus D} {fragancias N} {, O} {tus D} {quejas N} {, O} {eran V} {mías N} {. O}	O		
+{Y C} {en P} {una D} {tarde N} {triste G} {de P} {los D} {más A} {dulces G} {días N} {, O}	O		
+{la D} {Muerte R} {, O} {la D} {celosa G} {, O} {por P} {ver V} {si C} {me Q} {querías N} {, O}	O		
+{como C} {a P} {una D} {margarita N} {de P} {amor N} {, O} {te Q} {deshojó V} {! O}	O		

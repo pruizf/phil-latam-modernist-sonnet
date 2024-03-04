@@ -1,0 +1,14 @@
+{La D} {dulzura N} {del P} {ángelus N} {matinal G} {y C} {divino G}	B	oracional	cp01
+{que Q} {diluyen V} {ingenuas G} {campanas N} {provinciales G} {, O}	I	oracional	cp01
+{en P} {un D} {aire N} {inocente G} {a P} {fuerza N} {de P} {rosales N} {, O}	O		
+{de P} {plegarias N} {, O} {de P} {ensueños N} {de P} {virgen N} {, O} {y C} {de P} {trino N}	B	sirrem_noun_prep	pp06.1
+{de P} {ruiseñor N} {, O} {opuesto G} {todo Q} {al P} {rudo N} {destino N}	IB	sirrem_noun_prep;oracional	pp06.1;cp01
+{que Q} {no A} {cree V} {en P} {Dios R} {... O} {El D} {áureo N} {ovillo G} {vespertino G}	IB	oracional;enlace_subj_verb	cp01;ld01
+{que C} {la D} {tarde N} {devana G} {tras P} {opacos D} {cristales N}	IB	enlace_subj_verb;sirrem_noun_prep	ld01;pd02
+{por P} {tejer V} {la D} {inconsútil G} {tela N} {de P} {nuestros D} {males N}	I	sirrem_noun_prep	pd02
+{todos D} {hechos N} {de P} {carne N} {y C} {aromados N} {de P} {vino N} {... O}	O		
+{Y C} {esta D} {atroz G} {amargura N} {de P} {no A} {gustar V} {de P} {nada Q} {, O}	O		
+{de P} {no A} {saber V} {adónde Q} {dirigir V} {nuestra D} {prora N} {, O}	O		
+{mientras C} {el D} {pobre N} {esquife N} {en P} {la D} {noche N} {cerrada G}	B	enlace_subj_verb	ld01
+{va V} {en P} {las D} {hostiles G} {olas N} {huérfano N} {de P} {la D} {aurora N} {... O}	I	enlace_subj_verb	ld01
+{¡ O} {Oh O} {suaves G} {campanadas G} {entre P} {la D} {madrugada N} {! O}	O		

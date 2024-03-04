@@ -1,0 +1,14 @@
+{El D} {capitán N} {osado G} {navega V} {en P} {la D} {insegura G}	B	sirrem_adj_noun	pp02
+{noche N} {del P} {mar N} {Su D} {barco N} {, O} {de P} {crujidora N} {quilla G} {, O}	I	sirrem_adj_noun	pp02
+{que Q} {ve V} {, O} {de P} {pronto A} {, O} {abierta G} {la D} {trágica G} {cuchilla N}	B	sirrem_noun_prep	pp05
+{de P} {un D} {monte N} {en P} {dos D} {partido N} {, O} {por P} {ella Q} {se Q} {aventura N}	I	sirrem_noun_prep	pp05
+{Las D} {velas N} {se Q} {desgarran V} {y C} {hay V} {vientos N} {de P} {locura N} {; O}	O		
+{allá A} {, O} {hacia P} {un D} {lado N} {, O} {a P} {veces N} {, O} {una D} {fogata N} {brilla G} {; O}	O		
+{y C} {enronquecidos N} {lobos G} {, O} {desde P} {una D} {y C} {otra D} {orilla N} {, O}	O		
+{hacen V} {sonar V} {sus D} {gritos N} {sobre P} {la D} {noche N} {oscura G} {. O}	O		
+{Las D} {olas N} {ladran V} {, O} {ladran V} {en P} {los D} {abruptos N} {flancos G} {; O}	O		
+{y C} {envueltas N} {en P} {espumas N} {, O} {parecen V} {perros N} {blancos G}	B	sirrem_adj_prep	pd02
+{contra P} {los D} {lobos N} {negros G} {en P} {las D} {riberas N} {solas G}	I	sirrem_adj_prep	pd02
+{Y C} {el D} {barco N} {sigue V} {, O} {sigue V} {y C} {al P} {proseguir V} {de P} {frente A} {, O}	O		
+{como C} {iban V} {separándose V} {ante P} {Moisés R} {las D} {olas N} {, O}	O		
+{se Q} {van V} {también A} {abriendo V} {las D} {tierras N} {, O} {lentamente A} {. O}	O		

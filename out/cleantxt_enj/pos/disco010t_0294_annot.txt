@@ -1,0 +1,14 @@
+{Para P t1} {beber V t2} {inspiración N t3} {, O t4} {me Q t5} {afano V t6}
+{por P t7} {merecer V t8} {la D t9} {copa N t10} {de P t11} {diamante N t12}
+{que Q t13} {escancian V t14} {Hebe R t15} {a P t16} {Júpiter R t17} {Tonante P t18}
+{entre P t19} {las D t20} {pompas N t21} {del P t22} {festín N t23} {pagano G t24} {. O t25}
+{Mas R t26} {¡ O t27} {ah O t28} {! O t29} {tampoco A t30} {me Q t31} {recuerdo V t32} {en P t33} {vano G t34}
+{de P t35} {la D t36} {Samaritana R t37} {, O t38} {que Q t39} {anhelante Q t40}
+{se Q t41} {inclina V t42} {, O t43} {con P t44} {el D t45} {ánfora N t46} {delante A t47} {, O t48}
+{sobre P t49} {la D t50} {frente N t51} {del P t52} {amor N t53} {cristiano G t54} {... O t55}
+{Hebe R t56} {triunfa V t57} {en P t58} {el D t59} {fúlgido G t60} {concierto N t61} {; O t62}
+{y C t63} {la D t64} {Samaritana R t65} {halla V t66} {ventura N t67}
+{en P t68} {mitigar V t69} {las D t70} {ansias N t71} {del P t72} {desierto N t73} {. O t74}
+{Así A t75} {mi D t76} {numen V t77} {escanciar V t78} {desea V t79} {, O t80}
+{más A t81} {que C t82} {la D t83} {copa N t84} {de P t85} {la D t86} {Forma R t87} {pura G t88} {, O t89}
+{el D t90} {ánfora N t91} {profunda G t92} {de P t93} {la D t94} {Idea R t95} {. O t96}

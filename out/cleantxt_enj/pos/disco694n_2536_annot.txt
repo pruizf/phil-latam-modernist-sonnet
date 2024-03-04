@@ -1,0 +1,14 @@
+{Colombia R t1} {es V t2} {una D t3} {tierra N t4} {de P t5} {leones N t6} {; O t7}
+{el D t8} {esplendor N t9} {del P t10} {cielo N t11} {es V t12} {su D t13} {oriflama N t14} {; O t15}
+{tiene V t16} {un D t17} {trueno N t18} {perenne G t19} {: O t20} {el D t21} {Tequendama R t22} {, O t23}
+{y C t24} {un D t25} {Olimpo R t26} {divino G t27} {: O t28} {sus D t29} {canciones N t30} {. O t31}
+{Siempre A t32} {serán V t33} {soberbios N t34} {tus D t35} {pendones N t36} {, O t37}
+{bajo P t38} {la D t39} {aureola N t40} {que Q t41} {a P t42} {la D t43} {gloria N t44} {inflama G t45} {; O t46}
+{siempre A t47} {será V t48} {la D t49} {tierra N t50} {que Q t51} {derrama V t52}
+{la D t53} {savia N t54} {de P t55} {los D t56} {grandes G t57} {corazones N t58} {. O t59}
+{En P t60} {sus D t61} {historias N t62} {nobles G t63} {y C t64} {triunfales G t65}
+{resplandecen V t66} {egregios N t67} {paladines G t68} {, O t69}
+{coronados G t70} {de P t71} {lauros N t72} {fraternales G t73} {. O t74}
+{Y C t75} {se Q t76} {oyen V t77} {en P t78} {sus D t79} {campos N t80} {y C t81} {confines N t82}
+{Boyacá R t83} {y C t84} {sus D t85} {tambores N t86} {inmortales G t87} {, O t88}
+{y C t89} {el D t90} {Santuario R t91} {y C t92} {sus D t93} {épicos N t94} {clarines G t95} {. O t96}

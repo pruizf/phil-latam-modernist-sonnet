@@ -1,0 +1,14 @@
+{Si C} {falta V} {libertad N} {, O} {sobra V} {la D} {vida N} {... O}	O		
+{Pensándolo R} {quizás A} {el D} {vil N} {tirano G} {, O}	O		
+{vuelve V} {a P} {ponerme V} {el D} {hierro N} {entre P} {las D} {manos N}	O		
+{y C} {renueva V} {la D} {lucha N} {concluida G} {... O}	O		
+{Pensándolo R} {también A} {, O} {rota V} {la D} {brida N} {, O}	O		
+{pábulo N} {doy V} {a P} {mi D} {furor N} {insano G} {: O}	O		
+{¡ O} {jamás A} {el D} {que Q} {me Q} {hirió V} {pretenda V} {en P} {vano G}	O		
+{halagarme C} {curándome V} {la D} {herida N} {. O}	O		
+{Por P} {eso Q} {en P} {la D} {prisión N} {el D} {verso N} {zumba V}	B	enlace_subj_verb	ld01
+{pidiendo V} {sólo A} {libertad N} {o C} {entierro N} {; O}	I	enlace_subj_verb	ld01
+{que C} {una D} {puerta N} {también A} {se Q} {abre V} {en P} {la D} {tumba N} {... O}	O		
+{Y C} {muerte N} {pido V} {en P} {dolorosa G} {queja N} {; O}	O		
+{porque C} {me Q} {aflige V} {contemplar V} {el D} {hierro N} {, O}	O		
+{de P} {arma N} {de P} {honor N} {, O} {prostituido G} {en P} {reja N} {... O}	O		

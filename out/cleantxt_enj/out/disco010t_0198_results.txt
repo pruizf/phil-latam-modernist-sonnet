@@ -1,0 +1,14 @@
+{Ese Q} {, O} {Pizarro R} {: O} {el D} {de P} {la D} {frente N} {erguida G}	O		
+{Ese Q} {, O} {Cortés R} {: O} {el D} {del P} {caballo N} {undoso G}	O		
+{Pasa R} {Alvarado R} {en P} {su D} {corcel N} {nervioso G} {; O}	O		
+{Valdivia R} {lleva V} {el D} {suyo Q} {de P} {la D} {brida N} {. O}	O		
+{¿ O} {Y C} {ése Q} {? O} {¿ O} {Y C} {aquél Q} {? O} {En P} {púrpura N} {encendida G}	O		
+{envueltos G} {van V} {bregando V} {sin P} {reposo N} {, O}	O		
+{a P} {manera N} {del P} {grupo N} {luminoso G}	B	sirrem_noun_prep	pp05
+{de P} {los D} {conquistadores N} {de P} {la D} {vida N}	IB	sirrem_noun_prep;sirrem_adj_noun	pp05;pp02
+{Cuajado G} {en P} {oro N} {el D} {puño N} {del P} {cuchillo N} {, O}	I	sirrem_adj_noun	pp02
+{la D} {coraza N} {, O} {cubierta N} {de P} {fulgores N} {; O}	O		
+{pleno G} {de P} {sol N} {, O} {el D} {reluciente N} {casco N} {: O}	O		
+{pasando V} {van V} {, O} {con P} {el D} {temblor N} {de P} {un D} {brillo N} {, O}	O		
+{cual Q} {si C} {fuesen V} {bordados V} {en P} {colores N}	B	sirrem_noun_prep	pd02
+{sobre P} {grandes G} {tapices N} {de P} {Damasco R}	I	sirrem_noun_prep	pd02

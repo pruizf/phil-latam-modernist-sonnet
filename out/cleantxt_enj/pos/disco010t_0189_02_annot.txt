@@ -1,0 +1,14 @@
+{Homero N t1} {está V t2} {tranquilo G t3} {: O t4} {sus D t5} {épicas G t6} {canciones N t7}
+{tienen V t8} {relampagueos N t9} {, O t10} {vértigos N t11} {y C t12} {explosiones N t13} {; O t14}
+{pero C t15} {él Q t16} {está V t17} {tranquilo G t18} {, O t19} {como C t20} {gimnasta V t21} {raro G t22}
+{que C t23} {sin P t24} {quemarse V t25} {pasa V t26} {por P t27} {entre P t28} {el D t29} {ígneo N t30} {aro N t31} {. O t32}
+{El D t33} {Dante R t34} {está V t35} {sereno N t36} {: O t37} {canta V t38} {obscuras G t39} {regiones N t40}
+{de P t41} {tormentos N t42} {rebeldes G t43} {y C t44} {sórdidas G t45} {pasiones N t46} {; O t47}
+{pero C t48} {él Q t49} {está V t50} {sereno N t51} {, O t52} {como C t53} {solemne G t54} {faro G t55}
+{Que C t56} {en P t57} {la D t58} {pavura N t59} {negra G t60} {pone V t61} {su D t62} {punto N t63} {claro G t64} {. O t65}
+{Shakespeare R t66} {y C t67} {Goethe R t68} {ahondan V t69} {dos D t70} {abismos N t71} {profundos G t72}
+{-- O t73} {corazón N t74} {y C t75} {cerebro N t76} {-- O t77} {donde Q t78} {se Q t79} {agitan V t80} {mundos N t81} {; O t82}
+{y C t83} {ni C t84} {el D t85} {de P t86} {Albión R t87} {se Q t88} {inquieta V t89} {, O t90} {ni C t91} {el D t92} {de P t93} {Weimar R t94} {vacila V t95} {... O t96}
+{¡ O t97} {Así A t98} {la D t99} {altiva G t100} {cumbre N t101} {, O t102} {del P t103} {hielo N t104} {de P t105} {su D t106} {frente N t107}
+{desata G t108} {, O t109} {como C t110} {el D t111} {genio N t112} {, O t113} {las D t114} {furias N t115} {de P t116} {un D t117} {torrente N t118} {; O t119}
+{pero C t120} {ella Q t121} {, O t122} {como C t123} {el D t124} {genio N t125} {, O t126} {también A t127} {está V t128} {tranquila G t129} {! O t130} {... O t131}

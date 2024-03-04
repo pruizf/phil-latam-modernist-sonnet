@@ -1,0 +1,14 @@
+{Pláceme V t1} {el D t2} {mismo D t3} {tiempo N t4} {los D t5} {frutos N t6} {y C t7} {las D t8} {flores N t9} {, O t10}
+{el D t11} {concentrado G t12} {jugo N t13} {, O t14} {la D t15} {perfumada G t16} {esencia N t17} {; O t18}
+{y C t19} {en P t20} {mi D t21} {canción N t22} {, O t23} {por P t24} {eso Q t25} {, O t26} {de P t27} {múltiple G t28} {cadencia N t29} {, O t30}
+{están V t31} {todas D t32} {las D t33} {gracias N t34} {y C t35} {todos D t36} {los D t37} {vigores N t38} {. O t39}
+{Me Q t40} {han V t41} {dado V t42} {los D t43} {virreyes N t44} {sus D t45} {líricos N t46} {primores G t47}
+{y C t48} {los D t49} {conquistadores N t50} {su D t51} {augusta G t52} {refulgencia N t53} {; O t54}
+{y C t55} {así A t56} {hay V t57} {de P t58} {verso N t59} {a P t60} {verso N t61} {la D t62} {heroica N t63} {diferencia V t64}
+{que C t65} {hubo V t66} {de P t67} {los D t68} {virreyes N t69} {a P t70} {los D t71} {conquistadores N t72}
+{Confieso V t73} {que C t74} {, O t75} {aunque C t76} {yo Q t77} {amo V t78} {las D t79} {pompas N t80} {coloniales G t81} {, O t82}
+{a P t83} {las D t84} {más A t85} {finas G t86} {cuerdas N t87} {prefiero V t88} {los D t89} {metales N t90} {: O t91}
+{tal Q t92} {doy V t93} {con P t94} {mis D t95} {clarines N t96} {imperativas G t97} {dianas N t98} {; O t99}
+{y C t100} {, O t101} {entonces A t102} {, O t103} {sacrifico G t104} {mis D t105} {bellas G t106} {baratijas N t107} {, O t108}
+{como C t109} {los D t110} {viejos N t111} {nobles G t112} {que Q t113} {echaban V t114} {sus D t115} {sortijas N t116}
+{al P t117} {bronce N t118} {destinado G t119} {para P t120} {fundir V t121} {campanas N t122} {. O t123}

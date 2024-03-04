@@ -1,0 +1,14 @@
+{Estaba V t1} {ansioso G t2} {de P t3} {luchar V t4} {. O t5} {No A t6} {en P t7} {vano G t8}
+{se Q t9} {estremecía V t10} {la D t11} {vibrante G t12} {espada N t13}
+{por P t14} {cruzar V t15} {, O t16} {en P t17} {la D t18} {lid N t19} {, O t20} {desenvainada G t21} {, O t22}
+{cual Q t23} {voladora G t24} {sierpe V t25} {en P t26} {el D t27} {oceano N t28} {. O t29}
+{Más A t30} {noble G t31} {es V t32} {ser V t33} {torrente N t34} {que Q t35} {pantano G t36} {; O t37}
+{y C t38} {era V t39} {justo A t40} {oponer V t41} {en P t42} {lucha N t43} {airada G t44}
+{contra P t45} {la D t46} {oscuridad N t47} {una D t48} {mirada N t49}
+{y C t50} {un D t51} {amor N t52} {puro G t53} {contra P t54} {el D t55} {odio N t56} {humano G t57} {. O t58}
+{Palpitando R t59} {de P t60} {horror N t61} {, O t62} {con P t63} {ansias N t64} {sumas G t65} {, O t66}
+{mi D t67} {corazón N t68} {clavado G t69} {de P t70} {puñales N t71}
+{sería V t72} {un D t73} {ave N t74} {de P t75} {aceradas G t76} {plumas N t77} {... O t78}
+{¡ O t79} {Preciso V t80} {era V t81} {subir V t82} {! O t83} {Perdí V t84} {la D t85} {calma N t86} {; O t87}
+{y C t88} {me Q t89} {lancé V t90} {a P t91} {los D t92} {ásperos N t93} {breñales G t94} {: O t95}
+{¡ O t96} {cuando C t97} {a P t98} {lo D t99} {alto G t100} {llegué V t101} {, O t102} {sólo A t103} {era V t104} {un D t105} {alma N t106} {! O t107}

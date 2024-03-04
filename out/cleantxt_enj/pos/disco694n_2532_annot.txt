@@ -1,0 +1,14 @@
+{Después A t1} {del P t2} {holocausto N t3} {, O t4} {el D t5} {Inca R t6} {va V t7} {y C t8} {reposa V t9} {. O t10}
+{Sueña R t11} {. O t12} {Ve V t13} {al P t14} {dios N t15} {que Q t16} {pasa V t17} {. O t18} {Camina R t19} {junto G t20} {a P t21} {él Q t22}
+{la D t23} {luna N t24} {enamorada G t25} {, O t26} {gentil G t27} {, O t28} {pálida G t29} {esposa N t30} {. O t31}
+{Él Q t32} {es V t33} {ardiente G t34} {y C t35} {rubio G t36} {, O t37} {es V t38} {ella Q t39} {triste G t40} {y C t41} {fiel G t42} {. O t43}
+{El D t44} {soberano N t45} {lleva V t46} {manto N t47} {de P t48} {fuego N t49} {y C t50} {rosa N t51} {, O t52}
+{y C t53} {va V t54} {detrás A t55} {un D t56} {paje N t57} {tan A t58} {bello G t59} {como C t60} {Ariel R t61} {: O t62}
+{es V t63} {el D t64} {lucero N t65} {amado G t66} {de P t67} {la D t68} {mañana N t69} {hermosa G t70}
+{y C t71} {del P t72} {azul N t73} {profundo G t74} {magnífico G t75} {joyel N t76} {. O t77}
+{El D t78} {Ina R t79} {se Q t80} {estremece V t81} {cuando C t82} {el D t83} {cortejo N t84} {mira V t85} {. O t86}
+{Al P t87} {padre N t88} {Sol R t89} {bendice V t90} {, O t91} {su D t92} {majestad N t93} {admira V t94} {, O t95}
+{y C t96} {ve V t97} {un D t98} {fugaz G t99} {relámpago N t100} {del P t101} {cielo N t102} {en P t103} {el D t104} {confín N t105} {. O t106}
+{Un D t107} {eco N t108} {ronco G t109} {rueda V t110} {por P t111} {el D t112} {inmenso G t113} {espacio N t114} {: O t115}
+{el D t116} {padre N t117} {Sol R t118} {retorna V t119} {soberbio G t120} {a P t121} {su D t122} {palacio N t123} {; O t124}
+{Illapa R t125} {va V t126} {adelante A t127} {, O t128} {sonando V t129} {su D t130} {clarín N t131} {. O t132}

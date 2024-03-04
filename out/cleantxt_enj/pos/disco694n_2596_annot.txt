@@ -1,0 +1,14 @@
+{Andreve R t1} {, O t2} {el D t3} {alma N t4} {que Q t5} {se Q t6} {dulcifica V t7}
+{con P t8} {el D t9} {contacto N t10} {de P t11} {las D t12} {cosas N t13} {bellas G t14} {, O t15}
+{tiene V t16} {una D t17} {suave G t18} {irradiacin N t19} {de P t20} {estrellas N t21}
+{y C t22} {un D t23} {don N t24} {de P t25} {sol N t26} {que Q t27} {todo Q t28} {magnifica G t29} {. O t30}
+{La D t31} {idea N t32} {alumbra G t33} {y C t34} {la D t35} {palabra N t36} {explica V t37}
+{lo D t38} {que Q t39} {al P t40} {pensar V t41} {dan V t42} {las D t43} {Nuevas R t44} {Doncellas R t45} {; O t46}
+{se Q t47} {anuncia V t48} {amor N t49} {y C t50} {se Q t51} {borran V t52} {querellas N t53}
+{si C t54} {Eros R t55} {levanta V t56} {cátedra N t57} {y C t58} {explica V t59} {. O t60}
+{Amor R t61} {y C t62} {Sol R t63} {y C t64} {Amor R t65} {y C t66} {Sol R t67} {. O t68} {¡ O t69} {Que C t70} {al P t71} {viento N t72}
+{den V t73} {la D t74} {ilusin N t75} {para P t76} {la D t77} {dicha N t78} {humana G t79} {, O t80}
+{pues C t81} {al P t82} {viento N t83} {van V t84} {verbo N t85} {y C t86} {pensamiento N t87} {! O t88}
+{Y C t89} {luz N t90} {y C t91} {vida N t92} {para P t93} {el D t94} {alma N t95} {hermana N t96}
+{que Q t97} {hace V t98} {brotar V t99} {mi D t100} {puro G t101} {sentimiento N t102}
+{por P t103} {noble G t104} {, O t105} {pura G t106} {, O t107} {consecuente G t108} {y C t109} {sana G t110} {. O t111}

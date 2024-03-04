@@ -1,0 +1,14 @@
+{La D t1} {dulce G t2} {y C t3} {real G t4} {paloma N t5} {subió V t6} {a P t7} {la D t8} {guillotina N t9} {: O t10}
+{es V t11} {cabellera N t12} {cana G t13} {la D t14} {que Q t15} {opulenta V t16} {fue V t17} {; O t18}
+{el D t19} {cuello N t20} {de P t21} {azucena N t22} {, O t23} {feroz G t24} {verdugo N t25} {inclina G t26}
+{delante A t27} {el D t28} {pueblo N t29} {todo Q t30} {, O t31} {que C t32} {el D t33} {sacrificio N t34} {ve V t35} {. O t36}
+{¡ O t37} {Oh O t38} {María R t39} {Antonieta R t40} {! O t41} {¡ O t42} {Cuán Q t43} {otra D t44} {tu D t45} {divina G t46}
+{figura N t47} {en P t48} {los D t49} {graciosos G t50} {compases N t51} {del P t52} {minué N t53} {, O t54}
+{cuando C t55} {eras V t56} {una D t57} {diosa G t58} {de P t59} {mano N t60} {alabastrina G t61} {, O t62}
+{de P t63} {labios N t64} {encendidos G t65} {y C t66} {de P t67} {ligero G t68} {pie N t69} {! O t70}
+{El D t71} {misterioso G t72} {sino C t73} {la D t74} {majestad N t75} {humilla G t76} {, O t77}
+{¡ O t78} {oh O t79} {Clovis R t80} {, O t81} {oh N t82} {gran G t83} {Carlos R t84} {, O t85} {oh V t86} {huesos N t87} {de P t88} {San R t89} {Luis R t90} {! O t91}
+{La D t92} {tempestad N t93} {del P t94} {mundo N t95} {brotó V t96} {de P t97} {la D t98} {Bastilla R t99} {; O t100}
+{como C t101} {un D t102} {tropel N t103} {de P t104} {truenos N t105} {se Q t106} {despertó V t107} {en P t108} {París R t109} {. O t110}
+{Dios R t111} {deja V t112} {que C t113} {ese D t114} {cuello N t115} {lo Q t116} {siege V t117} {la D t118} {cuchilla N t119}
+{y C t120} {que C t121} {callosas G t122} {manos N t123} {ajen V t124} {la D t125} {flor N t126} {de P t127} {lis N t128} {. O t129}

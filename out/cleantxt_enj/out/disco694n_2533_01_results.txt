@@ -1,0 +1,14 @@
+{De P} {raso G} {azul N} {vestidas G} {están V} {las D} {bellas G} {damas N} {, O}	O		
+{entre P} {tapices N} {llenos G} {de P} {asuntos N} {de P} {Watteau R} {; O}	O		
+{la D} {reina N} {danza N} {alegre G} {, O} {sus D} {ojos N} {son V} {dos D} {llamas N} {; O}	O		
+{habrá V} {lirios N} {como C} {ella Q} {, O} {pero C} {más A} {blancos N} {, O} {no A} {. O}	O		
+{Para P} {ella Q} {el D} {mirto N} {brota V} {las D} {hojas N} {de P} {sus D} {ramas N} {; O}	O		
+{para P} {ella Q} {el D} {padre N} {Apolo R} {las D} {rimas N} {inventó V} {; O}	O		
+{para P} {ella Q} {son V} {hermanos N} {los D} {regios N} {oriflamas G} {, O}	O		
+{Versalles R} {y C} {el D} {Elíseo R} {, O} {Louvre R} {y C} {Fontainebleau R} {. O}	O		
+{Gentil R} {el D} {paso N} {mide V} {, O} {su D} {cuello N} {real G} {erguido G} {, O}	O		
+{sonriente A} {y C} {desdefíosa V} {su D} {linda N} {boca N} {en P} {flor N} {; O}	O		
+{paloma N} {de P} {alabastro N} {que Q} {tiene V} {de P} {oro N} {el D} {nido N} {, O}	O		
+{por P} {solo A} {afán N} {, O} {el D} {gozo N} {y C} {el D} {triunfo N} {y C} {el D} {amor N} {. O}	O		
+{El D} {gran G} {reino N} {de P} {Francia R} {posee V} {a P} {sus D} {pies N} {rendido G} {: O}	O		
+{el D} {pueblo N} {está V} {allá A} {abajo A} {y C} {arriba A} {está V} {el D} {Sefíor R} {. O}	O		

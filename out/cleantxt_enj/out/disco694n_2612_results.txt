@@ -1,0 +1,14 @@
+{¿ O} {De P} {dónde Q} {viene V} {aquella D} {maravillosa G} {, O} {aquella D}	O		
+{que C} {cuando C} {pasa V} {, O} {a P} {paso N} {de P} {reina N} {, O} {Diosa R} {va V} {? O}	O		
+{¿ O} {De P} {Viena R} {acaso A} {? O} {... O} {¿ O} {Acaso A} {de P} {Sevilla R} {o C} {Marsella R} {? O}	O		
+{Acaso A} {... O} {, O} {pues C} {su D} {imperio N} {doquiera V} {imperará V} {. O}	O		
+{Es V} {la D} {flor N} {de P} {Argentina R} {, O} {divinamente A} {bella G} {, O}	O		
+{azucena N} {del P} {Plata R} {, O} {rosa N} {del P} {Paraná R} {, O}	O		
+{y C} {que C} {siempre A} {aparece V} {con P} {su D} {fulgor N} {de P} {estrella N} {, O}	O		
+{ya A} {la Q} {pinte V} {Boldine R} {o C} {De P} {la D} {Gandará R} {... O}	O		
+{Ella Q} {es V} {la D} {que Q} {a P} {las D} {reinas N} {del P} {gran G} {París R} {emula V} {, O}	O		
+{pues C} {, O} {como P} {ellas Q} {, O} {encanta V} {y C} {sonríe V} {y C} {ondula V} {; O}	O		
+{y C} {cual Q} {Dea R} {transforma V} {, O} {al P} {golpe N} {de P} {su D} {pie N} {, O}	O		
+{en P} {primavera N} {pura G} {un D} {triste G} {otoño N} {enfermo G} {, O}	O		
+{en P} {el D} {Bois R} {de P} {Boulogne R} {el D} {Bosque R} {de P} {Palermo R} {, O}	O		
+{y C} {la D} {calle N} {Florida R} {en P} {la D} {Rue R} {de P} {la D} {Paix R} {. O}	O		

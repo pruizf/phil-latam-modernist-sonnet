@@ -1,0 +1,14 @@
+{Enorme G} {tronco N} {que Q} {arrastró V} {la D} {ola N} {, O}	O		
+{yace V} {el D} {caimán N} {varado G} {en P} {la D} {ribera N} {; O}	O		
+{espinazo N} {de P} {abrupta G} {cordillera N} {, O}	O		
+{fauces N} {de P} {abismo N} {y C} {formidable G} {cola N} {. O}	O		
+{El D} {sol N} {le Q} {envuelve V} {en P} {fúlgida G} {aureola N} {, O}	O		
+{y C} {parece V} {lucir V} {cota N} {y C} {cimera N} {, O}	O		
+{cual Q} {monstruo N} {de P} {metal N} {que Q} {reverbera V}	O		
+{y C} {que C} {al P} {reverberar V} {se Q} {tornasola V} {. O}	O		
+{Inmóvil R} {como C} {un D} {ídolo N} {sagrado G} {, O}	O		
+{ceñido G} {en P} {mallas N} {de P} {compacto N} {acero N} {, O}	O		
+{está V} {ante P} {el D} {agua N} {estático G} {y C} {sombrío G} {, O}	O		
+{a P} {manera N} {de P} {un D} {príncipe N} {encantado G}	B	oracional	cp01
+{que Q} {vive V} {eternamente A} {prisionero N}	I	oracional	cp01
+{en P} {el D} {palacio N} {de P} {cristal N} {de P} {un D} {río N}	O		

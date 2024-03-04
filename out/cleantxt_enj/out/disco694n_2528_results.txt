@@ -1,0 +1,14 @@
+{Dio V} {luz N} {a P} {sus D} {estrofas N} {el D} {cielo N} {azul G} {de P} {Italia R} {, O}	O		
+{le Q} {atrajo V} {con P} {su D} {inmenso G} {fulgor N} {el D} {gran G} {París R} {; O}	O		
+{ciñeron V} {su D} {cabeza N} {los D} {lauros N} {de P} {la D} {Galia R}	O		
+{y C} {fueron V} {sus D} {hermanos N} {los D} {hijos N} {de P} {San R} {Luis R} {. O}	O		
+{Las D} {máscaras N} {le Q} {dieron V} {las D} {Gracias R} {de P} {Tesalia R} {; O}	O		
+{cantó V} {el D} {valor N} {, O} {un D} {astro N} {; O} {y C} {la D} {virtud N} {, O} {un D} {lis N} {. O}	O		
+{Y C} {luego A} {dio V} {a P} {los D} {vientos N} {su D} {rítmica G} {faunalia N} {, O}	O		
+{y C} {el D} {cielo N} {, O} {antes A} {rosado G} {, O} {tornóse V} {cielo N} {gris G} {. O}	O		
+{Los D} {gritos N} {de P} {su D} {carne N} {son V} {gritos N} {de P} {bacante G} {, O}	O		
+{las D} {voces N} {de P} {su D} {alma N} {dan V} {vida N} {a P} {la D} {ilusión N} {; O}	O		
+{a P} {la D} {esperanza N} {muerta G} {, O} {levántala N} {radiante G} {, O}	O		
+{de P} {su D} {péctide N} {helénica G} {al P} {desusado G} {son V} {; O}	O		
+{y C} {en P} {medio N} {de P} {la D} {Francia R} {, O} {magnífico G} {y C} {vibrante G} {, O}	O		
+{su D} {espíritu N} {está V} {lleno G} {de P} {aurora N} {y C} {de P} {visión N} {. O}	O		

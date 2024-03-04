@@ -1,0 +1,14 @@
+{Puede V} {ajustarse V} {al P} {pecho N} {coraza N} {férrea G} {y C} {dura G} {; O}	O		
+{puede V} {regir V} {la D} {lanza N} {, O} {la D} {rienda N} {del P} {corcel N} {; O}	O		
+{sus D} {músculos N} {de P} {atleta N} {soportan V} {la D} {armadura N} {; O} {... O}	O		
+{pero C} {él Q} {busca V} {en P} {las D} {bocas N} {rosadas G} {leche N} {y C} {miel N} {. O}	O		
+{Artista R} {, O} {hijo N} {de P} {Capua R} {, O} {que Q} {adora V} {la D} {hermosura N} {, O}	O		
+{la D} {carne N} {femenina G} {prefiere V} {su D} {pincel N} {; O}	O		
+{y C} {en P} {el D} {recinto N} {oculto G} {de P} {tibia N} {alcoba G} {obscura V} {, O}	O		
+{agrega V} {mirto A} {y C} {rosas N} {a P} {su D} {triunfal G} {laurel N} {. O}	O		
+{Canta Q} {de P} {los D} {oarystis N} {el D} {delicioso G} {instante N} {, O}	O		
+{los D} {besos N} {y C} {el D} {delirio N} {de P} {la D} {mujer N} {amante N} {; O}	O		
+{y C} {en P} {sus D} {palabras N} {tiene V} {perfume N} {, O} {alma N} {, O} {color N} {. O}	O		
+{Su D} {ave N} {es V} {la D} {venusina N} {, O} {la D} {tímida G} {paloma N} {. O}	O		
+{Vencido G} {hubiera V} {en P} {Grecia R} {, O} {vencido G} {hubiera V} {en P} {Roma R} {, O}	O		
+{en P} {todos D} {los D} {combates N} {del P} {arte N} {o C} {del P} {amor N} {. O}	O		

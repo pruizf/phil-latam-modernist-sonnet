@@ -1,0 +1,14 @@
+{Un D} {verso N} {nuevo G} {y C} {gentil G}	O		
+{y C} {metálico G} {y C} {sonoro G} {; O}	O		
+{un D} {precioso G} {anillo N} {moro G}	B	oracional	cp01
+{que Q} {puliera V} {el D} {esmeril G} {; O}	I	oracional	cp01
+{una D} {rosa N} {de P} {Abril R}	B	oracional	cp01
+{que Q} {dentro A} {el D} {pecho N} {atesoro G} {; O}	I	oracional	cp01
+{una D} {perla N} {en P} {concha N} {de P} {oro N}	B	sirrem_adj_noun	pp02
+{llena G} {de P} {aroma N} {sutil G} {. O}	I	sirrem_adj_noun	pp02
+{Pues C} {que C} {tu D} {lengua N} {interpreto N} {, O}	O		
+{idioma N} {de P} {luz N} {y C} {miel N} {, O}	O		
+{te Q} {daría V} {, O} {niño N} {inquieto G} {, O}	O		
+{envuelto A} {en P} {este D} {papel N} {, O}	O		
+{un D} {diamante N} {hecho G} {soneto N}	O		
+{para P} {que C} {juegues V} {con P} {él Q} {. O}	O		

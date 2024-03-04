@@ -1,0 +1,14 @@
+{Renunciamiento R} {. O} {Anchura N} {para P} {nuestras D} {miradas N}	O		
+{y C} {oración N} {para P} {el D} {duelo N} {de P} {nuestros D} {corazones N}	O		
+{Es V} {la D} {hora N} {propicia G} {de P} {las D} {meditaciones N} {, O}	O		
+{de P} {los D} {poetas N} {tristes G} {y C} {de P} {las D} {bienamadas N}	O		
+{En P} {los D} {cañaverales N} {se Q} {oyen V} {chocar V} {espadas N} {; O}	O		
+{en P} {las D} {nubes N} {se Q} {miran V} {galopar V} {escuadrones N} {; O}	O		
+{y C} {las Q} {rubias G} {palmeras N} {fingen V} {crin N} {de P} {leones N}	B	oracional	cp01
+{que Q} {sacuden V} {al P} {aire N} {sus D} {cabezas N} {colgadas G}	I	oracional	cp01
+{¡ O} {Oh O} {visión N} {opresora G} {de P} {la D} {muerte N} {del P} {día N}	O		
+{sobre P} {el D} {campo N} {! O} {¡ O} {Oh O} {tristeza N} {que Q} {difunde Q} {lo Q} {verde G}	B	enlace_od_verb	ld02
+{dilatándose V} {bajo P} {esta D} {parada N} {agonía N} {! O}	I	enlace_od_verb	ld02
+{La D} {añoranza N} {imperiosa G} {La D} {esperanza N} {tardía G}	B	enlace_od_verb	ld02
+{La D} {emoción N} {que Q} {se Q} {agranda V} {La D} {extensión N} {que Q} {se Q} {pierde V}	I	enlace_od_verb	ld02
+{Y C} {un D} {murmullo N} {que Q} {empieza V} {: O} {- O} {Dios R} {te Q} {salve V} {, O} {María R}	O		

@@ -1,0 +1,14 @@
+{Cartagena R t1} {de P t2} {Indias R t3} {: O t4} {tú Q t5} {que C t6} {, O t7} {a P t8} {solas G t9} {, O t10}
+{entre P t11} {el D t12} {rigor N t13} {de P t14} {las D t15} {murallas N t16} {fieras G t17} {, O t18}
+{crees N t19} {que Q t20} {te Q t21} {acarician V t22} {las D t23} {banderas N t24}
+{de P t25} {pretéritas N t26} {huestes G t27} {españolas G t28} {; O t29}
+{tú Q t30} {, O t31} {que Q t32} {ciñes N t33} {radiantes G t34} {aureolas N t35} {, O t36}
+{desenvuelves N t37} {, O t38} {soñando V t39} {en P t40} {las D t41} {riberas N t42} {, O t43}
+{la D t44} {perezosa G t45} {voz N t46} {de P t47} {tus D t48} {palmeras N t49}
+{y C t50} {el D t51} {escándalo N t52} {eterno G t53} {de P t54} {tus D t55} {olas N t56} {. O t57}
+{¿ O t58} {Para P t59} {qué Q t60} {es V t61} {despertar V t62} {, O t63} {bella G t64} {durmiente A t65} {? O t66}
+{Los D t67} {piratas N t68} {tus D t69} {sueños N t70} {mortifican V t71} {, O t72}
+{mas A t73} {tú Q t74} {, O t75} {siempre A t76} {serena G t77} {, O t78} {te Q t79} {destacas V t80} {; O t81}
+{y C t82} {los D t83} {párpados N t84} {cierras D t85} {blandamente G t86} {, O t87}
+{mientras C t88} {que C t89} {tus D t90} {palmeras N t91} {te Q t92} {abanican V t93}
+{y C t94} {tus D t95} {olas N t96} {te Q t97} {mecen V t98} {como C t99} {hamacas N t100} {. O t101}

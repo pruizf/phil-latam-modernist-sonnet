@@ -1,0 +1,14 @@
+{De P} {las D} {eternas G} {musas N} {el D} {reino N} {soberano N}	O		
+{recorres N} {, O} {bajo P} {un D} {soplo N} {de P} {vasta N} {inspiración N} {, O}	O		
+{como C} {un D} {rajah N} {soberbio G} {que Q} {en P} {su D} {elefante N} {indiano G}	B	sirrem_adj_prep	pd01
+{por P} {sus D} {dominios N} {pasa V} {de P} {rudo N} {viento N} {al P} {son N} {. O}	I	sirrem_adj_prep	pd01
+{Tú Q} {tienes V} {en P} {tu D} {canto N} {como C} {ecos N} {de P} {oceano G} {; O}	O		
+{se Q} {ve V} {en P} {tu D} {poesía N} {la D} {selva N} {y C} {el D} {león N} {; O}	O		
+{salvaje G} {luz N} {irradia G} {la D} {lira N} {que Q} {en P} {tu D} {mano N}	B	enlace_subj_verb	ld01
+{derrama V} {su D} {sonora G} {, O} {robusta N} {vibración N} {. O}	I	enlace_subj_verb	ld01
+{Tú Q} {del P} {fakir V} {conoces G} {secretos N} {y C} {avatares N} {; O}	O		
+{a P} {tu D} {alma N} {dio V} {el D} {Oriente R} {misterios N} {seculares G} {, O}	O		
+{visiones N} {legendarias G} {y C} {espíriru N} {oriental G} {. O}	O		
+{Tu D} {verso N} {está V} {nutrido G} {con P} {savia N} {de P} {la D} {tierra N} {; O}	O		
+{fulgor N} {de P} {Ramayanas R} {ru G} {viva G} {estrofa N} {encierra V} {, O}	O		
+{y C} {cantas N} {en P} {la D} {lengua N} {del P} {bosque N} {colosal G} {. O}	O		

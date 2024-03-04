@@ -1,0 +1,14 @@
+{Dio V t1} {luz N t2} {a P t3} {sus D t4} {estrofas N t5} {el D t6} {cielo N t7} {azul G t8} {de P t9} {Italia R t10} {, O t11}
+{le Q t12} {atrajo V t13} {con P t14} {su D t15} {inmenso G t16} {fulgor N t17} {el D t18} {gran G t19} {París R t20} {; O t21}
+{ciñeron V t22} {su D t23} {cabeza N t24} {los D t25} {lauros N t26} {de P t27} {la D t28} {Galia R t29}
+{y C t30} {fueron V t31} {sus D t32} {hermanos N t33} {los D t34} {hijos N t35} {de P t36} {San R t37} {Luis R t38} {. O t39}
+{Las D t40} {máscaras N t41} {le Q t42} {dieron V t43} {las D t44} {Gracias R t45} {de P t46} {Tesalia R t47} {; O t48}
+{cantó V t49} {el D t50} {valor N t51} {, O t52} {un D t53} {astro N t54} {; O t55} {y C t56} {la D t57} {virtud N t58} {, O t59} {un D t60} {lis N t61} {. O t62}
+{Y C t63} {luego A t64} {dio V t65} {a P t66} {los D t67} {vientos N t68} {su D t69} {rítmica G t70} {faunalia N t71} {, O t72}
+{y C t73} {el D t74} {cielo N t75} {, O t76} {antes A t77} {rosado G t78} {, O t79} {tornóse V t80} {cielo N t81} {gris G t82} {. O t83}
+{Los D t84} {gritos N t85} {de P t86} {su D t87} {carne N t88} {son V t89} {gritos N t90} {de P t91} {bacante G t92} {, O t93}
+{las D t94} {voces N t95} {de P t96} {su D t97} {alma N t98} {dan V t99} {vida N t100} {a P t101} {la D t102} {ilusión N t103} {; O t104}
+{a P t105} {la D t106} {esperanza N t107} {muerta G t108} {, O t109} {levántala N t110} {radiante G t111} {, O t112}
+{de P t113} {su D t114} {péctide N t115} {helénica G t116} {al P t117} {desusado G t118} {son V t119} {; O t120}
+{y C t121} {en P t122} {medio N t123} {de P t124} {la D t125} {Francia R t126} {, O t127} {magnífico G t128} {y C t129} {vibrante G t130} {, O t131}
+{su D t132} {espíritu N t133} {está V t134} {lleno G t135} {de P t136} {aurora N t137} {y C t138} {de P t139} {visión N t140} {. O t141}

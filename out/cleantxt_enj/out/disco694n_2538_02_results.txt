@@ -1,0 +1,14 @@
+{Fra R} {León R} {Bloy R} {, O} {pon V} {en P} {mi D} {himnario N}	B	sirrem_noun_prep	pp06.1
+{del P} {siglo N} {infame G} {el D} {cautiverio N} {. O}	I	sirrem_noun_prep	pp06.1
+{Mammón R} {triunfante G} {del P} {Misterio R} {. O}	O		
+{La D} {Fe N} {llorosa G} {en P} {el D} {osario N} {; O}	O		
+{el D} {alma N} {azul G} {del P} {solitario G}	B	oracional	cp01
+{que Q} {va V} {hacia P} {Dios R} {, O} {del P} {monasterio N} {; O}	I	oracional	cp01
+{en P} {su D} {mayor G} {crueldad N} {, O} {Tiberio R} {; O}	O		
+{Cristo R} {en P} {su D} {más A} {triste G} {Calvario R} {. O}	O		
+{Muda V} {la D} {lengua N} {del P} {salterio N} {; O}	O		
+{casi A} {apagado G} {, O} {el D} {incensario N} {; O}	O		
+{Caín R} {magnífico G} {en P} {su D} {imperio N} {, O}	O		
+{y C} {en P} {el D} {prostíbulo-escenario N} {, O}	O		
+{trayendo V} {tú Q} {, O} {justo A} {emisario G} {, O}	O		
+{la D} {chispa N} {roja G} {del P} {cauterio N} {. O}	O		

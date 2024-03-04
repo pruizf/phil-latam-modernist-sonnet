@@ -1,0 +1,14 @@
+{Al P} {despuntar V} {el D} {estrellado V} {coro N} {, O}	O		
+{pósase V} {en P} {una D} {cúspide N} {nevada G} {: O}	O		
+{lo Q} {envuelve V} {el D} {día N} {en P} {la D} {postrer G} {mirada N} {; O}	O		
+{y C} {revienta N} {a P} {sus D} {pies N} {trueno N} {sonoro G} {. O}	O		
+{Su D} {blanca G} {gola N} {es V} {imperial G} {decoro N} {; O}	O		
+{su D} {ceño N} {varonil G} {, O} {pomo N} {de P} {espada N} {; O}	O		
+{sus D} {garfios N} {, O} {siempre A} {actitud N} {airada G} {, O}	O		
+{curvos N} {puñales G} {de P} {marfil N} {con P} {oro N} {. O}	O		
+{Solitario G} {en P} {la D} {cúspide N} {se Q} {siente V} {: O}	O		
+{en P} {las D} {pálidas N} {nieblas G} {se Q} {confunde V} {; O}	O		
+{desvanece V} {el D} {fulgor N} {de P} {su D} {aureola N} {, O}	O		
+{y C} {esfumándose V} {entonces A} {lentamente A} {, O}	O		
+{se Q} {hunde V} {en P} {la D} {noche N} {como C} {el D} {alma N} {se Q} {hunde V}	O		
+{en P} {la D} {meditación N} {cuando C} {está V} {sola G} {. O}	O		

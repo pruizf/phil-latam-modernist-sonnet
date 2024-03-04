@@ -1,0 +1,14 @@
+{¿ O t1} {Tienes N t2} {, O t3} {joven G t4} {amigo N t5} {, O t6} {ceñida G t7} {la D t8} {coraza N t9}
+{para P t10} {empezar V t11} {, O t12} {valiente G t13} {, O t14} {la D t15} {divina G t16} {pelea N t17} {? O t18}
+{¿ O t19} {Has G t20} {visto V t21} {si C t22} {resiste V t23} {el D t24} {metal N t25} {de P t26} {tu D t27} {idea N t28}
+{la D t29} {furia N t30} {del P t31} {mandoble N t32} {y C t33} {el D t34} {peso N t35} {de P t36} {la D t37} {maza N t38} {? O t39}
+{¿ O t40} {Te Q t41} {sientes V t42} {con P t43} {la D t44} {sangre N t45} {de P t46} {la D t47} {celeste G t48} {raza N t49}
+{que Q t50} {vida N t51} {con P t52} {los D t53} {números N t54} {pitagóricos G t55} {crea V t56} {? O t57}
+{¿ O t58} {Y C t59} {, O t60} {como C t61} {el D t62} {fuerte G t63} {Herakles R t64} {al P t65} {león N t66} {de P t67} {Nemea R t68} {, O t69}
+{a P t70} {los D t71} {sangrientos N t72} {tigres G t73} {del P t74} {mal G t75} {daría V t76} {caza N t77} {? O t78}
+{¿ O t79} {Te Q t80} {enternece V t81} {el D t82} {azul N t83} {de P t84} {una D t85} {noche N t86} {tranquila G t87} {? O t88}
+{¿ O t89} {Escuchas Q t90} {pensativo G t91} {el D t92} {sonar V t93} {de P t94} {la D t95} {esquila N t96}
+{cuando C t97} {el D t98} {Ángelus N t99} {dice V t100} {el D t101} {alma N t102} {de P t103} {la D t104} {tarde N t105} {? O t106} {... O t107}
+{¿ O t108} {Tu D t109} {corazón N t110} {las D t111} {voces N t112} {ocultas G t113} {interpreta V t114} {? O t115}
+{Sigue V t116} {, O t117} {entonces A t118} {, O t119} {tu D t120} {rumbo N t121} {de P t122} {amor N t123} {. O t124} {Eres V t125} {poeta N t126} {. O t127}
+{La D t128} {belleza N t129} {te Q t130} {cubre V t131} {de P t132} {luz N t133} {y C t134} {Dios R t135} {te Q t136} {guarde V t137} {. O t138}

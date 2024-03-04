@@ -1,0 +1,14 @@
+{Sé V} {que C} {te Q} {envidia N} {el D} {alba N} {, O} {tierna G} {niña N}	O		
+{y C} {no A} {lo Q} {dudes N} {, O} {porque C} {vierta V} {flores N}	O		
+{y C} {entre P} {galas N} {de P} {vívidos N} {colores N}	O		
+{veste N} {de P} {rosas N} {a P} {sus D} {formas N} {ciña N} {. O}	O		
+{Que C} {hay V} {en P} {tu D} {boca N} {mieles N} {de P} {una D} {viña N}	B	oracional	cp01
+{que Q} {quisiera V} {libar V} {soñando V} {amores N} {; O}	I	oracional	cp01
+{que C} {hay V} {en P} {tus D} {labios N} {todos D} {los D} {dulzores N}	B	sirrem_noun_prep	pp06.1
+{del P} {ambarino N} {néctar V} {de P} {la D} {piña N} {. O}	I	sirrem_noun_prep	pp06.1
+{Y C} {si C} {es V} {verdad N} {que C} {es V} {dulce G} {en P} {la D} {mañana N}	B	enlace_subj_verb	ld01
+{el D} {beso N} {que Q} {en P} {la D} {gota N} {del P} {rocío N}	IB	enlace_subj_verb;enlace_subj_verb	ld01;ld01
+{manda V} {el D} {alba N} {a P} {la D} {flor N} {fresca G} {y C} {lozana G} {, O}	I	enlace_subj_verb	ld01
+{en P} {misterioso G} {y C} {regalado G} {envío N} {; O}	O		
+{es V} {tu D} {boca N} {más A} {dulce G} {, O} {¡ O} {mi D} {sultana N} {! O}	O		
+{Más A} {dulces G} {son V} {tus D} {besos N} {, O} {¡ O} {amor N} {mío D} {! O}	O		

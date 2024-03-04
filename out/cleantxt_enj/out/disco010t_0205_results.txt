@@ -1,0 +1,14 @@
+{Brinda V} {al P} {pintor N} {el D} {índigo N} {cambiantes N}	O		
+{con P} {que Q} {luce V} {en P} {las D} {sedas N} {y C} {en P} {las D} {flores N} {; O}	O		
+{prodigando V} {el D} {azul N} {con P} {los D} {vigores N}	B	sirrem_noun_prep	pp06.1
+{de P} {ocasos D} {regios N} {como C} {más A} {brillantes G}	IB	sirrem_noun_prep;sirrem_adj_adv	pp06.1;pp10
+{Ya A} {es V} {el D} {añil N} {zafiro G} {entre P} {diamantes N} {, O}	I	sirrem_adj_adv	pp10
+{ya A} {lazo N} {para P} {atar V} {cartas N} {de P} {amores N} {, O}	O		
+{ya A} {vestido G} {de P} {tul N} {que Q} {entre P} {fulgores N}	B	enlace_subj_verb	ld01
+{giran V} {en P} {una D} {danza N} {de P} {bacantes N}	I	enlace_subj_verb	ld01
+{Es V} {en P} {el D} {lago N} {como C} {un D} {brillo N} {apenas A} {: O}	O		
+{corre V} {bajo P} {la D} {piel N} {de P} {terciopelo N}	O		
+{y C} {se Q} {trasluce V} {en P} {perfiladas G} {venas N} {. O}	O		
+{Pero C} {nunca A} {es V} {más A} {noble G} {en P} {sus D} {antojos N}	B	oracional	cp01
+{que Q} {cuando C} {, O} {en P} {un D} {pincel N} {, O} {recoge V} {el D} {cielo N} {, O}	I	oracional	cp01
+{¡ O} {y C} {en P} {dos Q} {lo Q} {parte N} {para P} {hacer V} {dos D} {ojos N} {! O}	O		

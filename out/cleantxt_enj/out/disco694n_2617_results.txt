@@ -1,0 +1,14 @@
+{Pues C} {que C} {naciste V} {bella G} {, O} {carga N} {tu D} {cruz N} {de P} {flores N} {, O}	O		
+{yérguete V} {con P} {la D} {augusta G} {soberbia N} {de P} {una D} {diosa G} {, O}	O		
+{sé V} {vivaz G} {, O} {sé V} {rosada G} {, O} {sé V} {altiva G} {y C} {caprichosa G} {, O}	O		
+{sufre V} {, O} {y C} {pues C} {morir V} {tienes V} {, O} {muere V} {de P} {mal N} {de P} {amores N} {. O}	O		
+{Carga R} {tu D} {cruz N} {y C} {sufre V} {de P} {amorosos G} {dolores N} {, O}	O		
+{en P} {primavera N} {cumple V} {tu D} {obligacin N} {de P} {rosa N} {, O}	O		
+{con P} {la D} {frente N} {en P} {el D} {verso N} {y C} {los D} {pies N} {en P} {la D} {prosa G} {, O}	O		
+{guarda N} {en P} {tu D} {propio G} {pecho N} {las D} {lágrimas N} {que Q} {llores N} {. O}	O		
+{Sé V} {avara V} {de P} {tu D} {llanto N} {pues C} {las D} {penas N} {consumen V} {. O}	O		
+{Que C} {las D} {alegres G} {risas N} {los D} {labios N} {te Q} {perfumen N}	B	enlace_subj_verb	ld01
+{y C} {los D} {amargos G} {duelos N} {huyan V} {lejos A} {de P} {ti Q} {. O}	I	enlace_subj_verb	ld01
+{No A} {entregues N} {tus D} {abriles V} {a P} {los D} {pesares N} {tercos G} {, O}	O		
+{no A} {eches G} {tus D} {margaritas N} {al P} {festín N} {de P} {los D} {puercos N} {, O}	O		
+{y C} {en P} {medio N} {de P} {tus D} {triunfos N} {acuérdate N} {de P} {mí Q} {. O}	O		

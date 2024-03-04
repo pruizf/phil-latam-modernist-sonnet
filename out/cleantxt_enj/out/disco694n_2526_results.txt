@@ -1,0 +1,14 @@
+{En P} {su D} {país N} {de P} {hierro N} {vive V} {el D} {gran G} {viejo G} {, O}	O		
+{bello G} {como C} {un D} {patriarca N} {, O} {sereno N} {y C} {santo N} {. O}	O		
+{Tiene V} {en P} {la D} {arruga N} {olímpica G} {de P} {su D} {entrecejo N}	B	enlace_od_verb	ld02
+{algo Q} {que Q} {impera V} {y C} {vence V} {con P} {noble G} {encanto N} {. O}	I	enlace_od_verb	ld02
+{Su D} {alma N} {del P} {infinito G} {parece V} {espejo N} {; O}	O		
+{son V} {sus D} {cansados G} {hombros N} {dignos G} {del P} {manto N} {; O}	O		
+{y C} {con P} {arpa G} {labrada N} {de P} {un D} {roble V} {añejo N} {, O}	O		
+{como C} {un D} {profeta N} {nuevo G} {canta V} {su D} {canto N} {. O}	O		
+{Sacerdote R} {que Q} {alienta V} {soplo N} {divino G} {, O}	O		
+{anuncia V} {, O} {en P} {el D} {futuro N} {, O} {tiempo N} {mejor G} {. O}	O		
+{Dice V} {el D} {águila N} {: O} {" O} {¡ O} {Vuela R} {! O} {" O} {, O} {" O} {¡ O} {Boga R} {! O} {" O} {, O} {al P} {marino N} {, O} {, O}	O		
+{y C} {" O} {¡ O} {Trabaja O} {! O} {" O} {, O} {al P} {robusto N} {trabajador G} {. O}	O		
+{¡ O} {Así A} {va V} {ese D} {poeta N} {por P} {su D} {camino N} {, O}	O		
+{con P} {su D} {soberbio G} {rostro N} {de P} {emperador N} {! O}	O		

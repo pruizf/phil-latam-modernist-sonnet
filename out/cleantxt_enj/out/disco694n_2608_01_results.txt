@@ -1,0 +1,14 @@
+{Recuerdo V} {, O} {allá A} {en P} {la D} {casa N} {familiar G} {, O} {dos D} {enanos N} {, O}	O		
+{como C} {los D} {de P} {Velázquez R} {. O} {El D} {uno Q} {, O} {varón N} {, O} {era V}	B	enlace_subj_verb	ld01
+{llamado G} {" O} {el D} {Capitán R} {' O} {' O} {. O} {Su D} {vieja G} {compañera N}	IB	enlace_subj_verb;enlace_subj_verb	ld01;ld01
+{era V} {su D} {madre N} {. O} {Y C} {ambos Q} {parecían V} {hermanos N} {. O}	I	enlace_subj_verb	ld01
+{Tenían V} {de P} {peleles N} {, O} {de P} {espectros N} {, O} {de P} {gusanos N} {; O}	O		
+{él Q} {cojeaba V} {, O} {era V} {bizco N} {, O} {ponía V} {cara N} {fiera V} {; O}	O		
+{fabricaba V} {muñecos N} {y C} {figuras N} {de P} {cera N}	O		
+{con P} {sus D} {chicas N} {, O} {horribles G} {y C} {regordetas G} {manos N} {. O}	O		
+{También A} {fingía V} {ser V} {obispo N} {y C} {bendecía V} {; O}	O		
+{predicaba V} {sermones N} {de P} {endemoniado N} {enredo G}	O		
+{y C} {rezaba V} {contrito G} {páter N} {y C} {avemaría V} {. O}	O		
+{Luego A} {, O} {enano N} {y C} {enana N} {se Q} {retiraban V} {quedo V} {; O}	O		
+{en P} {tanto D} {que C} {la D} {gente N} {hacendada G} {reía V} {, O}	O		
+{yo Q} {silencioso G} {, O} {en P} {un D} {rincón N} {, O} {tenía V} {miedo N} {. O}	O		

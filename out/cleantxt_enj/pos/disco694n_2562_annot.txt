@@ -1,0 +1,14 @@
+{Una D t1} {caligrafía N t2} {de P t3} {Kalifa R t4} {quisiera V t5}
+{para P t6} {escribirte V t7} {un D t8} {verso N t9} {melodioso G t10} {, O t11} {que Q t12} {fuera V t13}
+{seda N t14} {y C t15} {oro N t16} {de P t17} {Oriente R t18} {y C t19} {gracia N t20} {y C t21} {pompa N t22} {de P t23} {Asia R t24} {, O t25}
+{en P t26} {honor N t27} {de P t28} {unos D t29} {labios N t30} {de P t31} {Bagdad R t32} {o C t33} {Circasia R t34} {. O t35}
+{O C t36} {una D t37} {caligrafía N t38} {de P t39} {monje N t40} {medioeval. O t41}
+{mayúsculas N t42} {de P t43} {antifonario N t44} {, O t45} {o C t46} {de P t47} {misal N t48} {, O t49}
+{miniatura N t50} {en P t51} {fondo N t52} {de P t53} {azul N t54} {, O t55} {oro N t56} {o C t57} {violeta N t58} {, O t59}
+{para P t60} {escribir V t61} {mis D t62} {prosas N t63} {de P t64} {profano G t65} {poeta N t66}
+{en P t67} {honor N t68} {de P t69} {la D t70} {virgen N t71} {- O t72} {o C t73} {no-de N t74} {carne N t75} {viva G t76} {. O t77}
+{Rosa R t78} {, O t79} {rosa N t80} {, O t81} {rosada G t82} {, O t83} {trémula N t84} {, O t85} {sensitiva G t86} {, O t87}
+{o C t88} {femenina G t89} {fruta N t90} {, O t91} {uva G t92} {o C t93} {fresca G t94} {manzana N t95} {, O t96}
+{que Q t97} {yo Q t98} {celebraría V t99} {en P t100} {mi D t101} {prosa G t102} {profana G t103} {: O t104}
+{mas A t105} {mi D t106} {caligrafía N t107} {es V t108} {pobre G t109} {, O t110} {si C t111} {no A t112} {tosca V t113} {: O t114}
+{guarda N t115} {, O t116} {pues C t117} {que C t118} {lo Q t119} {quieras V t120} {, O t121} {esas D t122} {patas N t123} {de P t124} {mosca N t125} {. O t126}

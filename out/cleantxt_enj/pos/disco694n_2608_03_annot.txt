@@ -1,0 +1,14 @@
+{Madrugada R t1} {. O t2} {En P t3} {el D t4} {silencio N t5} {reposa V t6} {la D t7} {gran G t8} {villa N t9}
+{donde Q t10} {de P t11} {niño N t12} {supe V t13} {de P t14} {cuentos N t15} {y C t16} {consejas N t17} {, O t18}
+{o C t19} {asistí V t20} {a P t21} {serenatas N t22} {de P t23} {amor N t24} {junto G t25} {a P t26} {las D t27} {rejas N t28}
+{de P t29} {alguna D t30} {novia N t31} {bella G t32} {, O t33} {timorata N t34} {y C t35} {sencilla G t36} {. O t37}
+{El D t38} {cielo N t39} {lleno G t40} {de P t41} {constelaciones N t42} {brilla N t43} {, O t44}
+{y C t45} {su D t46} {oriente N t47} {disputan V t48} {suaves G t49} {luces N t50} {bermejas G t51} {; O t52}
+{de P t53} {pronto A t54} {, O t55} {un D t56} {terremoto N t57} {mueve V t58} {las D t59} {casas N t60} {viejas G t61}
+{y C t62} {la D t63} {gente N t64} {en P t65} {los D t66} {patios N t67} {y C t68} {calles N t69} {se Q t70} {arrodilla V t71} {, O t72}
+{medio D t73} {desnuda V t74} {, O t75} {y C t76} {clama V t77} {: O t78} {" O t79} {¡ O t80} {Santo R t81} {Dios R t82} {! O t83} {¡ O t84} {Santo V t85} {fuerte G t86} {! O t87}
+{¡ O t88} {Santo R t89} {inmortal G t90} {! O t91} {" O t92} {La D t93} {tierra N t94} {tiembla V t95} {a P t96} {cada D t97} {momento N t98} {. O t99}
+{¡ O t100} {Algo Q t101} {de P t102} {apocalíptico G t103} {mano N t104} {invisible G t105} {vierte V t106} {! O t107} {... O t108}
+{La D t109} {atmósfera N t110} {es V t111} {pesada G t112} {como C t113} {plomo N t114} {. O t115} {No A t116} {hay V t117} {viento N t118} {. O t119}
+{Y C t120} {se Q t121} {diría V t122} {que C t123} {ha V t124} {pasado V t125} {la D t126} {muerte N t127}
+{ante P t128} {la D t129} {impasibilidad N t130} {del P t131} {firmamento N t132} {. O t133}

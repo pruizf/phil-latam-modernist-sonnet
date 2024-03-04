@@ -1,0 +1,14 @@
+{¿ O} {Quiénes Q} {son V} {, O} {dónde Q} {están V} {los D} {que Q} {han V} {querido V}	B	enlace_od_verb	ld02
+{mancillar V} {mi D} {honradez N} {con P} {su D} {impostura N} {? O}	I	enlace_od_verb	ld02
+{Hay V} {nieves N} {y C} {no A} {fangos G} {en P} {mi D} {altura N} {; O}	O		
+{águilas N} {, O} {no A} {serpientes G} {en P} {mi D} {nido N} {... O}	O		
+{Ellos Q} {, O} {los D} {que Q} {han V} {mi D} {corazón N} {herido G} {, O}	O		
+{me Q} {han V} {coronado V} {de P} {inmortal G} {ventura N} {; O}	O		
+{¡ O} {que C} {si C} {el D} {arma N} {enemiga G} {es V} {tan A} {impura G} {, O}	O		
+{más A} {noble G} {que C} {vencer V} {es V} {ser V} {vencido V} {! O}	O		
+{Gocen V} {los D} {viles N} {, O} {que Q} {con P} {torpe G} {saña N}	B	enlace_subj_verb	ld01
+{sentirán V} {, O} {acosándome V} {en P} {el D} {monte N} {, O}	I	enlace_subj_verb	ld01
+{bajo P} {sus D} {garras N} {renacer V} {mi D} {entraña V} {; O}	O		
+{que C} {si C} {un D} {día N} {naufragan V} {sus D} {ideales N} {, O}	O		
+{¡ O} {cruzaré V} {como C} {nave N} {el D} {horizonte N}	O		
+{sin P} {oír V} {gritos N} {y C} {sin P} {ver V} {señales N} {! O} {... O}	O		

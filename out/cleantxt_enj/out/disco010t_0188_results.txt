@@ -1,0 +1,14 @@
+{Ánforas N} {de P} {cristal N} {, O} {airosas G} {galas N}	B	sirrem_noun_prep	pp05
+{de P} {enigmáticas G} {formas N} {sorprendentes G} {, O}	I	sirrem_noun_prep	pp05
+{diademas G} {propias G} {de P} {apolíneas N} {frentes N} {, O}	O		
+{adornos G} {dignos G} {de P} {fastuosas G} {galas N}	O		
+{En P} {los D} {nudos N} {de P} {un D} {tronco N} {hacen V} {escalas N} {; O}	O		
+{y C} {ensortijan V} {sus D} {tallos N} {de P} {serpientes N} {, O}	O		
+{hasta P} {quedar V} {en P} {la D} {altitud N} {pendientes G} {, O}	O		
+{a P} {manera N} {de P} {pájaros N} {sin P} {alas N} {. O}	O		
+{Tristes N} {como C} {cabezas N} {pensativas G} {, O}	O		
+{brotan V} {ellas Q} {, O} {sin P} {torpes G} {ligaduras N}	B	sirrem_noun_prep	pp05
+{de P} {tirana N} {raíz G} {, O} {libres G} {y C} {altivas G} {; O}	I	sirrem_noun_prep	pp05
+{porque C} {también A} {, O} {con P} {lo Q} {mezquino N} {en P} {guerra N} {, O}	O		
+{quieren V} {vivir V} {, O} {como C} {las D} {almas D} {puras N} {, O}	O		
+{sin P} {un D} {solo G} {contacto N} {con P} {la D} {tierra N} {. O}	O		

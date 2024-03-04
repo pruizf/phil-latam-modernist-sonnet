@@ -1,0 +1,14 @@
+{Las D t1} {campanas N t2} {anuncian V t3} {la D t4} {fiesta N t5} {; O t6}
+{el D t7} {petardo G t8} {revienta N t9} {rotundo G t10} {; O t11}
+{y C t12} {el D t13} {pilluelo N t14} {taimado G t15} {y C t16} {jocundo V t17}
+{con P t18} {sus D t19} {risas N t20} {perturba V t21} {la D t22} {orquesta N t23} {. O t24}
+{Procesión N t25} {fervorosa G t26} {y C t27} {honesta G t28}
+{luce V t29} {el D t30} {palio N t31} {, O t32} {en P t33} {que Q t34} {arroja V t35} {este D t36} {mundo N t37} {, O t38}
+{con P t39} {las D t40} {rosas N t41} {de P t42} {campo N t43} {fecundo G t44} {, O t45}
+{las D t46} {de P t47} {triste G t48} {y C t49} {malvada G t50} {floresta N t51} {... O t52}
+{A P t53} {la D t54} {vez N t55} {que C t56} {el D t57} {repique N t58} {en P t59} {la D t60} {torre N t61}
+{rimar G t62} {logra V t63} {con P t64} {raudo N t65} {cohete N t66} {, O t67}
+{que Q t68} {cual Q t69} {sierpe V t70} {metálica G t71} {corre V t72} {. O t73}
+{Judas R t74} {arde V t75} {y C t76} {se Q t77} {lanza V t78} {al P t79} {infierno N t80}
+{por P t81} {los D t82} {aires N t83} {, O t84} {volando V t85} {, O t86} {jinete N t87}
+{en P t88} {enorme G t89} {y C t90} {diabólico G t91} {cuerno N t92} {... O t93}

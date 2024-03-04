@@ -1,0 +1,14 @@
+{Aroma R t1} {puro G t2} {y C t3} {ámbar V t4} {delicado G t5} {, O t6}
+{miel G t7} {sabrosa G t8} {que Q t9} {liban V t10} {las D t11} {abejas N t12} {, O t13}
+{lo D t14} {blanco N t15} {del P t16} {vellón N t17} {de P t18} {las D t19} {ovejas N t20} {, O t21}
+{lo Q t22} {fresco G t23} {de P t24} {las D t25} {flores N t26} {del P t27} {granado N t28} {; O t29}
+{el D t30} {pétalo N t31} {del P t32} {lirio N t33} {perfumado G t34} {; O t35}
+{ojos N t36} {llenos G t37} {de P t38} {ardor N t39} {, O t40} {bocas N t41} {bermejas G t42} {, O t43}
+{besos N t44} {de P t45} {fuego N t46} {, O t47} {enamoradas G t48} {quejas N t49} {, O t50}
+{caricias N t51} {de P t52} {la D t53} {amada N t54} {y C t55} {el D t56} {amado G t57} {; O t58}
+{fruición N t59} {de P t60} {gozo N t61} {, O t62} {manantial N t63} {de P t64} {vida N t65} {, O t66}
+{reflejos N t67} {de P t68} {divinos N t69} {luminares G t70} {, O t71}
+{pasión N t72} {intensa G t73} {en P t74} {lo D t75} {interior G t76} {nacida G t77} {; O t78}
+{el D t79} {himno N t80} {celestial G t81} {de P t82} {los D t83} {hogares N t84}
+{Con P t86} {eso Q t87} {sueña V t88} {el D t89} {alma N t90} {entristecida G t91} {, O t92}
+{al P t93} {rumor N t94} {del P t95} {Cantar R t96} {de P t97} {los D t98} {Cantares R t99} {. O t100}

@@ -1,0 +1,13 @@
+{De P} {una D} {juvenil G} {inocencia N}	O		
+{¿ O} {qué Q} {conservar V} {, O} {sino C} {el D} {sutil G}	B	sirrem_adj_noun	pp02
+{perfume N} {, O} {esencia N} {de P} {su D} {Abril R} {? O} {... O}	I	sirrem_adj_noun	pp02
+{- O} {¡ O} {La D} {más A} {maravillosa G} {esencia N} {! O}	O		
+{Por P} {lamentar V} {a P} {mi D} {conciencia N}	O		
+{quedó V} {de P} {un D} {sonoro G} {marfil O}	B	enlace_od_verb	ld02
+{un D} {cuento N} {que Q} {fue V} {de P} {las D} {Mil R}	I	enlace_od_verb	ld02
+{y C} {una D} {noches N} {de P} {mi D} {existencia N} {.. O} {. O}	O		
+{Scherezade R} {se Q} {entredurmió V} {.. O} {. O}	O		
+{El D} {Visir R} {quedó V} {meditando V} {... O}	O		
+{Dinarzada G} {el D} {día N} {olvidó V} {... O}	O		
+{Mas R} {el D} {pájaro N} {azul G} {volvió V} {... O}	O		
+{Pero C} {... O} {No A} {obstante G} {... O} {Siempre A} {... O} {Cuando C} {... O}	O		

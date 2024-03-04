@@ -1,0 +1,14 @@
+{De P t1} {raso G t2} {azul N t3} {vestidas G t4} {están V t5} {las D t6} {bellas G t7} {damas N t8} {, O t9}
+{entre P t10} {tapices N t11} {llenos G t12} {de P t13} {asuntos N t14} {de P t15} {Watteau R t16} {; O t17}
+{la D t18} {reina N t19} {danza N t20} {alegre G t21} {, O t22} {sus D t23} {ojos N t24} {son V t25} {dos D t26} {llamas N t27} {; O t28}
+{habrá V t29} {lirios N t30} {como C t31} {ella Q t32} {, O t33} {pero C t34} {más A t35} {blancos N t36} {, O t37} {no A t38} {. O t39}
+{Para P t40} {ella Q t41} {el D t42} {mirto N t43} {brota V t44} {las D t45} {hojas N t46} {de P t47} {sus D t48} {ramas N t49} {; O t50}
+{para P t51} {ella Q t52} {el D t53} {padre N t54} {Apolo R t55} {las D t56} {rimas N t57} {inventó V t58} {; O t59}
+{para P t60} {ella Q t61} {son V t62} {hermanos N t63} {los D t64} {regios N t65} {oriflamas G t66} {, O t67}
+{Versalles R t68} {y C t69} {el D t70} {Elíseo R t71} {, O t72} {Louvre R t73} {y C t74} {Fontainebleau R t75} {. O t76}
+{Gentil R t77} {el D t78} {paso N t79} {mide V t80} {, O t81} {su D t82} {cuello N t83} {real G t84} {erguido G t85} {, O t86}
+{sonriente A t87} {y C t88} {desdefíosa V t89} {su D t90} {linda N t91} {boca N t92} {en P t93} {flor N t94} {; O t95}
+{paloma N t96} {de P t97} {alabastro N t98} {que Q t99} {tiene V t100} {de P t101} {oro N t102} {el D t103} {nido N t104} {, O t105}
+{por P t106} {solo A t107} {afán N t108} {, O t109} {el D t110} {gozo N t111} {y C t112} {el D t113} {triunfo N t114} {y C t115} {el D t116} {amor N t117} {. O t118}
+{El D t119} {gran G t120} {reino N t121} {de P t122} {Francia R t123} {posee V t124} {a P t125} {sus D t126} {pies N t127} {rendido G t128} {: O t129}
+{el D t130} {pueblo N t131} {está V t132} {allá A t133} {abajo A t134} {y C t135} {arriba A t136} {está V t137} {el D t138} {Sefíor R t139} {. O t140}

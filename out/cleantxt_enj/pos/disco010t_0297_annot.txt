@@ -1,0 +1,14 @@
+{En P t1} {el D t2} {mármol N t3} {que Q t4} {el D t5} {Arte R t6} {ha V t7} {cincelado V t8}
+{vida N t9} {immortal G t10} {hallaron V t11} {tus D t12} {legiones N t13} {; O t14}
+{y C t15} {hasta A t16} {el D t17} {humo N t18} {fugaz G t19} {de P t20} {tus D t21} {cañones N t22}
+{para P t23} {siempre A t24} {quedó V t25} {petrificado G t26} {. O t27}
+{Entre P t28} {el D t29} {hórrido N t30} {estruendo V t31} {, O t32} {que Q t33} {acallado G t34}
+{adivinase V t35} {en P t36} {gestos N t37} {y C t38} {expresiones N t39} {, O t40}
+{a P t41} {galope V t42} {se Q t43} {tienden V t44} {cien D t45} {bridones N t46}
+{cual Q t47} {si C t48} {fueran V t49} {un D t50} {viento N t51} {huracanado G t52} {... O t53}
+{A P t54} {la D t55} {cabeza N t56} {, O t57} {tú Q t58} {: O t59} {fiero N t60} {, O t61} {jadeante G t62} {, O t63}
+{tendido G t64} {en P t65} {el D t66} {bridón N t67} {hacia P t68} {delante A t69} {, O t70}
+{en P t71} {la D t72} {persecución N t73} {de P t74} {una D t75} {bandera N t76} {... O t77}
+{¡ O t78} {Todo D t79} {el D t80} {que Q t81} {vio V t82} {, O t83} {de P t84} {pronto A t85} {, O t86} {tu D t87} {figura N t88} {, O t89}
+{a P t90} {un D t91} {lado N t92} {se Q t93} {apartó V t94} {de P t95} {la D t96} {escultura N t97} {, O t98}
+{para P t99} {verte V t100} {pasar V t101} {en P t102} {tu D t103} {carrera N t104} {! O t105} {... O t106}

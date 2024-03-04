@@ -1,0 +1,14 @@
+{Sé V} {que C} {amas N} {a P} {otro Q} {; O} {que C} {olvidaste V} {todos Q}	B	enlace_od_verb	ld02
+{te Q} {los D} {versitos N} {que Q} {te Q} {hice V} {. O} {¡ O} {Bravo R} {! O} {¡ O} {Bravo R} {! O}	I	enlace_od_verb	ld02
+{Esto Q} {se Q} {llama V} {, O} {pues C} {, O} {dar V} {en P} {el D} {clavo N}	O		
+{y C} {divertirse V} {amando V} {de P} {mil D} {modos N} {. O}	O		
+{Que C} {amen N} {de P} {veras N} {los D} {que Q} {están V} {beodos N}	B	sirrem_noun_prep	pp06.1
+{de P} {platonismo N} {fútil G} {; O} {el D} {esclavo N}	IB	sirrem_noun_prep;sirrem_noun_prep	pp06.1;pp06.1
+{de P} {amadas N} {de P} {novela N} {, O} {y C} {el D} {que Q} {al P} {cabo N}	IB	sirrem_noun_prep;enlace_subj_verb	pp06.1;ld01
+{se Q} {pierde V} {de P} {esa D} {senda N} {en P} {los D} {recodos N} {. O}	I	enlace_subj_verb	ld01
+{Pero C} {¿ O} {amar V} {tú Q} {? O} {No A} {entiendo V} {ese D} {vocablo N} {. O}	O		
+{Y C} {si C} {me Q} {amabas N} {, O} {dices N} {: O} {muy A} {mal A} {hecho G} {. O}	O		
+{¿ O} {Me Q} {olvidaste V} {? O} {¡ O} {Sublime O} {! O} {¡ O} {Voto V} {al P} {diablo N} {! O}	O		
+{Y C} {no A} {hay V} {que C} {arrepentirse V} {; O} {a P} {lo D} {hecho G} {, O} {pecho N} {. O}	O		
+{Mira V} {, O} {no A} {es V} {broma N} {, O} {con P} {franqueza N} {te Q} {hablo V} {: O}	O		
+{sigue V} {en P} {tu D} {nuevo G} {amor N} {, O} {y C} {... O} {¡ O} {buen G} {provecho N} {! O}	O		

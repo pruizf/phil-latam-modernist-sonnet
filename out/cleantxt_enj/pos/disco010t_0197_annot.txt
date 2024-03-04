@@ -1,0 +1,14 @@
+{¡ O t1} {Cuántas D t2} {aves N t3} {que Q t4} {anidan V t5} {sin P t6} {recelo N t7}
+{en P t8} {un D t9} {árbol N t10} {, O t11} {que Q t12} {luego A t13} {es V t14} {cruz N t15} {o C t16} {nave N t17} {, O t18}
+{tienden V t19} {por P t20} {fuerza N t21} {misteriosa G t22} {y C t23} {grave G t24} {, O t25}
+{como C t26} {el D t27} {árbol N t28} {también A t29} {, O t30} {al P t31} {mar N t32} {o C t33} {al P t34} {cielo N t35} {! O t36}
+{El D t37} {ave N t38} {es V t39} {ambición N t40} {que Q t41} {huye V t42} {del P t43} {suelo N t44}
+{y C t45} {es V t46} {alerta N t47} {estentóreo G t48} {o C t49} {trino G t50} {suave G t51} {, O t52}
+{que C t53} {el D t54} {canto N t55} {más A t56} {glorioso G t57} {es V t58} {el D t59} {del P t60} {ave N t61}
+{y C t62} {la D t63} {línea N t64} {más A t65} {pura G t66} {es V t67} {la D t68} {del P t69} {vuelo N t70}
+{¡ O t71} {No A t72} {importa V t73} {- O t74} {ya A t75} {que C t76} {el D t77} {sol N t78} {rasga V t79} {las D t80} {brumas N t81} {- O t82}
+{que C t83} {el D t84} {mar N t85} {persiga V t86} {al P t87} {bien N t88} {y C t89} {el D t90} {buitre N t91} {altivo G t92}
+{a P t93} {la D t94} {paloma N t95} {, O t96} {hecho V t97} {un D t98} {Satán R t99} {con P t100} {plumas N t101} {, O t102}
+{que Q t103} {, O t104} {mientras C t105} {alas N t106} {tengan V t107} {y C t108} {garganta N t109} {, O t110}
+{serán V t111} {las D t112} {aves N t113} {el D t114} {emblema N t115} {vivo G t116}
+{de P t117} {todo D t118} {lo D t119} {que Q t120} {vuela V t121} {y C t122} {lo D t123} {que Q t124} {canta V t125} {! O t126}

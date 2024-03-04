@@ -1,0 +1,14 @@
+{Hay V t1} {en P t2} {mi D t3} {selva N t4} {venenosas G t5} {flores N t6} {, O t7}
+{Frutos R t8} {de P t9} {salvación N t10} {, O t11} {crudas G t12} {espinas N t13}
+{Y C t14} {maderas N t15} {de P t16} {olor N t17} {... O t18} {Veta N t19} {de P t20} {minas N t21}
+{Guarda R t22} {en P t23} {libros N t24} {de P t25} {piedra N t26} {sus D t27} {fulgores N t28} {. O t29}
+{Los D t30} {suspensos N t31} {follajes G t32} {protectores N t33}
+{Se Q t34} {espejean V t35} {en P t36} {fuentes N t37} {cristalinas G t38} {, O t39}
+{Como C t40} {fantasmas N t41} {de P t42} {dolientes N t43} {ruinas N t44}
+{En P t45} {los D t46} {ojos N t47} {de P t48} {cándidos G t49} {Amores R t50} {... O t51}
+{Término R t52} {huyó V t53} {. O t54} {Mi D t55} {selva N t56} {no A t57} {rehúsa V t58}
+{Ya A t59} {los D t60} {vientos N t61} {de P t62} {ayer A t63} {y C t64} {de P t65} {mañana A t66} {, O t67}
+{Ya A t68} {los D t69} {diluvios N t70} {de P t71} {los D t72} {libres G t73} {riegos N t74} {... O t75}
+{¡ O t76} {Deje V t77} {siquier A t78} {la D t79} {fugitiva N t80} {musa N t81} {, O t82}
+{Sobre P t83} {un D t84} {tronco N t85} {de P t86} {selva N t87} {americana G t88} {, O t89}
+{Su D t90} {dulce G t91} {nombre N t92} {en P t93} {caracteres N t94} {griegos N t95} {! O t96}

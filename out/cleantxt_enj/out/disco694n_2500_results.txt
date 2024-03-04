@@ -1,0 +1,14 @@
+{Águila N} {audaz G} {del P} {mundo N} {americano G} {, O}	O		
+{que C} {hoy A} {te Q} {remontas G} {presurosa G} {al P} {cielo N} {; O}	O		
+{que C} {predicaste V} {con P} {heroico G} {anhelo N}	B	enlace_subj_verb	ld01
+{el D} {amor N} {a P} {la D} {luz N} {, O} {odio N} {al P} {tirano N} {. O}	I	enlace_subj_verb	ld01
+{Hoy A} {te Q} {contempla V} {el D} {pensamiento N} {humano G}	B	sirrem_noun_prep	pp05
+{de P} {tu D} {vida N} {al P} {rasgarse V} {el D} {tenue G} {velo N} {, O}	I	sirrem_noun_prep	pp05
+{y C} {te Q} {leva V} {cantares N} {desde P} {el D} {suelo N} {, O}	O		
+{como C} {a P} {gran G} {liberal N} {republicano G} {. O}	O		
+{La D} {idea N} {que Q} {llevaste V} {en P} {la D} {conciencia N} {, O}	O		
+{centellea N} {del P} {Eterno R} {desprendida V} {, O}	O		
+{ilumina V} {la D} {mísera N} {existencia N}	B	sirrem_noun_prep	pp06.1
+{de P} {nuestra D} {patria N} {aún A} {tan A} {dividida G} {; O}	I	sirrem_noun_prep	pp06.1
+{¡ O} {y C} {en P} {el D} {augusto N} {templo N} {de P} {la D} {Historia R}	O		
+{ciñe V} {tu D} {frente A} {el D} {lauro N} {de P} {la D} {gloria N} {! O}	O		

@@ -1,0 +1,14 @@
+{No A t1} {vayas V t2} {al P t3} {altar N t4} {, O t5} {Santo R t6} {Tirano R t7} {, O t8}
+{que Q t9} {profanas N t10} {de P t11} {Dios R t12} {la D t13} {eterna G t14} {idea N t15}
+{aún A t16} {la D t17} {sangre N t18} {caliente G t19} {roja G t20} {humea N t21}
+{en P t22} {tu D t23} {estola Q t24} {, O t25} {en P t26} {tu D t27} {cáliz N t28} {, O t29} {en P t30} {tu D t31} {mano N t32} {. O t33}
+{La D t34} {sacra G t35} {luz N t36} {del P t37} {pensamiento N t38} {humano G t39}
+{ahora A t40} {ante P t41} {tu D t42} {frente A t43} {centellea V t44} {: O t45}
+{proclamas N t46} {tu D t47} {poder V t48} {¡ O t49} {maldito G t50} {sea V t51} {! O t52}
+{pues C t53} {es V t54} {tu D t55} {bendición N t56} {augurio G t57} {insano G t58} {. O t59}
+{La D t60} {basílica V t61} {cruje N t62} {en P t63} {conmociones N t64}
+{y C t65} {se Q t66} {enciende V t67} {la D t68} {luz N t69} {de P t70} {los D t71} {ciriales N t72} {; O t73}
+{tu D t74} {cantas N t75} {los D t76} {oremus N t77} {y C t78} {oraciones N t79}
+{y C t80} {te Q t81} {besan V t82} {el D t83} {pie N t84} {los D t85} {sacristanes N t86}
+{¡ O t87} {Oh O t88} {! O t89} {No A t90} {ensucies G t91} {al P t92} {Cristo R t93} {entre P t94} {tu D t95} {cieno N t96}
+{No A t97} {escupais V t98} {en P t99} {el D t100} {rostro N t101} {al P t102} {Nazareno R t103} {! O t104} {... O t105}

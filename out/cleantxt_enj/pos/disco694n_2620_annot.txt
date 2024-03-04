@@ -1,0 +1,14 @@
+{Para P t1} {ir V t2} {al P t3} {azul N t4} {do G t5} {van V t6} {las D t7} {bandolinas N t8} {, O t9}
+{hay V t10} {que C t11} {pensar V t12} {y C t13} {hacer V t14} {y C t15} {bregar V t16} {y C t17} {soñar V t18} {, O t19}
+{salpicándose V t20} {con P t21} {las D t22} {espumas N t23} {del P t24} {mar N t25}
+{de P t26} {tempestades N t27} {infernales G t28} {y C t29} {divinas G t30} {. O t31}
+{De P t32} {mi D t33} {triste G t34} {corona N t35} {, O t36} {¿ O t37} {cuántas Q t38} {son V t39} {las D t40} {espinas N t41} {? O t42}
+{Pues C t43} {, O t44} {una D t45} {a P t46} {una D t47} {, O t48} {apenas A t49} {me Q t50} {las Q t51} {puedo V t52} {arrancar V t53} {. O t54}
+{Recuerdas N t55} {mis D t56} {confianzas N t57} {, O t58} {pues C t59} {las D t60} {ruges N t61} {, O t62} {¡ O t63} {oh O t64} {mar N t65} {! O t66}
+{¡ O t67} {Y C t68} {recuerdas N t69} {mis D t70} {penas N t71} {, O t72} {ruiseñor N t73} {, O t74} {pues C t75} {las D t76} {trinas N t77} {! O t78}
+{Voz N t79} {de P t80} {fuerza N t81} {o C t82} {dulzura N t83} {en P t84} {la D t85} {gloria N t86} {del P t87} {día N t88} {, O t89}
+{bajo P t90} {los D t91} {vastos N t92} {cielos N t93} {, O t94} {sobre P t95} {los D t96} {oceanos N t97} {, O t98}
+{inclinemos V t99} {la D t100} {frente N t101} {ante P t102} {la D t103} {Poesía R t104} {. O t105}
+{Dejémonos Q t106} {de P t107} {palabras N t108} {y C t109} {gestos N t110} {vanos G t111} {; O t112}
+{y C t113} {puesto V t114} {que C t115} {el D t116} {instante N t117} {es V t118} {bueno G t119} {todavía A t120} {, O t121}
+{¡ O t122} {levantemos V t123} {los D t124} {ojos N t125} {y C t126} {juntemos G t127} {las D t128} {manos N t129} {! O t130}

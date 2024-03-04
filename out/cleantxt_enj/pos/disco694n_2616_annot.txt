@@ -1,0 +1,13 @@
+{No A t1} {seas V t2} {caprichosa G t3} {ni C t4} {confusa G t5}
+{sé V t6} {dulce G t7} {, O t8} {sé V t9} {tranquila G t10} {, O t11} {sé V t12} {sincera G t13} {, O t14}
+{pues C t15} {tienes V t16} {un D t17} {poeta N t18} {, O t19} {sé V t20} {musa N t21} {, O t22}
+{y C t23} {del P t24} {hombre N t25} {sé V t26} {tú Q t27} {la D t28} {compañera N t29} {! O t30}
+{Sabe V t31} {hacer V t32} {lo D t33} {que Q t34} {importas N t35} {y C t36} {que C t37} {inspiras G t38}
+{y C t39} {sabe V t40} {perpetuar V t41} {dulces G t42} {mañanas N t43} {. O t44}
+{¡ O t45} {Dios R t46} {te Q t47} {de P t48} {el D t49} {son N t50} {rosado G t51} {de P t52} {las D t53} {liras O t54}
+{y C t55} {la D t56} {alegría N t57} {azul G t58} {de P t59} {las D t60} {campanas N t61} {! O t62}
+{Y C t63} {Dios R t64} {te Q t65} {de P t66} {tranquilidad N t67} {tan A t68} {pura G t69}
+{como C t70} {el D t71} {agua N t72} {clara G t73} {purifique V t74}
+{el D t75} {minuro N t76} {feliz G t77} {de P t78} {la D t79} {hora N t80} {obscura G t81} {! O t82}
+{Y C t83} {que C t84} {la D t85} {mano N t86} {del P t87} {Señor N t88} {te Q t89} {indique V t90}
+{senda N t91} {florida G t92} {en P t93} {esta D t94} {vida N t95} {dura G t96} {! O t97}

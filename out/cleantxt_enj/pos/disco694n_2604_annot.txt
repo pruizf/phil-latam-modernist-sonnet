@@ -1,0 +1,14 @@
+{En P t1} {su D t2} {maravillosa G t3} {vida N t4} {trabaja V t5} {quieto Q t6} {. O t7}
+{El D t8} {reloj N t9} {de P t10} {su D t11} {hora N t12} {en P t13} {su D t14} {tranquilidad N t15} {. O t16}
+{Pasa V t17} {un D t18} {soplo N t19} {de P t20} {biblioteca N t21} {: O t22} {ya A t23} {es V t24} {Bagdad R t25}
+{o C t26} {Insbruck R t27} {, O t28} {o C t29} {bien A t30} {algo Q t31} {que C t32} {habla V t33} {de P t34} {Paracleto R t35} {. O t36}
+{No A t37} {sé V t38} {si C t39} {, O t40} {a P t41} {veces N t42} {, O t43} {su D t44} {verbo N t45} {ágil G t46} {al P t47} {conceto N t48}
+{en P t49} {su D t50} {enérgica G t51} {forma N t52} {, O t53} {pasa V t54} {la D t55} {Humanidad R t56}
+{en P t57} {su D t58} {exceso N t59} {de P t60} {pasión N t61} {o C t62} {de P t63} {verdad N t64} {. O t65}
+{Yo Q t66} {sé V t67} {que C t68} {le Q t69} {conozco V t70} {, O t71} {le Q t72} {mido G t73} {y C t74} {le Q t75} {interpreto V t76} {. O t77}
+{Desconfía R t78} {de P t79} {los D t80} {que Q t81} {se Q t82} {apropicuan V t83} {al P t84} {daño N t85}
+{de P t86} {ese D t87} {querer N t88} {usual G t89} {que C t90} {cariños N t91} {nos Q t92} {finge N t93} {, O t94}
+{pues C t95} {siendo V t96} {bachiller N t97} {le Q t98} {doctoró V t99} {el D t100} {engaño N t101} {. O t102}
+{Así A t103} {, O t104} {su D t105} {amor N t106} {no A t107} {corta G t108} {ni C t109} {su D t110} {afecto N t111} {restringe V t112} {, O t113}
+{sino C t114} {cuando C t115} {tritura V t116} {muy A t117} {cuerdamente A t118} {, O t119} {al P t120} {paño N t121} {, O t122}
+{la D t123} {ración N t124} {de P t125} {miserias N t126} {con P t127} {que Q t128} {ayuda V t129} {a P t130} {la D t131} {Esfinge R t132} {. O t133}

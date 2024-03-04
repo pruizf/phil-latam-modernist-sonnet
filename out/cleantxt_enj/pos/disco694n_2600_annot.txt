@@ -1,0 +1,14 @@
+{Inclinaba V t1} {la D t2} {lora N t3} {su D t4} {cabeza N t5} {y C t6} {dos D t7} {cuentas N t8}
+{amarillas G t9} {y C t10} {negras G t11} {- O t12} {sus D t13} {ojos-iniciaban V t14}
+{cosas N t15} {antiguas G t16} {y C t17} {misteriosas G t18} {, O t19} {hablaban V t20}
+{de P t21} {historias N t22} {anti-colombinas G t23} {y C t24} {violentas G t25} {. O t26}
+{Sus D t27} {patas N t28} {desgranaban V t29} {mil D t30} {chiles N t31} {y C t32} {pimientas N t33}
+{cual Q t34} {las Q t35} {que Q t36} {los D t37} {correos N t38} {antiguos G t39} {masticaban V t40}
+{y C t41} {sus D t42} {pupilas N t43} {áureas G t44} {que Q t45} {profundizan V t46} {lentas G t47}
+{mirando V t48} {en P t49} {lo D t50} {profundo G t51} {del P t52} {alma N t53} {socavaban V t54} {. O t55}
+{Alma N t56} {mía Q t57} {que C t58} {todas D t59} {mis D t60} {ilusiones N t61} {labras G t62} {: O t63}
+{- O t64} {libro N t65} {de P t66} {mi D t67} {vida-apaciento N t68} {mis D t69} {cabras N t70}
+{queriendo V t71} {a P t72} {las D t73} {divinas N t74} {y C t75} {adorando V t76} {a P t77} {las D t78} {feas G t79}
+{y C t80} {corno N t81} {el D t82} {gran G t83} {Guillermo R t84} {, O t85} {florecido G t86} {de P t87} {ideas N t88} {, O t89}
+{corno N t90} {él Q t91} {dijo V t92} {en P t93} {su D t94} {vida N t95} {: O t96} {son V t97} {palabras N t98} {, O t99} {palabras N t100} {, O t101}
+{yo Q t102} {diré V t103} {de P t104} {mi D t105} {vida N t106} {: O t107} {son V t108} {ideas N t109} {, O t110} {ideas N t111} {. O t112}

@@ -1,0 +1,14 @@
+{Puesto V t1} {que C t2} {tú Q t3} {me Q t4} {dices N t5} {que Q t6} {eres V t7} {mi D t8} {hijo N t9} {, O t10} {¡ O t11} {hijo N t12} {mío D t13} {! O t14}
+{y C t15} {tienes V t16} {fe N t17} {en P t18} {mis D t19} {lirios N t20} {, O t21} {confianza N t22} {en P t23} {mis D t24} {rosas N t25} {, O t26}
+{voy V t27} {a P t28} {confiarte V t29} {ideas N t30} {, O t31} {voy V t32} {a P t33} {decirte V t34} {cosas N t35} {, O t36}
+{y C t37} {amarás A t38} {grandemente G t39} {a P t40} {tu D t41} {Rubén R t42} {Darío R t43} {. O t44}
+{Tú Q t45} {comprendes V t46} {mis D t47} {versos N t48} {e C t49} {interpretas N t50} {mis D t51} {prosas G t52}
+{y C t53} {las D t54} {aguas N t55} {que Q t56} {corren V t57} {en P t58} {mi D t59} {profundo G t60} {río N t61} {, O t62}
+{y C t63} {, O t64} {así A t65} {, O t66} {cuando C t67} {te Q t68} {hable V t69} {de P t70} {las D t71} {Musas R t72} {hermosas G t73} {, O t74}
+{séme V t75} {profundamente A t76} {y C t77} {eternamente A t78} {mío D t79} {. O t80}
+{Algo Q t81} {de P t82} {la D t83} {ilusión N t84} {, O t85} {algo Q t86} {del P t87} {pensamiento N t88} {, O t89}
+{algo Q t90} {del P t91} {corazón N t92} {, O t93} {algo Q t94} {del P t95} {sentimiento N t96} {, O t97}
+{de P t98} {las D t99} {cosas N t100} {que Q t101} {son V t102} {, O t103} {de P t104} {las D t105} {cosas N t106} {que Q t107} {siento V t108} {: O t109}
+{lo D t110} {que Q t111} {he V t112} {visto V t113} {en P t114} {la D t115} {tierra N t116} {, O t117} {lo D t118} {que Q t119} {he V t120} {oído V t121} {en P t122} {el D t123} {mar N t124} {, O t125}
+{lo D t126} {que Q t127} {puedo V t128} {ofrecer V t129} {, O t130} {lo D t131} {que Q t132} {brinda V t133} {mi D t134} {aliento N t135}
+{y C t136} {lo D t137} {que Q t138} {en P t139} {mi D t140} {palabra N t141} {te Q t142} {pueda V t143} {yo Q t144} {ofrendar V t145} {. O t146}

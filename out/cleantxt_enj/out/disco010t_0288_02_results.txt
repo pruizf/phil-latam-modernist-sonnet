@@ -1,0 +1,14 @@
+{Soñé V} {que C} {estaba V} {muerto G} {, O} {Años R} {hacía V} {, O}	O		
+{durmiendo V} {en P} {paz N} {las D} {ansias N} {de P} {la D} {guerra N} {, O}	O		
+{me Q} {solazaba V} {en P} {abonar V} {la D} {tierra N}	B	oracional	cp01
+{que Q} {con P} {amor N} {de P} {madre N} {me Q} {cubría V} {... O}	I	oracional	cp01
+{Entre P} {mi D} {tumba N} {estrecho G} {me Q} {sentía V} {; O}	O		
+{y C} {, O} {como C} {el D} {león N} {que Q} {el D} {domador N} {encierra V}	B	enlace_subj_verb	ld01
+{contra P} {la D} {jaula N} {con P} {furor N} {se Q} {aferra V} {, O}	I	enlace_subj_verb	ld01
+{yo Q} {, O} {viviendo V} {otra D} {vez N} {, O} {sobresalía V} {. O}	O		
+{Vi V} {también A} {que C} {, O} {por P} {leyes N} {misteriosas G} {, O}	O		
+{de P} {las D} {carnes N} {brotaban V} {los D} {gusanos N} {, O}	O		
+{pero C} {que Q} {se Q} {tornaban V} {mariposas G} {... O}	O		
+{Súbito R} {, O} {no A} {vi V} {nada Q} {: O} {era V} {un D} {abismo N} {; O}	O		
+{cegué N} {; O} {me Q} {estremecí V} {; O} {tendí V} {las D} {manos N} {; O}	O		
+{¡ O} {y C} {caí V} {desplomado G} {... O} {entre P} {mí Q} {mismo D} {! O}	O		

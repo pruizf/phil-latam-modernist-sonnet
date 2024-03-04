@@ -1,0 +1,14 @@
+{El D} {golpe N} {de P} {la D} {hoz N} {sobre P} {la D} {espiga N}	B	enlace_subj_verb	ld01
+{repercute V} {en P} {el D} {cielo N} {; O} {porque C} {el D} {cielo N}	IB	enlace_subj_verb;enlace_subj_verb	ld01;ld01
+{hace V} {del P} {trigo N} {el D} {pan N} {que Q} {calma N} {el D} {duelo N}	I	enlace_subj_verb	ld01
+{y C} {hace V} {la D} {hostia N} {que C} {el D} {pesar N} {mitiga V} {. O}	O		
+{El D} {codiciado G} {pan N} {de P} {blanda G} {miga N}	B	enlace_subj_verb	ld01
+{y C} {la D} {hostia N} {ritual G} {son V} {, O} {sobre P} {el D} {suelo N} {, O}	I	enlace_subj_verb	ld01
+{trasuntos N} {de P} {ese D} {Dios R} {que Q} {da V} {consuelo N}	O		
+{al P} {mismo Q} {que C} {lo Q} {insulta V} {y C} {que C} {lo Q} {hostiga V} {. O}	O		
+{En P} {el D} {campo N} {la D} {espiga N} {que Q} {se Q} {mece V}	B	enlace_od_verb	ld02
+{a P} {compás N} {de P} {las D} {músicas N} {del P} {viento N} {, O}	I	enlace_od_verb	ld02
+{siempre A} {hacia P} {el D} {cielo N} {sin P} {doblarse V} {crece V} {. O}	O		
+{Heraldo R} {el D} {trigo N} {de P} {ventura N} {y C} {calma N}	B	enlace_subj_verb	ld01
+{cuando C} {no A} {es V} {hostia N} {, O} {es V} {pan N} {: O} {es V} {alimento N} {, O}	I	enlace_subj_verb	ld01
+{¡ O} {cuando C} {no A} {para P} {el D} {cuerpo N} {, O} {para P} {el D} {alma N} {! O}	O		

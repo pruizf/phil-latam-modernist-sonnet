@@ -1,0 +1,14 @@
+{A P} {tus D} {pies N} {Triptolemo R} {, O} {Dea R} {, O} {su D} {cornucopia N}	B	enlace_subj_verb	ld01
+{vierte V} {, O} {mientras C} {tus D} {manos N} {alzan V} {, O} {sobre P} {la D} {testa N}	IB	enlace_subj_verb;sirrem_adj_noun	ld01;pp02
+{encrespada G} {de P} {oro N} {, O} {la D} {simbólica G} {cesta N}	I	sirrem_adj_noun	pp02
+{en P} {donde Q} {el D} {Iris R} {mágico G} {sus D} {riquezas N} {acopia G} {. O}	O		
+{El D} {perfume N} {que Q} {nace V} {de P} {tu D} {sustancia N} {propia G}	B	enlace_subj_verb	ld01
+{unge V} {los D} {palpitantes N} {senos G} {de P} {la D} {floresta N} {, O}	I	enlace_subj_verb	ld01
+{y C} {la D} {estación N} {que Q} {ríe V} {bajo P} {su D} {luz N} {de P} {fiesta N} {, O}	O		
+{hace V} {tus D} {gracias N} {suyas Q} {y C} {tus D} {sonrisas N} {copia N} {. O}	O		
+{Pues C} {al P} {paso N} {de P} {Flora R} {la D} {tierra N} {se Q} {conmueve V} {, O}	O		
+{y C} {con P} {formas N} {de P} {oro N} {, O} {de P} {púrpura N} {, O} {de P} {nieve N} {, O}	O		
+{de P} {azul N} {, O} {la D} {maravilla N} {de P} {su D} {misterio N} {expresa V} {. O}	O		
+{Así A} {, O} {llena G} {de P} {música N} {la D} {selva N} {melancólica G} {, O}	O		
+{traduce V} {por P} {el D} {son N} {de P} {la D} {flauta N} {bucólica G}	B	enlace_od_verb	ld02
+{lo D} {que Q} {arde V} {, O} {lo D} {que Q} {aspira V} {, O} {lo D} {que Q} {ama V} {, O} {lo D} {que Q} {besa V} {. O}	I	enlace_od_verb	ld02

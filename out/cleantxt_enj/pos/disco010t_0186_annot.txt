@@ -1,0 +1,14 @@
+{Al P t1} {despuntar V t2} {el D t3} {estrellado V t4} {coro N t5} {, O t6}
+{pósase V t7} {en P t8} {una D t9} {cúspide N t10} {nevada G t11} {: O t12}
+{lo Q t13} {envuelve V t14} {el D t15} {día N t16} {en P t17} {la D t18} {postrer G t19} {mirada N t20} {; O t21}
+{y C t22} {revienta N t23} {a P t24} {sus D t25} {pies N t26} {trueno N t27} {sonoro G t28} {. O t29}
+{Su D t30} {blanca G t31} {gola N t32} {es V t33} {imperial G t34} {decoro N t35} {; O t36}
+{su D t37} {ceño N t38} {varonil G t39} {, O t40} {pomo N t41} {de P t42} {espada N t43} {; O t44}
+{sus D t45} {garfios N t46} {, O t47} {siempre A t48} {actitud N t49} {airada G t50} {, O t51}
+{curvos N t52} {puñales G t53} {de P t54} {marfil N t55} {con P t56} {oro N t57} {. O t58}
+{Solitario G t59} {en P t60} {la D t61} {cúspide N t62} {se Q t63} {siente V t64} {: O t65}
+{en P t66} {las D t67} {pálidas N t68} {nieblas G t69} {se Q t70} {confunde V t71} {; O t72}
+{desvanece V t73} {el D t74} {fulgor N t75} {de P t76} {su D t77} {aureola N t78} {, O t79}
+{y C t80} {esfumándose V t81} {entonces A t82} {lentamente A t83} {, O t84}
+{se Q t85} {hunde V t86} {en P t87} {la D t88} {noche N t89} {como C t90} {el D t91} {alma N t92} {se Q t93} {hunde V t94}
+{en P t95} {la D t96} {meditación N t97} {cuando C t98} {está V t99} {sola G t100} {. O t101}

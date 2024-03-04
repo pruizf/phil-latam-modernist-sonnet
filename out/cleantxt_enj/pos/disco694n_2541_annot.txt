@@ -1,0 +1,14 @@
+{Miré V t1} {al P t2} {sentarme V t3} {a P t4} {la D t5} {mesa N t6} {, O t7}
+{bañado G t8} {en P t9} {la D t10} {luz N t11} {del P t12} {día N t13}
+{el D t14} {retrato N t15} {de P t16} {María R t17} {, O t18}
+{la D t19} {cubana-japonesa N t20} {. O t21}
+{El D t22} {aire N t23} {acaricia V t24} {y C t25} {besa V t26}
+{como C t27} {un D t28} {amante N t29} {lo Q t30} {haría V t31} {, O t32}
+{la D t33} {orgullosa G t34} {bizarría N t35}
+{de P t36} {la D t37} {cabellera N t38} {espesa G t39} {. O t40}
+{Diera V t41} {un D t42} {tesoro N t43} {el D t44} {Mikado R t45}
+{por P t46} {sentirse V t47} {acariciado G t48}
+{por P t49} {princesa N t50} {tan A t51} {gentil G t52} {, O t53}
+{digna G t54} {de P t55} {que C t56} {un D t57} {gran G t58} {pintor N t59}
+{le Q t60} {pinte V t61} {junto G t62} {a P t63} {una D t64} {flor N t65}
+{en P t66} {un D t67} {vaso N t68} {de P t69} {marfil N t70} {. O t71}

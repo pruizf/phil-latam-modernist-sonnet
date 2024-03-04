@@ -1,0 +1,14 @@
+{¿ O} {Por P} {qué Q} {sufres G} {, O} {si C} {es V} {bello G} {cuanto Q} {miras N} {: O}	O		
+{el D} {cielo N} {, O} {el D} {campo N} {, O} {el D} {mar N} {, O} {el D} {mundo N} {entero G} {? O}	O		
+{¿ O} {Por P} {qué Q} {blandos G} {apóstrofes N} {de P} {acero N} {, O}	O		
+{por P} {qué Q} {protestas N} {cuando C} {no A} {suspiras G} {? O}	O		
+{¿ O} {Por P} {qué Q} {entre P} {nubes N} {de P} {tristeza N} {giras N} {, O}	O		
+{si C} {tras P} {de P} {cada D} {nube N} {hay V} {un D} {lucero N} {? O}	O		
+{Porque C} {sólo A} {el D} {dolor N} {es V} {verdadero G}	O		
+{y C} {todas D} {las D} {bellezas N} {son V} {mentiras N} {... O}	O		
+{En P} {la D} {misma D} {belleza N} {el D} {dolor N} {cabe V} {: O}	O		
+{¡ O} {cuánta D} {bella G} {mujer N} {angustias G} {siente V}	B	enlace_od_verb	ld02
+{que C} {descubrir V} {no A} {puede V} {la D} {mirada N} {! O}	I	enlace_od_verb	ld02
+{Muy A} {hermosa G} {será V} {; O} {pero C} {¿ O} {quién Q} {sabe V}	B	enlace_od_verb	ld02
+{si C} {la D} {naturaleza N} {es V} {solamente A}	I	enlace_od_verb	ld02
+{una D} {mujer N} {hermosa G} {... O} {y C} {desgraciada N} {? O}	O		

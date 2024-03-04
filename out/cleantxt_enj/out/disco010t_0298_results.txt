@@ -1,0 +1,14 @@
+{Bandada G} {de P} {gorriones N} {sueña V} {en P} {vano G}	B	enlace_od_verb	ld02
+{derribar V} {alta G} {torre N} {, O} {y C} {la Q} {golpea V}	I	enlace_od_verb	ld02
+{con P} {sus D} {menudas G} {alas N} {: O} {tal Q} {jadea G}	B	sirrem_adj_noun	pp02
+{turba N} {envidiosa G} {en P} {su D} {delirio N} {insano G} {. O}	I	sirrem_adj_noun	pp02
+{No A} {importa V} {, O} {no A} {, O} {que C} {el D} {egoísmo N} {humano G}	O		
+{junte G} {a P} {toda D} {la D} {estúpida G} {ralea N}	B	sirrem_noun_prep	pd02
+{contra P} {una D} {sola G} {cumbre N} {de P} {la D} {idea N} {: O}	I	sirrem_noun_prep	pd02
+{¡ O} {una D} {nube N} {no A} {seca G} {el D} {oceano N} {! O}	O		
+{Cual P} {puñado N} {de P} {arenas N} {, O} {en P} {su D} {anhelo N}	O		
+{se Q} {unen V} {las D} {ambiciones N} {despechadas G} {, O}	O		
+{y C} {se Q} {esparcen V} {al P} {golpe N} {de P} {las D} {olas N} {... O}	O		
+{¡ O} {Para P} {cruzar V} {por P} {el D} {azul N} {del P} {cielo N} {, O}	O		
+{los D} {gorriones N} {se Q} {juntan V} {en P} {bandadas G} {; O}	O		
+{en P} {tanto A} {que C} {las D} {águilas N} {van V} {solas G} {! O} {... O}	O		

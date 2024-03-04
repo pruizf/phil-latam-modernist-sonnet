@@ -1,0 +1,14 @@
+{Al P t1} {otro D t2} {lado N t3} {del P t4} {cequión N t5} {, O t6} {vecinas G t7}
+{a P t8} {una D t9} {choza N t10} {infeliz G t11} {, O t12} {tienden V t13} {sus D t14} {brazos N t15}
+{dos D t16} {cruces N t17} {, O t18} {en P t19} {que Q t20} {cuelgan V t21} {a P t22} {pedazos N t23}
+{dos D t24} {coronas N t25} {que Q t26} {hoy A t27} {sólo A t28} {son V t29} {de P t30} {espinas N t31} {. O t32}
+{¿ O t33} {Quiénes Q t34} {duermen N t35} {ahí A t36} {? O t37} {Leyes R t38} {divinas D t39}
+{juntan V t40} {quizás A t41} {, O t42} {en P t43} {póstumos N t44} {regazos G t45} {, O t46}
+{a P t47} {dos D t48} {héroes N t49} {que Q t50} {ayer A t51} {, O t52} {rotos G t53} {los D t54} {lazos N t55} {, O t56}
+{combatieron V t57} {rodando V t58} {por P t59} {las D t60} {ruinas N t61} {. O t62}
+{¡ O t63} {Ah O t64} {! O t65} {Yo Q t66} {sé V t67} {que C t68} {en P t69} {incógnito G t70} {heroísmo N t71}
+{si C t72} {, O t73} {entre P t74} {los D t75} {choques N t76} {de P t77} {la D t78} {lucha N t79} {acerba V t80} {, O t81}
+{muerde V t82} {el D t83} {polvo N t84} {el D t85} {intrépido G t86} {soldado N t87} {, O t88}
+{tendrá V t89} {su D t90} {tumba N t91} {en P t92} {ese D t93} {polvo N t94} {mismo G t95} {, O t96}
+{y C t97} {en P t98} {esa D t99} {tumba N t100} {crecerá V t101} {la D t102} {yerba N t103} {, O t104}
+{y C t105} {en P t106} {esa D t107} {yerba N t108} {pastará V t109} {el D t110} {ganado N t111} {... O t112}

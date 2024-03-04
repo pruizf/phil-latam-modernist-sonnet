@@ -1,0 +1,14 @@
+{La D} {tortuga N} {de P} {oro N} {camina V} {por P} {la D} {alfombra N}	O		
+{y C} {traza N} {por P} {la D} {alfombra N} {un D} {misterioso G} {estigma N} {; O}	O		
+{sobre P} {su D} {carapacho N} {hay V} {grabado V} {un D} {enigma N}	O		
+{y C} {un D} {círculo N} {enigmático G} {se Q} {dibuja V} {en P} {su D} {sombra N} {. O}	O		
+{Esos D} {signos N} {nos Q} {dicen V} {al P} {Dios R} {que C} {no A} {se Q} {nombra V}	O		
+{y C} {ponen V} {en P} {nosotros Q} {su D} {autoritario G} {estigma N} {: O}	O		
+{ese D} {círculo N} {encierra V} {la D} {clave N} {del P} {enigma N}	B	oracional	cp01
+{que Q} {a P} {Minotauro R} {mata V} {y C} {a P} {la D} {Medusa R} {asombra V} {. O}	I	oracional	cp01
+{Ramo N} {de P} {sueño N} {, O} {mazo N} {de P} {ideas N} {florecidas G}	O		
+{en P} {explosión N} {de P} {cantos N} {y C} {en P} {floración N} {de P} {vidas N} {, O}	O		
+{sois N} {mi D} {pecho N} {suave G} {, O} {mi D} {pensamiento N} {parco G} {. O}	O		
+{Y C} {cuando C} {hayan V} {pasado V} {las D} {sedas N} {de P} {la D} {fiesta N} {, O}	O		
+{decidme V} {los D} {sutiles G} {efluvios N} {de P} {la D} {orquesta N}	O		
+{y C} {lo D} {que Q} {está V} {suspenso N} {entre P} {el D} {violín N} {y C} {el D} {arco N} {... O}	O		

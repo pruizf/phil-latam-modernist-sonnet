@@ -1,0 +1,14 @@
+{No A t1} {me Q t2} {ames V t3} {como C t4} {a P t5} {un D t6} {hombre N t7} {que Q t8} {penetra V t9} {en P t10} {tu D t11} {vida N t12} {, O t13}
+{ámame N t14} {como C t15} {a P t16} {un D t17} {libro N t18} {grato G t19} {a P t20} {tu D t21} {corazón N t22} {, O t23}
+{que Q t24} {ardientemente A t25} {sabe V t26} {cauterizar V t27} {tu D t28} {herida N t29}
+{o C t30} {que C t31} {como C t32} {un D t33} {consuelo N t34} {te Q t35} {ofrece V t36} {una D t37} {canción N t38} {. O t39}
+{Un D t40} {libro N t41} {( O t42} {Sólo A t43} {un D t44} {alma N t45} {que Q t46} {de P t47} {letras N t48} {vestida G t49}
+{surge V t50} {a P t51} {tus D t52} {ojo O t53} {como C t54} {fantástica G t55} {visión N t56} {) O t57}
+{Tendrás R t58} {en P t59} {él Q t60} {tu D t61} {acaso A t62} {página N t63} {preferida G t64}
+{que Q t65} {te Q t66} {hablará V t67} {de P t68} {muchas D t69} {cosas N t70} {que Q t71} {ya A t72} {no A t73} {son V t74}
+{Ámame V t75} {como C t76} {a P t77} {un D t78} {libro N t79} {de P t80} {sabio G t81} {o C t82} {de P t83} {poeta N t84} {, O t85}
+{en P t86} {el D t87} {que Q t88} {hallen V t89} {refugio N t90} {tu D t91} {combustión N t92} {secreta G t93}
+{y C t94} {tu D t95} {temor N t96} {por P t97} {cuanto A t98} {pueda V t99} {venir V t100} {después A t101}
+{Ámame Q t102} {como C t103} {a P t104} {un D t105} {libro N t106} {de P t107} {ensueños N t108} {y C t109} {de P t110} {arcanos G t111} {, O t112}
+{que Q t113} {, O t114} {en P t115} {un D t116} {arranque N t117} {brusco G t118} {, O t119} {se Q t120} {escapa V t121} {de P t122} {tus D t123} {manos N t124} {, O t125}
+{para P t126} {dejar V t127} {sus D t128} {hojas N t129} {deshechas G t130} {a P t131} {tus D t132} {pies N t133} {. O t134}

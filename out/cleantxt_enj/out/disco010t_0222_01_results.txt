@@ -1,0 +1,14 @@
+{La D} {tarde N} {se Q} {pasea V} {como C} {convaleciente G}	O		
+{por P} {el D} {verdor N} {espeso G} {de P} {los D} {cañaverales N}	O		
+{Desflécase V} {una D} {lluvia N} {de P} {menudos G} {cristales N} {; O}	O		
+{y C} {el D} {paisaje N} {retiembla V} {como C} {a P} {través N} {de P} {un D} {lente N} {. O}	O		
+{Las D} {chimeneas N} {rojas G} {de P} {la D} {fábrica N} {ingente G}	B	enlace_subj_verb	ld01
+{dan V} {la D} {impresión N} {de P} {un D} {barco N} {que Q} {espera V} {las D} {señales N}	IB	enlace_subj_verb;sirrem_noun_prep	ld01;pd02
+{para P} {zarpar V} {, O} {y C} {cuyas Q} {campanas N} {funerales G}	IB	sirrem_noun_prep;sirrem_noun_prep	pd02;pp05
+{de P} {vez N} {en P} {cuando C} {vuélcanse V} {acompasadamente A}	IB	sirrem_noun_prep;enlace_subj_verb	pp05;ld01
+{Tal D} {cual Q} {palmera N} {impone V} {contra P} {el D} {cielo N} {su D} {estampa N}	IB	enlace_subj_verb;sirrem_noun_prep	ld01;pp06.1
+{de P} {abanicos N} {, O} {que Q} {luce V} {calado N} {el D} {varillaje N}	I	sirrem_noun_prep	pp06.1
+{Las D} {nubes N} {fugan V} {. O} {Chillan V} {los D} {insectos N} {. O} {Escampa R} {. O}	O		
+{Y C} {un D} {acordeón N} {rústico G} {alarga V} {un D} {danzón N} {vago G} {, O}	O		
+{que Q} {se Q} {disuelve V} {sobre P} {la D} {angustia N} {del P} {paisaje N}	O		
+{como C} {un D} {jirón N} {de P} {niebla N} {sobre P} {la D} {paz N} {de P} {un D} {lago N} {. O}	O		

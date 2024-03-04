@@ -1,0 +1,14 @@
+{Dime R} {, O} {si C} {has V} {visitado V} {la D} {Real R} {Armería R} {, O}	O		
+{¿ O} {qué Q} {sentiste V} {ante P} {aquellas D} {antiguas G} {armaduras N} {? O}	O		
+{Mi D} {verso N} {evocativo G} {perfila V} {las D} {figuras N}	B	sirrem_adj_noun	pp02
+{heroicas G} {que Q} {se Q} {pierden V} {en P} {esa D} {lejanía N}	I	sirrem_adj_noun	pp02
+{Poeta R} {que C} {a P} {ti Q} {llego V} {desde P} {un D} {remoto G} {día N} {, O}	O		
+{¿ O} {cómo A} {podré V} {halagarte V} {con P} {mis D} {palabras N} {duras G} {, O}	O		
+{si C} {estoy V} {enamorado G} {de P} {aquellas D} {aventuras N}	O		
+{y C} {sólo A} {siento V} {aquella D} {vetusta N} {poesía N} {? O}	O		
+{¿ O} {Quieres N} {oír V} {mi D} {canto N} {? O} {Visita V} {el D} {gran G} {museo N}	B	sirrem_noun_prep	pp05
+{de P} {las D} {armas N} {; O} {y C} {, O} {entonces A} {, O} {colmarás V} {tu D} {deseo N} {, O}	I	sirrem_noun_prep	pp05
+{posando V} {en P} {esas D} {viejas G} {panoplias N} {tus D} {miradas N}	O		
+{Tal Q} {, O} {ya A} {que C} {a P} {tu D} {capricho N} {mi D} {inspiración N} {someto N} {, O}	O		
+{como C} {una Q} {de P} {esas D} {viejas G} {panoplias N} {, O} {mi D} {soneto N}	B	enlace_subj_verb	ld01
+{desdobla V} {el D} {abanico N} {de P} {sus D} {catorce D} {espadas N} {. O}	I	enlace_subj_verb	ld01

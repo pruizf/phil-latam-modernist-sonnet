@@ -1,0 +1,14 @@
+{El D} {acordeón N} {rústico G} {envuelve V} {en P} {un D} {son N} {lento G}	O		
+{y C} {monótono G} {el D} {alma N} {del P} {paisaje N} {sensual G} {: O}	O		
+{es V} {un D} {danzón N} {que Q} {ondula V} {como C} {una D} {cinta N} {el D} {viento N}	O		
+{o C} {como C} {el D} {rizo N} {de P} {una D} {fontana N} {de P} {cristal N}	O		
+{La D} {tarde N} {se Q} {deshoja V} {, O} {con P} {el D} {recogimiento N}	B	sirrem_noun_prep	pp06.1
+{de P} {una D} {monja N} {que Q} {sueña V} {lejos A} {del P} {bien N} {y C} {el D} {mal N} {, O}	I	sirrem_noun_prep	pp06.1
+{y C} {la D} {eglógica G} {música N} {aletarga G} {el D} {momento N}	O		
+{y C} {circunscribe V} {toda D} {la D} {vida N} {tropical G}	O		
+{Acordeón R} {, O} {que Q} {tienes V} {vaivenes N} {de P} {resaca N} {: O}	O		
+{algo Q} {hay V} {en P} {ti Q} {que C} {rima N} {con P} {la D} {nerviosa G} {hamaca N} {, O}	O		
+{en P} {donde Q} {la D} {pereza N} {se Q} {mece V} {en P} {blando V} {son V}	B	sirrem_verb_adv	pp11
+{Así A} {, O} {bajo P} {el D} {penacho N} {de P} {familiar G} {palmera N} {, O}	I	sirrem_verb_adv	pp11
+{mientras C} {se Q} {va V} {muriendo V} {la D} {tarde N} {, O} {el D} {alma N} {entera G}	B	sirrem_noun_prep	pp05
+{del P} {trópico N} {, O} {parece V} {que C} {rima N} {una D} {canción N}	I	sirrem_noun_prep	pp05

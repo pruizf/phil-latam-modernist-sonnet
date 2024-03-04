@@ -1,0 +1,14 @@
+{Una D t1} {vez N t2} {bajo P t3} {el D t4} {cóndor N t5} {de P t6} {su D t7} {altura N t8}
+{a P t9} {pugnar V t10} {con P t11} {el D t12} {boa N t13} {, O t14} {que Q t15} {, O t16} {hecho V t17} {un D t18} {lazo N t19} {, O t20}
+{dormía V t21} {astutamente A t22} {en P t23} {el D t24} {regazo N t25}
+{compasivo G t26} {de P t27} {trágica G t28} {espesura N t29}
+{El D t30} {cóndor N t31} {picoteó V t32} {la D t33} {escama N t34} {dura G t35} {; O t36}
+{y C t37} {la D t38} {sierpe N t39} {, O t40} {al P t41} {sentir V t42} {el D t43} {picotazo N t44} {, O t45}
+{fingió V t46} {en P t47} {el D t48} {césped N t49} {el D t50} {nervioso G t51} {trazo N t52}
+{con P t53} {que Q t54} {la D t55} {tempestad N t56} {firma N t57} {en P t58} {la D t59} {anchura N t60} {. O t61}
+{El D t62} {cóndor N t63} {cogió V t64} {el D t65} {boa N t66} {; O t67} {y C t68} {en P t69} {un D t70} {vuelo N t71}
+{sacudiólo G t72} {con P t73} {ímpetu N t74} {bravío G t75} {, O t76}
+{y C t77} {lo Q t78} {dejó V t79} {caer V t80} {desde P t81} {su D t82} {cielo N t83}
+{Inclinó V t84} {la D t85} {mirada N t86} {al P t87} {bosque N t88} {umbrío G t89} {; O t90}
+{y C t91} {pudo V t92} {ver V t93} {que C t94} {, O t95} {en P t96} {el D t97} {lejano G t98} {suelo N t99} {, O t100}
+{en P t101} {vez N t102} {del P t103} {boa N t104} {, O t105} {serpenteaba V t106} {un D t107} {río N t108} {. O t109}

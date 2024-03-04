@@ -1,0 +1,14 @@
+{Maldigo V t1} {la D t2} {quijada N t3} {del P t4} {asno N t5} {, O t6} {el D t7} {enemigo N t8} {, O t9}
+{Odio R t10} {la D t11} {flecha N t12} {, O t13} {el D t14} {sable N t15} {, O t16} {la D t17} {honda N t18} {, O t19} {la D t20} {catapulta V t21} {; O t22}
+{maldigo G t23} {el D t24} {duro G t25} {instinto N t26} {de P t27} {la D t28} {guerra N t29} {, O t30} {maldigo V t31}
+{la D t32} {bárbara N t33} {azagaya R t34} {y C t35} {la D t36} {polvora N t37} {culta G t38} {; O t39}
+{y C t40} {a P t41} {quien Q t42} {ahoga V t43} {en P t44} {sangre N t45} {la D t46} {cosecha N t47} {de P t48} {trigo N t49}
+{y C t50} {a P t51} {quien Q t52} {ciego G t53} {de P t54} {rabia N t55} {la D t56} {Cruz R t57} {de P t58} {Paz R t59} {insulta G t60} {; O t61}
+{a P t62} {Bonaparte R t63} {o C t64} {César R t65} {, O t66} {a P t67} {Marat R t68} {o C t69} {a P t70} {Rodrigo R t71} {, O t72}
+{príncipe N t73} {de P t74} {soldados N t75} {o C t76} {rey N t77} {de P t78} {turbamulta N t79} {. O t80}
+{Los D t81} {maldigo V t82} {por P t83} {tantas D t84} {tristes G t85} {almas N t86} {de P t87} {duelo N t88}
+{que Q t89} {van V t90} {todos D t91} {los D t92} {días N t93} {por P t94} {la D t95} {senda N t96} {del P t97} {cielo N t98}
+{precedidas G t99} {por P t100} {Cristo R t101} {, O t102} {a P t103} {pedir V t104} {paz N t105} {y C t106} {luz N t107} {, O t108}
+{por P t109} {Cristo R t110} {que Q t111} {solloza V t112} {, O t113} {que Q t114} {palidece V t115} {y C t116} {sufre V t117} {, O t118}
+{mientras C t119} {un D t120} {negro G t121} {incendio N t122} {de P t123} {salitre N t124} {y C t125} {azufre N t126}
+{obscurece V t127} {a P t128} {los D t129} {hombres N t130} {la D t131} {visión N t132} {de P t133} {la D t134} {Cruz R t135} {. O t136}

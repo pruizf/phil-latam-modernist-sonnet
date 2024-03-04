@@ -1,0 +1,14 @@
+{Inclinaba V} {la D} {lora N} {su D} {cabeza N} {y C} {dos D} {cuentas N}	B	sirrem_adj_noun	pp02
+{amarillas G} {y C} {negras G} {- O} {sus D} {ojos-iniciaban V}	IB	sirrem_adj_noun;enlace_od_verb	pp02;ld02
+{cosas N} {antiguas G} {y C} {misteriosas G} {, O} {hablaban V}	IB	enlace_od_verb;sirrem_verb_supl	ld02;pp23
+{de P} {historias N} {anti-colombinas G} {y C} {violentas G} {. O}	I	sirrem_verb_supl	pp23
+{Sus D} {patas N} {desgranaban V} {mil D} {chiles N} {y C} {pimientas N}	O		
+{cual Q} {las Q} {que Q} {los D} {correos N} {antiguos G} {masticaban V}	O		
+{y C} {sus D} {pupilas N} {áureas G} {que Q} {profundizan V} {lentas G}	B	enlace_subj_verb	ld01
+{mirando V} {en P} {lo D} {profundo G} {del P} {alma N} {socavaban V} {. O}	I	enlace_subj_verb	ld01
+{Alma N} {mía Q} {que C} {todas D} {mis D} {ilusiones N} {labras G} {: O}	O		
+{- O} {libro N} {de P} {mi D} {vida-apaciento N} {mis D} {cabras N}	O		
+{queriendo V} {a P} {las D} {divinas N} {y C} {adorando V} {a P} {las D} {feas G}	B	enlace_od_verb	ld02
+{y C} {corno N} {el D} {gran G} {Guillermo R} {, O} {florecido G} {de P} {ideas N} {, O}	I	enlace_od_verb	ld02
+{corno N} {él Q} {dijo V} {en P} {su D} {vida N} {: O} {son V} {palabras N} {, O} {palabras N} {, O}	O		
+{yo Q} {diré V} {de P} {mi D} {vida N} {: O} {son V} {ideas N} {, O} {ideas N} {. O}	O		

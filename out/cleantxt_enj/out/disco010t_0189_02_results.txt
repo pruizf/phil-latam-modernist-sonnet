@@ -1,0 +1,14 @@
+{Homero N} {está V} {tranquilo G} {: O} {sus D} {épicas G} {canciones N}	B	enlace_subj_verb	ld01
+{tienen V} {relampagueos N} {, O} {vértigos N} {y C} {explosiones N} {; O}	I	enlace_subj_verb	ld01
+{pero C} {él Q} {está V} {tranquilo G} {, O} {como C} {gimnasta V} {raro G}	B	enlace_subj_verb	ld01
+{que C} {sin P} {quemarse V} {pasa V} {por P} {entre P} {el D} {ígneo N} {aro N} {. O}	I	enlace_subj_verb	ld01
+{El D} {Dante R} {está V} {sereno N} {: O} {canta V} {obscuras G} {regiones N}	B	sirrem_noun_prep	pp05
+{de P} {tormentos N} {rebeldes G} {y C} {sórdidas G} {pasiones N} {; O}	I	sirrem_noun_prep	pp05
+{pero C} {él Q} {está V} {sereno N} {, O} {como C} {solemne G} {faro G}	O		
+{Que C} {en P} {la D} {pavura N} {negra G} {pone V} {su D} {punto N} {claro G} {. O}	O		
+{Shakespeare R} {y C} {Goethe R} {ahondan V} {dos D} {abismos N} {profundos G}	O		
+{-- O} {corazón N} {y C} {cerebro N} {-- O} {donde Q} {se Q} {agitan V} {mundos N} {; O}	O		
+{y C} {ni C} {el D} {de P} {Albión R} {se Q} {inquieta V} {, O} {ni C} {el D} {de P} {Weimar R} {vacila V} {... O}	O		
+{¡ O} {Así A} {la D} {altiva G} {cumbre N} {, O} {del P} {hielo N} {de P} {su D} {frente N}	B	sirrem_adj_noun	pp02
+{desata G} {, O} {como C} {el D} {genio N} {, O} {las D} {furias N} {de P} {un D} {torrente N} {; O}	I	sirrem_adj_noun	pp02
+{pero C} {ella Q} {, O} {como C} {el D} {genio N} {, O} {también A} {está V} {tranquila G} {! O} {... O}	O		

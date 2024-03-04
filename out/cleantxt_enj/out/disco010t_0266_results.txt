@@ -1,0 +1,14 @@
+{Las D} {campanas N} {anuncian V} {la D} {fiesta N} {; O}	O		
+{el D} {petardo G} {revienta N} {rotundo G} {; O}	O		
+{y C} {el D} {pilluelo N} {taimado G} {y C} {jocundo V}	B	enlace_od_verb	ld02
+{con P} {sus D} {risas N} {perturba V} {la D} {orquesta N} {. O}	I	enlace_od_verb	ld02
+{Procesión N} {fervorosa G} {y C} {honesta G}	O		
+{luce V} {el D} {palio N} {, O} {en P} {que Q} {arroja V} {este D} {mundo N} {, O}	O		
+{con P} {las D} {rosas N} {de P} {campo N} {fecundo G} {, O}	O		
+{las D} {de P} {triste G} {y C} {malvada G} {floresta N} {... O}	O		
+{A P} {la D} {vez N} {que C} {el D} {repique N} {en P} {la D} {torre N}	B	sirrem_adj_noun	pp02
+{rimar G} {logra V} {con P} {raudo N} {cohete N} {, O}	I	sirrem_adj_noun	pp02
+{que Q} {cual Q} {sierpe V} {metálica G} {corre V} {. O}	O		
+{Judas R} {arde V} {y C} {se Q} {lanza V} {al P} {infierno N}	O		
+{por P} {los D} {aires N} {, O} {volando V} {, O} {jinete N}	O		
+{en P} {enorme G} {y C} {diabólico G} {cuerno N} {... O}	O		

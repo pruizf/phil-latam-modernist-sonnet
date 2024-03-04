@@ -1,0 +1,14 @@
+{Francisca R} {, O} {tú Q} {has V} {venido V}	O		
+{en P} {la D} {hora N} {segura G} {; O}	O		
+{la D} {mañana N} {es V} {obscura N}	O		
+{y C} {está V} {caliente G} {el D} {nido N} {. O}	O		
+{Tú Q} {tienes V} {el D} {sentido N}	B	sirrem_noun_prep	pp06.1
+{de P} {la D} {palabra N} {pura G} {, O}	I	sirrem_noun_prep	pp06.1
+{y C} {tu D} {alma N} {te Q} {asegura V}	B	enlace_subj_verb	ld01
+{el D} {amante N} {marido N} {. O}	I	enlace_subj_verb	ld01
+{Un D} {marido N} {y C} {amante N}	B	oracional	cp01
+{que Q} {, O} {terrible G} {y C} {constante G} {, O}	I	oracional	cp01
+{será V} {contigo Q} {dos Q} {. O}	O		
+{Y C} {que C} {fuera V} {contigo Q} {, O}	O		
+{como C} {amante N} {y C} {amigo N} {, O}	O		
+{al P} {infierno N} {o C} {a P} {Dios R} {. O}	O		

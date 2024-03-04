@@ -1,0 +1,14 @@
+{Bandada G t1} {de P t2} {gorriones N t3} {sueña V t4} {en P t5} {vano G t6}
+{derribar V t7} {alta G t8} {torre N t9} {, O t10} {y C t11} {la Q t12} {golpea V t13}
+{con P t14} {sus D t15} {menudas G t16} {alas N t17} {: O t18} {tal Q t19} {jadea G t20}
+{turba N t21} {envidiosa G t22} {en P t23} {su D t24} {delirio N t25} {insano G t26} {. O t27}
+{No A t28} {importa V t29} {, O t30} {no A t31} {, O t32} {que C t33} {el D t34} {egoísmo N t35} {humano G t36}
+{junte G t37} {a P t38} {toda D t39} {la D t40} {estúpida G t41} {ralea N t42}
+{contra P t43} {una D t44} {sola G t45} {cumbre N t46} {de P t47} {la D t48} {idea N t49} {: O t50}
+{¡ O t51} {una D t52} {nube N t53} {no A t54} {seca G t55} {el D t56} {oceano N t57} {! O t58}
+{Cual P t59} {puñado N t60} {de P t61} {arenas N t62} {, O t63} {en P t64} {su D t65} {anhelo N t66}
+{se Q t67} {unen V t68} {las D t69} {ambiciones N t70} {despechadas G t71} {, O t72}
+{y C t73} {se Q t74} {esparcen V t75} {al P t76} {golpe N t77} {de P t78} {las D t79} {olas N t80} {... O t81}
+{¡ O t82} {Para P t83} {cruzar V t84} {por P t85} {el D t86} {azul N t87} {del P t88} {cielo N t89} {, O t90}
+{los D t91} {gorriones N t92} {se Q t93} {juntan V t94} {en P t95} {bandadas G t96} {; O t97}
+{en P t98} {tanto A t99} {que C t100} {las D t101} {águilas N t102} {van V t103} {solas G t104} {! O t105} {... O t106}

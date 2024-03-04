@@ -1,0 +1,14 @@
+{Dame V} {el D} {buril N} {con P} {que Q} {grabar V} {solía V}	B	enlace_subj_verb	ld01
+{el D} {artífice N} {heleno G} {, O} {en P} {copas N} {de P} {oro N} {, O}	I	enlace_subj_verb	ld01
+{ninfas N} {danzantes G} {en P} {alegre G} {coro N}	O		
+{y C} {sátiros N} {con P} {rostro N} {de P} {ironía N} {. O}	O		
+{En P} {el D} {contorno N} {de P} {la D} {estrofa N} {mía Q} {, O}	O		
+{grabaré V} {, O} {como C} {artístico G} {tesoro N} {, O}	O		
+{tu D} {egregio N} {busto G} {, O} {tu D} {imperial G} {decoro N}	O		
+{y C} {tu D} {perpetuo G} {abril O} {de P} {poesía N} {. O}	O		
+{Mas R} {tu D} {copia N} {mejor G} {no A} {vale V} {nada Q} {, O}	O		
+{desque C} {me Q} {ocultas G} {con P} {tu D} {faz N} {de P} {diosa G}	O		
+{el D} {abismo N} {de P} {tu D} {alma N} {disoluta G} {, O}	O		
+{¡ O} {como C} {si C} {entre P} {esa D} {copa N} {burilada G}	B	enlace_od_verb	ld02
+{me Q} {brindases N} {, O} {con P} {mano N} {mentirosa G} {, O}	I	enlace_od_verb	ld02
+{envuelta G} {en P} {oro N} {la D} {mortal G} {cicuta N} {! O}	O		

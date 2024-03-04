@@ -1,0 +1,14 @@
+{Cada D t1} {volcán N t2} {levanta V t3} {su D t4} {figura N t5} {, O t6}
+{cual Q t7} {si C t8} {de P t9} {pronto A t10} {, O t11} {ante P t12} {la D t13} {faz N t14} {del P t15} {cielo N t16} {, O t17}
+{suspendiesen V t18} {el D t19} {ángulo N t20} {de P t21} {un D t22} {vuelo N t23}
+{dos D t24} {dedos N t25} {invisibles G t26} {de P t27} {la D t28} {altura N t29}
+{La D t30} {cresta N t31} {es V t32} {blanca G t33} {y C t34} {como C t35} {blanca G t36} {pura G t37} {: O t38}
+{la D t39} {entraña V t40} {hierve N t41} {en P t42} {inflamado G t43} {anhelo N t44} {; O t45}
+{y C t46} {sobre P t47} {el D t48} {horno N t49} {aquel D t50} {contrasta V t51} {el D t52} {hielo N t53} {, O t54}
+{cual Q t55} {sobre P t56} {una D t57} {pasión N t58} {un D t59} {alma N t60} {dura G t61} {. O t62}
+{Los D t63} {volcanes N t64} {son V t65} {túmulos N t66} {de P t67} {piedra N t68} {, O t69}
+{pero C t70} {a P t71} {sus D t72} {pies N t73} {los D t74} {valles N t75} {que Q t76} {florecen V t77}
+{fingen V t78} {alfombras N t79} {de P t80} {irisada N t81} {yedra G t82} {; O t83}
+{y C t84} {por P t85} {eso Q t86} {, O t87} {entre P t88} {campos N t89} {de P t90} {colores N t91} {, O t92}
+{al P t93} {destacarse V t94} {en P t95} {el D t96} {azul N t97} {, O t98} {parecen V t99}
+{cestas N t100} {volcadas G t101} {derramando V t102} {flores N t103} {. O t104}

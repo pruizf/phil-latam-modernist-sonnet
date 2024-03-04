@@ -1,0 +1,14 @@
+{Ánforas N t1} {de P t2} {cristal N t3} {, O t4} {airosas G t5} {galas N t6}
+{de P t7} {enigmáticas G t8} {formas N t9} {sorprendentes G t10} {, O t11}
+{diademas G t12} {propias G t13} {de P t14} {apolíneas N t15} {frentes N t16} {, O t17}
+{adornos G t18} {dignos G t19} {de P t20} {fastuosas G t21} {galas N t22}
+{En P t23} {los D t24} {nudos N t25} {de P t26} {un D t27} {tronco N t28} {hacen V t29} {escalas N t30} {; O t31}
+{y C t32} {ensortijan V t33} {sus D t34} {tallos N t35} {de P t36} {serpientes N t37} {, O t38}
+{hasta P t39} {quedar V t40} {en P t41} {la D t42} {altitud N t43} {pendientes G t44} {, O t45}
+{a P t46} {manera N t47} {de P t48} {pájaros N t49} {sin P t50} {alas N t51} {. O t52}
+{Tristes N t53} {como C t54} {cabezas N t55} {pensativas G t56} {, O t57}
+{brotan V t58} {ellas Q t59} {, O t60} {sin P t61} {torpes G t62} {ligaduras N t63}
+{de P t64} {tirana N t65} {raíz G t66} {, O t67} {libres G t68} {y C t69} {altivas G t70} {; O t71}
+{porque C t72} {también A t73} {, O t74} {con P t75} {lo Q t76} {mezquino N t77} {en P t78} {guerra N t79} {, O t80}
+{quieren V t81} {vivir V t82} {, O t83} {como C t84} {las D t85} {almas D t86} {puras N t87} {, O t88}
+{sin P t89} {un D t90} {solo G t91} {contacto N t92} {con P t93} {la D t94} {tierra N t95} {. O t96}

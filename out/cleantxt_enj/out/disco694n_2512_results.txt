@@ -1,0 +1,14 @@
+{¿ O} {Qué Q} {es V} {? O} {... O} {ya A} {retiembla V} {el D} {imponente G} {muro N} {, O}	O		
+{el D} {gladiador N} {deaciñe V} {sus D} {laureles N} {, O}	O		
+{y C} {caen V} {los D} {dorados G} {chapiteles N}	O		
+{y C} {el D} {Capitolio R} {cruje V} {mal A} {seguro G} {. O}	O		
+{Ya A} {el D} {orículo N} {calla V} {ante P} {el D} {conjuro N}	O		
+{y C} {se Q} {escucha V} {el D} {trotar N} {de P} {los D} {corceles N} {, O}	O		
+{el D} {rodar V} {de P} {los D} {rotos G} {anaqueles N}	B	enlace_subj_verb	ld01
+{y C} {el D} {templo N} {está V} {callado G} {, O} {solo G} {, O} {oscuro G} {; O}	I	enlace_subj_verb	ld01
+{ya A} {llegaron V} {tu D} {huestes N} {giganteas G} {, O}	O		
+{y C} {tiembla N} {de P} {pavor N} {la D} {impía V} {corte N} {; O}	O		
+{el D} {imperio N} {vetusto G} {se Q} {desploma V} {; O}	O		
+{y C} {al P} {resplandor N} {de P} {enrojecidas N} {teas G}	B	sirrem_adj_adv	pp10
+{ya A} {descienden V} {los D} {Bárbaros R} {del P} {Norte R}	I	sirrem_adj_adv	pp10
+{y C} {a P} {su D} {empuje N} {brutal G} {¡ O} {ya A} {cae V} {Roma R} {! O} {... O}	O		

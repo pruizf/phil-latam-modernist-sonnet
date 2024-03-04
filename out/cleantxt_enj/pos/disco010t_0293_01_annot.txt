@@ -1,0 +1,14 @@
+{Y C t1} {habló V t2} {el D t3} {Pegaso R t4} {, O t5} {y C t6} {dijo V t7} {: O t8} {-- O t9} {Yo Q t10} {no A t11} {daré V t12} {mis D t13} {crines N t14}
+{Para P t15} {arcos N t16} {gemidores G t17} {de P t18} {trémulos N t19} {violines N t20} {, O t21}
+{Sino R t22} {para P t23} {que C t24} {triunfen V t25} {, O t26} {como C t27} {penacho N t28} {fiero G t29} {, O t30}
+{Sobre P t31} {la D t32} {bizarría N t33} {de P t34} {un D t35} {casco N t36} {de P t37} {guerrero N t38} {. O t39}
+{Mis D t40} {alas N t41} {son V t42} {banderas N t43} {, O t44} {que Q t45} {excelsos G t46} {paladines N t47}
+{Quisieran R t48} {como C t49} {gloria N t50} {de P t51} {su D t52} {blasón N t53} {severo G t54} {; O t55}
+{En P t56} {mi D t57} {relincho N t58} {tiemblan V t59} {los D t60} {épicos N t61} {clarines G t62} {; O t63}
+{Y C t64} {bajo P t65} {mis D t66} {galopes N t67} {hay V t68} {músicas N t69} {de P t70} {acero N t71} {... O t72}
+{Al P t73} {enarcar V t74} {las D t75} {alas N t76} {, O t77} {se Q t78} {encrespa V t79} {y C t80} {embravece V t81}
+{La D t82} {crin N t83} {sobre P t84} {mi D t85} {cuello N t86} {, O t87} {que Q t88} {en P t89} {su D t90} {perfil N t91} {parece V t92}
+{un D t93} {arpa N t94} {: O t95} {en P t96} {el D t97} {cordaje N t98} {vibra V t99} {solemne G t100} {oda N t101} {... O t102}
+{Y C t103} {al P t104} {sacudir V t105} {las D t106} {alas N t107} {, O t108} {el D t109} {ojo N t110} {parpadea V t111} {; O t112}
+{Y C t113} {, O t114} {de P t115} {mi D t116} {cuello N t117} {a P t118} {mi D t119} {anca N t120} {, O t121} {la D t122} {piel N t123} {rápida G t124} {ondea C t125}
+{Cual R t126} {si C t127} {una D t128} {sola G t129} {arruga V t130} {la D t131} {recorriese N t132} {toda D t133} {... O t134}

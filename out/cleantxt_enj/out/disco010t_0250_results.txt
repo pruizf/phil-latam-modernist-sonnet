@@ -1,0 +1,14 @@
+{Dejad R} {que Q} {goce V} {en P} {amistoso G} {trato N}	B	sirrem_noun_prep	pp05
+{del P} {verde G} {campo N} {y C} {del P} {verano N} {austero G} {: O}	I	sirrem_noun_prep	pp05
+{más A} {que C} {la D} {lid N} {de P} {Napoleón R} {preflero G}	B	enlace_subj_verb	ld01
+{la D} {deliciosa G} {paz N} {de P} {Cincinato R} {. O}	I	enlace_subj_verb	ld01
+{Ajeno R} {al P} {banal N} {ruido N} {y C} {al P} {boato N} {, O}	O		
+{sin P} {huir V} {de P} {la D} {paz N} {seré V} {un D} {guerrero N} {; O}	O		
+{y C} {, O} {en P} {el D} {arado N} {, O} {blandiré N} {ese D} {acero N}	B	oracional	cp01
+{que Q} {es V} {súplica G} {de P} {amor N} {y C} {no A} {mandato N} {... O}	I	oracional	cp01
+{Abre P} {el D} {arado N} {fecundante G} {herida N} {, O}	O		
+{en P} {que Q} {germina V} {la D} {gloriosa G} {suerte N}	B	sirrem_noun_prep	pp05
+{de P} {la D} {campiña N} {plácida G} {y C} {serena G} {; O}	I	sirrem_noun_prep	pp05
+{porque C} {ese D} {acero N} {es V} {libertad N} {y C} {es V} {vida N} {, O}	O		
+{en P} {vez N} {de P} {aquel D} {que Q} {es V} {tiranía N} {y C} {muerte N} {, O}	O		
+{¡ O} {tajo N} {en P} {la D} {espada N} {y C} {nudo N} {en P} {la D} {cadena N} {! O}	O		

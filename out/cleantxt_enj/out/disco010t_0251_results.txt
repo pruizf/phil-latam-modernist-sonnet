@@ -1,0 +1,14 @@
+{Simbólico G} {festín N} {. O} {Amplia R} {y C} {espesa D}	B	sirrem_pal-rel	pp16
+{enramada N} {de P} {vides N} {forma N} {el D} {techo N} {; O}	I	sirrem_pal-rel	pp16
+{y C} {de P} {la D} {hierba N} {húmeda G} {en P} {el D} {lecho N} {, O}	O		
+{tendida G} {se Q} {halla V} {la D} {silvestre G} {mesa N} {. O}	O		
+{Sobre P} {los D} {hombros N} {de P} {un D} {gran G} {Atlas R} {pesa V}	B	enlace_od_verb	ld02
+{un D} {recipiente N} {, O} {para P} {tanto D} {estrecho N} {, O}	I	enlace_od_verb	ld02
+{en P} {donde Q} {saltan V} {del P} {montón N} {deshecho G}	B	enlace_od_verb	ld02
+{la D} {pilla N} {enorme G} {y C} {la D} {menuda G} {fresa N} {... O}	I	enlace_od_verb	ld02
+{Corona R} {la D} {alta G} {torre N} {una D} {partida N}	B	enlace_subj_verb	ld01
+{manzana N} {de P} {oro N} {, O} {que Q} {a P} {gustar V} {provoca V}	IB	enlace_subj_verb;enlace_od_verb	ld01;ld02
+{frescas N} {corrientes G} {de P} {ignorada N} {vida N} {; O}	I	enlace_od_verb	ld02
+{y C} {empinándose V} {así A} {la D} {torre N} {ufana G} {, O}	O		
+{se Q} {hace V} {una D} {torre N} {de P} {Babel R} {que Q} {toca V}	B	enlace_od_verb	ld02
+{el D} {cielo N} {del P} {amor N} {con P} {la D} {manzana N} {. O}	I	enlace_od_verb	ld02

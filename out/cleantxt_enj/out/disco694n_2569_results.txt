@@ -1,0 +1,14 @@
+{¿ O} {Viste V} {el D} {David R} {, O} {cómo Q} {era V} {bello G} {y C} {franco G} {? O}	O		
+{En P} {él Q} {está V} {la D} {soberana G} {esencia N}	B	sirrem_noun_prep	pp05
+{de P} {la D} {tierra N} {, O} {y C} {la D} {pura G} {transparencia N}	IB	sirrem_noun_prep;sirrem_noun_prep	pp05;pp05
+{de P} {lo D} {alto G} {, O} {de P} {lo D} {noble G} {y C} {de P} {lo D} {blanco G} {. O}	I	sirrem_noun_prep	pp05
+{El D} {Byron R} {cojo G} {y C} {el D} {Cervantes R} {manco G}	B	enlace_subj_verb	ld01
+{cantaran V} {esta D} {gloria N} {de P} {Florencia R} {, O}	I	enlace_subj_verb	ld01
+{y C} {lo D} {que Q} {existe V} {de P} {divina G} {ciencia N}	B	sirrem_noun_prep	pd02
+{en P} {ese D} {pectoral N} {y C} {en P} {ese D} {flanco N} {. O}	I	sirrem_noun_prep	pd02
+{En P} {cuanto A} {al P} {ojo N} {dominante G} {, O} {el D} {bello G}	O		
+{imponer V} {del P} {aspecto N} {, O} {y C} {la D} {redonda G}	B	sirrem_adj_noun	pp02
+{caricia N} {de P} {escultor N} {que Q} {da V} {al P} {cabello N}	IB	sirrem_adj_noun;enlace_subj_verb	pp02;ld01
+{lo Q} {crespo V} {de P} {la D} {brisa N} {y C} {de P} {la D} {onda N} {, O}	I	enlace_subj_verb	ld01
+{triunfa V} {una D} {Torre R} {soberana G} {: O} {¡ O} {el D} {cuello N} {! O}	O		
+{y C} {una D} {fuente N} {soberbia N} {: O} {¡ O} {la D} {Rotonda R} {! O}	O		

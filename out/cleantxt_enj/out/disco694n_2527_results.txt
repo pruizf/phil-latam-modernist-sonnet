@@ -1,0 +1,14 @@
+{Ya A} {de P} {su D} {corintio G} {templo N} {cincela V} {una D} {metopa N} {, O}	O		
+{ya A} {de P} {un D} {morisco N} {alcázar V} {el D} {capitel N} {sutil G} {; O}	O		
+{ya A} {, O} {como C} {Benvenuto R} {, O} {del P} {oro N} {de P} {una D} {copa N}	B	enlace_subj_verb	ld01
+{forma V} {un D} {joyel N} {artístico G} {, O} {prodigio N} {del P} {buril N} {. O}	I	enlace_subj_verb	ld01
+{Pinta G} {las D} {dulces N} {Gracias R} {, O} {o C} {la D} {desnuda N} {Europa R} {, O}	O		
+{en P} {el D} {pulido N} {borde N} {de P} {un D} {vaso N} {de P} {marfil N} {, O}	O		
+{o C} {a P} {Diana R} {, O} {diosa G} {virgen N} {de P} {desceñida G} {ropa N} {, O}	O		
+{con P} {aire N} {cinegético G} {, O} {o C} {en P} {grupo N} {pastoril G} {. O}	O		
+{La D} {musa N} {que Q} {al P} {poeta N} {sus D} {cánticos N} {inspira V}	B	sirrem_verb_adv	pp11
+{no A} {lleva V} {la D} {vibrante G} {trompeta N} {de P} {metal N} {, O}	I	sirrem_verb_adv	pp11
+{ni C} {es V} {la D} {bacante G} {loca G} {que Q} {canta V} {y C} {que Q} {delira A} {, O}	O		
+{en P} {el D} {amor N} {fogosa G} {, O} {y C} {en P} {el D} {placer N} {triunfal G} {: O}	O		
+{ella Q} {al P} {cantor N} {ofrece V} {la D} {septicorde G} {lira N} {, O}	O		
+{o C} {, O} {rítmica G} {y C} {sonora G} {, O} {la D} {flauta N} {de P} {cristal N} {. O}	O		

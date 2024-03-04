@@ -1,0 +1,14 @@
+{Parpadeos N} {de P} {luces N} {vacilantes G}	B	enlace_subj_verb	ld01
+{bordan V} {la D} {selva N} {cuando C} {muere V} {el D} {día N} {, O}	I	enlace_subj_verb	ld01
+{a P} {manera N} {de P} {extraña G} {pedrería N}	B	oracional	cp01
+{que Q} {relumbra V} {y C} {se Q} {apaga V} {por P} {instantes N}	IB	oracional;sirrem_noun_prep	cp01;pd02
+{En P} {desatados N} {círculos N} {errantes G} {, O}	I	sirrem_noun_prep	pd02
+{brotan V} {cocuyos Q} {en P} {la D} {selva N} {umbría V} {, O}	O		
+{cual Q} {si C} {alguien Q} {, O} {con P} {la D} {fiebre N} {de P} {la D} {orgía N} {, O}	O		
+{arrojara V} {puñados G} {de P} {diamantes N} {. O}	O		
+{De P} {día N} {ocultos G} {en P} {la D} {verde G} {alfombra N} {, O}	O		
+{sólo A} {en P} {las D} {horas N} {de P} {nocturna G} {calma N}	O		
+{divagan V} {a P} {través N} {de P} {la D} {espesura N} {; O}	O		
+{y C} {a P} {fuerza N} {de P} {brillar V} {entre P} {la D} {sombra N} {, O}	O		
+{acrisolan V} {su D} {brillo N} {, O} {como C} {el D} {alma N}	O		
+{que C} {a P} {fuerza N} {de P} {sufrir V} {se Q} {hace V} {más A} {pura G} {. O}	O		

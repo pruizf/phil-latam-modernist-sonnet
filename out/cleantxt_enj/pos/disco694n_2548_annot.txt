@@ -1,0 +1,14 @@
+{Joven R t1} {, O t2} {te Q t3} {ofrezco V t4} {el D t5} {don N t6} {de P t7} {esta D t8} {copa N t9} {de P t10} {plata N t11}
+{para P t12} {que C t13} {un D t14} {día N t15} {puedas N t16} {colmar V t17} {la D t18} {sed N t19} {ardiente A t20} {, O t21}
+{la D t22} {sed N t23} {que Q t24} {con P t25} {su D t26} {fuego N t27} {más A t28} {que C t29} {la D t30} {muerte N t31} {mata V t32} {. O t33}
+{Mas R t34} {debes V t35} {abrevarte V t36} {tan A t37} {sólo A t38} {en P t39} {una D t40} {fuente N t41} {, O t42}
+{otra D t43} {agua N t44} {que Q t45} {la Q t46} {suya Q t47} {tendrá V t48} {que C t49} {serte V t50} {ingrata G t51} {, O t52}
+{busca V t53} {su D t54} {oculto G t55} {origen N t56} {en P t57} {la D t58} {gruta N t59} {viviente G t60}
+{donde Q t61} {la D t62} {interna G t63} {música N t64} {de P t65} {su D t66} {cristal N t67} {desata G t68} {, O t69}
+{junto G t70} {al P t71} {árbol N t72} {que Q t73} {llora V t74} {y C t75} {la D t76} {roca N t77} {que Q t78} {siente V t79} {. O t80}
+{Guíete V t81} {el D t82} {misterioso G t83} {eco N t84} {de P t85} {su D t86} {murmullo N t87} {, O t88}
+{asciende V t89} {por P t90} {los D t91} {riscos N t92} {ásperos G t93} {del P t94} {orgullo N t95} {, O t96}
+{baja N t97} {por P t98} {la D t99} {constancia N t100} {y C t101} {desciende V t102} {al P t103} {abismo N t104}
+{cuya Q t105} {entrada N t106} {sombría V t107} {guardan V t108} {siete D t109} {panteras N t110} {: O t111}
+{son V t112} {los D t113} {Siete D t114} {Pecados R t115} {las D t116} {siete D t117} {bestias N t118} {fieras G t119} {. O t120}
+{Llena V t121} {la D t122} {copa N t123} {y C t124} {bebe N t125} {: O t126} {la D t127} {fuente N t128} {está V t129} {en P t130} {ti Q t131} {mismo G t132} {, O t133}

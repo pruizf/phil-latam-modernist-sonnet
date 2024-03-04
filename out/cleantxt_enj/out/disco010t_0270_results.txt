@@ -1,0 +1,14 @@
+{El D} {viejo G} {militar N} {endurecido G}	B	sirrem_adj_adv	pp10
+{no A} {tantos D} {lances N} {ni C} {victorias N} {cuenta V} {, O}	I	sirrem_adj_adv	pp10
+{como C} {el D} {buen G} {pescador N} {, O} {que Q} {en P} {la D} {tormenta N}	B	enlace_subj_verb	ld01
+{duérmese V} {al P} {son N} {de P} {tumultuoso G} {ruido N} {. O}	I	enlace_subj_verb	ld01
+{Él Q} {, O} {por P} {las D} {olas N} {trémulas G} {mecido G} {, O}	O		
+{cuando C} {la D} {bronca N} {tempestad N} {revienta V} {, O}	O		
+{piensa V} {en P} {su D} {hogar N} {y C} {en P} {su D} {familia N} {hambrienta N} {: O}	O		
+{ave N} {que Q} {sufre V} {, O} {se Q} {dirige V} {al P} {nido N} {... O}	O		
+{Cuando C} {alza N} {el D} {día N} {su D} {cantar V} {sonoro G} {, O}	O		
+{recoge V} {alegre G} {el D} {pescador N} {sencillo G}	B	enlace_od_verb	ld02
+{en P} {las D} {preñadas G} {redes N} {su D} {tesoro N} {; O}	I	enlace_od_verb	ld02
+{¡ O} {y C} {, O} {en P} {medio D} {del P} {placer N} {con P} {que Q} {se Q} {inflama V} {, O}	O		
+{de P} {las D} {monedas N} {adivina V} {el D} {brillo N}	B	sirrem_noun_prep	pd02
+{sobre P} {eñ N} {plateado G} {lustre N} {de P} {la D} {escama N} {! O} {... O}	I	sirrem_noun_prep	pd02

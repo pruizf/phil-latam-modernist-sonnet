@@ -1,0 +1,14 @@
+{Sobre P} {el D} {caro G} {despojo N} {esta D} {urna N} {cincelo N} {: O}	O		
+{un D} {amable G} {frescor N} {de P} {inmortal G} {siempreviva G}	B	oracional	cp01
+{que Q} {decore V} {la D} {greca N} {de P} {la D} {urna N} {votiva G}	I	oracional	cp01
+{en P} {la D} {copa N} {que Q} {guarda V} {rocío N} {del P} {cielo N} {; O}	O		
+{una D} {alondra N} {fugaz G} {sorprendida G} {en P} {su D} {vuelo N}	O		
+{cuando C} {fuese V} {a P} {cantar V} {en P} {la D} {rama N} {de P} {oliva N} {, O}	O		
+{una D} {estatua N} {de P} {Diana R} {en P} {la D} {selva N} {nativa G}	B	oracional	cp01
+{que Q} {la D} {Musa R} {Armonía R} {envolviera V} {en P} {su D} {velo N} {. O}	I	oracional	cp01
+{Tal Q} {si C} {fuese V} {escultor N} {con P} {amor N} {cincelara V}	O		
+{en P} {el D} {mármol N} {divino G} {que Q} {me Q} {brinda V} {Carrara R} {, O}	O		
+{coronando V} {la D} {obra N} {una D} {lira N} {, O} {una D} {cruz N} {; O}	O		
+{y C} {sería V} {mi D} {sueño N} {, O} {al P} {nacer V} {de P} {la D} {aurora N} {, O}	O		
+{contemplar V} {en P} {la D} {faz N} {de P} {una D} {niña N} {que Q} {llora V}	B	enlace_od_verb	ld02
+{una D} {lágrima N} {llena G} {de P} {amor N} {y C} {de P} {luz N} {. O}	I	enlace_od_verb	ld02

@@ -1,0 +1,14 @@
+{Mía V} {: O} {así A} {te Q} {llamas N} {. O}	O		
+{¿ O} {Qué Q} {más A} {harmonía V} {? O}	O		
+{Mía V} {: O} {luz N} {del P} {día N} {; O}	O		
+{Mía R} {: O} {rosas N} {, O} {llamas N} {. O}	O		
+{¡ O} {Qué Q} {aroma N} {derramas N}	O		
+{en P} {el D} {alma N} {mía Q}	O		
+{si C} {sé V} {que C} {me Q} {amas N} {, O}	O		
+{¡ O} {oh O} {Mía R} {! O} {, O} {¡ O} {oh O} {Mía R} {! O}	O		
+{Tu D} {sexo N} {fundiste G}	B	sirrem_adj_prep	pd02
+{con P} {mi D} {sexo N} {fuerte G} {, O}	I	sirrem_adj_prep	pd02
+{fundiendo V} {dos D} {bronces N} {. O}	O		
+{Yo Q} {triste G} {, O} {tú Q} {triste G} {... O}	O		
+{¿ O} {No A} {has V} {de P} {ser V} {entonces A}	B	enlace_subj_verb	ld01
+{mía Q} {hasta P} {la D} {muerte N} {? O}	I	enlace_subj_verb	ld01

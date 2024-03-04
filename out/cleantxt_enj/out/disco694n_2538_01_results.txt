@@ -1,0 +1,14 @@
+{El D} {hermoso G} {Hilarión R}	O		
+{sobre P} {un D} {fondo N} {de P} {añil N} {, O}	O		
+{pinta V} {el D} {raro G} {perfil N}	B	sirrem_noun_prep	pp05
+{del P} {cuerpo N} {de P} {un D} {dragón N} {. O}	I	sirrem_noun_prep	pp05
+{Un D} {lirio N} {de P} {Sión R} {, O}	O		
+{de P} {cáliz N} {de P} {marfil N} {, O}	O		
+{flor N} {de P} {un D} {divino G} {abril O} {, O}	O		
+{corona N} {la D} {ilusión N} {. O}	O		
+{En P} {el D} {salmo N} {triunfal G}	O		
+{un D} {símbolo N} {inmortal G}	B	enlace_subj_verb	ld01
+{inicia V} {de P} {Israel R} {. O}	I	enlace_subj_verb	ld01
+{La D} {victoria N} {marcial G}	B	sirrem_adj_prep	pd02
+{en P} {la D} {pálida G} {piel N}	IB	sirrem_adj_prep;sirrem_noun_prep	pd02;pp05
+{del P} {libro N} {medioeval G} {. O}	I	sirrem_noun_prep	pp05

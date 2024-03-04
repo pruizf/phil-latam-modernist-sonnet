@@ -1,0 +1,14 @@
+{De P t1} {las D t2} {eternas G t3} {musas N t4} {el D t5} {reino N t6} {soberano N t7}
+{recorres N t8} {, O t9} {bajo P t10} {un D t11} {soplo N t12} {de P t13} {vasta N t14} {inspiración N t15} {, O t16}
+{como C t17} {un D t18} {rajah N t19} {soberbio G t20} {que Q t21} {en P t22} {su D t23} {elefante N t24} {indiano G t25}
+{por P t26} {sus D t27} {dominios N t28} {pasa V t29} {de P t30} {rudo N t31} {viento N t32} {al P t33} {son N t34} {. O t35}
+{Tú Q t36} {tienes V t37} {en P t38} {tu D t39} {canto N t40} {como C t41} {ecos N t42} {de P t43} {oceano G t44} {; O t45}
+{se Q t46} {ve V t47} {en P t48} {tu D t49} {poesía N t50} {la D t51} {selva N t52} {y C t53} {el D t54} {león N t55} {; O t56}
+{salvaje G t57} {luz N t58} {irradia G t59} {la D t60} {lira N t61} {que Q t62} {en P t63} {tu D t64} {mano N t65}
+{derrama V t66} {su D t67} {sonora G t68} {, O t69} {robusta N t70} {vibración N t71} {. O t72}
+{Tú Q t73} {del P t74} {fakir V t75} {conoces G t76} {secretos N t77} {y C t78} {avatares N t79} {; O t80}
+{a P t81} {tu D t82} {alma N t83} {dio V t84} {el D t85} {Oriente R t86} {misterios N t87} {seculares G t88} {, O t89}
+{visiones N t90} {legendarias G t91} {y C t92} {espíriru N t93} {oriental G t94} {. O t95}
+{Tu D t96} {verso N t97} {está V t98} {nutrido G t99} {con P t100} {savia N t101} {de P t102} {la D t103} {tierra N t104} {; O t105}
+{fulgor N t106} {de P t107} {Ramayanas R t108} {ru G t109} {viva G t110} {estrofa N t111} {encierra V t112} {, O t113}
+{y C t114} {cantas N t115} {en P t116} {la D t117} {lengua N t118} {del P t119} {bosque N t120} {colosal G t121} {. O t122}

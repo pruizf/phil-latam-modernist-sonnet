@@ -1,0 +1,14 @@
+{Bien A t1} {arreglado V t2} {, O t3} {bien A t4} {impreso G t5} {, O t6} {bueno G t7} {, O t8}
+{maldice V t9} {a P t10} {Tamerlán R t11} {, O t12} {canta V t13} {a P t14} {Bolívar R t15} {; O t16}
+{al P t17} {que Q t18} {está V t19} {bien A t20} {con P t21} {él Q t22} {, O t23} {le Q t24} {brinda V t25} {almíbar V t26} {; O t27}
+{al P t28} {que Q t29} {está V t30} {mal A t31} {con P t32} {él Q t33} {, O t34} {le Q t35} {da V t36} {veneno N t37} {. O t38}
+{Siempre A t39} {sale V t40} {pulido G t41} {, O t42} {siempre A t43} {ameno G t44} {; O t45}
+{a P t46} {Guardia R t47} {ofreció V t48} {amargo G t49} {, O t50} {rudo G t51} {acíbar V t52} {; O t53}
+{flores N t54} {da V t55} {a P t56} {Barrios R t57} {, O t58} {flores N t59} {a P t60} {Zaldívar R t61} {, O t62}
+{hurras N t63} {al P t64} {genio N t65} {, O t66} {y C t67} {al P t68} {tirano N t69} {cieno N t70} {. O t71}
+{He V t72} {aquí A t73} {El D t74} {Ferro-Carril R t75} {, O t76} {con P t77} {redactores N t78}
+{que Q t79} {le Q t80} {honran V t81} {, O t82} {con P t83} {Hernández R t84} {y C t85} {Somoza R t86} {. O t87}
+{Merece Q t88} {de P t89} {nosotros Q t90} {mil D t91} {loores N t92} {, O t93}
+{ya A t94} {que C t95} {no A t96} {le Q t97} {brindamos V t98} {otra D t99} {cosa N t100} {; O t101}
+{y C t102} {sobre P t103} {todo Q t104} {, O t105} {que Q t106} {es V t107} {bastante A t108} {módico G t109}
+{para P t110} {ser V t111} {, O t112} {como C t113} {es V t114} {, O t115} {un D t116} {buen G t117} {periódico N t118} {. O t119}

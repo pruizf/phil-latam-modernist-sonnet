@@ -1,0 +1,14 @@
+{Hay V t1} {en P t2} {la D t3} {paz N t4} {de P t5} {la D t6} {ciudades N t7} {yertas G t8}
+{ficción N t9} {de P t10} {campamentos N t11} {desolados G t12} {, O t13}
+{en P t14} {donde Q t15} {, O t16} {mientras C t17} {duermen V t18} {los D t19} {soldados N t20} {, O t21}
+{se Q t22} {oyen V t23} {sonar V t24} {tristísimos V t25} {alertas G t26}
+{Vetustas R t27} {casas N t28} {, O t29} {rechinantes N t30} {puertas N t31} {; O t32}
+{colgaduras N t33} {de P t34} {musgo N t35} {en P t36} {los D t37} {tejados N t38} {; O t39}
+{escombros N t40} {contra P t41} {escombros N t42} {recostados G t43} {; O t44}
+{y C t45} {, O t46} {dormidas G t47} {al P t48} {Sol R t49} {, O t50} {plazas N t51} {desiertas G t52} {. O t53}
+{Histórica G t54} {ciudad N t55} {: O t56} {nada Q t57} {amortigua G t58}
+{la D t59} {pompa N t60} {colonial G t61} {que Q t62} {la D t63} {engalana N t64} {, O t65}
+{ni C t66} {su D t67} {hispano G t68} {blasón N t69} {mancha N t70} {de P t71} {lodo N t72} {. O t73}
+{Tiene V t74} {el D t75} {encanto N t76} {de P t77} {la D t78} {edad N t79} {antigua G t80} {; O t81}
+{y C t82} {la D t83} {mayor G t84} {felicidad N t85} {humana G t86} {: O t87}
+{¡ O t88} {la D t89} {de P t90} {vivir V t91} {indiferente G t92} {a P t93} {todo Q t94} {! O t95}

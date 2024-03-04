@@ -1,0 +1,14 @@
+{Yo Q} {persigo V} {una D} {forma N} {que Q} {no A} {encuentra V} {mi D} {estilo N} {, O}	O		
+{botón N} {de P} {pensamiento N} {que Q} {busca V} {ser V} {la D} {rosa N} {; O}	O		
+{se Q} {anuncia V} {con P} {un D} {beso N} {que Q} {en P} {mis D} {labios N} {se Q} {posa V}	B	enlace_od_verb	ld02
+{al P} {abrazo N} {imposible G} {de P} {la D} {Venus R} {de P} {Milo R} {. O}	I	enlace_od_verb	ld02
+{Adornan V} {verdes G} {palmas N} {el D} {blanco N} {peristilo G} {; O}	O		
+{los D} {astros N} {me Q} {han V} {predicho V} {la D} {visión N} {de P} {la D} {Diosa R} {; O}	O		
+{y C} {en P} {mi D} {alma N} {reposa V} {la D} {luz N} {como C} {reposa V}	B	enlace_subj_verb	ld01
+{el D} {ave N} {de P} {la D} {luna N} {sobre P} {un D} {lago N} {tranquilo G} {. O}	I	enlace_subj_verb	ld01
+{Y C} {no A} {hallo G} {sino C} {la D} {palabra N} {que Q} {huye V} {, O}	O		
+{la D} {iniciación N} {melódica G} {que Q} {de P} {la D} {flauta N} {fluye G}	O		
+{y C} {la D} {barca N} {del P} {sueño N} {que Q} {en P} {el D} {espacio N} {boga V} {; O}	O		
+{y C} {bajo P} {la D} {ventana N} {de P} {mi D} {Bella-Durmiente R} {, O}	O		
+{el D} {sollozo N} {continuo G} {del P} {chorro N} {de P} {la D} {fuente N}	O		
+{y C} {el D} {cuello N} {del P} {gran G} {cisne N} {blanco G} {que Q} {me Q} {interroga V} {. O}	O		

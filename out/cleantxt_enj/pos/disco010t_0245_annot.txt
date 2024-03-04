@@ -1,0 +1,14 @@
+{Inflámase V t1} {la D t2} {isla N t3} {, O t4} {allá A t5} {, O t6} {a P t7} {lo D t8} {lejos A t9} {, O t10}
+{con P t11} {los D t12} {sanguíneos N t13} {besos N t14} {de P t15} {la D t16} {tarde N t17} {, O t18}
+{mientras C t19} {haciendo V t20} {el D t21} {sol N t22} {su D t23} {último G t24} {alarde N t25}
+{dora V t26} {del P t27} {mar N t28} {los D t29} {límpidos N t30} {espejos G t31} {. O t32}
+{Asilo N t33} {de P t34} {pósteros N t35} {reflejos N t36} {, O t37}
+{la D t38} {isla N t39} {por P t40} {el D t41} {sol N t42} {de P t43} {pasión N t44} {arde V t45} {; O t46}
+{y C t47} {a P t48} {su D t49} {pie N t50} {el D t51} {mar N t52} {inclínase V t53} {cobarde N t54} {, O t55}
+{llorando V t56} {triste G t57} {sus D t58} {amores N t59} {viejos G t60} {... O t61}
+{Antes A t62} {de P t63} {que C t64} {Moisés R t65} {con P t66} {fuerza N t67} {extraña G t68} {, O t69}
+{a P t70} {un D t71} {golpe N t72} {, O t73} {del P t74} {peñón N t75} {de P t76} {dura G t77} {entraña V t78}
+{sacar V t79} {lograse V t80} {el D t81} {manantial N t82} {que Q t83} {encierra V t84} {, O t85}
+{alguien Q t86} {hizo V t87} {más A t88} {grande G t89} {maravilla N t90} {, O t91}
+{¡ O t92} {porque C t93} {golpeó V t94} {con P t95} {mágica G t96} {varilla N t97}
+{en P t98} {la D t99} {mitad N t100} {del P t101} {mar N t102} {... O t103} {y C t104} {brotó V t105} {tierra N t106} {! O t107}

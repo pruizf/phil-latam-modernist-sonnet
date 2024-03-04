@@ -1,0 +1,14 @@
+{Bien A} {arreglado V} {, O} {bien A} {impreso G} {, O} {bueno G} {, O}	O		
+{maldice V} {a P} {Tamerlán R} {, O} {canta V} {a P} {Bolívar R} {; O}	O		
+{al P} {que Q} {está V} {bien A} {con P} {él Q} {, O} {le Q} {brinda V} {almíbar V} {; O}	O		
+{al P} {que Q} {está V} {mal A} {con P} {él Q} {, O} {le Q} {da V} {veneno N} {. O}	O		
+{Siempre A} {sale V} {pulido G} {, O} {siempre A} {ameno G} {; O}	O		
+{a P} {Guardia R} {ofreció V} {amargo G} {, O} {rudo G} {acíbar V} {; O}	O		
+{flores N} {da V} {a P} {Barrios R} {, O} {flores N} {a P} {Zaldívar R} {, O}	O		
+{hurras N} {al P} {genio N} {, O} {y C} {al P} {tirano N} {cieno N} {. O}	O		
+{He V} {aquí A} {El D} {Ferro-Carril R} {, O} {con P} {redactores N}	B	oracional	cp01
+{que Q} {le Q} {honran V} {, O} {con P} {Hernández R} {y C} {Somoza R} {. O}	I	oracional	cp01
+{Merece Q} {de P} {nosotros Q} {mil D} {loores N} {, O}	O		
+{ya A} {que C} {no A} {le Q} {brindamos V} {otra D} {cosa N} {; O}	O		
+{y C} {sobre P} {todo Q} {, O} {que Q} {es V} {bastante A} {módico G}	B	sirrem_adj_prep	pd02
+{para P} {ser V} {, O} {como C} {es V} {, O} {un D} {buen G} {periódico N} {. O}	I	sirrem_adj_prep	pd02

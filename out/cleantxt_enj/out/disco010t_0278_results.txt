@@ -1,0 +1,14 @@
+{Como C} {el D} {que Q} {lucha V} {hasta P} {el D} {postrer N} {instante N}	O		
+{y C} {no A} {como C} {el D} {que Q} {tiembla V} {y C} {se Q} {intimida V} {, O}	O		
+{caí V} {, O} {pero C} {no A} {a P} {plomo N} {: O} {mi D} {caída N}	B	enlace_subj_verb	ld01
+{describió V} {una D} {parábola N} {gigante G} {... O}	I	enlace_subj_verb	ld01
+{Fui V} {el D} {más A} {amado G} {de P} {tu D} {pecho N} {amante N}	O		
+{y C} {fue V} {el D} {alma N} {entre P} {todas D} {escogida G} {: O}	O		
+{mas A} {quise V} {hacerte V} {vida N} {de P} {mi D} {vida N} {: O}	O		
+{y C} {entonces A} {la D} {Beatriz R} {huyó V} {del P} {Dante R} {. O}	O		
+{Volví V} {al P} {infierno N} {. O} {En P} {el D} {infierno N} {ahora A}	O		
+{sueño N} {con P} {que Q} {tu D} {mano N} {protectora G}	B	enlace_subj_verb	ld01
+{me Q} {levante V} {a P} {las D} {cumbres N} {del P} {pasado G} {; O}	I	enlace_subj_verb	ld01
+{debe V} {de P} {ser V} {hermoso G} {y C} {elocuente G} {, O}	O		
+{ver V} {entrar V} {a P} {los D} {cielos N} {nuevamente A}	B	enlace_od_verb	ld02
+{a P} {Satán R} {redimido G} {y C} {perdonado V} {. O}	I	enlace_od_verb	ld02

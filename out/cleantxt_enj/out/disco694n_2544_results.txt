@@ -1,0 +1,14 @@
+{Yo Q} {adoro V} {a P} {una D} {sonámbula N} {con P} {alma N} {de P} {Eloísa R}	B	enlace_od_verb	ld02
+{virgen V} {como C} {la D} {nieve N} {y C} {honda N} {como C} {la D} {mar N} {; O}	I	enlace_od_verb	ld02
+{su D} {espíritu N} {es V} {la D} {hostia N} {de P} {mi D} {amorosa G} {misa N}	O		
+{y C} {alzo N} {al P} {son N} {de P} {una D} {dulce G} {lira N} {crepuscular G} {. O}	O		
+{Ojos N} {de P} {evocadora N} {, O} {gesto N} {de P} {profetisa N} {, O}	O		
+{en P} {ella Q} {hay V} {la D} {sagrada G} {frecuencia N} {del P} {altar N} {; O}	O		
+{su D} {risa N} {es V} {la D} {sonrisa N} {suave G} {de P} {Monna R} {Lisa R} {, O}	O		
+{sus D} {labios N} {son V} {los D} {únicos G} {labios N} {para P} {besar V} {, O}	O		
+{Y C} {he V} {de P} {besarla V} {un D} {día N} {con P} {rojo G} {beso N} {ardiente A} {; O}	O		
+{apoyada G} {en P} {mi D} {brazo N} {como C} {convaleciente G}	O		
+{me Q} {mirará V} {asombrada G} {con P} {íntimo G} {pavor N} {; O}	O		
+{la D} {enamorada G} {esfinge N} {quedará V} {estupefacta G} {, O}	O		
+{apagaré V} {la D} {llama N} {de P} {la D} {vestal G} {intacta N}	O		
+{y C} {la D} {faunesa N} {antigua G} {me Q} {rugirá V} {de P} {amor N} {! O}	O		

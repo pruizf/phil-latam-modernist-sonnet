@@ -1,0 +1,14 @@
+{Un D} {día N} {oí V} {una D} {risa N} {bajo P} {la D} {fronda N} {espesa G} {, O}	O		
+{vi V} {brotar V} {de P} {lo D} {verde G} {dos D} {manzanas N} {lozanas G} {; O}	O		
+{erectos N} {senos G} {eran V} {las D} {lozanas N} {manzanas N}	B	sirrem_noun_prep	pp06.1
+{del P} {busto N} {que Q} {bruñía N} {de P} {sol N} {la D} {Satiresa R} {: O}	I	sirrem_noun_prep	pp06.1
+{era V} {una D} {Satiresa R} {de P} {mis D} {fiestas N} {paganas G} {, O}	O		
+{que Q} {hace V} {brotar V} {clavel N} {o C} {rosa N} {cuando C} {besa G} {; O}	O		
+{y C} {furiosa G} {y C} {riente G} {y C} {que C} {abrasa V} {y C} {que C} {mesa N} {, O}	O		
+{con P} {los D} {labios N} {manchados G} {por P} {las D} {moras N} {tempranas G} {. O}	O		
+{Tú Q} {que C} {fuiste V} {, O} {me Q} {dijo V} {, O} {un D} {antiguo G} {argonauta N} {, O}	O		
+{alma N} {que Q} {el D} {sol N} {sonrosa G} {y C} {que C} {la D} {mar N} {zafira G} {, O}	O		
+{sabe V} {que C} {está V} {el D} {secreto N} {de P} {todo D} {ritmo N} {y C} {pauta N}	O		
+{en P} {unir V} {carne N} {y C} {alma N} {a P} {la D} {esfera N} {que Q} {gira N} {, O}	O		
+{y C} {amando V} {a P} {Pan N} {y C} {Apolo R} {en P} {la D} {lira N} {y C} {la D} {flauta N} {, O}	O		
+{ser V} {en P} {la D} {flauta N} {Pan N} {, O} {como C} {Apolo R} {en P} {la D} {lira N} {. O}	O		

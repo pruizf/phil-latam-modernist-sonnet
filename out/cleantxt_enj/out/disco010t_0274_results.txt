@@ -1,0 +1,14 @@
+{En P} {la D} {playa N} {do G} {se Q} {rompen V} {los D} {oleajes N} {iracundos G} {, O}	O		
+{en P} {la D} {tumba N} {do G} {se Q} {apaga V} {tanta D} {cólera N} {encendida G} {, O}	O		
+{se Q} {columbra V} {el D} {horizonte N} {de P} {la D} {Tierra R} {Prometida R}	B	oracional	cp01
+{que Q} {se Q} {ensancha V} {ante P} {los D} {ojos N} {de P} {los D} {tristes G} {moribundos N} {. O}	I	oracional	cp01
+{Inflamándose V} {en P} {la D} {atmósfera N} {esos D} {gérmenes N} {fecundos G} {, O}	O		
+{que Q} {celebran V} {el D} {consorcio N} {de P} {la D} {muerte N} {con P} {la D} {vida N} {, O}	O		
+{hacen V} {sólo A} {al P} {Universo N} {breve G} {punto N} {de P} {partida N}	O		
+{para P} {el D} {viaje N} {del P} {espíritu N} {a P} {través N} {de P} {eternos G} {mundos N} {... O}	O		
+{Frío V} {el D} {mármol N} {vanidoso G} {, O} {tibio G} {el D} {seno N} {de P} {los D} {campos N} {, O}	O		
+{preferible G} {es V} {dormir V} {siempre A} {dentro A} {el D} {hoyo N} {de P} {un D} {sendero N} {, O}	O		
+{bajo P} {un D} {árbol N} {que Q} {acaricien V} {los D} {rocíos N} {y C} {los D} {lampos N} {. O}	O		
+{¡ O} {La D} {Natura R} {en P} {sus D} {campiñas G} {brinda V} {a P} {su D} {hijo N} {abiertas G} {fosas N} {; O}	O		
+{y C} {por P} {eso Q} {en P} {las D} {entrañas N} {de P} {la D} {Madre R} {dormir V} {quiero V} {, O}	O		
+{la D} {mteria N} {hecha G} {gusanos G} {y C} {el D} {alma N} {hecha G} {mariposas G} {! O} {... O}	O		

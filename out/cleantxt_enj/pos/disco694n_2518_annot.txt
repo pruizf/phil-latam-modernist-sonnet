@@ -1,0 +1,14 @@
+{Aquel D t1} {nuestro D t2} {antiguo G t3} {Simón R t4} {el D t5} {Bobito R t6} {, O t7}
+{perito N t8} {en P t9} {pasteles N t10} {de P t11} {pollo N t12} {y C t13} {jamón N t14} {, O t15}
+{tenía V t16} {mofletes N t17} {y C t18} {panza N t19} {el D t20} {maldito G t21} {; O t22}
+{y C t23} {sesos N t24} {, O t25} {los D t26} {sesos N t27} {que Q t28} {tiene V t29} {un D t30} {melón N t31} {. O t32}
+{Simón R t33} {hoy A t34} {es V t35} {fama N t36} {que C t37} {en P t38} {todo Q t39} {es V t40} {perito N t41}
+{aquel D t42} {joven N t43} {émulo G t44} {del P t45} {iguanodón N t46} {; O t47}
+{cien D t48} {cosas N t49} {ha V t50} {hecho V t51} {, O t52} {mil D t53} {cosas N t54} {ha V t55} {escrito V t56}
+{el D t57} {Excelentísimo R t58} {Sefior R t59} {Don R t60} {Simón R t61} {. O t62}
+{Simón R t63} {poliforme G t64} {, O t65} {marcial G t66} {y C t67} {civil G t68} {, O t69}
+{corona N t70} {su D t71} {frente N t72} {de P t73} {encina N t74} {y C t75} {laurel C t76} {; O t77}
+{si C t78} {escuela N t79} {inauguran V t80} {o C t81} {ferro-carril N t82}
+{en P t83} {el D t84} {Continente R t85} {, O t86} {Calibán R t87} {y C t88} {Ariel R t89} {, O t90}
+{suspiran V t91} {por P t92} {dollars N t93} {, O t94} {sapiencia N t95} {y C t96} {fusil N t97}
+{Simón R t98} {el D t99} {Bobito R t100} {y C t101} {el D t102} {Tío R t103} {Samuel R t104} {. O t105}

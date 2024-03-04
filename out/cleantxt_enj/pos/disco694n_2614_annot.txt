@@ -1,0 +1,14 @@
+{La D t1} {gloria N t2} {será V t3} {tuya V t4} {si C t5} {tu D t6} {alma N t7} {retiene V t8}
+{lo D t9} {que Q t10} {está V t11} {en P t12} {la D t13} {profunda G t14} {voluntad N t15} {de P t16} {infinito G t17}
+{que C t18} {el D t19} {Amor R t20} {o C t21} {el D t22} {Dolor R t23} {nos Q t24} {explica V t25} {en P t26} {el D t27} {grito N t28}
+{que Q t29} {en P t30} {el D t31} {suspiro N t32} {espera V t33} {o C t34} {que C t35} {en P t36} {el D t37} {llanto N t38} {viene V t39} {. O t40}
+{No A t41} {aguardes V t42} {que C t43} {el D t44} {inmenso G t45} {clarín N t46} {de P t47} {oro N t48} {truene G t49} {: O t50}
+{a P t51} {las D t52} {nupcias N t53} {del P t54} {Cielo N t55} {con P t56} {mis D t57} {versos N t58} {te Q t59} {invito V t60} {... O t61}
+{¡ O t62} {Que C t63} {en P t64} {tus D t65} {jardines N t66} {nunca A t67} {perfume Q t68} {lo Q t69} {maldito G t70} {, O t71}
+{ni C t72} {oigas N t73} {al P t74} {Fauno-Diablo R t75} {que C t76} {su D t77} {siringa N t78} {suene V t79} {! O t80}
+{Pero C t81} {marcha N t82} {, O t83} {Poeta R t84} {, O t85} {con P t86} {tu D t87} {flauta N t88} {y C t89} {tu D t90} {lira N t91}
+{a P t92} {donde Q t93} {Dios R t94} {te Q t95} {llame V t96} {y C t97} {tu D t98} {instinto N t99} {te Q t100} {lleve V t101} {; O t102}
+{y C t103} {meditando V t104} {en P t105} {lo D t106} {que Q t107} {la D t108} {Vida R t109} {te Q t110} {inspira V t111}
+{haz V t112} {tus D t113} {versos N t114} {de P t115} {noche N t116} {, O t117} {haz G t118} {tus D t119} {versos N t120} {de P t121} {nieve N t122} {; O t123}
+{dilucida G t124} {en P t125} {la D t126} {aurora N t127} {y C t128} {en P t129} {la D t130} {tarde N t131} {suspira G t132} {, O t133}
+{con P t134} {el D t135} {dáctilo N t136} {dóctil G t137} {y C t138} {con P t139} {la D t140} {danza N t141} {leve G t142} {. O t143}

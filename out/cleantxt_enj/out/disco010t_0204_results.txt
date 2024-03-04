@@ -1,0 +1,14 @@
+{Ya A} {todos D} {los D} {caiques N} {probaron V} {el D} {madero N}	O		
+{- O} {¿ O} {Quién Q} {falta V} {? O} {- O} {Y C} {la D} {respuesta N} {fue V} {un D} {arrogante G} {: O} {¡ O} {Yo Q} {! O}	O		
+{- O} {¡ O} {Yo Q} {! O} {- O} {dijo V} {; O} {y C} {, O} {en P} {la D} {forma N} {de P} {una D} {visión N} {de P} {Homero R} {, O}	O		
+{del P} {fondo N} {de P} {los D} {bosques N} {Caupolicán R} {surgió V} {. O}	O		
+{Echóse V} {el D} {tronco N} {encima A} {, O} {con P} {ademán N} {ligero G} {, O}	O		
+{y C} {estremecerse V} {pudo V} {pero C} {doblarse V} {no A}	O		
+{Bajo P} {sus D} {pies N} {, O} {tres D} {días N} {crujir N} {hizo V} {el D} {sendero N} {, O}	O		
+{y C} {estuvo V} {andando V} {andando V} {y C} {andando V} {se Q} {durmió V} {. O}	O		
+{Andando R} {, O} {así A} {, O} {dormido G} {, O} {vio V} {en P} {sueños N} {al P} {verdugo N} {: O}	O		
+{él Q} {, O} {muerto G} {sobre P} {un D} {tronco N} {; O} {su D} {raza N} {, O} {con P} {el D} {yugo N} {, O}	O		
+{inútil G} {todo D} {esfuerzo N} {y C} {el D} {mundo N} {siempre A} {igual G} {. O}	O		
+{Por P} {eso Q} {, O} {el D} {tercer G} {día N} {de P} {andar V} {por P} {valle N} {y C} {sierra N} {, O}	O		
+{el D} {tronco N} {alzó V} {en P} {los D} {aires N} {y C} {lo Q} {clavó V} {en P} {la D} {tierra N} {, O}	O		
+{¡ O} {cómo Q} {si C} {el D} {tronco N} {fuese V} {su D} {mismo D} {pedestal N} {! O}	O		

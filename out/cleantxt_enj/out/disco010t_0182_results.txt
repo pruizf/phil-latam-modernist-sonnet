@@ -1,0 +1,14 @@
+{Entre P} {las D} {manos N} {de P} {mi D} {madre N} {anciana G}	O		
+{la D} {cabellera N} {de P} {su D} {nieto N} {brilla N} {, O}	O		
+{y C} {es V} {puñado N} {de P} {trigo N} {, O} {áurea N} {gavilla G} {, O}	O		
+{oro N} {de P} {sol N} {robado G} {a P} {la D} {mañana N} {. O}	O		
+{Luce V} {mi D} {madre N} {en P} {tanto A} {- O} {espuma N} {vana G}	B	oracional	cp01
+{que Q} {la D} {ola N} {del P} {tiempo N} {echó V} {a P} {la D} {orilla N} {- O}	I	oracional	cp01
+{a P} {modo N} {de P} {una D} {hostia N} {sin P} {mancilla N} {, O}	O		
+{su D} {relumbrante G} {cabellera N} {cana G}	O		
+{Grupo R} {de P} {plata N} {y C} {oro N} {que Q} {en P} {derroches N}	B	enlace_subj_verb	ld01
+{cubren V} {mi D} {corazón N} {de P} {regocijo N}	I	enlace_subj_verb	ld01
+{No A} {importa V} {nada Q} {que C} {el D} {rencor N} {me Q} {ladre N} {, O}	O		
+{porque C} {para P} {mis D} {días N} {y C} {mis D} {noches N} {, O}	O		
+{tengo V} {el D} {sol N} {en P} {los D} {bucles N} {de P} {mi D} {hijo N}	O		
+{y C} {la D} {luna N} {en P} {las D} {canas N} {de P} {mi D} {madre N} {. O}	O		

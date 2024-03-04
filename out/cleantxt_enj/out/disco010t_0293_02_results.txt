@@ -1,0 +1,14 @@
+{Y C} {habló V} {el D} {poeta N} {, O} {y C} {dijo V} {: O} {-- O} {Conozco V} {tus D} {vigores N} {, O}	O		
+{Y C} {aplaudo V} {el D} {ritmo N} {en P} {que Q} {hablan V} {tus D} {cascos N} {habladores G} {; O}	O		
+{Sé V} {de P} {tu D} {vuelo N} {el D} {rumbo N} {por P} {el D} {Azul R} {, O} {a P} {modo N}	B	sirrem_noun_prep	pp06.1
+{De P} {un D} {paso N} {de P} {conquista N} {que Q} {lo Q} {conquista N} {todo Q} {; O}	I	sirrem_noun_prep	pp06.1
+{Y C} {asiéntome V} {en P} {tu D} {anca G} {, O} {que Q} {orlada G} {con P} {mil D} {flores N} {, O}	O		
+{Es V} {redondez N} {y C} {es V} {lustre N} {como C} {obra N} {de P} {escultores N} {; O}	O		
+{Y C} {engriome G} {en P} {tu D} {escape N} {y C} {en P} {la D} {carrera N} {beodo G}	B	enlace_od_verb	ld02
+{Tiendo R} {sobre P} {tu D} {mármol N} {mi D} {humanidad N} {de P} {lodo N} {... O}	I	enlace_od_verb	ld02
+{¡ O} {Y C} {bien A} {! O} {Dame V} {una D} {sola G} {de P} {tus D} {sonoras G} {crines N} {, O}	O		
+{Para P} {ajustarla V} {a P} {un D} {arco N} {, O} {no A} {de P} {arrullar V} {violines N}	O		
+{Sino R} {de P} {flechar V} {verbos N} {en P} {desatada N} {lidia G} {. O}	O		
+{¡ O} {Ya A} {de P} {tu D} {recia G} {cola N} {, O} {ya A} {de P} {tu D} {cuello N} {rudo G} {, O}	O		
+{Dame Q} {una Q} {de P} {tus D} {crines N} {; O} {que C} {quiero V} {hacer V} {un D} {nudo N}	O		
+{Para P} {que C} {tenga V} {su D} {horca N} {la D} {lengua N} {de P} {la D} {Envidia R} {! O} {... O}	O		

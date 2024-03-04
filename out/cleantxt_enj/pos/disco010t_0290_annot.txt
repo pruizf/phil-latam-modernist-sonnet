@@ -1,0 +1,14 @@
+{¿ O t1} {Quiénes Q t2} {son V t3} {, O t4} {dónde Q t5} {están V t6} {los D t7} {que Q t8} {han V t9} {querido V t10}
+{mancillar V t11} {mi D t12} {honradez N t13} {con P t14} {su D t15} {impostura N t16} {? O t17}
+{Hay V t18} {nieves N t19} {y C t20} {no A t21} {fangos G t22} {en P t23} {mi D t24} {altura N t25} {; O t26}
+{águilas N t27} {, O t28} {no A t29} {serpientes G t30} {en P t31} {mi D t32} {nido N t33} {... O t34}
+{Ellos Q t35} {, O t36} {los D t37} {que Q t38} {han V t39} {mi D t40} {corazón N t41} {herido G t42} {, O t43}
+{me Q t44} {han V t45} {coronado V t46} {de P t47} {inmortal G t48} {ventura N t49} {; O t50}
+{¡ O t51} {que C t52} {si C t53} {el D t54} {arma N t55} {enemiga G t56} {es V t57} {tan A t58} {impura G t59} {, O t60}
+{más A t61} {noble G t62} {que C t63} {vencer V t64} {es V t65} {ser V t66} {vencido V t67} {! O t68}
+{Gocen V t69} {los D t70} {viles N t71} {, O t72} {que Q t73} {con P t74} {torpe G t75} {saña N t76}
+{sentirán V t77} {, O t78} {acosándome V t79} {en P t80} {el D t81} {monte N t82} {, O t83}
+{bajo P t84} {sus D t85} {garras N t86} {renacer V t87} {mi D t88} {entraña V t89} {; O t90}
+{que C t91} {si C t92} {un D t93} {día N t94} {naufragan V t95} {sus D t96} {ideales N t97} {, O t98}
+{¡ O t99} {cruzaré V t100} {como C t101} {nave N t102} {el D t103} {horizonte N t104}
+{sin P t105} {oír V t106} {gritos N t107} {y C t108} {sin P t109} {ver V t110} {señales N t111} {! O t112} {... O t113}

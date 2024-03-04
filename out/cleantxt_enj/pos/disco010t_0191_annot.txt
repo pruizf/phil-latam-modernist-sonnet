@@ -1,0 +1,14 @@
+{Es V t1} {la D t2} {Pampa R t3} {hecha G t4} {hombre N t5} {: O t6} {es V t7} {un D t8} {pedazo N t9}
+{de P t10} {brava N t11} {tierra N t12} {sobre P t13} {el D t14} {sol N t15} {tendida G t16}
+{Ya A t17} {a P t18} {indómito N t19} {corcel D t20} {pone V t21} {la D t22} {brida N t23} {, O t24}
+{ya A t25} {lacea V t26} {una D t27} {res N t28} {: O t29} {él Q t30} {es V t31} {el D t32} {brazo N t33}
+{Al P t34} {son N t35} {de P t36} {la D t37} {guitarra N t38} {, O t39} {en P t40} {el D t41} {regazo N t42}
+{de P t43} {su D t44} {" O t45} {prenda N t46} {" O t47} {, O t48} {quejoso V t49} {de P t50} {la D t51} {vida N t52} {, O t53}
+{desenvuelve V t54} {con P t55} {voz N t56} {adolorida G t57}
+{una D t58} {canción N t59} {como C t60} {si C t61} {fuera V t62} {un D t63} {lazo N t64}
+{Cuadro R t65} {es V t66} {la D t67} {Pampa R t68} {en P t69} {que C t70} {el D t71} {afán N t72} {se Q t73} {encierra V t74}
+{del P t75} {gaucho N t76} {, O t77} {erguido G t78} {en P t79} {actitud N t80} {briosa G t81} {, O t82}
+{sobre P t83} {ese D t84} {gran G t85} {cansancio N t86} {de P t87} {la D t88} {tierra N t89} {; O t90}
+{porque C t91} {el D t92} {bostezo N t93} {de P t94} {la D t95} {Pampa R t96} {verde G t97}
+{es V t98} {como C t99} {una D t100} {fatiga N t101} {que Q t102} {reposa V t103}
+{o C t104} {es V t105} {como C t106} {una D t107} {esperanza N t108} {que Q t109} {se Q t110} {pierde V t111}

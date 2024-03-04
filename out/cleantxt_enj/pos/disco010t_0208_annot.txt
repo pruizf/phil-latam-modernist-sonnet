@@ -1,0 +1,14 @@
+{El D t1} {Rey R t2} {del P t3} {Sol R t4} {, O t5} {el D t6} {hombre N t7} {que Q t8} {vio V t9} {a P t10} {sus D t11} {pies N t12} {la D t13} {Esfera R t14} {, O t15}
+{enderezando V t16} {al P t17} {punto N t18} {su D t19} {testa N t20} {coronada G t21} {, O t22}
+{preguntó V t23} {: O t24} {- O t25} {¿ O t26} {Quién Q t27} {detiene V t28} {mi D t29} {carroza N t30} {? O t31} {- O t32} {Una D t33} {espada N t34}
+{es V t35} {menos A t36} {penetrante G t37} {que C t38} {una D t39} {pupila G t40} {fiera N t41}
+{Vergonzante G t42} {que Q t43} {un D t44} {día N t45} {su D t46} {harapos N t47} {zurciera V t48}
+{con P t49} {un D t50} {rayo N t51} {de P t52} {gloria N t53} {, O t54} {resistió V t55} {la D t56} {mirada N t57} {; O t58}
+{y C t59} {arrojó V t60} {a P t61} {las D t62} {alturas N t63} {una D t64} {frase N t65} {vaciada G t66}
+{en P t67} {los D t68} {épicos N t69} {moldes G t70} {de P t71} {la D t72} {clásica G t73} {era N t74}
+{Tal Q t75} {el D t76} {Rey R t77} {: O t78} {- O t79} {¿ O t80} {Quién Q t81} {detiene V t82} {mi D t83} {carroza N t84} {? O t85} {Aquel D t86} {hombre N t87}
+{se Q t88} {acercó V t89} {respetuosos G t90} {, O t91} {y C t92} {, O t93} {en P t94} {lugar N t95} {de P t96} {su D t97} {nombre N t98} {, O t99}
+{- O t100} {¡ O t101} {Quién Q t102} {te Q t103} {ha V t104} {dado V t105} {más A t106} {tierras N t107} {que C t108} {tu D t109} {padre N t110} {! O t111} {- O t112} {le Q t113} {dijo V t114}
+{Carlos R t115} {V R t116} {abrió V t117} {entonces A t118} {su D t119} {carroza N t120} {al P t121} {instante N t122} {; O t123}
+{y C t124} {rogándole V t125} {luego A t126} {que C t127} {pasara V t128} {adelante A t129} {, O t130}
+{lo Q t131} {sentó V t132} {a P t133} {su D t134} {derecha N t135} {, O t136} {como C t137} {Dios R t138} {a P t139} {su D t140} {Hijo N t141} {. O t142}

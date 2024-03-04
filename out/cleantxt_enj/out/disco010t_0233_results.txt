@@ -1,0 +1,14 @@
+{Sin P} {poderlo V} {evitar V} {, O} {tal D} {vez N} {me Q} {quieres V} {; O}	O		
+{y C} {mis D} {pláticas N} {dulces G} {y C} {armoniosas G}	B	enlace_subj_verb	ld01
+{te Q} {embriagan V} {con P} {las D} {mieles N} {de P} {sus D} {rosas N} {; O}	I	enlace_subj_verb	ld01
+{ve V} {lo D} {que Q} {fuiste V} {ayer A} {, O} {ve V} {lo D} {que Q} {hoy A} {eres V} {! O}	O		
+{No A} {quebrantes G} {la D} {ley N} {de P} {tus D} {deberes N} {: O}	O		
+{dime V} {sólo A} {palabras N} {amistosas G} {; O}	O		
+{que C} {me Q} {conformo V} {. O} {El D} {trato N} {de P} {las D} {diosas G}	B	enlace_subj_verb	ld01
+{vale V} {más A} {que C} {el D} {amor N} {de P} {las D} {mujeres N} {... O}	I	enlace_subj_verb	ld01
+{Gozome R} {sólo A} {en P} {contemplar V} {tu D} {huella N} {, O}	O		
+{como C} {recuerdo N} {de P} {mi D} {amor N} {profundo G} {, O}	O		
+{borrándose V} {en P} {la D} {arena N} {del P} {desierto N} {... O}	O		
+{Tal Q} {soñamos V} {mirar V} {lejana G} {estrella N} {, O}	O		
+{por P} {el D} {rayo N} {de P} {luz N} {, O} {que C} {a P} {nuestro D} {mundo N}	O		
+{llega V} {quizás A} {cuando C} {la D} {estrella N} {ha V} {muerto V} {. O}	O		

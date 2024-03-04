@@ -1,0 +1,14 @@
+{Soñé V t1} {que C t2} {estaba V t3} {muerto G t4} {, O t5} {Años R t6} {hacía V t7} {, O t8}
+{durmiendo V t9} {en P t10} {paz N t11} {las D t12} {ansias N t13} {de P t14} {la D t15} {guerra N t16} {, O t17}
+{me Q t18} {solazaba V t19} {en P t20} {abonar V t21} {la D t22} {tierra N t23}
+{que Q t24} {con P t25} {amor N t26} {de P t27} {madre N t28} {me Q t29} {cubría V t30} {... O t31}
+{Entre P t32} {mi D t33} {tumba N t34} {estrecho G t35} {me Q t36} {sentía V t37} {; O t38}
+{y C t39} {, O t40} {como C t41} {el D t42} {león N t43} {que Q t44} {el D t45} {domador N t46} {encierra V t47}
+{contra P t48} {la D t49} {jaula N t50} {con P t51} {furor N t52} {se Q t53} {aferra V t54} {, O t55}
+{yo Q t56} {, O t57} {viviendo V t58} {otra D t59} {vez N t60} {, O t61} {sobresalía V t62} {. O t63}
+{Vi V t64} {también A t65} {que C t66} {, O t67} {por P t68} {leyes N t69} {misteriosas G t70} {, O t71}
+{de P t72} {las D t73} {carnes N t74} {brotaban V t75} {los D t76} {gusanos N t77} {, O t78}
+{pero C t79} {que Q t80} {se Q t81} {tornaban V t82} {mariposas G t83} {... O t84}
+{Súbito R t85} {, O t86} {no A t87} {vi V t88} {nada Q t89} {: O t90} {era V t91} {un D t92} {abismo N t93} {; O t94}
+{cegué N t95} {; O t96} {me Q t97} {estremecí V t98} {; O t99} {tendí V t100} {las D t101} {manos N t102} {; O t103}
+{¡ O t104} {y C t105} {caí V t106} {desplomado G t107} {... O t108} {entre P t109} {mí Q t110} {mismo D t111} {! O t112}

@@ -1,0 +1,14 @@
+{Marqués R} {, O} {( O} {como C} {el D} {Divino R} {lo Q} {era V} {) O} {te Q} {saludo N} {. O}	O		
+{Es V} {el D} {otoño N} {y C} {vengo V} {de P} {un D} {Versalles R} {doliente A} {. O}	O		
+{Había V} {mucho A} {frío G} {y C} {erraba V} {vulgar G} {gente N} {. O}	O		
+{El D} {chorro N} {de P} {agua N} {de P} {Verlaine R} {estaba V} {mudo G} {. O}	O		
+{Me Q} {quedé V} {pensativo G} {ante P} {un D} {mármol N} {desnudo G} {, O}	O		
+{cuando Q} {vi V} {una D} {paloma N} {que Q} {pasó V} {de P} {repente N} {, O}	O		
+{y C} {por P} {caso N} {de P} {cerebración N} {inconsciente G}	O		
+{pensé V} {en P} {ti Q} {. O} {Toda D} {exégesis N} {en P} {este D} {caso N} {eludo G} {. O}	O		
+{Versalles D} {otoñal P} {; O} {una D} {paloma N} {; O} {un D} {lindo G}	B	sirrem_adj_noun	pp02
+{mármol N} {; O} {un D} {vulgo N} {errante G} {, O} {municipal G} {y C} {espeso G} {; O}	I	sirrem_adj_noun	pp02
+{anteriores G} {lecturas N} {de P} {tus D} {sutiles G} {prosas G} {; O}	O		
+{la D} {reciente G} {impresión N} {de P} {tus D} {triunfos N} {... O} {prescindo G}	B	sirrem_adj_prep	pp07
+{de P} {más A} {detalles N} {para P} {explicarte V} {por P} {eso Q}	IB	sirrem_adj_prep;enlace_od_verb	pp07;ld02
+{cmo G} {, O} {autumnal G} {, O} {te Q} {envío N} {este D} {ramo N} {de P} {rosas N} {. O}	I	enlace_od_verb	ld02

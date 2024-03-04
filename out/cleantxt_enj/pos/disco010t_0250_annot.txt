@@ -1,0 +1,14 @@
+{Dejad R t1} {que Q t2} {goce V t3} {en P t4} {amistoso G t5} {trato N t6}
+{del P t7} {verde G t8} {campo N t9} {y C t10} {del P t11} {verano N t12} {austero G t13} {: O t14}
+{más A t15} {que C t16} {la D t17} {lid N t18} {de P t19} {Napoleón R t20} {preflero G t21}
+{la D t22} {deliciosa G t23} {paz N t24} {de P t25} {Cincinato R t26} {. O t27}
+{Ajeno R t28} {al P t29} {banal N t30} {ruido N t31} {y C t32} {al P t33} {boato N t34} {, O t35}
+{sin P t36} {huir V t37} {de P t38} {la D t39} {paz N t40} {seré V t41} {un D t42} {guerrero N t43} {; O t44}
+{y C t45} {, O t46} {en P t47} {el D t48} {arado N t49} {, O t50} {blandiré N t51} {ese D t52} {acero N t53}
+{que Q t54} {es V t55} {súplica G t56} {de P t57} {amor N t58} {y C t59} {no A t60} {mandato N t61} {... O t62}
+{Abre P t63} {el D t64} {arado N t65} {fecundante G t66} {herida N t67} {, O t68}
+{en P t69} {que Q t70} {germina V t71} {la D t72} {gloriosa G t73} {suerte N t74}
+{de P t75} {la D t76} {campiña N t77} {plácida G t78} {y C t79} {serena G t80} {; O t81}
+{porque C t82} {ese D t83} {acero N t84} {es V t85} {libertad N t86} {y C t87} {es V t88} {vida N t89} {, O t90}
+{en P t91} {vez N t92} {de P t93} {aquel D t94} {que Q t95} {es V t96} {tiranía N t97} {y C t98} {muerte N t99} {, O t100}
+{¡ O t101} {tajo N t102} {en P t103} {la D t104} {espada N t105} {y C t106} {nudo N t107} {en P t108} {la D t109} {cadena N t110} {! O t111}

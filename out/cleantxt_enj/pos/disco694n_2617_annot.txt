@@ -1,0 +1,14 @@
+{Pues C t1} {que C t2} {naciste V t3} {bella G t4} {, O t5} {carga N t6} {tu D t7} {cruz N t8} {de P t9} {flores N t10} {, O t11}
+{yérguete V t12} {con P t13} {la D t14} {augusta G t15} {soberbia N t16} {de P t17} {una D t18} {diosa G t19} {, O t20}
+{sé V t21} {vivaz G t22} {, O t23} {sé V t24} {rosada G t25} {, O t26} {sé V t27} {altiva G t28} {y C t29} {caprichosa G t30} {, O t31}
+{sufre V t32} {, O t33} {y C t34} {pues C t35} {morir V t36} {tienes V t37} {, O t38} {muere V t39} {de P t40} {mal N t41} {de P t42} {amores N t43} {. O t44}
+{Carga R t45} {tu D t46} {cruz N t47} {y C t48} {sufre V t49} {de P t50} {amorosos G t51} {dolores N t52} {, O t53}
+{en P t54} {primavera N t55} {cumple V t56} {tu D t57} {obligacin N t58} {de P t59} {rosa N t60} {, O t61}
+{con P t62} {la D t63} {frente N t64} {en P t65} {el D t66} {verso N t67} {y C t68} {los D t69} {pies N t70} {en P t71} {la D t72} {prosa G t73} {, O t74}
+{guarda N t75} {en P t76} {tu D t77} {propio G t78} {pecho N t79} {las D t80} {lágrimas N t81} {que Q t82} {llores N t83} {. O t84}
+{Sé V t85} {avara V t86} {de P t87} {tu D t88} {llanto N t89} {pues C t90} {las D t91} {penas N t92} {consumen V t93} {. O t94}
+{Que C t95} {las D t96} {alegres G t97} {risas N t98} {los D t99} {labios N t100} {te Q t101} {perfumen N t102}
+{y C t103} {los D t104} {amargos G t105} {duelos N t106} {huyan V t107} {lejos A t108} {de P t109} {ti Q t110} {. O t111}
+{No A t112} {entregues N t113} {tus D t114} {abriles V t115} {a P t116} {los D t117} {pesares N t118} {tercos G t119} {, O t120}
+{no A t121} {eches G t122} {tus D t123} {margaritas N t124} {al P t125} {festín N t126} {de P t127} {los D t128} {puercos N t129} {, O t130}
+{y C t131} {en P t132} {medio N t133} {de P t134} {tus D t135} {triunfos N t136} {acuérdate N t137} {de P t138} {mí Q t139} {. O t140}

@@ -1,0 +1,14 @@
+{¿ O} {De P} {dónde Q} {aquella D} {de P} {abultado G} {seno N} {, O}	O		
+{blanca G} {a P} {manera N} {de P} {ritual G} {paloma N} {? O}	O		
+{Quizás A} {del P} {bosque N} {de P} {vetusto G} {aroma N} {, O}	O		
+{porque C} {es V} {la D} {ninfa N} {del P} {pasado G} {heleno N} {. O}	O		
+{Lascivo G} {amante N} {, O} {de P} {cautela N} {lleno G} {, O}	O		
+{corre V} {tras P} {ella Q} {; O} {entre P} {las D} {manos N} {toma V}	B	enlace_od_verb	ld02
+{el D} {talle N} {; O} {y C} {luego A} {, O} {sobre P} {el D} {hombro N} {asoma V}	IB	enlace_od_verb;enlace_od_verb	ld02;ld02
+{su D} {puntiaguda G} {barba N} {de P} {sileno N} {. O}	I	enlace_od_verb	ld02
+{¡ O} {Mitológico G} {grupo N} {! O} {La D} {escultura N}	B	enlace_subj_verb	ld01
+{copiarlo Q} {debe V} {; O} {que C} {, O} {con P} {nuevos G} {trajes N} {, O}	I	enlace_subj_verb	ld01
+{al P} {remozar V} {la D} {clásica G} {aventura N} {, O}	O		
+{forman V} {pareja N} {de P} {exquisito G} {gusto N}	B	enlace_od_verb	ld02
+{una D} {ninfa N} {entre P} {un D} {vértigo N} {de P} {encajes N}	I	enlace_od_verb	ld02
+{y C} {un D} {sileno N} {de P} {frac N} {que Q} {le Q} {da V} {un D} {susto N} {. O}	O		

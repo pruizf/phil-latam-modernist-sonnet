@@ -1,0 +1,14 @@
+{¿ O t1} {No A t2} {deseas G t3} {, O t4} {amada G t5} {, O t6} {a P t7} {las D t8} {sencillas N t9}
+{gentes N t10} {del P t11} {pueblo N t12} {unirte G t13} {placentera N t14}
+{y C t15} {pasearte V t16} {conmigo Q t17} {por P t18} {afuera A t19} {, O t20}
+{entre P t21} {flores N t22} {, O t23} {aldeanos N t24} {y C t25} {avecillas N t26} {? O t27}
+{Los D t28} {árboles N t29} {-- G t30} {soldados N t31} {en P t32} {guerrillas N t33}
+{cuidan V t35} {la D t36} {polvorosa G t37} {carretera N t38} {, O t39}
+{que Q t40} {cruza V t41} {, O t42} {como C t43} {un D t44} {cauce N t45} {, O t46} {la D t47} {pradera N t48} {, O t49}
+{seca G t50} {el D t51} {agua N t52} {y C t53} {borradas G t54} {las D t55} {orillas N t56} {... O t57}
+{Al P t58} {tornar V t59} {a P t60} {este D t61} {pueblo N t62} {, O t63} {del P t64} {vecino N t65} {, O t66}
+{con P t67} {todas D t68} {sus D t69} {brillantes G t70} {lentejuelas N t71}
+{como C t72} {una D t73} {bruja N t74} {saltará V t75} {la D t76} {Noche R t77} {; O t78}
+{y C t79} {para P t80} {no A t81} {extraviarnos G t82} {del P t83} {camino N t84} {, O t85}
+{seguiremos V t86} {las D t87} {líneas N t88} {paralelas G t89}
+{que Q t90} {trazaran V t91} {las D t92} {ruedas N t93} {de P t94} {algún D t95} {coche N t96} {. O t97}

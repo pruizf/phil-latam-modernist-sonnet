@@ -1,0 +1,14 @@
+{¡ O t1} {Israel R t2} {! O t3} {¡ O t4} {Israel R t5} {! O t6} {¿ O t7} {Cuándo V t8} {de P t9} {tu D t10} {divina G t11}
+{faz N t12} {en P t13} {la D t14} {sangre N t15} {pura G t16} {resbalará V t17} {el D t18} {diamante N t19} {? O t20}
+{¿ O t21} {Cuándo Q t22} {el D t23} {viento N t24} {del P t25} {río N t26} {hará V t27} {que C t28} {el D t29} {arpa N t30} {cante G t31}
+{entre P t32} {el D t33} {concurso N t34} {eterno G t35} {de P t36} {la D t37} {brisa N t38} {argentina G t39} {? O t40}
+{¿ O t41} {Cuándo Q t42} {será V t43} {la D t44} {cabellera N t45} {que Q t46} {se Q t47} {inclina V t48}
+{agitada G t49} {por P t50} {un D t51} {viento N t52} {perseverante G t53} {? O t54}
+{¿ O t55} {Cuándo Q t56} {el D t57} {brazo N t58} {de P t59} {luz N t60} {dará V t61} {al P t62} {Judío R t63} {Errante R t64}
+{el D t65} {vaso N t66} {en P t67} {que Q t68} {se Q t69} {abreve V t70} {del P t71} {agua N t72} {cristalina G t73} {? O t74}
+{¡ O t75} {Israel R t76} {! O t77} {¡ O t78} {Israel R t79} {! O t80} {Eso Q t81} {será V t82} {en P t83} {la D t84} {hora N t85}
+{en P t86} {que Q t87} {cante V t88} {a P t89} {los D t90} {cielos N t91} {la D t92} {alondra N t93} {pecadora G t94}
+{y C t95} {en P t96} {el D t97} {profundo G t98} {abismo N t99} {se Q t100} {conmueva V t101} {el D t102} {grande G t103} {ojo N t104} {. O t105}
+{Y C t106} {cuando C t107} {levantados G t108} {el D t109} {santo N t110} {y C t111} {aristo N t112} {, O t113}
+{ponga V t114} {su D t115} {blanca G t116} {mano N t117} {nuestro D t118} {príncipe N t119} {Cristo R t120} {, O t121}
+{ponga V t122} {su D t123} {blanca G t124} {mano N t125} {sobre P t126} {el D t127} {infierno N t128} {rojo G t129} {. O t130}

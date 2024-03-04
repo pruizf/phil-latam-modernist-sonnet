@@ -1,0 +1,14 @@
+{Como C t1} {Píndaro R t2} {tiende V t3} {, O t4} {hacia P t5} {el D t6} {viento N t7} {que Q t8} {sopla V t9} {, O t10}
+{la D t11} {vela N t12} {de P t13} {su D t14} {nave N t15} {, O t16} {que Q t17} {es V t18} {una D t19} {carabela N t20}
+{de P t21} {Cortés R t22} {, O t23} {por P t24} {audaz G t25} {, O t26} {y C t27} {de P t28} {Constantinopla R t29} {, O t30}
+{de P t31} {París R t32} {y C t33} {de P t34} {la D t35} {India R t36} {. O t37} {Su D t38} {palabra N t39} {que Q t40} {vuela V t41}
+{sutilmente A t42} {, O t43} {recuerda V t44} {la D t45} {más A t46} {cálida G t47} {copla N t48}
+{de P t49} {Espafia R t50} {. O t51} {Su D t52} {ascendencia N t53} {un D t54} {gran G t55} {misterio N t56} {vela N t57} {. O t58}
+{¡ O t59} {Quién Q t60} {sabe V t61} {cuál Q t62} {caballo N t63} {dominó V t64} {su D t65} {manopla N t66} {! O t67}
+{¡ O t68} {Quién Q t69} {sabe V t70} {los D t71} {encantos N t72} {que C t73} {su D t74} {sonrisa N t75} {anhela G t76} {! O t77}
+{Encaneció V t78} {muy A t79} {joven G t80} {; O t81} {vivió V t82} {su D t83} {hora N t84} {intensa G t85} {, O t86}
+{ebrio G t87} {de P t88} {hallar V t89} {su D t90} {vida N t91} {, O t92} {por P t93} {tan A t94} {humana G t95} {, O t96} {inmensa G t97} {; O t98}
+{y C t99} {, O t100} {adolescente G t101} {, O t102} {supo V t103} {de P t104} {las D t105} {iras N t106} {del P t107} {Mar. R t108}
+{Por P t109} {eso Q t110} {, O t111} {cuando C t112} {muera V t113} {, O t114} {dirá V t115} {la D t116} {Fama R t117} {: O t118} {" O t119} {¡ O t120} {Nunca A t121}
+{fue V t122} {una D t123} {vida N t124} {tan A t125} {bella G t126} {, O t127} {a P t128} {pesar N t129} {de P t130} {ser V t131} {trunca A t132} {, O t133}
+{como C t134} {ésta Q t135} {del P t136} {gran G t137} {nómada G t138} {, O t139} {Don R t140} {Augusto R t141} {d' V t142} {Halmar R t143} {! O t144} {" O t145}

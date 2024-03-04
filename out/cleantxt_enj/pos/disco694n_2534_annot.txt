@@ -1,0 +1,14 @@
+{Yo Q t1} {tengo V t2} {una D t3} {bella G t4} {ánfora N t5} {, O t6} {llena G t7} {de P t8} {regio N t9} {vino V t10} {, O t11}
+{que Q t12} {para P t13} {hacer V t14} {mis D t15} {cantos N t16} {me Q t17} {da V t18} {fuerza N t19} {y C t20} {calor N t21} {; O t22}
+{en P t23} {ella Q t24} {encuentra V t25} {sangre N t26} {mi D t27} {corazón N t28} {latino G t29}
+{para P t30} {beber V t31} {la D t32} {vida N t33} {, O t34} {para P t35} {latir V t36} {de P t37} {amor N t38} {. O t39}
+{Grabó V t40} {en P t41} {ella Q t42} {un D t43} {artífice N t44} {, O t45} {con P t46} {su D t47} {buril N t48} {divino G t49} {, O t50}
+{junto G t51} {a P t52} {una D t53} {viña N t54} {virgen N t55} {, O t56} {a P t57} {Baco R t58} {y C t59} {su D t60} {esplendor N t61} {, O t62}
+{y C t63} {a P t64} {Pan N t65} {, O t66} {que Q t67} {enseña N t68} {danzas N t69} {, O t70} {el D t71} {rostro N t72} {purpurino G t73} {, O t74}
+{a P t75} {cabras N t76} {y C t77} {pastores N t78} {, O t79} {bajo P t80} {un D t81} {cítiso N t82} {en P t83} {flor N t84} {. O t85}
+{El D t86} {ánfora N t87} {gallarda G t88} {contiene V t89} {la D t90} {alegría N t91} {; O t92}
+{Dioniso R t93} {su D t94} {carquesio N t95} {sobre P t96} {ella Q t97} {derramó V t98} {; O t99}
+{el D t100} {sátiro N t101} {gallardo G t102} {su D t103} {aliento N t104} {, O t105} {su D t106} {armonía N t107} {, O t108}
+{y C t109} {Venus R t110} {, O t111} {una D t112} {perla N t113} {que Q t114} {en P t115} {sus D t116} {cabellos N t117} {vio V t118} {. O t119}
+{El D t120} {vino N t121} {rojo G t122} {tiene V t123} {mi D t124} {luz N t125} {, O t126} {mi D t127} {poesía N t128} {: O t129}
+{quien Q t130} {lo Q t131} {hace V t132} {son V t133} {los D t134} {dioses N t135} {y C t136} {quien Q t137} {se Q t138} {embriaga V t139} {, O t140} {yo Q t141} {. O t142}

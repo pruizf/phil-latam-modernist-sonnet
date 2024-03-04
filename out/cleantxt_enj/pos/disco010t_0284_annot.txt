@@ -1,0 +1,14 @@
+{Eres V t1} {fría G t2} {; O t3} {y C t4} {así A t5} {como C t6} {los D t7} {yesos N t8}
+{que Q t9} {en P t10} {trepadora G t11} {red N t12} {ostentan V t13} {flores N t14} {, O t15}
+{te Q t16} {enfatúas N t17} {de P t18} {tus D t19} {galas N t20} {exteriores G t21} {, O t22}
+{bella G t23} {envoltura N t24} {de P t25} {mezquinos N t26} {huesos N t27} {... O t28}
+{Ayer A t29} {me Q t30} {amaste V t31} {, O t32} {hoy A t33} {me Q t34} {desdeñas G t35} {. O t36} {Esos D t37}
+{que Q t38} {se Q t39} {afanan V t40} {por P t41} {ser V t42} {mis D t43} {sucesores N t44} {, O t45}
+{mi D t46} {amor N t47} {repetirán V t48} {con P t49} {sus D t50} {amores N t51} {, O t52}
+{porque C t53} {te Q t54} {besarán V t55} {sobre P t56} {mis D t57} {besos N t58} {... O t59}
+{Pero C t60} {borra N t61} {mi D t62} {nombre N t63} {de P t64} {tu D t65} {historia N t66}
+{ya A t67} {que C t68} {flo V t69} {tuvo V t70} {tu D t71} {pasión N t72} {ternura N t73} {, O t74}
+{ya A t75} {que C t76} {no A t77} {tiene V t78} {tu D t79} {desdén N t80} {memoria N t81} {. O t82}
+{Lamenta V t83} {sólo A t84} {tu D t85} {primer G t86} {fracaso N t87} {; O t88}
+{porque C t89} {antes A t90} {que C t91} {la D t92} {sed N t93} {que Q t94} {el D t95} {vaso N t96} {apura V t97}
+{terminose V t98} {el D t99} {licor N t100} {... O t101} {¡ O t102} {se Q t103} {rompió V t104} {el D t105} {vaso N t106} {! O t107}

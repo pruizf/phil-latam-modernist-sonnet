@@ -1,0 +1,14 @@
+{Juan R t1} {Santos R t2} {Atahualpa R t3} {lanzó V t4} {el D t5} {grito N t6}
+{de P t7} {rebelión N t8} {Crujieron V t9} {las D t10} {cabañas N t11}
+{Su D t12} {voz N t13} {, O t14} {repercutiendo V t15} {en P t16} {lo D t17} {infinito G t18} {, O t19}
+{era V t20} {la D t21} {libertad N t22} {de P t23} {las D t24} {montañas N t25}
+{Tal Q t26} {fue V t27} {el D t28} {derrumbamiento N t29} {portentoso G t30}
+{de P t31} {una D t32} {sobre P t33} {otra D t34} {raza N t35} {Hecho R t36} {un D t37} {coloso N t38} {, O t39}
+{él Q t40} {, O t41} {Apú-Inca R t42} {, O t43} {que Q t44} {en P t45} {el D t46} {campo N t47} {abierto G t48} {, O t49}
+{se Q t50} {rubricó V t51} {de P t52} {heroicas N t53} {cicatrices G t54} {, O t55}
+{supo V t56} {en P t57} {la D t58} {lucha N t59} {desplomarse V t60} {muerto G t61}
+{como C t62} {un D t63} {árbol N t64} {hachado G t65} {en P t66} {las D t67} {raíces N t68}
+{Y C t69} {cumplió V t70} {su D t71} {deseo N t72} {y C t73} {murió V t74} {ufano G t75} {; O t76}
+{que C t77} {en P t78} {las D t79} {montañas N t80} {a P t81} {su D t82} {empuje N t83} {estrechas G t84} {, O t85}
+{él Q t86} {, O t87} {antes A t88} {de P t89} {morir V t90} {, O t91} {tuvo V t92} {en P t93} {su D t94} {mano N t95}
+{todas D t96} {las D t97} {tribus N t98} {como C t99} {un D t100} {haz N t101} {de P t102} {flechas N t103}

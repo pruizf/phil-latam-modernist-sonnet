@@ -1,0 +1,14 @@
+{No A t1} {es V t2} {demás Q t3} {que C t4} {el D t5} {volcán N t6} {proteste G t7} {, O t8} {y C t9} {brame N t10} {, O t11}
+{y C t12} {salte V t13} {de P t14} {su D t15} {asiento N t16} {; O t17} {no A t18} {es V t19} {en P t20} {vano G t21} {, O t22}
+{si C t23} {sorprende V t24} {a P t25} {Pompeya R t26} {y C t27} {Herculano R t28}
+{desatentadas G t29} {en P t30} {la D t31} {orgía N t32} {infame G t33} {... O t34}
+{No A t35} {, O t36} {no A t37} {es V t38} {demás Q t39} {que C t40} {el D t41} {corazón N t42} {se Q t43} {inflame V t44}
+{y C t45} {que C t46} {el D t47} {látigo N t48} {vibre G t49} {entre P t50} {la D t51} {mano N t52} {, O t53}
+{si C t54} {, O t55} {al P t56} {rebelde G t57} {castigo N t58} {, O t59} {el D t60} {vil G t61} {tirano N t62}
+{de P t63} {su D t64} {castigador N t65} {las D t66} {plantas N t67} {lame V t68} {. O t69}
+{Justo R t70} {es V t71} {que C t72} {estallen V t73} {, O t74} {cuando C t75} {el D t76} {Bien A t77} {claudica G t78} {, O t79}
+{volcán N t80} {de P t81} {sangre N t82} {, O t83} {rebelión N t84} {de P t85} {llamas N t86} {: O t87}
+{la D t88} {sangre N t89} {borra G t90} {, O t91} {el D t92} {fuego N t93} {purifica V t94} {... O t95}
+{¡ O t96} {A P t97} {los D t98} {primeros G t99} {golpes N t100} {que Q t101} {lo Q t102} {hienden V t103} {, O t104}
+{ceden V t105} {del P t106} {árbol N t107} {las D t108} {endebles G t109} {ramas N t110}
+{y C t111} {los D t112} {frutos N t113} {podridos G t114} {se Q t115} {desprenden V t116} {! O t117}

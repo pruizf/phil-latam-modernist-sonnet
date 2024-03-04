@@ -1,0 +1,14 @@
+{Entre P} {la D} {lobreguez N} {de P} {mi D} {destino N} {, O}	O		
+{cambian V} {y C} {mezclan V} {las D} {canciones N} {mías G}	B	sirrem_noun_prep	pp05
+{de P} {Juliano R} {las D} {foscas N} {herejías G}	I	sirrem_noun_prep	pp05
+{con P} {la D} {plácida G} {unción N} {de P} {Constantino R} {... O}	O		
+{Para P} {aclarar V} {la D} {vista N} {, O} {no A} {adivino V}	B	enlace_od_verb	ld02
+{el D} {mejor G} {medio N} {en P} {mis D} {oscuros G} {días N} {; O}	I	enlace_od_verb	ld02
+{si C} {la D} {oración N} {ferviente A} {de P} {Tobías R}	O		
+{o C} {la D} {brutal G} {lanzada G} {de P} {Longino R} {... O}	O		
+{Alternado G} {el D} {dolor N} {blasfema N} {y C} {ora N} {... O}	O		
+{Ora R} {y C} {blasfema V} {el D} {infeliz N} {cautivo G}	O		
+{en P} {sus D} {noches N} {de P} {duda N} {sin P} {aurora N} {; O}	O		
+{y C} {así A} {de P} {una D} {sonrisa N} {con P} {la D} {raya N}	O		
+{trajo V} {la D} {fe N} {, O} {-- O} {que Q} {salta V} {como C} {el D} {vivo G}	B	sirrem_adj_noun	pp02
+{pez N} {que Q} {un D} {tumbo N} {arrojó V} {sobre P} {la D} {playa N} {... O}	I	sirrem_adj_noun	pp02

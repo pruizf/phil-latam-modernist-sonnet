@@ -1,0 +1,14 @@
+{Una D t1} {perpetua G t2} {lágrima N t3} {de P t4} {plata N t5}
+{en P t6} {su D t7} {inmenso G t8} {dolor N t9} {llora V t10} {la D t11} {fuente N t12} {; O t13}
+{y C t14} {esa D t15} {lágrima N t16} {corre V t17} {cual Q t18} {serpiente N t19}
+{que Q t20} {entre V t21} {el D t22} {húmedo G t23} {musgo N t24} {se Q t25} {desata V t26} {. O t27}
+{Inquieto G t28} {arroyo N t29} {, O t30} {que Q t31} {humillado G t32} {acata V t33}
+{la D t34} {ley N t35} {que Q t36} {le Q t37} {hace V t38} {doblegar V t39} {la D t40} {frente N t41} {, O t42}
+{besa N t43} {al P t44} {soslayo N t45} {y C t46} {prolongadamente A t47}
+{el D t48} {verdor N t49} {que Q t50} {en P t51} {las D t52} {linfas N t53} {se Q t54} {retrata V t55} {. O t56}
+{Vedlo V t57} {: O t58} {marchando V t59} {ciego G t60} {en P t61} {su D t62} {destino N t63}
+{por P t64} {las D t65} {pendientes N t66} {rápidas G t67} {se Q t68} {aleja V t69} {, O t70}
+{sin P t71} {escoger V t72} {ni C t73} {preferir V t74} {camino N t75} {; O t76}
+{y C t77} {siempre A t78} {amante N t79} {y C t80} {con P t81} {el D t82} {mismo D t83} {gusto N t84}
+{sobre P t85} {sus D t86} {ondas N t87} {límpidas G t88} {refleja V t89}
+{la D t90} {flor N t91} {gentil G t92} {como C t93} {el D t94} {reseco G t95} {arbusto N t96} {... O t97}

@@ -1,0 +1,14 @@
+{Ama V t1} {tu D t2} {ritmo N t3} {y C t4} {ritma N t5} {tus D t6} {acciones N t7}
+{bajo P t8} {su D t9} {ley N t10} {, O t11} {así A t12} {como C t13} {tus D t14} {versos N t15} {; O t16}
+{eres V t17} {un D t18} {universo N t19} {de P t20} {universos N t21}
+{y C t22} {tu D t23} {alma N t24} {una D t25} {fuente N t26} {de P t27} {canciones N t28} {. O t29}
+{La D t30} {celeste G t31} {unidad N t32} {que C t33} {presupones N t34}
+{hará V t35} {brotar V t36} {en P t37} {ti Q t38} {mundos N t39} {diversos G t40} {, O t41}
+{y C t42} {al P t43} {resonar V t44} {tus D t45} {números N t46} {dispersos G t47}
+{pitagoriza V t48} {en P t49} {tus D t50} {constelaciones N t51} {. O t52}
+{Escucha V t53} {la D t54} {retrica N t55} {divina G t56}
+{del P t57} {pájaro N t58} {del P t59} {aire N t60} {y C t61} {la D t62} {nocturna G t63}
+{irradiación N t64} {geométrica G t65} {adivina G t66} {; O t67}
+{mata V t68} {la D t69} {indiferencia N t70} {taciturna G t71}
+{y C t72} {engarza V t73} {perla V t74} {y C t75} {perla V t76} {cristalina G t77}
+{en P t78} {donde Q t79} {la D t80} {verdad N t81} {vuelca G t82} {su D t83} {urna N t84} {. O t85}

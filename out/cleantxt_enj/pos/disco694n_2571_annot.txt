@@ -1,0 +1,14 @@
+{Ser V t1} {feliz G t2} {campeón N t3} {de P t4} {los D t5} {ilustres G t6} {juegos N t7}
+{en P t8} {que Q t9} {son V t10} {semidioses N t11} {y C t12} {poetas N t13} {hermanos N t14} {, O t15}
+{ver V t16} {en P t17} {suefíos N t18} {temblar V t19} {la D t20} {gran G t21} {lira N t22} {, O t23} {en P t24} {las D t25} {manos N t26}
+{del P t27} {viejo G t28} {rey N t29} {de P t30} {musas N t31} {, O t32} {príncipe N t33} {de P t34} {los D t35} {ciegos G t36} {, O t37}
+{prendar V t38} {su D t39} {antorcha N t40} {humana G t41} {con P t42} {los D t43} {divinos N t44} {fuegos N t45}
+{y C t46} {mantener V t47} {, O t48} {en P t49} {nuestros D t50} {bosques N t51} {americanos G t52}
+{al P t53} {par N t54} {que C t55} {la D t56} {frescura N t57} {de P t58} {los D t59} {mirtos N t60} {romanos G t61}
+{el D t62} {verdor N t63} {armonioso G t64} {de P t65} {los D t66} {laureles N t67} {griegos N t68} {, O t69}
+{y C t70} {, O t71} {alma N t72} {transparente G t73} {y C t74} {sonora G t75} {que Q t76} {admira V t77}
+{por P t78} {el D t79} {puro N t80} {cristal N t81} {en P t82} {que C t83} {su D t84} {esencia N t85} {encierra V t86}
+{y C t87} {en P t88} {que C t89} {como C t90} {el D t91} {Oriente R t92} {de P t93} {una D t94} {perla N t95} {se Q t96} {mira V t97} {, O t98}
+{honrar V t99} {al P t100} {continente N t101} {y C t102} {enaltecer V t103} {su D t104} {tierra N t105} {, O t106}
+{y C t107} {todo D t108} {ante P t109} {la D t110} {gracia N t111} {celeste G t112} {de P t113} {la D t114} {lira N t115} {: O t116}
+{son V t117} {los D t118} {más A t119} {grandes G t120} {cargos N t121} {contra P t122} {Don R t123} {Justo R t124} {Sierra R t125} {. O t126}

@@ -1,0 +1,14 @@
+{Bajo P t1} {la D t2} {yerba N t3} {se Q t4} {desliza V t5} {y C t6} {salta V t7} {, O t8}
+{rompiendo V t9} {el D t10} {tallo N t11} {y C t12} {profanando V t13} {el D t14} {nido N t15} {, O t16}
+{en P t17} {zig D t18} {zag N t19} {caprichoso G t20} {y C t21} {aturdido G t22}
+{como C t23} {presa N t24} {de P t25} {fiebre N t26} {que C t27} {la D t28} {exalta V t29} {. O t30}
+{Al P t31} {rededor N t32} {de P t33} {la D t34} {robusta N t35} {y C t36} {alta G t37}
+{encina N t38} {secular G t39} {trepa G t40} {, O t41} {sin P t42} {ruido N t43} {; O t44}
+{y C t45} {enroscada G t46} {después A t47} {, O t48} {lanza V t49} {el D t50} {silbido N t51}
+{alentador G t52} {de P t53} {la D t54} {primera G t55} {falta N t56} {... O t57}
+{Entre P t58} {los D t59} {sueños N t60} {de P t61} {mi D t62} {mente N t63} {oscura G t64} {, O t65}
+{triunfante G t66} {en P t67} {el D t68} {macábrico G t69} {dominio N t70} {, O t71}
+{la D t72} {he V t73} {mirado V t74} {surgir V t75} {reseca G t76} {y C t77} {dura G t78} {; O t79}
+{y C t80} {vibrar V t81} {en P t82} {los D t83} {aires N t84} {, O t85} {empuñada G t86}
+{por P t87} {el D t88} {Genio R t89} {infernal G t90} {del P t91} {Exterminio R t92} {, O t93}
+{matadora N t94} {y C t95} {viril G t96} {, O t97} {como C t98} {una D t99} {espada N t100} {. O t101}

@@ -1,0 +1,14 @@
+{Siempre A t1} {que C t2} {el D t3} {sol N t4} {se Q t5} {rinde V t6} {en P t7} {su D t8} {carrera N t9} {, O t10}
+{La D t11} {virgen G t12} {selva N t13} {enluta G t14} {sus D t15} {paisajes N t16} {; O t17}
+{Y C t18} {hay V t19} {pláticas N t20} {de P t21} {viento N t22} {en P t23} {los D t24} {follajes N t25} {. O t26}
+{Besos N t27} {de P t28} {amor N t29} {y C t30} {apóstrofes N t31} {de P t32} {fiera N t33} {. O t34}
+{Se Q t35} {presiente V t36} {lejana G t37} {madriguera N t38} {; O t39}
+{Se Q t40} {ven V t41} {sombras N t42} {jugando V t43} {en P t44} {los D t45} {ramajes N t46} {; O t47}
+{Y C t48} {se Q t49} {adivina V t50} {un D t51} {grupo N t52} {de P t53} {salvajes G t54}
+{Alrededor A t55} {de P t56} {luminosa G t57} {hoguera N t58} {... O t59}
+{La D t60} {selva N t61} {ciñe V t62} {en P t63} {su D t64} {profundo G t65} {duelo N t66}
+{Por P t67} {corona N t68} {el D t69} {relámpago N t70} {fulgente G t71} {, O t72}
+{Que C t73} {el D t74} {ala N t75} {bate V t76} {en P t77} {el D t78} {negror N t79} {del P t80} {cielo N t81} {, O t82}
+{¡ O t83} {Hasta P t84} {que C t85} {el D t86} {sol N t87} {, O t88} {al P t89} {verla V t90} {de P t91} {soslayo N t92} {, O t93}
+{Funde R t94} {, O t95} {para P t96} {corona N t97} {de P t98} {su D t99} {frente N t100} {. O t101}
+{Siete D t102} {colores N t103} {en P t104} {un D t105} {solo G t106} {rayo N t107} {! O t108} {... O t109}

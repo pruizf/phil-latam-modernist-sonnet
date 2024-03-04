@@ -1,0 +1,14 @@
+{No A t1} {la D t2} {flauta N t3} {del P t4} {dios N t5} {, O t6} {alegre G t7} {avena N t8}
+{del P t9} {bosque N t10} {griego G t11} {, O t12} {en P t13} {que Q t14} {trinar V t15} {solía V t16} {; O t17}
+{es V t18} {flauta G t19} {cual Q t20} {paloma N t21} {en P t22} {agonía N t23}
+{la D t24} {que Q t25} {en P t26} {las D t27} {noches N t28} {de P t29} {los D t30} {Andes R t31} {suena V t32}
+{¡ O t33} {Cuán R t34} {profundo G t35} {lamento N t36} {el D t37} {de P t38} {la D t39} {quena N t40} {! O t41}
+{La D t42} {quena N t43} {en P t44} {medio N t45} {de P t46} {la D t47} {puna N t48} {fría G t49}
+{desenvuelve V t50} {su D t51} {larga G t52} {melodía N t53}
+{más A t54} {penetrante G t55} {cuanto A t56} {más A t57} {serena G t58}
+{Desgranando V t59} {las D t60} {perlas N t61} {de P t62} {su D t63} {lloro N t64} {, O t65}
+{a P t66} {veces N t67} {hunde V t68} {el D t69} {musical G t70} {lamento N t71}
+{en P t72} {el D t73} {hueco N t74} {de P t75} {un D t76} {cántaro N t77} {sonoro G t78} {; O t79}
+{y C t80} {entonces A t81} {finge V t82} {, O t83} {en P t84} {la D t85} {nocturna G t86} {calma N t87} {, O t88}
+{soplo N t89} {del P t90} {alma N t91} {convertido G t92} {en P t93} {viento N t94} {, O t95}
+{soplo N t96} {del P t97} {viento N t98} {convertido G t99} {en P t100} {alma N t101} {. O t102}

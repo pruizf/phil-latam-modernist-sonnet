@@ -1,0 +1,14 @@
+{Tras P t1} {los D t2} {cuernos N t3} {de P t4} {Júpiter R t5} {, O t6} {Europa R t7} {sonreía V t8}
+{y C t9} {dominaba V t10} {con P t11} {su D t12} {mano N t13} {de P t14} {marfil N t15}
+{toda D t16} {la D t17} {luminosa G t18} {y C t19} {eterna G t20} {gallardía N t21}
+{que Q t22} {existe V t23} {en P t24} {Primavera N t25} {y C t26} {domina V t27} {en P t28} {Abril R t29} {. O t30}
+{En P t31} {lo D t32} {alto G t33} {del P t34} {mástil N t35} {una D t36} {guitarra N t37} {había V t38}
+{como C t39} {en P t40} {el D t41} {viaje N t42} {de P t43} {d' N t44} {Annunzzio R t45} {y C t46} {tal D t47} {sutilmente A t48}
+{cantaba V t49} {amable G t50} {esa D t51} {cigarra N t52} {mía Q t53}
+{que C t54} {olvidé V t55} {del P t56} {pasado N t57} {, O t58} {lo Q t59} {profano V t60} {y C t61} {lo Q t62} {vil G t63} {. O t64}
+{Montañas N t65} {que Q t66} {quedasteis V t67} {lejanas N t68} {, O t69} {lagos N t70} {puros G t71} {, O t72}
+{horizontes G t73} {de P t74} {fuego N t75} {y C t76} {rincones N t77} {obscuros G t78} {, O t79}
+{cafetales N t80} {floridos G t81} {, O t82} {gentes N t83} {amables G t84} {, O t85} {voz N t86}
+{gentil G t87} {que Q t88} {recordaste V t89} {mi D t90} {infancia N t91} {y C t92} {de P t93} {mi D t94} {infancia N t95}
+{luz N t96} {, O t97} {gesto N t98} {, O t99} {vida N t100} {, O t101} {voluntad N t102} {y C t103} {fragancia N t104}
+{y C t105} {todas D t106} {esas D t107} {cosas N t108} {que Q t109} {yo Q t110} {no A t111} {olvido N t112} {, O t113} {adiós N t114} {! O t115}

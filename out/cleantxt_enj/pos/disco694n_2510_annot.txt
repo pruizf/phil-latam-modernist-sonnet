@@ -1,0 +1,14 @@
+{Allá A t1} {en P t2} {la D t3} {hermosa G t4} {tierra N t5} {del P t6} {Oriente R t7} {, O t8}
+{cuando Q t9} {Febo R t10} {sus D t11} {rayos N t12} {encendía V t13} {, O t14}
+{la D t15} {estatua N t16} {de P t17} {Memnón R t18} {frases N t19} {decía V t20}
+{en P t21} {un D t22} {lenguaje N t23} {incomprensible G t24} {, O t25} {ingente G t26} {. O t27}
+{Cuando C t28} {de P t29} {Unión R t30} {el D t31} {Sol R t32} {resplandeciente A t33}
+{en P t34} {su D t35} {orto G t36} {anuncie N t37} {el D t38} {venturoso G t39} {día N t40}
+{que Q t41} {al P t42} {Centro R t43} {de P t44} {la D t45} {América R t46} {sonría V t47}
+{y C t48} {llene V t49} {de P t50} {entusiasmo N t51} {un D t52} {Continente R t53} {, O t54}
+{y C t55} {cuando C t56} {el D t57} {grito N t58} {por P t59} {doquier A t60} {se Q t61} {extienda V t62}
+{que C t63} {dé V t64} {la D t65} {buena G t66} {nueva G t67} {a P t68} {todo D t69} {el D t70} {mundo N t71}
+{y C t72} {en P t73} {cada D t74} {pecho N t75} {el D t76} {patriotismo N t77} {encienda V t78}
+{con P t79} {ardiente A t80} {fervor N t81} {puro G t82} {y C t83} {profundo G t84} {; O t85}
+{¡ O t86} {un D t87} {himno N t88} {cantará V t89} {de P t90} {gloria N t91} {, O t92} {entonce N t93} {, O t94}
+{lleno G t95} {de P t96} {vida N t97} {, O t98} {el D t99} {insensible G t100} {bronce N t101} {! O t102}

@@ -1,0 +1,14 @@
+{Yo Q t1} {persigo V t2} {una D t3} {forma N t4} {que Q t5} {no A t6} {encuentra V t7} {mi D t8} {estilo N t9} {, O t10}
+{botón N t11} {de P t12} {pensamiento N t13} {que Q t14} {busca V t15} {ser V t16} {la D t17} {rosa N t18} {; O t19}
+{se Q t20} {anuncia V t21} {con P t22} {un D t23} {beso N t24} {que Q t25} {en P t26} {mis D t27} {labios N t28} {se Q t29} {posa V t30}
+{al P t31} {abrazo N t32} {imposible G t33} {de P t34} {la D t35} {Venus R t36} {de P t37} {Milo R t38} {. O t39}
+{Adornan V t40} {verdes G t41} {palmas N t42} {el D t43} {blanco N t44} {peristilo G t45} {; O t46}
+{los D t47} {astros N t48} {me Q t49} {han V t50} {predicho V t51} {la D t52} {visión N t53} {de P t54} {la D t55} {Diosa R t56} {; O t57}
+{y C t58} {en P t59} {mi D t60} {alma N t61} {reposa V t62} {la D t63} {luz N t64} {como C t65} {reposa V t66}
+{el D t67} {ave N t68} {de P t69} {la D t70} {luna N t71} {sobre P t72} {un D t73} {lago N t74} {tranquilo G t75} {. O t76}
+{Y C t77} {no A t78} {hallo G t79} {sino C t80} {la D t81} {palabra N t82} {que Q t83} {huye V t84} {, O t85}
+{la D t86} {iniciación N t87} {melódica G t88} {que Q t89} {de P t90} {la D t91} {flauta N t92} {fluye G t93}
+{y C t94} {la D t95} {barca N t96} {del P t97} {sueño N t98} {que Q t99} {en P t100} {el D t101} {espacio N t102} {boga V t103} {; O t104}
+{y C t105} {bajo P t106} {la D t107} {ventana N t108} {de P t109} {mi D t110} {Bella-Durmiente R t111} {, O t112}
+{el D t113} {sollozo N t114} {continuo G t115} {del P t116} {chorro N t117} {de P t118} {la D t119} {fuente N t120}
+{y C t121} {el D t122} {cuello N t123} {del P t124} {gran G t125} {cisne N t126} {blanco G t127} {que Q t128} {me Q t129} {interroga V t130} {. O t131}

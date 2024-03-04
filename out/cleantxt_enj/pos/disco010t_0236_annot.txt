@@ -1,0 +1,14 @@
+{Dame V t1} {el D t2} {buril N t3} {con P t4} {que Q t5} {grabar V t6} {solía V t7}
+{el D t8} {artífice N t9} {heleno G t10} {, O t11} {en P t12} {copas N t13} {de P t14} {oro N t15} {, O t16}
+{ninfas N t17} {danzantes G t18} {en P t19} {alegre G t20} {coro N t21}
+{y C t22} {sátiros N t23} {con P t24} {rostro N t25} {de P t26} {ironía N t27} {. O t28}
+{En P t29} {el D t30} {contorno N t31} {de P t32} {la D t33} {estrofa N t34} {mía Q t35} {, O t36}
+{grabaré V t37} {, O t38} {como C t39} {artístico G t40} {tesoro N t41} {, O t42}
+{tu D t43} {egregio N t44} {busto G t45} {, O t46} {tu D t47} {imperial G t48} {decoro N t49}
+{y C t50} {tu D t51} {perpetuo G t52} {abril O t53} {de P t54} {poesía N t55} {. O t56}
+{Mas R t57} {tu D t58} {copia N t59} {mejor G t60} {no A t61} {vale V t62} {nada Q t63} {, O t64}
+{desque C t65} {me Q t66} {ocultas G t67} {con P t68} {tu D t69} {faz N t70} {de P t71} {diosa G t72}
+{el D t73} {abismo N t74} {de P t75} {tu D t76} {alma N t77} {disoluta G t78} {, O t79}
+{¡ O t80} {como C t81} {si C t82} {entre P t83} {esa D t84} {copa N t85} {burilada G t86}
+{me Q t87} {brindases N t88} {, O t89} {con P t90} {mano N t91} {mentirosa G t92} {, O t93}
+{envuelta G t94} {en P t95} {oro N t96} {la D t97} {mortal G t98} {cicuta N t99} {! O t100}

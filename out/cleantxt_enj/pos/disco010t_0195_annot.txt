@@ -1,0 +1,14 @@
+{Es V t1} {un D t2} {pájaro N t3} {mudo G t4} {, O t5} {pero C t6} {hermoso G t7} {; O t8} {una D t9} {alhaja N t10}
+{que Q t11} {ha V t12} {salido V t13} {volando V t14} {de P t15} {un D t16} {arcón N t17} {reluciente A t18}
+{En P t19} {el D t20} {hueco N t21} {de P t22} {un D t23} {tronco N t24} {, O t25} {fino G t26} {estuche N t27} {trabaja V t28} {, O t29}
+{donde Q t30} {finge V t31} {un D t32} {penacho N t33} {de P t34} {monárquica G t35} {frente A t36}
+{Nunca A t37} {en P t38} {vil G t39} {cautiverio N t40} {sus D t41} {prestigios N t42} {rebaja V t43} {; O t44}
+{y C t45} {antes A t46} {goza V t47} {el D t48} {orgullo N t49} {de P t50} {morir V t51} {libremente A t52} {: O t53}
+{si C t54} {se Q t55} {quiebran V t56} {las D t57} {plumas N t58} {en P t59} {su D t60} {estuche N t61} {se Q t62} {encaja V t63}
+{y C t64} {principia V t65} {a P t66} {morirse V t67} {de P t68} {la D t69} {pena N t70} {que Q t71} {siente V t72} {. O t73}
+{Tal D t74} {orgullo N t75} {es V t76} {su D t77} {orgullo N t78} {que C t79} {es V t80} {un D t81} {símbolo N t82} {alado G t83} {, O t84}
+{por P t85} {su D t86} {gesto N t87} {de P t88} {raza N t89} {, O t90} {por P t91} {su D t92} {instinto N t93} {de P t94} {gloria N t95} {: O t96}
+{él Q t97} {jamás A t98} {vivió V t99} {en P t100} {rejas N t101} {, O t102} {ni C t103} {jamás A t104} {se Q t105} {ha V t106} {manchado V t107} {. O t108}
+{Con P t109} {nobleza N t110} {de P t111} {artista N t112} {y C t113} {altivez N t114} {de P t115} {guerrero N t116} {, O t117}
+{¡ O t118} {merecía V t119} {la D t120} {suerte N t121} {de P t122} {haber V t123} {sido V t124} {en P t125} {la D t126} {Historia R t127}
+{un D t128} {blasón N t129} {con P t130} {la D t131} {frase N t132} {de P t133} {Francisco R t134} {primero G t135} {! O t136}

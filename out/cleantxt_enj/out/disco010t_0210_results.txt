@@ -1,0 +1,14 @@
+{Hay V} {en P} {las D} {soledades N} {de P} {la D} {puna N} {, O}	O		
+{cuando C} {la D} {noche N} {aumenta V} {ese D} {reposo N} {, O}	O		
+{un D} {misterio N} {solemne G} {y C} {religioso G}	O		
+{como C} {el D} {amor N} {de P} {un D} {alma N} {sin P} {fortuna N} {. O}	O		
+{Cada D} {cumbre N} {de P} {nieve N} {es V} {como C} {una D}	B	sirrem_pal-rel	pp16
+{virgen N} {, O} {que Q} {, O} {de P} {la D} {mano N} {del P} {esposo N} {, O}	I	sirrem_pal-rel	pp16
+{aparece V} {en P} {el D} {templo N} {luminoso G}	O		
+{envuelta G} {en P} {fría G} {castidad N} {de P} {Luna R}	O		
+{¡ O} {Oh O} {, O} {cuadro V} {aquel D} {de P} {místicos N} {reflejos N} {! O}	O		
+{Los D} {mismos D} {Andes R} {a P} {los D} {cielos N} {crecen V}	O		
+{como C} {torres N} {de P} {ingente N} {campanario G} {; O}	O		
+{los D} {rayos N} {se Q} {hacen V} {cruces N} {, O} {a P} {los D} {lejos A} {; O}	O		
+{y C} {hasta P} {los D} {astros N} {, O} {al P} {brotar V} {, O} {parecen V}	B	enlace_subj_verb	ld01
+{las D} {desgranadas G} {cuentas N} {de P} {un D} {rosario N}	I	enlace_subj_verb	ld01

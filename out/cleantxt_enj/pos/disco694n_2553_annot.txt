@@ -1,0 +1,14 @@
+{En P t1} {el D t2} {verde G t3} {laurel N t4} {que Q t5} {decora V t6} {la D t7} {frente N t8}
+{que Q t9} {besaron V t10} {los D t11} {sueños N t12} {y C t13} {pulieron V t14} {las D t15} {horas N t16} {, O t17}
+{una D t18} {hoja N t19} {suscita V t20} {como C t21} {la D t22} {luz N t23} {naciente A t24}
+{en P t25} {que C t26} {entreabren V t27} {sus D t28} {ojos N t29} {de P t30} {fuego N t31} {las D t32} {auroras N t33} {; O t34}
+{o C t35} {las Q t36} {solares G t37} {pompas N t38} {, O t39} {o C t40} {los D t41} {fastos N t42} {de P t43} {Oriente R t44} {, O t45}
+{preseas G t46} {bizantinas N t47} {, O t48} {diademas N t49} {de P t50} {Theodoras R t51} {, O t52}
+{o C t53} {la Q t54} {lejana G t55} {Cólquida R t56} {que C t57} {el D t58} {soñador N t59} {presiente G t60}
+{y C t61} {adonde C t62} {los D t63} {Jasones R t64} {dirigirán V t65} {las D t66} {proras N t67} {. O t68}
+{Hoja R t69} {de P t70} {oro N t71} {rojo G t72} {, O t73} {mayor G t74} {es V t75} {tu D t76} {valía N t77} {, O t78}
+{pues C t79} {para P t80} {tus D t81} {colores N t82} {imperiales G t83} {evocas N t84}
+{con P t85} {el D t86} {triunfo N t87} {de P t88} {otoño N t89} {y C t90} {la D t91} {sangre N t92} {del P t93} {día N t94} {, O t95}
+{el D t96} {marfil N t97} {de P t98} {las D t99} {frentes N t100} {, O t101} {la D t102} {brasa N t103} {de P t104} {las D t105} {bocas N t106} {, O t107}
+{y C t108} {la D t109} {autumnal G t110} {tristeza N t111} {de P t112} {las D t113} {vírgenes N t114} {locas G t115}
+{por P t116} {la D t117} {Lujuria R t118} {, O t119} {madre N t120} {de P t121} {la D t122} {Melancolía R t123} {. O t124}

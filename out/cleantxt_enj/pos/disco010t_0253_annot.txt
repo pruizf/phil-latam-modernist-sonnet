@@ -1,0 +1,14 @@
+{Piedra R t1} {con P t2} {vida N t3} {, O t4} {que Q t5} {al P t6} {saltar V t7} {sin P t8} {tino N t9}
+{del P t10} {negro N t11} {monte N t12} {por P t13} {el D t14} {seco G t15} {tajo N t16} {, O t17}
+{vas V t18} {a P t19} {caer V t20} {en P t21} {el D t22} {oscuro G t23} {y C t24} {bajo P t25}
+{charco N t26} {, O t27} {-- O t28} {espejo N t29} {de P t30} {todo D t31} {lo D t32} {mezquino N t33} {. O t34}
+{¡ O t35} {Qué Q t36} {pequeño G t37} {y C t38} {qué D t39} {torpe G t40} {es V t41} {tu D t42} {destino N t43} {! O t44}
+{¡ O t45} {qué Q t46} {torpe G t47} {y C t48} {qué D t49} {pequeño G t50} {es V t51} {tu D t52} {trabajo N t53} {! O t54}
+{sólo A t55} {sirves G t56} {, O t57} {así A t58} {conio G t59} {estropajo N t60}
+{para P t61} {limpiar V t62} {el D t63} {lodo N t64} {del P t65} {camino N t66} {... O t67}
+{¡ O t68} {Oh O t69} {bufón N t70} {de P t71} {los D t72} {campos N t73} {! O t74} {si C t75} {te Q t76} {irritas N t77} {, O t78}
+{-- O t79} {como C t80} {un D t81} {puño N t82} {apretado G t83} {-- O t84} {en P t85} {la D t86} {maleza N t87}
+{muestras N t88} {al P t89} {cielo N t90} {tu D t91} {joroba N t92} {y C t93} {gritas N t94} {. O t95}
+{Hundir V t96} {debieras N t97} {la D t98} {aplastada N t99} {frente A t100} {; O t101}
+{que C t102} {, O t103} {así A t104} {chato N t105} {, O t106} {pareces N t107} {la D t108} {cabeza N t109}
+{rebanada G t110} {de P t111} {golpe N t112} {a P t113} {una D t114} {serpiente N t115} {. O t116}

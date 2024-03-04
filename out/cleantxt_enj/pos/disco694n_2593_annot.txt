@@ -1,0 +1,20 @@
+{Esta D t1} {casa N t2} {de P t3} {gracia N t4} {y C t5} {de P t6} {gloria N t7} {me Q t8} {augura V t9} {, O t10}
+{en P t11} {tan A t12} {dulces D t13} {momentos N t14} {, O t15} {que Q t16} {son V t17} {de P t18} {Epifanía R t19} {, O t20}
+{como C t21} {el D t22} {amanecer N t23} {de P t24} {un D t25} {encantado G t26} {día N t27}
+{que Q t28} {iniciase V t29} {las D t30} {horas N t31} {de P t32} {una D t33} {dicha N t34} {futura G t35} {. O t36}
+{Aquí A t37} {un D t38} {verbo N t39} {ha V t40} {brotado V t41} {que C t42} {anima V t43} {y C t44} {que Q t45} {perdura V t46} {, O t47}
+{aquí A t48} {se Q t49} {ha V t50} {consagrado V t51} {a P t52} {la D t53} {eterna G t54} {Armonía R t55}
+{por P t56} {las D t57} {rosas N t58} {de P t59} {idea N t60} {que Q t61} {han V t62} {dado V t63} {al P t64} {alma N t65} {mía Q t66} {, O t67}
+{en P t68} {sus D t69} {pétalos N t70} {frescos G t71} {, O t72} {la D t73} {fragancia N t74} {más A t75} {pura G t76} {. O t77}
+{Suaves V t78} {reminiscencias N t79} {de P t80} {los D t81} {primeros G t82} {años N t83}
+{me Q t84} {brindaron V t85} {consuelos N t86} {en P t87} {países N t88} {extraños G t89} {, O t90}
+{y C t91} {hoy A t92} {se Q t93} {, O t94} {por P t95} {el D t96} {Destino R t97} {prodigioso G t98} {y C t99} {fatal G t100} {, O t101}
+{que C t102} {si C t103} {es V t104} {amarga G t105} {y C t106} {dulce G t107} {la D t108} {sal N t109} {de P t110} {que C t111} {habla V t112} {el D t113} {Dante R t114} {, O t115}
+{no A t116} {hay V t117} {miel N t118} {tan A t119} {deleitosa G t120} {, O t121} {tan A t122} {firme G t123} {y C t124} {tan A t125} {fragante G t126}
+{como C t127} {la D t128} {miel N t129} {divina G t130} {de P t131} {la D t132} {tierra N t133} {natal G t134} {. O t135}
+{Y C t136} {para P t137} {Casimira R t138}
+{el D t139} {oro N t140} {de P t141} {la D t142} {lira. N t143}
+{y C t144} {las D t145} {flores N t146} {de P t147} {lis N t148}
+{que Q t149} {junten V t150} {la D t151} {fragancia N t152}
+{de P t153} {Nicaragua R t154} {y C t155} {Francia R t156}
+{por P t157} {su D t158} {adorado G t159} {Luis R t160} {. O t161}

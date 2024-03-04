@@ -1,0 +1,14 @@
+{Guardados G} {en P} {un D} {libro N} {- O} {que Q} {narra V} {los D} {tormentos N}	B	sirrem_adj_noun	pp02
+{locos G} {de P} {ese D} {tiránico G} {absurdo N} {del P} {amor N} {- O}	I	sirrem_adj_noun	pp02
+{están V} {, O} {como C} {señales N} {, O} {de P} {mudos G} {pensamientos N} {, O}	O		
+{los D} {pétalos N} {del P} {leve G} {cadáver N} {de P} {una D} {flor N}	O		
+{¿ O} {Qué Q} {dulces V} {remembranzas N} {o C} {qué D} {afanes N} {cruentos G}	B	enlace_subj_verb	ld01
+{se Q} {ocultarán V} {en P} {estos D} {pétalos N} {sin P} {olor N} {? O}	I	enlace_subj_verb	ld01
+{Románticos D} {delirios N} {o C} {desfallecimientos N} {, O}	O		
+{que Q} {no A} {hallaron V} {manera N} {de P} {expresarse V} {mejor A}	B	enlace_od_verb	ld02
+{¡ O} {Oh O} {la D} {melancolía N} {con P} {que Q} {una D} {sabia G} {mano N}	I	enlace_od_verb	ld02
+{dejó V} {estas D} {hojas N} {sueltas G} {, O} {que Q} {hablan V} {de P} {un D} {sueño N} {vano G} {, O}	O		
+{de P} {un D} {corazón N} {enfermo G} {, O} {de P} {una D} {ansia N} {de P} {morir V} {! O}	O		
+{Pétalos R} {, O} {expresivos N} {de P} {una D} {emoción N} {intensa G} {, O}	O		
+{son V} {la D} {sílabas N} {de P} {una D} {palabra N} {que Q} {se Q} {piensa V} {, O}	O		
+{sin P} {tener V} {el D} {consuelo N} {de P} {poderla V} {decir V} {. O}	O		

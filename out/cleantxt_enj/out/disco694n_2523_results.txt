@@ -1,0 +1,14 @@
+{En P} {invernales G} {horas N} {, O} {mirad N} {a P} {Carolina R} {. O}	O		
+{Medio D} {apeloronada A} {, O} {descansa V} {en P} {el D} {sillón N} {, O}	O		
+{envuelta G} {con P} {su D} {abrigo N} {de P} {marta N} {cibelina G}	O		
+{y C} {no A} {lejos A} {del P} {fuego N} {que Q} {brilla V} {en P} {el D} {salón N} {. O}	O		
+{El D} {fino G} {angora V} {blanco G} {, O} {junto G} {a P} {ella Q} {se Q} {reclina V} {, O}	O		
+{rozando V} {con P} {su D} {hocico G} {la D} {falda N} {de P} {Alençón R} {, O}	O		
+{no A} {lejos A} {de P} {las D} {jarras N} {de P} {porcelana N} {china G}	B	oracional	cp01
+{que Q} {medio A} {oculta G} {un D} {biombo N} {de P} {seda N} {del P} {Japón R} {. O}	I	oracional	cp01
+{Con P} {sus D} {sutiles G} {filtros N} {la Q} {invade V} {un D} {dulce G} {sueño N} {; O}	O		
+{entro N} {, O} {sin P} {hacer V} {ruido N} {; O} {dejo V} {mi D} {abrigo N} {gris G} {; O}	O		
+{voy V} {a P} {besar V} {su D} {rostro N} {, O} {rosado G} {y C} {halagüeño G}	O		
+{como C} {una D} {rosa N} {roja G} {que Q} {fuera V} {flor N} {de P} {lis N} {. O}	O		
+{Abre V} {los D} {ojos N} {, O} {mírame V} {con P} {su D} {mirar V} {risueño N} {, O}	O		
+{y C} {en P} {tanto D} {cae V} {la D} {nieva N} {del P} {cielo N} {de P} {París R} {. O}	O		

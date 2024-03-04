@@ -1,0 +1,14 @@
+{Te Q t1} {recomiendo V t2} {a P t3} {ti Q t4} {, O t5} {mi D t6} {poeta N t7} {amigo N t8} {, O t9}
+{que Q t10} {comprendas N t11} {mañana A t12} {mi D t13} {profundo G t14} {cariño N t15} {, O t16}
+{y C t17} {que C t18} {escuches N t19} {mi D t20} {voz N t21} {en P t22} {la D t23} {voz N t24} {de P t25} {mi D t26} {niño N t27} {, O t28}
+{y C t29} {que C t30} {aceptes V t31} {la D t32} {hostia N t33} {en P t34} {la D t35} {virtud N t36} {del P t37} {trigo N t38} {. O t39}
+{Sabe V t40} {que C t41} {, O t42} {cuando C t43} {muera V t44} {, O t45} {yo Q t46} {te Q t47} {escucho V t48} {y C t49} {te Q t50} {sigo V t51} {: O t52}
+{que C t53} {si C t54} {haces V t55} {bien A t56} {, O t57} {te Q t58} {aplaudo V t59} {; O t60} {que C t61} {si C t62} {haces V t63} {mal A t64} {, O t65} {te Q t66} {riño V t67} {; O t68}
+{si C t69} {soy V t70} {lira N t71} {, O t72} {te Q t73} {canto N t74} {; O t75} {si C t76} {cíngulo V t77} {, O t78} {te Q t79} {ciño N t80} {; O t81}
+{si C t82} {en P t83} {tu D t84} {cerebro N t85} {, O t86} {seso N t87} {, O t88} {y C t89} {si C t90} {en P t91} {tu D t92} {vientre N t93} {, O t94} {ombligo N t95} {. O t96}
+{Y C t97} {comprende V t98} {que C t99} {en P t100} {el D t101} {don N t102} {de P t103} {la D t104} {pura G t105} {vida N t106} {, O t107}
+{que Q t108} {no A t109} {se Q t110} {puede V t111} {dar V t112} {manca G t113} {ni C t114} {dividida G t115}
+{para P t116} {los D t117} {que Q t118} {creemos V t119} {que C t120} {hay V t121} {algo Q t122} {supremo G t123} {, O t124}
+{yo Q t125} {me Q t126} {pongo V t127} {a P t128} {esperar V t129} {a P t130} {la D t131} {esperanza N t132} {ida N t133} {, O t134}
+{y C t135} {conduzco V t136} {entre P t137} {tanto A t138} {la D t139} {barca N t140} {de P t141} {mi D t142} {vida N t143} {; O t144}
+{Caronte R t145} {es V t146} {el D t147} {piloto N t148} {, O t149} {mas A t150} {yo Q t151} {dirijo V t152} {el D t153} {remo N t154} {. O t155}

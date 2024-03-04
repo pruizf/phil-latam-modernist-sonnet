@@ -1,0 +1,14 @@
+{Anacreonte R t1} {, O t2} {padre N t3} {de P t4} {la D t5} {sana G t6} {alegría N t7} {; O t8}
+{Ovidio R t9} {, O t10} {sacerdote N t11} {de P t12} {la D t13} {ciencia N t14} {amorosa G t15} {; O t16}
+{Quevedo R t17} {, O t18} {en P t19} {cuyo Q t20} {cáliz N t21} {licor G t22} {jovial G t23} {rebosa G t24} {; O t25}
+{Banville R t26} {, O t27} {insigne V t28} {Orfeo R t29} {de P t30} {la D t31} {sacra N t32} {Harmonía R t33} {, O t34}
+{y C t35} {con P t36} {vosotros N t37} {toda D t38} {la D t39} {grey N t40} {hija N t41} {del P t42} {día N t43} {, O t44}
+{a P t45} {quien Q t46} {habla V t47} {el D t48} {amante N t49} {corazn N t50} {de P t51} {la D t52} {tosa N t53} {, O t54}
+{abejas N t55} {que Q t56} {fabrican V t57} {sobre P t58} {la D t59} {humana G t60} {prosa G t61}
+{en P t62} {sus D t63} {Himeteos R t64} {mágicos G t65} {mieles N t66} {de P t67} {poesía N t68} {: O t69}
+{Prefiero V t70} {vuestra D t71} {risa N t72} {sonora G t73} {, O t74} {vuestra D t75} {musa N t76}
+{risueña G t77} {, O t78} {vuestros Q t79} {versos N t80} {perfumados G t81} {de P t82} {vino N t83} {, O t84}
+{los D t85} {versos N t86} {de P t87} {sombra N t88} {y C t89} {a P t90} {la D t91} {canción N t92} {confusa G t93}
+{que Q t94} {opone V t95} {el D t96} {numen N t97} {bárbaro G t98} {al P t99} {resplandor N t100} {latino G t101} {; O t102}
+{y C t103} {ante P t104} {la D t105} {fiera V t106} {máscara N t107} {de P t108} {la D t109} {fatal G t110} {Medusa R t111} {, O t112}
+{medrosa G t113} {huye V t114} {mi D t115} {alondra N t116} {de P t117} {canto N t118} {cristalino G t119} {. O t120}

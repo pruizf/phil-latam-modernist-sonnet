@@ -1,0 +1,14 @@
+{Antonino R} {Lamberti R} {, O} {el D} {peristilo N}	B	sirrem_noun_prep	pp06.1
+{del P} {sacro G} {templo N} {se Q} {alza N} {en P} {la D} {colina N} {, O}	I	sirrem_noun_prep	pp06.1
+{y C} {llega V} {una D} {fragancia N} {tiburtina G}	B	oracional	cp01
+{que Q} {acariciara V} {a P} {Horacio R} {y C} {a P} {Camilo R} {. O}	I	oracional	cp01
+{Es V} {la D} {reina N} {de P} {Pafos R} {y C} {de P} {Milo R}	B	oracional	cp01
+{que Q} {dio V} {la D} {aurora N} {de P} {la D} {luz N} {latina G} {, O}	I	oracional	cp01
+{en P} {donde Q} {halló V} {, O} {por P} {la D} {virtud N} {divina G} {, O}	O		
+{gesto N} {la D} {estatua N} {, O} {la D} {palabra N} {estilo N} {. O}	O		
+{Amemos V} {, O} {Antonino R} {, O} {de P} {tu D} {Roma R}	B	enlace_od_verb	ld02
+{la D} {armonía N} {sagrada G} {, O} {que Q} {aún A} {subsiste V} {, O}	I	enlace_od_verb	ld02
+{de P} {la D} {gloria N} {fugaz G} {que C} {el D} {tiempo N} {dorna V} {, O}	O		
+{y C} {que C} {en P} {el D} {verso N} {o C} {piedra N} {, O} {que Q} {resiste V} {, O}	O		
+{rosa N} {del P} {mármol N} {, O} {lirio N} {del P} {idioma N} {, O}	O		
+{da V} {la D} {fragancia N} {eterna G} {de P} {lo D} {triste G} {. O}	O		

@@ -1,0 +1,14 @@
+{Soy V} {el D} {cantor N} {de P} {América R} {autóctono G} {y C} {salvaje G} {: O}	O		
+{mi D} {lira N} {tiene V} {un D} {alma N} {, O} {mi D} {canto N} {un D} {ideal G}	B	enlace_subj_verb	ld01
+{Mi D} {verso N} {no A} {se Q} {mece V} {colgado G} {de P} {un D} {ramaje N}	IB	enlace_subj_verb;sirrem_noun_prep	ld01;pd02
+{con P} {un D} {vaivén N} {pausado G} {de P} {hamaca N} {tropical G}	I	sirrem_noun_prep	pd02
+{Cuando C} {me Q} {siento V} {inca G} {, O} {le Q} {rindo V} {vasallaje N}	O		
+{al P} {Sol R} {, O} {que Q} {me Q} {da V} {el D} {centro N} {de P} {su D} {poder N} {real G} {; O}	O		
+{cuando C} {me Q} {siento V} {hispano G} {y C} {evoco G} {el D} {coloniaje N} {, O}	O		
+{parecen V} {mis D} {estrofas G} {trompetas N} {de P} {cristal N} {. O}	O		
+{Mi D} {fantasía N} {viene V} {de P} {un D} {abolengo N} {moro G} {; O}	O		
+{los D} {Andes R} {son V} {de P} {plata N} {, O} {pero C} {León R} {de P} {oro N}	O		
+{Y C} {las D} {dos D} {castas N} {fundo V} {con P} {épico G} {fragor N} {. O}	O		
+{La D} {sangre N} {es V} {española G} {e C} {incaico G} {es V} {el D} {latido N} {; O}	O		
+{y C} {de P} {no A} {ser V} {Poeta R} {, O} {quizá A} {yo Q} {hubiera V} {sido V}	O		
+{un D} {blanco N} {aventurero G} {o C} {un D} {indio N} {emperador N} {. O}	O		

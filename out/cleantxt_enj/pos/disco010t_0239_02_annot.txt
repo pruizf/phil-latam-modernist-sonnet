@@ -1,0 +1,14 @@
+{Hoy A t1} {¡ O t2} {oh O t3} {mundo N t4} {brutal G t5} {! O t6} {mi D t7} {alma N t8} {te Q t9} {mira V t10}
+{con P t11} {lástima N t12} {y C t13} {desprecio N t14} {; O t15} {que C t16} {tú Q t17} {mismo A t18} {, O t19}
+{a P t20} {sepultarte V t21} {al P t22} {fondo N t23} {del P t24} {abismo N t25} {, O t26}
+{vas V t27} {impotente G t28} {en P t29} {medio D t30} {de P t31} {tu D t32} {ira N t33} {... O t34}
+{El D t35} {sacro G t36} {fuego N t37} {que C t38} {a P t39} {cantar V t40} {me Q t41} {inspira V t42}
+{resistirá V t43} {tus D t44} {golpes N t45} {de P t46} {egoísmo N t47} {: O t48}
+{no A t49} {insultes N t50} {mi D t51} {doliente A t52} {escepticismo. N t53} {, O t54}
+{no A t55} {profanes V t56} {eÌ O t57} {culto N t58} {de P t59} {mi D t60} {lira N t61} {... O t62}
+{¡ O t63} {Vano R t64} {es V t65} {que C t66} {quieras V t67} {apagar V t68} {mi D t69} {fuego N t70} {! O t71}
+{Tenaz G t72} {y C t73} {altivo G t74} {-- O t75} {al P t76} {modo N t77} {de P t78} {aquel D t79} {griego G t80}
+{ya A t82} {que C t83} {nunca A t84} {tu D t85} {aplauso N t86} {me Q t87} {concedes N t88} {, O t89}
+{... O t90} {saldré V t91} {a P t92} {encontrar V t93} {el D t94} {carro N t95} {del P t96} {Destino R t97} {; O t98}
+{y C t99} {, O t100} {arrojándome V t101} {en P t102} {medio D t103} {del P t104} {camino N t105} {, O t106}
+{gritaré V t107} {a P t108} {toda D t109} {voz N t110} {: O t111} {-- O t112} {¡ O t113} {Pasa R t114} {si C t115} {puedes V t116} {! O t117} {... O t118}

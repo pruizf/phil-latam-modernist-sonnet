@@ -1,0 +1,14 @@
+{Una D t1} {noche N t2} {en P t3} {que Q t4} {el D t5} {aire N t6} {se Q t7} {derrama V t8}
+{susurrando V t9} {tranquilo G t10} {en P t11} {la D t12} {maleza N t13} {, O t14}
+{un D t15} {niño N t16} {juguetón G t17} {, O t18} {que Q t19} {a P t20} {andar V t21} {empieza V t22} {, O t23}
+{viendo V t24} {la D t25} {luna N t26} {que C t27} {su D t28} {luz N t29} {derrama V t30} {; O t31}
+{un D t32} {pájaro N t33} {que Q t34} {canta V t35} {en P t36} {una D t37} {rama N t38} {; O t39}
+{yo Q t40} {, O t41} {viendo V t42} {de P t43} {tus D t44} {ojos N t45} {la D t46} {pureza N t47} {, O t48}
+{reclinada G t49} {en P t50} {tu D t51} {seno N t52} {mi D t53} {cabeza N t54} {; O t55}
+{y C t56} {tú Q t57} {, O t58} {sentada G t59} {sobre P t60} {fresca N t61} {grama G t62} {. O t63}
+{Yo Q t64} {, O t65} {recordando V t66} {los D t67} {pasados G t68} {días N t69} {, O t70}
+{nuestros D t71} {semblantes G t72} {dulces N t73} {, O t74} {halagüeños N t75} {; O t76}
+{tú Q t77} {a P t78} {veces N t79} {recitando V t80} {poesías N t81} {... O t82}
+{Viendo V t83} {al P t84} {niño N t85} {los D t86} {dos Q t87} {, O t88} {siempre A t89} {risueños G t90} {. O t91}
+{¡ O t92} {Ah O t93} {, O t94} {qué D t95} {sueños N t96} {de P t97} {castas N t98} {alegrías N t99} {! O t100}
+{¡ O t101} {Ah O t102} {, O t103} {divina G t104} {ilusión N t105} {... O t106} {, O t107} {divinos D t108} {sueños N t109} {! O t110}

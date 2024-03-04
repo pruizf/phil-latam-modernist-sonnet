@@ -1,0 +1,14 @@
+{Filósofo R} {es V} {el D} {mar N} {: O} {se Q} {alza N} {y C} {se Q} {llena V} {; O}	O		
+{y C} {después A} {de P} {estallar V} {en P} {broncos G} {ruidos N} {, O}	O		
+{corta V} {su D} {voz N} {, O} {apaga V} {sus D} {latidos N} {, O}	O		
+{y C} {se Q} {dilata V} {en P} {la D} {extensión N} {serena G} {. O}	O		
+{Sabe V} {que C} {hay V} {una D} {ley N} {que Q} {lo Q} {refrena V} {; O}	O		
+{y C} {, O} {sus D} {sueños N} {al P} {ver V} {desvanecidos G} {, O}	O		
+{se Q} {queja V} {con P} {furiosos G} {alaridos N}	O		
+{y C} {como C} {un D} {gladiador N} {rueda V} {en P} {la D} {arena N} {. O}	O		
+{Almas N} {que Q} {el D} {ansia N} {de P} {luchar V} {obstina N} {: O}	O		
+{venid N} {conmigo Q} {a P} {la D} {arenosa G} {raya N} {, O}	O		
+{y C} {veréis V} {cómo Q} {el D} {mar N} {también A} {se Q} {inclina V} {; O}	O		
+{que C} {el D} {rendirse V} {¡ O} {ay O} {! O} {cuando C} {el D} {vigor N} {se Q} {abruma V}	B	enlace_subj_verb	ld01
+{es V} {solamente A} {respetar V} {la D} {playa N} {, O}	I	enlace_subj_verb	ld01
+{¡ O} {y C} {dejar V} {de P} {ser V} {ola N} {, O} {y C} {ser V} {espuma N} {! O} {... O}	O		

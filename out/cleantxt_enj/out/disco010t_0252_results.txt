@@ -1,0 +1,14 @@
+{Bajo P} {la D} {yerba N} {se Q} {desliza V} {y C} {salta V} {, O}	O		
+{rompiendo V} {el D} {tallo N} {y C} {profanando V} {el D} {nido N} {, O}	O		
+{en P} {zig D} {zag N} {caprichoso G} {y C} {aturdido G}	O		
+{como C} {presa N} {de P} {fiebre N} {que C} {la D} {exalta V} {. O}	O		
+{Al P} {rededor N} {de P} {la D} {robusta N} {y C} {alta G}	B	sirrem_adj_noun	pp02
+{encina N} {secular G} {trepa G} {, O} {sin P} {ruido N} {; O}	I	sirrem_adj_noun	pp02
+{y C} {enroscada G} {después A} {, O} {lanza V} {el D} {silbido N}	B	sirrem_adj_noun	pp02
+{alentador G} {de P} {la D} {primera G} {falta N} {... O}	I	sirrem_adj_noun	pp02
+{Entre P} {los D} {sueños N} {de P} {mi D} {mente N} {oscura G} {, O}	O		
+{triunfante G} {en P} {el D} {macábrico G} {dominio N} {, O}	O		
+{la D} {he V} {mirado V} {surgir V} {reseca G} {y C} {dura G} {; O}	O		
+{y C} {vibrar V} {en P} {los D} {aires N} {, O} {empuñada G}	B	sirrem_adj_prep	pd01
+{por P} {el D} {Genio R} {infernal G} {del P} {Exterminio R} {, O}	I	sirrem_adj_prep	pd01
+{matadora N} {y C} {viril G} {, O} {como C} {una D} {espada N} {. O}	O		

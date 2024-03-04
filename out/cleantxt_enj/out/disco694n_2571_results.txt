@@ -1,0 +1,14 @@
+{Ser V} {feliz G} {campeón N} {de P} {los D} {ilustres G} {juegos N}	O		
+{en P} {que Q} {son V} {semidioses N} {y C} {poetas N} {hermanos N} {, O}	O		
+{ver V} {en P} {suefíos N} {temblar V} {la D} {gran G} {lira N} {, O} {en P} {las D} {manos N}	B	sirrem_noun_prep	pp06.1
+{del P} {viejo G} {rey N} {de P} {musas N} {, O} {príncipe N} {de P} {los D} {ciegos G} {, O}	I	sirrem_noun_prep	pp06.1
+{prendar V} {su D} {antorcha N} {humana G} {con P} {los D} {divinos N} {fuegos N}	O		
+{y C} {mantener V} {, O} {en P} {nuestros D} {bosques N} {americanos G}	O		
+{al P} {par N} {que C} {la D} {frescura N} {de P} {los D} {mirtos N} {romanos G}	O		
+{el D} {verdor N} {armonioso G} {de P} {los D} {laureles N} {griegos N} {, O}	O		
+{y C} {, O} {alma N} {transparente G} {y C} {sonora G} {que Q} {admira V}	O		
+{por P} {el D} {puro N} {cristal N} {en P} {que C} {su D} {esencia N} {encierra V}	O		
+{y C} {en P} {que C} {como C} {el D} {Oriente R} {de P} {una D} {perla N} {se Q} {mira V} {, O}	O		
+{honrar V} {al P} {continente N} {y C} {enaltecer V} {su D} {tierra N} {, O}	O		
+{y C} {todo D} {ante P} {la D} {gracia N} {celeste G} {de P} {la D} {lira N} {: O}	O		
+{son V} {los D} {más A} {grandes G} {cargos N} {contra P} {Don R} {Justo R} {Sierra R} {. O}	O		

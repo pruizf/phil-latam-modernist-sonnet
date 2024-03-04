@@ -1,0 +1,14 @@
+{Bella R} {es V} {la D} {rosa N} {blanca G} {, O} {guarnecida N}	B	sirrem_noun_prep	pp06.1
+{de P} {temblador N} {rocío G} {transparente G} {, O}	I	sirrem_noun_prep	pp06.1
+{cuando Q} {sonríe V} {en P} {el D} {lejano G} {Oriente R}	B	enlace_subj_verb	ld01
+{el D} {alba N} {pura G} {derramando V} {vida N} {, O}	I	enlace_subj_verb	ld01
+{y C} {bella G} {la D} {violeta N} {, O} {estremecida G}	O		
+{al P} {beso N} {de P} {la D} {espuma N} {del P} {torrente N} {, O}	O		
+{que Q} {salpica V} {de P} {aljófar V} {reluciente A}	B	enlace_od_verb	ld02
+{la D} {ribera N} {, O} {de P} {flores N} {revestida G} {; O}	I	enlace_od_verb	ld02
+{pero C} {más A} {bella G} {tú Q} {, O} {tierna G} {y C} {donosa G} {, O}	O		
+{sagaz G} {y C} {dulce G} {, O} {tímida G} {y C} {discreta G} {, O}	O		
+{porque C} {Dios R} {, O} {con P} {su D} {mano N} {portentosa G} {, O}	O		
+{al P} {formarte N} {, O} {juntó V} {en P} {unión N} {completa G}	B	sirrem_adj_prep	pd02
+{a P} {la D} {hermosura N} {de P} {una D} {blanca G} {rosa N}	I	sirrem_adj_prep	pd02
+{el D} {pudor N} {de P} {una D} {cándida N} {violeta G} {. O}	O		

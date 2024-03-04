@@ -1,0 +1,14 @@
+{Es V} {la D} {quebrada G} {una D} {insolente G} {brecha N}	B	oracional	cp01
+{que Q} {con P} {tajo N} {viril G} {corta V} {el D} {camino N} {, O}	I	oracional	cp01
+{y C} {rauda V} {precipítase V} {y C} {sin P} {tino N}	B	sirrem_noun_prep	pd02
+{hacia P} {el D} {mar N} {que Q} {encogiéndose V} {la D} {acecha N} {. O}	I	sirrem_noun_prep	pd02
+{Ante P} {el D} {mar N} {la D} {quebrada N} {se Q} {despecha V} {, O}	O		
+{al P} {no A} {poder V} {seguir V} {en P} {su D} {destino N} {; O}	O		
+{se Q} {contrae V} {con P} {golpe N} {repentino G} {; O}	O		
+{y C} {se Q} {abre V} {, O} {como C} {un D} {libro N} {, O} {al P} {fin N} {deshecha V} {. O}	O		
+{Ella Q} {que C} {luce V} {en P} {fértiles N} {adornos G} {, O}	O		
+{de P} {vida N} {tropical G} {, O} {fuerzas N} {extrañas G} {, O}	O		
+{turbando V} {la D} {aridez N} {de P} {los D} {contornos G}	B	enlace_od_verb	ld02
+{fecunda G} {todo Q} {en P} {su D} {interior N} {abierto G} {, O}	I	enlace_od_verb	ld02
+{¡ O} {cual Q} {madre N} {que Q} {se Q} {abriera V} {las D} {entrañas N}	O		
+{para P} {darle V} {calor N} {al P} {hijo N} {muerto G} {! O}	O		

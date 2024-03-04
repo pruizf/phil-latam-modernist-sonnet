@@ -1,0 +1,14 @@
+{Un D t1} {día N t2} {oí V t3} {una D t4} {risa N t5} {bajo P t6} {la D t7} {fronda N t8} {espesa G t9} {, O t10}
+{vi V t11} {brotar V t12} {de P t13} {lo D t14} {verde G t15} {dos D t16} {manzanas N t17} {lozanas G t18} {; O t19}
+{erectos N t20} {senos G t21} {eran V t22} {las D t23} {lozanas N t24} {manzanas N t25}
+{del P t26} {busto N t27} {que Q t28} {bruñía N t29} {de P t30} {sol N t31} {la D t32} {Satiresa R t33} {: O t34}
+{era V t35} {una D t36} {Satiresa R t37} {de P t38} {mis D t39} {fiestas N t40} {paganas G t41} {, O t42}
+{que Q t43} {hace V t44} {brotar V t45} {clavel N t46} {o C t47} {rosa N t48} {cuando C t49} {besa G t50} {; O t51}
+{y C t52} {furiosa G t53} {y C t54} {riente G t55} {y C t56} {que C t57} {abrasa V t58} {y C t59} {que C t60} {mesa N t61} {, O t62}
+{con P t63} {los D t64} {labios N t65} {manchados G t66} {por P t67} {las D t68} {moras N t69} {tempranas G t70} {. O t71}
+{Tú Q t72} {que C t73} {fuiste V t74} {, O t75} {me Q t76} {dijo V t77} {, O t78} {un D t79} {antiguo G t80} {argonauta N t81} {, O t82}
+{alma N t83} {que Q t84} {el D t85} {sol N t86} {sonrosa G t87} {y C t88} {que C t89} {la D t90} {mar N t91} {zafira G t92} {, O t93}
+{sabe V t94} {que C t95} {está V t96} {el D t97} {secreto N t98} {de P t99} {todo D t100} {ritmo N t101} {y C t102} {pauta N t103}
+{en P t104} {unir V t105} {carne N t106} {y C t107} {alma N t108} {a P t109} {la D t110} {esfera N t111} {que Q t112} {gira N t113} {, O t114}
+{y C t115} {amando V t116} {a P t117} {Pan N t118} {y C t119} {Apolo R t120} {en P t121} {la D t122} {lira N t123} {y C t124} {la D t125} {flauta N t126} {, O t127}
+{ser V t128} {en P t129} {la D t130} {flauta N t131} {Pan N t132} {, O t133} {como C t134} {Apolo R t135} {en P t136} {la D t137} {lira N t138} {. O t139}

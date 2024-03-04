@@ -1,0 +1,14 @@
+{¿ O} {Quién Q} {aparece V} {con P} {su D} {voz N} {ahora A}	B	sirrem_verb_adv	pp11
+{dominando V} {en P} {la D} {hispana G} {poesía N} {? O}	I	sirrem_verb_adv	pp11
+{¿ O} {Quién Q} {trajo V} {, O} {en P} {el D} {raudal N} {de P} {su D} {armonía N}	B	enlace_od_verb	ld02
+{sátira N} {perspicaz G} {, O} {nota V} {sonora G} {? O}	I	enlace_od_verb	ld02
+{¿ O} {Quién Q} {, O} {cuando C} {ríe V} {alegre G} {, O} {triste G}	O		
+{y C} {en P} {sus D} {cantos N} {derrama V} {la D} {alegría N} {, O}	O		
+{al P} {par N} {que Q} {con P} {su D} {acento N} {arrancaría V}	B	enlace_od_verb	ld02
+{lágrima N} {de P} {los D} {ojos N} {, O} {quemadora N} {? O}	I	enlace_od_verb	ld02
+{¿ O} {Quién Q} {nos Q} {ofrece V} {su D} {cantar V} {hermoso G} {? O}	O		
+{¿ O} {Quién Q} {engalana V} {el D} {Español R} {Parnaso R}	O		
+{y C} {quié Q} {ataca V} {al P} {gongorismo N} {nulo G} {? O}	O		
+{Francisco R} {de P} {Quevedo R} {, O} {ese D} {coloso N}	B	oracional	cp01
+{que Q} {pudiera V} {montar V} {en P} {el D} {Pegaso R}	IB	oracional;enlace_od_verb	cp01;ld02
+{al P} {par N} {de P} {Juvenal R} {y C} {Tibulo R}	I	enlace_od_verb	ld02

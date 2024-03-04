@@ -1,0 +1,14 @@
+{Dejad R} {que C} {siga V} {y C} {bogue V} {la D} {galera N}	B	sirrem_noun_prep	pd02
+{bajo P} {la D} {tempestad N} {, O} {sobre P} {la D} {ola N} {: O}	I	sirrem_noun_prep	pd02
+{va V} {con P} {rumbo N} {a P} {una D} {Atlántida R} {española G} {, O}	O		
+{en P} {donde Q} {el D} {porvenir N} {calla N} {y C} {espera N} {. O}	O		
+{No A} {se Q} {apague V} {el D} {rencor N} {ni C} {el D} {odio N} {muera V}	O		
+{ante P} {el D} {pendón N} {que Q} {el D} {bárbaro N} {enarbola V} {; O}	O		
+{si C} {un D} {día N} {la D} {justicia N} {estuvo V} {sola G} {, O}	O		
+{lo Q} {sentirá V} {la D} {humanidad N} {entera G} {. O}	O		
+{Y C} {bogue V} {entre P} {las D} {olas N} {espumeantes G} {, O}	O		
+{y C} {bogue V} {la D} {galera N} {que Q} {ya A} {ha V} {visto V}	B	enlace_od_verb	ld02
+{cómo Q} {son V} {las D} {tormentas N} {de P} {inconstantes N} {: O}	I	enlace_od_verb	ld02
+{que C} {la D} {raza N} {está V} {en P} {pie N} {y C} {el D} {brazo N} {listo G} {, O}	O		
+{que Q} {va V} {en P} {el D} {barco N} {el D} {capitán N} {Cervantes R}	O		
+{y C} {arriba A} {flota V} {el D} {pabellón N} {de P} {Cristo R} {. O}	O		

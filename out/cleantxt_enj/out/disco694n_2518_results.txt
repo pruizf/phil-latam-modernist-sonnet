@@ -1,0 +1,14 @@
+{Aquel D} {nuestro D} {antiguo G} {Simón R} {el D} {Bobito R} {, O}	O		
+{perito N} {en P} {pasteles N} {de P} {pollo N} {y C} {jamón N} {, O}	O		
+{tenía V} {mofletes N} {y C} {panza N} {el D} {maldito G} {; O}	O		
+{y C} {sesos N} {, O} {los D} {sesos N} {que Q} {tiene V} {un D} {melón N} {. O}	O		
+{Simón R} {hoy A} {es V} {fama N} {que C} {en P} {todo Q} {es V} {perito N}	B	enlace_subj_verb	ld01
+{aquel D} {joven N} {émulo G} {del P} {iguanodón N} {; O}	I	enlace_subj_verb	ld01
+{cien D} {cosas N} {ha V} {hecho V} {, O} {mil D} {cosas N} {ha V} {escrito V}	B	enlace_subj_verb	ld01
+{el D} {Excelentísimo R} {Sefior R} {Don R} {Simón R} {. O}	I	enlace_subj_verb	ld01
+{Simón R} {poliforme G} {, O} {marcial G} {y C} {civil G} {, O}	O		
+{corona N} {su D} {frente N} {de P} {encina N} {y C} {laurel C} {; O}	O		
+{si C} {escuela N} {inauguran V} {o C} {ferro-carril N}	B	sirrem_noun_prep	pd02
+{en P} {el D} {Continente R} {, O} {Calibán R} {y C} {Ariel R} {, O}	I	sirrem_noun_prep	pd02
+{suspiran V} {por P} {dollars N} {, O} {sapiencia N} {y C} {fusil N}	B	enlace_subj_verb	ld01
+{Simón R} {el D} {Bobito R} {y C} {el D} {Tío R} {Samuel R} {. O}	I	enlace_subj_verb	ld01

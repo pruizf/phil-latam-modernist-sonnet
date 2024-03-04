@@ -1,0 +1,14 @@
+{Marqués R t1} {, O t2} {( O t3} {como C t4} {el D t5} {Divino R t6} {lo Q t7} {era V t8} {) O t9} {te Q t10} {saludo N t11} {. O t12}
+{Es V t13} {el D t14} {otoño N t15} {y C t16} {vengo V t17} {de P t18} {un D t19} {Versalles R t20} {doliente A t21} {. O t22}
+{Había V t23} {mucho A t24} {frío G t25} {y C t26} {erraba V t27} {vulgar G t28} {gente N t29} {. O t30}
+{El D t31} {chorro N t32} {de P t33} {agua N t34} {de P t35} {Verlaine R t36} {estaba V t37} {mudo G t38} {. O t39}
+{Me Q t40} {quedé V t41} {pensativo G t42} {ante P t43} {un D t44} {mármol N t45} {desnudo G t46} {, O t47}
+{cuando Q t48} {vi V t49} {una D t50} {paloma N t51} {que Q t52} {pasó V t53} {de P t54} {repente N t55} {, O t56}
+{y C t57} {por P t58} {caso N t59} {de P t60} {cerebración N t61} {inconsciente G t62}
+{pensé V t63} {en P t64} {ti Q t65} {. O t66} {Toda D t67} {exégesis N t68} {en P t69} {este D t70} {caso N t71} {eludo G t72} {. O t73}
+{Versalles D t74} {otoñal P t75} {; O t76} {una D t77} {paloma N t78} {; O t79} {un D t80} {lindo G t81}
+{mármol N t82} {; O t83} {un D t84} {vulgo N t85} {errante G t86} {, O t87} {municipal G t88} {y C t89} {espeso G t90} {; O t91}
+{anteriores G t92} {lecturas N t93} {de P t94} {tus D t95} {sutiles G t96} {prosas G t97} {; O t98}
+{la D t99} {reciente G t100} {impresión N t101} {de P t102} {tus D t103} {triunfos N t104} {... O t105} {prescindo G t106}
+{de P t107} {más A t108} {detalles N t109} {para P t110} {explicarte V t111} {por P t112} {eso Q t113}
+{cmo G t114} {, O t115} {autumnal G t116} {, O t117} {te Q t118} {envío N t119} {este D t120} {ramo N t121} {de P t122} {rosas N t123} {. O t124}

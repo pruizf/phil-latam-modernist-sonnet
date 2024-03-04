@@ -1,0 +1,14 @@
+{No A t1} {beberé V t2} {en P t3} {las D t4} {linfas N t5} {de P t6} {la D t7} {castalia N t8} {fuente N t9} {, O t10}
+{ni C t11} {cruzaré V t12} {los D t13} {bosques N t14} {floridos G t15} {del P t16} {Parnaso R t17}
+{ni C t18} {tras P t19} {las D t20} {nueve D t21} {hermanas N t22} {dirigiré V t23} {mi D t24} {paso N t25} {: O t26}
+{pero C t27} {, O t28} {al P t29} {cantar V t30} {mis D t31} {himnos N t32} {, O t33} {levantaré V t34} {la D t35} {frente N t36} {. O t37}
+{Mi D t38} {culto N t39} {no A t40} {es V t41} {el D t42} {culto N t43} {de P t44} {la D t45} {pasada G t46} {gente N t47} {, O t48}
+{ni C t49} {me Q t50} {es V t51} {bastante A t52} {el D t53} {vuelo N t54} {solemne G t55} {del P t56} {Pegaso R t57} {: O t58}
+{los D t59} {trópicos N t60} {avivan V t61} {la D t62} {flama N t63} {en P t64} {que Q t65} {me Q t66} {abraso V t67} {; O t68}
+{y C t69} {en P t70} {mis D t71} {oídos N t72} {suenan V t73} {la D t74} {voz N t75} {de P t76} {un D t77} {Continente R t78} {. O t79}
+{Yo Q t80} {beberé V t81} {en P t82} {las D t83} {aguas N t84} {de P t85} {caudalosos G t86} {ríos N t87} {; O t88}
+{yo Q t89} {cruzare V t90} {otros D t91} {bosques N t92} {lozanos G t93} {y C t94} {bravíos G t95} {; O t96}
+{yo Q t97} {buscaré V t98} {a P t99} {otra D t100} {Musa R t101} {que Q t102} {asombre V t103} {al P t104} {Universo R t105} {. O t106}
+{Yo Q t107} {de P t108} {una D t109} {rima N t110} {fácil G t111} {haré V t112} {mi D t113} {carabela N t114} {; O t115}
+{me Q t116} {sentaré V t117} {en P t118} {la D t119} {popa N t120} {; O t121} {desataré V t122} {la D t123} {vela N t124} {; O t125}
+{y C t126} {zarparé V t127} {a P t128} {las D t129} {Indias R t130} {, O t131} {como C t132} {un D t133} {Colón R t134} {del P t135} {verso N t136} {. O t137}

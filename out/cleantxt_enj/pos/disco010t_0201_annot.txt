@@ -1,0 +1,14 @@
+{Lloran V t1} {las D t2} {cumbres N t3} {lágrimas N t4} {de P t5} {hielo N t6} {, O t7}
+{que Q t8} {corren V t9} {por P t10} {las D t11} {trágicas N t12} {pendientes G t13} {, O t14}
+{y C t15} {van V t16} {formando V t17} {en P t18} {su D t19} {camino N t20} {fuentes N t21} {, O t22}
+{enamoradas G t23} {del P t24} {azul N t25} {del P t26} {cielo N t27} {. O t28}
+{Entre P t29} {las D t30} {grietas N t31} {del P t32} {musgoso G t33} {suelo N t34} {, O t35}
+{aprisionan V t36} {sus D t37} {linfas N t38} {los D t39} {torrentes N t40} {, O t41}
+{a P t42} {manera N t43} {de P t44} {alhajas N t45} {refulgentes G t46}
+{entre P t47} {estuches N t48} {de P t49} {verde G t50} {terciopelo N t51}
+{Súbito R t52} {ensanchan V t53} {sus D t54} {ruidosas G t55} {quejas N t56} {; O t57}
+{y C t58} {, O t59} {dibujando V t60} {monacales G t61} {tocas N t62} {, O t63}
+{envuelven P t64} {su D t65} {cristal N t66} {en P t67} {densas G t68} {brumas N t69} {. O t70}
+{Y C t71} {el D t72} {río N t73} {nace V t74} {, O t75} {cual Q t76} {tropel N t77} {de P t78} {ovejas N t79}
+{que Q t80} {va V t81} {dejando V t82} {en P t83} {las D t84} {filudas N t85} {rocas G t86}
+{enredado V t87} {el D t88} {vellón N t89} {de P t90} {su D t91} {espumas N t92}

@@ -1,0 +1,14 @@
+{Copia D} {el D} {lago N} {en P} {sus D} {vidrios N} {palpitantes G}	B	sirrem_adj_adv	pp10
+{cuanto A} {se Q} {asoma V} {en P} {su D} {contorno N} {vago G} {, O}	I	sirrem_adj_adv	pp10
+{como C} {si C} {fuera V} {el D} {voluptuoso G} {halago N}	B	sirrem_noun_prep	pp05
+{de P} {una D} {coquetería N} {de P} {gigantes N}	I	sirrem_noun_prep	pp05
+{Llega V} {un D} {río N} {cual Q} {sarta N} {de P} {diamantes N} {; O}	O		
+{y C} {, O} {por P} {virtud N} {de P} {milagroso G} {mago N} {, O}	O		
+{en P} {el D} {fondo N} {del P} {bosque N} {, O} {deja V} {un D} {lago N}	O		
+{como C} {un D} {collar N} {de P} {chispas N} {relumbrantes G} {. O}	O		
+{Al P} {ver V} {el D} {lago N} {, O} {entonces A} {, O} {se Q} {dijera V}	O		
+{que C} {la D} {larga G} {serpiente N} {que Q} {antes A} {era V}	B	enlace_subj_verb	ld01
+{se Q} {ha V} {ensortijado V} {entre P} {la D} {selva N} {hosca G} {; O}	I	enlace_subj_verb	ld01
+{porque C} {así A} {son V} {, O} {en P} {la D} {montaña N} {andina G} {, O}	O		
+{el D} {río N} {una D} {serpiente N} {que Q} {camina V}	B	enlace_od_verb	ld02
+{y C} {el D} {lago N} {una D} {serpiente N} {que Q} {se Q} {enrosca V}	I	enlace_od_verb	ld02

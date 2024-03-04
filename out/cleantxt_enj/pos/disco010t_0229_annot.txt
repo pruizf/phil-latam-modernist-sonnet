@@ -1,0 +1,14 @@
+{Nunca A t1} {supe V t2} {que C t3} {vieja G t4} {caravana N t5}
+{resbaló V t6} {por P t7} {tus D t8} {márgenes N t9} {frondosas G t10} {, O t11}
+{bebió V t12} {en P t13} {tus D t14} {aguas N t15} {y C t16} {peinó V t17} {con P t18} {rosas N t19}
+{tu D t20} {retorcida G t21} {cabellera N t22} {cana G t23}
+{Hay V t24} {en P t25} {el D t26} {culto N t27} {de P t28} {tu D t29} {pompa N t30} {indiana G t31}
+{sombras N t32} {de P t33} {héroes N t34} {, O t35} {espíritus N t36} {de P t37} {diosas G t38} {, O t39}
+{y C t40} {ecos N t41} {de P t42} {una D t43} {sbatallas N t44} {fragorosas G t45}
+{que Q t46} {parecen V t47} {venir V t48} {del P t49} {Ramayana R t50}
+{En P t51} {tu D t52} {caudal N t53} {de P t54} {trágicas N t55} {arrugas G t56} {, O t57}
+{hacen V t58} {temblar V t59} {sus D t60} {mallas N t61} {los D t62} {caimanes N t63}
+{y C t64} {brillar V t65} {su D t66} {coraza N t67} {las D t68} {tortugas N t69} {, O t70}
+{y C t71} {en P t72} {tu D t73} {escudo N t74} {ovalado G t75} {y C t76} {reluciente A t77} {, O t78}
+{alrededor A t79} {de P t80} {un D t81} {choque N t82} {de P t83} {titanes N t84} {, O t85}
+{pone V t86} {su D t87} {monograma N t88} {una D t89} {serpiente N t90} {. O t91}

@@ -1,0 +1,14 @@
+{Lo D} {que Q} {habla V} {, O} {en P} {el D} {silencio N} {de P} {mi D} {vida N} {, O}	O		
+{de P} {voz N} {, O} {canción N} {, O} {llamada G} {, O} {trino N} {o C} {queja N}	O		
+{no A} {lo Q} {oirá V} {ya A} {Desdémona R} {dormida G} {, O}	O		
+{porque C} {ya A} {el D} {ruiseñor N} {no A} {está V} {en P} {la D} {reja N} {. O}	O		
+{La D} {esencia N} {de P} {la D} {sangre N} {de P} {mi D} {herida N} {, O}	O		
+{el D} {misterio N} {profundo G} {de P} {mi D} {queja N} {, O}	O		
+{y C} {lo D} {que Q} {puso V} {en P} {mi D} {panal N} {la D} {abeja N} {, O}	O		
+{mientras C} {parió V} {la D} {leona N} {en P} {su D} {guarida N} {: O}	O		
+{todo D} {lo D} {que Q} {hay V} {en P} {mí Q} {de P} {complicado G} {, O}	O		
+{de P} {pecador N} {sutil G} {o C} {de P} {perverso G} {, O}	O		
+{vino V} {de P} {amar V} {o C} {extracto G} {de P} {pecado N} {, O}	O		
+{abarcando V} {en P} {mi D} {afán N} {el D} {universo N} {, O}	O		
+{todo D} {eso Q} {lo Q} {he V} {exprimido V} {y C} {lo Q} {he V} {brindado V}	O		
+{en P} {sacrificio N} {, O} {inspiración N} {y C} {verso N} {. O}	O		

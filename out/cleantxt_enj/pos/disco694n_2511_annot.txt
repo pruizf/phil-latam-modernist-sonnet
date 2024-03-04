@@ -1,0 +1,14 @@
+{Yo Q t1} {te Q t2} {daría V t3} {del P t4} {callado G t5} {ambiente N t6}
+{el D t7} {beso N t8} {perfumado G t9} {y C t10} {misterioso G t11} {; O t12}
+{te Q t13} {daría V t14} {el D t15} {enjambre N t16} {vaporoso G t17}
+{de P t18} {sueños N t19} {que Q t20} {se Q t21} {agitan V t22} {en P t23} {mi D t24} {mente N t25} {; O t26}
+{los D t27} {fulgores N t28} {del P t29} {alba N t30} {en P t31} {el D t32} {Oriente R t33}
+{del P t34} {arroyo N t35} {el D t36} {suspiro N t37} {cadencioso G t38} {, O t39}
+{los D t40} {rayos N t41} {del P t42} {lucero N t43} {primoroso G t44} {, O t45}
+{las D t46} {linfas N t47} {claras G t48} {de P t49} {la D t50} {mansa N t51} {fuente N t52} {. O t53}
+{Calma N t54} {, O t55} {pues C t56} {, O t57} {¡ O t58} {oh O t59} {mujer N t60} {! O t61} {, O t62} {mi D t63} {devaneo N t64} {, O t65}
+{y C t66} {no A t67} {seas V t68} {conmigo Q t69} {tan A t70} {ingrata G t71} {; O t72}
+{en P t73} {ti Q t74} {la D t75} {luz N t76} {de P t77} {mi D t78} {esperanza N t79} {veo V t80}
+{y C t81} {tu D t82} {mirar V t83} {me Q t84} {enciende V t85} {y C t86} {me Q t87} {arrebata V t88}
+{-- O t90} {Señor O t91} {poeta N t92} {, O t93} {vaya V t94} {usté V t95} {a P t96} {paseo N t97} {; O t98}
+{¡ O t99} {otros D t100} {hay V t101} {que C t102} {me Q t103} {ofrecen V t104} {mucha D t105} {plata N t106} {! O t107}

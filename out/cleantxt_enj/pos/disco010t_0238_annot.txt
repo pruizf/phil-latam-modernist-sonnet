@@ -1,0 +1,14 @@
+{Indolente A t1} {y C t2} {gentil G t3} {como C t4} {Afrodita R t5}
+{ensayas G t6} {las D t7} {más A t8} {lánguidas G t9} {posturas N t10} {; O t11}
+{y C t12} {en P t13} {tu D t14} {diván N t15} {, O t16} {mirando V t17} {las D t18} {alturas N t19} {, O t20}
+{eres V t21} {el D t22} {abandono N t23} {que Q t24} {medita V t25} {. O t26}
+{Saltas R t27} {, O t28} {al P t29} {eco N t30} {de P t31} {tu D t32} {amor N t33} {que Q t34} {grita V t35} {; O t36}
+{vibras N t37} {, O t38} {al P t39} {diapasón N t40} {de P t41} {tus D t42} {locuras N t43} {, O t44}
+{que Q t45} {, O t46} {en P t47} {tus D t48} {formas N t49} {de P t50} {lira N t51} {, O t52} {hay V t53} {curvaturas N t54}
+{de P t55} {la D t56} {sensualidad N t57} {más A t58} {exquisita G t59} {. O t60}
+{El D t61} {voluble G t62} {abanico N t63} {, O t64} {que Q t65} {en P t66} {tu D t67} {mano N t68}
+{cándidamente A t69} {y C t70} {a P t71} {compás N t72} {se Q t73} {mece V t74} {, O t75}
+{te Q t76} {da V t77} {un D t78} {tinte N t79} {de P t80} {amor N t81} {extramundano G t82} {; O t83}
+{y C t84} {, O t85} {bajo P t86} {de P t87} {la D t88} {túnica N t89} {, O t90} {el D t91} {pequeño G t92}
+{pie N t93} {en P t94} {que Q t95} {termina V t96} {tu D t97} {beldad N t98} {parece V t99}
+{ser V t100} {el D t101} {punto N t102} {final G t103} {de P t104} {todo D t105} {un D t106} {sueño N t107} {... O t108}

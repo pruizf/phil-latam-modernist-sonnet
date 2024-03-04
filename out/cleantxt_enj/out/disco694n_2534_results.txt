@@ -1,0 +1,14 @@
+{Yo Q} {tengo V} {una D} {bella G} {ánfora N} {, O} {llena G} {de P} {regio N} {vino V} {, O}	O		
+{que Q} {para P} {hacer V} {mis D} {cantos N} {me Q} {da V} {fuerza N} {y C} {calor N} {; O}	O		
+{en P} {ella Q} {encuentra V} {sangre N} {mi D} {corazón N} {latino G}	O		
+{para P} {beber V} {la D} {vida N} {, O} {para P} {latir V} {de P} {amor N} {. O}	O		
+{Grabó V} {en P} {ella Q} {un D} {artífice N} {, O} {con P} {su D} {buril N} {divino G} {, O}	O		
+{junto G} {a P} {una D} {viña N} {virgen N} {, O} {a P} {Baco R} {y C} {su D} {esplendor N} {, O}	O		
+{y C} {a P} {Pan N} {, O} {que Q} {enseña N} {danzas N} {, O} {el D} {rostro N} {purpurino G} {, O}	O		
+{a P} {cabras N} {y C} {pastores N} {, O} {bajo P} {un D} {cítiso N} {en P} {flor N} {. O}	O		
+{El D} {ánfora N} {gallarda G} {contiene V} {la D} {alegría N} {; O}	O		
+{Dioniso R} {su D} {carquesio N} {sobre P} {ella Q} {derramó V} {; O}	O		
+{el D} {sátiro N} {gallardo G} {su D} {aliento N} {, O} {su D} {armonía N} {, O}	O		
+{y C} {Venus R} {, O} {una D} {perla N} {que Q} {en P} {sus D} {cabellos N} {vio V} {. O}	O		
+{El D} {vino N} {rojo G} {tiene V} {mi D} {luz N} {, O} {mi D} {poesía N} {: O}	O		
+{quien Q} {lo Q} {hace V} {son V} {los D} {dioses N} {y C} {quien Q} {se Q} {embriaga V} {, O} {yo Q} {. O}	O		

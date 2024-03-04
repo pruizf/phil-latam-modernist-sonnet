@@ -1,0 +1,14 @@
+{Para P} {ir V} {al P} {azul N} {do G} {van V} {las D} {bandolinas N} {, O}	O		
+{hay V} {que C} {pensar V} {y C} {hacer V} {y C} {bregar V} {y C} {soñar V} {, O}	O		
+{salpicándose V} {con P} {las D} {espumas N} {del P} {mar N}	B	sirrem_noun_prep	pp06.1
+{de P} {tempestades N} {infernales G} {y C} {divinas G} {. O}	I	sirrem_noun_prep	pp06.1
+{De P} {mi D} {triste G} {corona N} {, O} {¿ O} {cuántas Q} {son V} {las D} {espinas N} {? O}	O		
+{Pues C} {, O} {una D} {a P} {una D} {, O} {apenas A} {me Q} {las Q} {puedo V} {arrancar V} {. O}	O		
+{Recuerdas N} {mis D} {confianzas N} {, O} {pues C} {las D} {ruges N} {, O} {¡ O} {oh O} {mar N} {! O}	O		
+{¡ O} {Y C} {recuerdas N} {mis D} {penas N} {, O} {ruiseñor N} {, O} {pues C} {las D} {trinas N} {! O}	O		
+{Voz N} {de P} {fuerza N} {o C} {dulzura N} {en P} {la D} {gloria N} {del P} {día N} {, O}	O		
+{bajo P} {los D} {vastos N} {cielos N} {, O} {sobre P} {los D} {oceanos N} {, O}	O		
+{inclinemos V} {la D} {frente N} {ante P} {la D} {Poesía R} {. O}	O		
+{Dejémonos Q} {de P} {palabras N} {y C} {gestos N} {vanos G} {; O}	O		
+{y C} {puesto V} {que C} {el D} {instante N} {es V} {bueno G} {todavía A} {, O}	O		
+{¡ O} {levantemos V} {los D} {ojos N} {y C} {juntemos G} {las D} {manos N} {! O}	O		

@@ -1,0 +1,14 @@
+{Robó V t1} {el D t2} {oro N t3} {su D t4} {lustre N t5} {a P t6} {tu D t7} {cabello N t8}
+{y C t9} {a P t10} {tu D t11} {boca N t12} {el D t13} {coral G t14} {su D t15} {sangre N t16} {pura G t17} {; O t18}
+{ostenta V t19} {el D t20} {mármol N t21} {como C t22} {tú Q t23} {su D t24} {albura N t25}
+{y C t26} {el D t27} {cisne N t28} {arquea V t29} {como C t30} {tú Q t31} {su D t32} {cuello N t33}
+{En P t34} {tu D t35} {sonrisa N t36} {se Q t37} {estremece V t38} {el D t39} {sello N t40}
+{de P t41} {un D t42} {beso N t43} {del P t44} {amor N t45} {a P t46} {la D t47} {hermosura N t48} {, O t49}
+{y C t50} {en P t51} {tu D t52} {mirada N t53} {trémula G t54} {fulgura V t55}
+{la D t56} {lucha N t57} {de P t58} {una D t59} {sombra N t60} {y C t61} {un D t62} {destello N t63}
+{Lohengrín R t64} {te Q t65} {ha V t66} {soñado V t67} {como C t68} {un D t69} {rubio G t70}
+{querub N t71} {, O t72} {envuelto G t73} {entre P t74} {flotantes G t75} {tules N t76} {, O t77}
+{sobre P t78} {su D t79} {cisne N t80} {blanco G t81} {, O t82} {en P t83} {el D t84} {Danubio R t85} {; O t86}
+{y C t87} {ha V t88} {visto V t89} {que C t90} {halagando V t91} {sus D t92} {antojos N t93} {, O t94}
+{no A t95} {son V t96} {tus D t97} {ojos N t98} {como C t99} {el D t100} {cielo N t101} {azules G t102} {, O t103}
+{sino C t104} {el D t105} {cielo N t106} {es V t107} {azul G t108} {como C t109} {tus D t110} {ojos N t111} {. O t112}

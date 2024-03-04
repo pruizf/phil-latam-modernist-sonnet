@@ -1,0 +1,14 @@
+{Entre P t1} {la D t2} {lobreguez N t3} {de P t4} {mi D t5} {destino N t6} {, O t7}
+{cambian V t8} {y C t9} {mezclan V t10} {las D t11} {canciones N t12} {mías G t13}
+{de P t14} {Juliano R t15} {las D t16} {foscas N t17} {herejías G t18}
+{con P t19} {la D t20} {plácida G t21} {unción N t22} {de P t23} {Constantino R t24} {... O t25}
+{Para P t26} {aclarar V t27} {la D t28} {vista N t29} {, O t30} {no A t31} {adivino V t32}
+{el D t33} {mejor G t34} {medio N t35} {en P t36} {mis D t37} {oscuros G t38} {días N t39} {; O t40}
+{si C t41} {la D t42} {oración N t43} {ferviente A t44} {de P t45} {Tobías R t46}
+{o C t47} {la D t48} {brutal G t49} {lanzada G t50} {de P t51} {Longino R t52} {... O t53}
+{Alternado G t54} {el D t55} {dolor N t56} {blasfema N t57} {y C t58} {ora N t59} {... O t60}
+{Ora R t61} {y C t62} {blasfema V t63} {el D t64} {infeliz N t65} {cautivo G t66}
+{en P t67} {sus D t68} {noches N t69} {de P t70} {duda N t71} {sin P t72} {aurora N t73} {; O t74}
+{y C t75} {así A t76} {de P t77} {una D t78} {sonrisa N t79} {con P t80} {la D t81} {raya N t82}
+{trajo V t83} {la D t84} {fe N t85} {, O t86} {-- O t87} {que Q t88} {salta V t89} {como C t90} {el D t91} {vivo G t92}
+{pez N t93} {que Q t94} {un D t95} {tumbo N t96} {arrojó V t97} {sobre P t98} {la D t99} {playa N t100} {... O t101}

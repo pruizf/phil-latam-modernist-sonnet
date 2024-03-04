@@ -1,0 +1,14 @@
+{¿ O t1} {Quién Q t2} {aparece V t3} {con P t4} {su D t5} {voz N t6} {ahora A t7}
+{dominando V t8} {en P t9} {la D t10} {hispana G t11} {poesía N t12} {? O t13}
+{¿ O t14} {Quién Q t15} {trajo V t16} {, O t17} {en P t18} {el D t19} {raudal N t20} {de P t21} {su D t22} {armonía N t23}
+{sátira N t24} {perspicaz G t25} {, O t26} {nota V t27} {sonora G t28} {? O t29}
+{¿ O t30} {Quién Q t31} {, O t32} {cuando C t33} {ríe V t34} {alegre G t35} {, O t36} {triste G t37}
+{y C t38} {en P t39} {sus D t40} {cantos N t41} {derrama V t42} {la D t43} {alegría N t44} {, O t45}
+{al P t46} {par N t47} {que Q t48} {con P t49} {su D t50} {acento N t51} {arrancaría V t52}
+{lágrima N t53} {de P t54} {los D t55} {ojos N t56} {, O t57} {quemadora N t58} {? O t59}
+{¿ O t60} {Quién Q t61} {nos Q t62} {ofrece V t63} {su D t64} {cantar V t65} {hermoso G t66} {? O t67}
+{¿ O t68} {Quién Q t69} {engalana V t70} {el D t71} {Español R t72} {Parnaso R t73}
+{y C t74} {quié Q t75} {ataca V t76} {al P t77} {gongorismo N t78} {nulo G t79} {? O t80}
+{Francisco R t81} {de P t82} {Quevedo R t83} {, O t84} {ese D t85} {coloso N t86}
+{que Q t87} {pudiera V t88} {montar V t89} {en P t90} {el D t91} {Pegaso R t92}
+{al P t93} {par N t94} {de P t95} {Juvenal R t96} {y C t97} {Tibulo R t98}

@@ -1,0 +1,14 @@
+{Allá A} {se Q} {ven V} {de P} {la D} {vecina G} {aldea N}	B	enlace_od_verb	ld02
+{las D} {burladoras G} {aspas N} {de P} {molino N} {, O}	I	enlace_od_verb	ld02
+{girando V} {arrebatadas G} {y C} {sin P} {tino N} {, O}	O		
+{con P} {fe N} {que Q} {impulsa V} {y C} {rabia N} {que Q} {jadea V} {. O}	O		
+{Una D} {estrofa N} {en P} {las D} {aspas N} {voltejea G} {, O}	O		
+{lanzando V} {al P} {cielo N} {el D} {cántico N} {divino G}	B	sirrem_noun_prep	pp05
+{del P} {hombre N} {triunfador N} {sobre P} {el D} {Destino R}	I	sirrem_noun_prep	pp05
+{y C} {del P} {viento N} {enfrenado G} {por P} {la D} {Idea R} {. O}	O		
+{Cuando C} {, O} {entre P} {las D} {penumbras N} {de P} {la D} {tarde N} {, O}	O		
+{veo V} {allá A} {... O} {los D} {molinos N} {, O} {donde Q} {en P} {vano G}	B	enlace_od_verb	ld02
+{un D} {gran G} {beso N} {de P} {sol N} {palpita G} {y C} {arde V} {, O}	I	enlace_od_verb	ld02
+{¡ O} {espero V} {ver V} {que C} {de P} {las D} {aspas N} {brote N} {, O}	O		
+{sobre P} {flaco G} {rocín N} {, O} {y C} {lanza V} {en P} {mano N} {, O}	O		
+{el D} {tipo N} {espiritual G} {de P} {Don R} {Quijote R} {! O} {... O}	O		

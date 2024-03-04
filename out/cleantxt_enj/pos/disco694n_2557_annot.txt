@@ -1,0 +1,14 @@
+{Alma N t1} {mía Q t2} {, O t3} {perdura V t4} {en P t5} {tu D t6} {idea N t7} {divina G t8} {; O t9}
+{todo Q t10} {está V t11} {bajo P t12} {el D t13} {signo N t14} {de P t15} {un D t16} {destino N t17} {supremo G t18} {; O t19}
+{sigue V t20} {en P t21} {tu D t22} {rumbo N t23} {, O t24} {sigue V t25} {hasta P t26} {el D t27} {ocaso N t28} {extremo G t29}
+{por P t30} {el D t31} {camino N t32} {que Q t33} {hacia P t34} {la D t35} {Esfinge R t36} {te Q t37} {encamina V t38} {. O t39}
+{Corta V t40} {la D t41} {flor N t42} {al P t43} {paso N t44} {, O t45} {deja V t46} {la D t47} {dura G t48} {espina N t49} {; O t50}
+{en P t51} {el D t52} {río N t53} {de P t54} {oro N t55} {lleva V t56} {a P t57} {compás N t58} {el D t59} {remo N t60} {; O t61}
+{saluda N t62} {el D t63} {rudo N t64} {arado G t65} {del P t66} {rudo N t67} {Triptolemo R t68} {, O t69}
+{y C t70} {sigue V t71} {como C t72} {un D t73} {dios N t74} {que Q t75} {sus D t76} {sueños N t77} {destina V t78} {... O t79}
+{Y C t80} {sigue V t81} {como C t82} {un D t83} {dios N t84} {que Q t85} {la Q t86} {dicha G t87} {estimula V t88} {, O t89}
+{y C t90} {mientras C t91} {la D t92} {retórica N t93} {del P t94} {pájaro N t95} {te Q t96} {adula V t97}
+{y C t98} {los D t99} {astros N t100} {del P t101} {cielo N t102} {te Q t103} {acompañan V t104} {, O t105} {y C t106} {los D t107}
+{ramos N t108} {de P t109} {la D t110} {Esperanza R t111} {surgen V t112} {primaverales G t113} {, O t114}
+{atraviesa V t115} {impertérrita N t116} {por P t117} {el D t118} {bosque N t119} {de P t120} {males N t121}
+{sin P t122} {temer V t123} {las D t124} {serpientes G t125} {; O t126} {y C t127} {sigue V t128} {, O t129} {como C t130} {un D t131} {dios N t132} {... O t133}

@@ -1,0 +1,14 @@
+{Amo V} {las D} {carabelas N} {de P} {Cristóbal R}	O		
+{porque C} {iban V} {sin P} {rumbo N} {sobre P} {el D} {mar N} {; O}	O		
+{y C} {porque C} {desplegaban V} {blancas G} {velas N}	B	sirrem_noun_prep	pd02
+{sobre P} {la D} {inmensidad N} {del P} {mar N} {azul G} {. O}	I	sirrem_noun_prep	pd02
+{Galleta R} {dura G} {y C} {pescado V} {podrido G}	B	enlace_subj_verb	ld01
+{para P} {los D} {héroes N} {fue V} {pan N} {de P} {ilusión N} {; O}	I	enlace_subj_verb	ld01
+{y C} {era V} {Catay R} {la D} {esencia N} {de P} {su D} {esencia N}	O		
+{fundiendo V} {en P} {sol N} {lo D} {que Q} {era V} {voluntad N} {. O}	O		
+{De P} {agua N} {profusa G} {y C} {cielos N} {mentirosos G}	O		
+{hicieron V} {su D} {coraza N} {de P} {esperar V} {; O}	O		
+{sueños N} {de P} {luz N} {y C} {páginas N} {de P} {Antillas R}	B	enlace_subj_verb	ld01
+{a P} {su D} {hogar N} {dieron V} {esperanza N} {y C} {sol N} {. O}	I	enlace_subj_verb	ld01
+{El D} {Santo R} {Cristo R} {que Q} {estaba V} {a P} {su D} {puerta N}	B	enlace_subj_verb	ld01
+{les Q} {dio V} {la D} {vida N} {con P} {la D} {fe N} {de P} {Dios R} {. O}	I	enlace_subj_verb	ld01

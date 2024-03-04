@@ -1,0 +1,14 @@
+{Mía V t1} {: O t2} {así A t3} {te Q t4} {llamas N t5} {. O t6}
+{¿ O t7} {Qué Q t8} {más A t9} {harmonía V t10} {? O t11}
+{Mía V t12} {: O t13} {luz N t14} {del P t15} {día N t16} {; O t17}
+{Mía R t18} {: O t19} {rosas N t20} {, O t21} {llamas N t22} {. O t23}
+{¡ O t24} {Qué Q t25} {aroma N t26} {derramas N t27}
+{en P t28} {el D t29} {alma N t30} {mía Q t31}
+{si C t32} {sé V t33} {que C t34} {me Q t35} {amas N t36} {, O t37}
+{¡ O t38} {oh O t39} {Mía R t40} {! O t41} {, O t42} {¡ O t43} {oh O t44} {Mía R t45} {! O t46}
+{Tu D t47} {sexo N t48} {fundiste G t49}
+{con P t50} {mi D t51} {sexo N t52} {fuerte G t53} {, O t54}
+{fundiendo V t55} {dos D t56} {bronces N t57} {. O t58}
+{Yo Q t59} {triste G t60} {, O t61} {tú Q t62} {triste G t63} {... O t64}
+{¿ O t65} {No A t66} {has V t67} {de P t68} {ser V t69} {entonces A t70}
+{mía Q t71} {hasta P t72} {la D t73} {muerte N t74} {? O t75}

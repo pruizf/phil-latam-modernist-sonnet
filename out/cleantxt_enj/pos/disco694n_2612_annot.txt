@@ -1,0 +1,14 @@
+{¿ O t1} {De P t2} {dónde Q t3} {viene V t4} {aquella D t5} {maravillosa G t6} {, O t7} {aquella D t8}
+{que C t9} {cuando C t10} {pasa V t11} {, O t12} {a P t13} {paso N t14} {de P t15} {reina N t16} {, O t17} {Diosa R t18} {va V t19} {? O t20}
+{¿ O t21} {De P t22} {Viena R t23} {acaso A t24} {? O t25} {... O t26} {¿ O t27} {Acaso A t28} {de P t29} {Sevilla R t30} {o C t31} {Marsella R t32} {? O t33}
+{Acaso A t34} {... O t35} {, O t36} {pues C t37} {su D t38} {imperio N t39} {doquiera V t40} {imperará V t41} {. O t42}
+{Es V t43} {la D t44} {flor N t45} {de P t46} {Argentina R t47} {, O t48} {divinamente A t49} {bella G t50} {, O t51}
+{azucena N t52} {del P t53} {Plata R t54} {, O t55} {rosa N t56} {del P t57} {Paraná R t58} {, O t59}
+{y C t60} {que C t61} {siempre A t62} {aparece V t63} {con P t64} {su D t65} {fulgor N t66} {de P t67} {estrella N t68} {, O t69}
+{ya A t70} {la Q t71} {pinte V t72} {Boldine R t73} {o C t74} {De P t75} {la D t76} {Gandará R t77} {... O t78}
+{Ella Q t79} {es V t80} {la D t81} {que Q t82} {a P t83} {las D t84} {reinas N t85} {del P t86} {gran G t87} {París R t88} {emula V t89} {, O t90}
+{pues C t91} {, O t92} {como P t93} {ellas Q t94} {, O t95} {encanta V t96} {y C t97} {sonríe V t98} {y C t99} {ondula V t100} {; O t101}
+{y C t102} {cual Q t103} {Dea R t104} {transforma V t105} {, O t106} {al P t107} {golpe N t108} {de P t109} {su D t110} {pie N t111} {, O t112}
+{en P t113} {primavera N t114} {pura G t115} {un D t116} {triste G t117} {otoño N t118} {enfermo G t119} {, O t120}
+{en P t121} {el D t122} {Bois R t123} {de P t124} {Boulogne R t125} {el D t126} {Bosque R t127} {de P t128} {Palermo R t129} {, O t130}
+{y C t131} {la D t132} {calle N t133} {Florida R t134} {en P t135} {la D t136} {Rue R t137} {de P t138} {la D t139} {Paix R t140} {. O t141}

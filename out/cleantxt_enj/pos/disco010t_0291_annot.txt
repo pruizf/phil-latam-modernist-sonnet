@@ -1,0 +1,14 @@
+{Hoy A t1} {te Q t2} {censuran V t3} {con P t4} {brutal G t5} {crudeza N t6}
+{los D t7} {que Q t8} {ayer A t9} {te Q t10} {ensalzaron V t11} {a P t12} {porfía N t13} {: O t14}
+{se Q t15} {quiere V t16} {descubrir V t17} {la D t18} {Hipocresía R t19} {, O t20}
+{tratando V t21} {en P t22} {vano G t23} {de P t24} {mentir V t25} {franqueza N t26} {. O t27}
+{El D t28} {odio N t29} {mismo G t30} {que C t31} {a P t32} {hostigarte N t33} {empieza V t34} {, O t35}
+{ficción N t36} {de P t37} {teatro N t38} {y C t39} {trampa N t40} {de P t41} {falsía N t42} {, O t43}
+{es V t44} {el D t45} {casco N t46} {de P t47} {honor N t48} {y C t49} {bizarría N t50}
+{con P t51} {que Q t52} {cubre V t53} {la D t54} {Envidia R t55} {su D t56} {cabeza N t57} {. O t58}
+{No A t59} {te Q t60} {arredre V t61} {la D t62} {estúpida G t63} {comparsa N t64} {; O t65}
+{porque C t66} {tú Q t67} {siempre A t68} {arrollarás A t69} {la D t70} {farsa N t71} {, O t72}
+{al P t73} {soplo N t74} {de P t75} {huracán N t76} {de P t77} {tus D t78} {castigos N t79} {... O t80}
+{¡ O t81} {Vencerías N t82} {también A t83} {, O t84} {si C t85} {al P t86} {fin N t87} {murieras G t88} {; O t89}
+{porque C t90} {yo Q t91} {sé V t92} {que C t93} {el D t94} {día N t95} {en P t96} {que Q t97} {tú Q t98} {mueras N t99}
+{te Q t100} {tienen V t101} {que C t102} {llorar V t103} {sus D t104} {enemigos N t105} {! O t106} {... O t107}

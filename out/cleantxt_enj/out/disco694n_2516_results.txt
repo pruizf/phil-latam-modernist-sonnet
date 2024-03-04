@@ -1,0 +1,14 @@
+{Para P} {el D} {varón N} {eximio G} {que Q} {proclama V}	B	enlace_subj_verb	ld01
+{la D} {ley N} {de P} {la D} {verdad N} {; O} {para P} {el D} {severo G}	IB	enlace_subj_verb;sirrem_adj_noun	ld01;pp02
+{vate N} {que Q} {halla V} {en P} {luz N} {rico G} {minero G}	I	sirrem_adj_noun	pp02
+{y C} {a P} {sublimes N} {regiones N} {se Q} {encarama V} {; O}	O		
+{para P} {el D} {que Q} {siente V} {la D} {divina G} {llama N}	B	sirrem_noun_prep	pp05
+{de P} {inmensa G} {inspiraci6n O} {, O} {y C} {el D} {santo G} {fuero N}	IB	sirrem_noun_prep;sirrem_noun_prep	pp05;pp05
+{de P} {la D} {virtud N} {defiende V} {, O} {y C} {pregonero V}	I	sirrem_noun_prep	pp05
+{de P} {la D} {razón N} {, O} {su D} {mejestad N} {proclama V} {; O}	O		
+{para P} {ése Q} {tiene V} {Historia R} {excelsa G} {lumbre N} {, O}	O		
+{Humanidad R} {un D} {lauro N} {relumbrante G} {, O}	O		
+{y C} {Patria R} {una D} {guirnalda N} {de P} {victoria N} {; O}	O		
+{un D} {eterno G} {clamor N} {la D} {muchedumbre N} {, O}	O		
+{y C} {el D} {Poeta R} {una D} {lira N} {resonante G}	B	sirrem_adj_prep	pd02
+{para P} {contar V} {antífonas N} {de P} {gloria N} {. O}	I	sirrem_adj_prep	pd02

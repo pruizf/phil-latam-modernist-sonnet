@@ -1,0 +1,14 @@
+{Es V} {un D} {pájaro N} {mudo G} {, O} {pero C} {hermoso G} {; O} {una D} {alhaja N}	B	oracional	cp01
+{que Q} {ha V} {salido V} {volando V} {de P} {un D} {arcón N} {reluciente A}	I	oracional	cp01
+{En P} {el D} {hueco N} {de P} {un D} {tronco N} {, O} {fino G} {estuche N} {trabaja V} {, O}	O		
+{donde Q} {finge V} {un D} {penacho N} {de P} {monárquica G} {frente A}	O		
+{Nunca A} {en P} {vil G} {cautiverio N} {sus D} {prestigios N} {rebaja V} {; O}	O		
+{y C} {antes A} {goza V} {el D} {orgullo N} {de P} {morir V} {libremente A} {: O}	O		
+{si C} {se Q} {quiebran V} {las D} {plumas N} {en P} {su D} {estuche N} {se Q} {encaja V}	O		
+{y C} {principia V} {a P} {morirse V} {de P} {la D} {pena N} {que Q} {siente V} {. O}	O		
+{Tal D} {orgullo N} {es V} {su D} {orgullo N} {que C} {es V} {un D} {símbolo N} {alado G} {, O}	O		
+{por P} {su D} {gesto N} {de P} {raza N} {, O} {por P} {su D} {instinto N} {de P} {gloria N} {: O}	O		
+{él Q} {jamás A} {vivió V} {en P} {rejas N} {, O} {ni C} {jamás A} {se Q} {ha V} {manchado V} {. O}	O		
+{Con P} {nobleza N} {de P} {artista N} {y C} {altivez N} {de P} {guerrero N} {, O}	O		
+{¡ O} {merecía V} {la D} {suerte N} {de P} {haber V} {sido V} {en P} {la D} {Historia R}	O		
+{un D} {blasón N} {con P} {la D} {frase N} {de P} {Francisco R} {primero G} {! O}	O		

@@ -1,0 +1,14 @@
+{Anacreonte R} {, O} {padre N} {de P} {la D} {sana G} {alegría N} {; O}	O		
+{Ovidio R} {, O} {sacerdote N} {de P} {la D} {ciencia N} {amorosa G} {; O}	O		
+{Quevedo R} {, O} {en P} {cuyo Q} {cáliz N} {licor G} {jovial G} {rebosa G} {; O}	O		
+{Banville R} {, O} {insigne V} {Orfeo R} {de P} {la D} {sacra N} {Harmonía R} {, O}	O		
+{y C} {con P} {vosotros N} {toda D} {la D} {grey N} {hija N} {del P} {día N} {, O}	O		
+{a P} {quien Q} {habla V} {el D} {amante N} {corazn N} {de P} {la D} {tosa N} {, O}	O		
+{abejas N} {que Q} {fabrican V} {sobre P} {la D} {humana G} {prosa G}	O		
+{en P} {sus D} {Himeteos R} {mágicos G} {mieles N} {de P} {poesía N} {: O}	O		
+{Prefiero V} {vuestra D} {risa N} {sonora G} {, O} {vuestra D} {musa N}	B	sirrem_adj_noun	pp02
+{risueña G} {, O} {vuestros Q} {versos N} {perfumados G} {de P} {vino N} {, O}	I	sirrem_adj_noun	pp02
+{los D} {versos N} {de P} {sombra N} {y C} {a P} {la D} {canción N} {confusa G}	B	oracional	cp01
+{que Q} {opone V} {el D} {numen N} {bárbaro G} {al P} {resplandor N} {latino G} {; O}	I	oracional	cp01
+{y C} {ante P} {la D} {fiera V} {máscara N} {de P} {la D} {fatal G} {Medusa R} {, O}	O		
+{medrosa G} {huye V} {mi D} {alondra N} {de P} {canto N} {cristalino G} {. O}	O		

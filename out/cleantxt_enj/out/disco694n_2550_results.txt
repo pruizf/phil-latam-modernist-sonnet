@@ -1,0 +1,14 @@
+{Pues C} {la D} {anciana N} {me Q} {dijo V} {: O} {mira V} {esta D} {rosa N} {seca G}	B	oracional	cp01
+{que Q} {encantó V} {el D} {aparato N} {de P} {su D} {estación N} {un D} {día N} {: O}	I	oracional	cp01
+{el D} {tiempo N} {que Q} {los D} {muros N} {altísimos G} {derrueca G}	B	sirrem_adj_adv	pp10
+{no A} {privará V} {este D} {libro N} {de P} {su D} {sabiduría N} {. O}	I	sirrem_adj_adv	pp10
+{En P} {esos D} {secos N} {pétalos G} {hay V} {más A} {filosofía N}	O		
+{que C} {la D} {que Q} {darte V} {pueda V} {tu D} {sabia G} {biblioteca N} {; O}	O		
+{ella Q} {en P} {mis D} {labios N} {pone V} {la D} {mágica G} {armonía N}	O		
+{con P} {que Q} {en P} {mi D} {torno N} {encarno V} {los D} {sueños N} {de P} {mi D} {rueca N} {. O}	O		
+{" O} {Sois N} {un D} {hada G} {' O} {' O} {, O} {le Q} {dije V} {; O} {" O} {Soy V} {un D} {hada N} {, O} {me Q} {dijo V} {; O}	O		
+{y C} {de P} {la D} {primavera N} {celebro V} {el D} {regocijo N}	O		
+{dándoles V} {vida N} {y C} {vuelo N} {a P} {estas D} {hojas N} {de P} {rosa N} {. O} {" O}	O		
+{Y C} {transfórmose V} {en P} {una D} {princesa N} {perfumada G} {, O}	O		
+{y C} {en P} {el D} {aire N} {sutil G} {, O} {de P} {los D} {dedos N} {del P} {hada G}	O		
+{voló V} {la D} {rosa N} {seca G} {como C} {una D} {mariposa G} {. O}	O		

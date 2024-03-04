@@ -1,0 +1,14 @@
+{Porque C t1} {cantáis V t2} {la D t3} {eterna G t4} {Marsellesa R t5}
+{que Q t6} {maldice V t7} {el D t8} {poder N t9} {de P t10} {los D t11} {tiranos N t12} {; O t13}
+{porque C t14} {alzáis V t15} {ardorosos G t16} {en P t17} {las D t18} {manos N t19}
+{el D t20} {pendón N t21} {de P t22} {la D t23} {luz N t24} {con P t25} {entereza N t26} {; O t27}
+{porque C t28} {deseáis N t29} {que Q t30} {caiga V t31} {la D t32} {cabeza N t33}
+{de P t34} {la D t35} {hidra N t36} {aristocrática G t37} {, O t38} {y C t39} {ufanos N t40}
+{dais G t41} {al P t42} {pueblo N t43} {principios N t44} {soberanos G t45} {, O t46}
+{que Q t47} {destruyen V t48} {del P t49} {mal N t50} {la D t51} {niebla N t52} {espesa G t53} {; O t54}
+{porque C t55} {gritáis N t56} {que Q t57} {es V t58} {libre G t59} {el D t60} {pensamiento N t61} {; O t62}
+{que C t63} {no A t64} {tiene V t65} {cadenas N t66} {la D t67} {conciencia N t68} {, O t69}
+{y C t70} {proclamáis V t71} {con P t72} {fuerza N t73} {y C t74} {ardimiento N t75}
+{que Q t76} {hoy A t77} {impera V t78} {nomás A t79} {la D t80} {inteligencia N t81} {; O t82}
+{la D t83} {muchedumbre N t84} {criminal G t85} {y C t86} {necia G t87} {, O t88}
+{os Q t89} {escupe N t90} {, O t91} {y C t92} {os Q t93} {odia V t94} {, O t95} {y C t96} {os Q t97} {desprecia V t98} {. O t99}

@@ -1,0 +1,14 @@
+{Mágico G} {hervor N} {, O} {que Q} {se Q} {dilata V} {en P} {torno N} {, O}	O		
+{saltar V} {hace V} {la D} {nota N} {cristalina G}	B	sirrem_noun_prep	pp05
+{de P} {la D} {ancha G} {copa N} {, O} {que C} {el D} {aldeano N} {empina V} {, O}	I	sirrem_noun_prep	pp05
+{del P} {carnaval N} {por P} {el D} {feliz G} {retorno N} {. O}	O		
+{Es V} {un D} {arado N} {el D} {singular G} {adorno N}	B	sirrem_adj_noun	pp02
+{único G} {que Q} {impresiona V} {la D} {retina N} {; O}	I	sirrem_adj_noun	pp02
+{y C} {allá A} {, O} {tras P} {de P} {la D} {puerta N} {, O} {se Q} {adivina V} {, O}	O		
+{caduco N} {, O} {ahumado G} {y C} {ceniciento V} {un D} {horno N} {. O}	O		
+{Hoy A} {es V} {Pascua R} {. O} {Hoy A} {del P} {sol N} {al P} {postrer G} {lampo N} {, O}	O		
+{bebe V} {una D} {misma D} {copa N} {con P} {su D} {amada N}	B	enlace_od_verb	ld02
+{el D} {labrador N} {, O} {por P} {la D} {salud N} {del P} {campo N} {; O}	I	enlace_od_verb	ld02
+{y C} {hoy A} {a P} {la D} {cena N} {la D} {Embriaguez R} {asiste V} {, O}	O		
+{danzando V} {al P} {rededor N} {de P} {una D} {colgada G}	B	sirrem_adj_noun	pp02
+{ave N} {sin P} {plumas N} {, O} {retorcida G} {y C} {triste G} {. O}	I	sirrem_adj_noun	pp02

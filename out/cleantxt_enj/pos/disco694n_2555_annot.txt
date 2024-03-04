@@ -1,0 +1,14 @@
+{Maravillosamente A t1} {danzaba V t2} {. O t3} {Los D t4} {diamantes G t5}
+{negros N t6} {de P t7} {sus D t8} {pupilas N t9} {vertían V t10} {su D t11} {destello N t12} {; O t13}
+{era V t14} {bello G t15} {su D t16} {rostro N t17} {, O t18} {era V t19} {un D t20} {rostro N t21} {tan A t22} {bello G t23}
+{como C t24} {el D t25} {de P t26} {las D t27} {gitanas N t28} {de P t29} {don N t30} {Miguel R t31} {Cervantes R t32} {. O t33}
+{Ornábase R t34} {con P t35} {rojos N t36} {claveles G t37} {detonantes G t38}
+{la D t39} {redondez N t40} {obscura G t41} {del P t42} {casco N t43} {del P t44} {cabello N t45} {, O t46}
+{y C t47} {la D t48} {cabeza N t49} {firme G t50} {sobre P t51} {el D t52} {bronce N t53} {del P t54} {cuello N t55}
+{tenía V t56} {la D t57} {pátina N t58} {de P t59} {las D t60} {horas N t61} {errantes G t62} {. O t63}
+{Las D t64} {guitarras N t65} {decían V t66} {en P t67} {sus D t68} {cuerdas N t69} {sonoras G t70}
+{las D t71} {vagas N t72} {aventuras N t73} {y C t74} {las D t75} {errantes G t76} {horas N t77} {, O t78}
+{volaban V t79} {los D t80} {fandangos N t81} {, O t82} {daba V t83} {el D t84} {clavel N t85} {fragancia N t86} {; O t87}
+{la D t88} {gitana N t89} {, O t90} {embriagada G t91} {de P t92} {lujuria N t93} {y C t94} {cariño N t95} {, O t96}
+{sintió V t97} {cómo Q t98} {caía V t99} {dentro A t100} {de P t101} {su D t102} {corpiño N t103}
+{el D t104} {bello G t105} {luis N t106} {de P t107} {oro N t108} {del P t109} {artista N t110} {de P t111} {Francia R t112} {. O t113}

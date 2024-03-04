@@ -1,0 +1,14 @@
+{La D t1} {tortuga N t2} {de P t3} {oro N t4} {camina V t5} {por P t6} {la D t7} {alfombra N t8}
+{y C t9} {traza N t10} {por P t11} {la D t12} {alfombra N t13} {un D t14} {misterioso G t15} {estigma N t16} {; O t17}
+{sobre P t18} {su D t19} {carapacho N t20} {hay V t21} {grabado V t22} {un D t23} {enigma N t24}
+{y C t25} {un D t26} {círculo N t27} {enigmático G t28} {se Q t29} {dibuja V t30} {en P t31} {su D t32} {sombra N t33} {. O t34}
+{Esos D t35} {signos N t36} {nos Q t37} {dicen V t38} {al P t39} {Dios R t40} {que C t41} {no A t42} {se Q t43} {nombra V t44}
+{y C t45} {ponen V t46} {en P t47} {nosotros Q t48} {su D t49} {autoritario G t50} {estigma N t51} {: O t52}
+{ese D t53} {círculo N t54} {encierra V t55} {la D t56} {clave N t57} {del P t58} {enigma N t59}
+{que Q t60} {a P t61} {Minotauro R t62} {mata V t63} {y C t64} {a P t65} {la D t66} {Medusa R t67} {asombra V t68} {. O t69}
+{Ramo N t70} {de P t71} {sueño N t72} {, O t73} {mazo N t74} {de P t75} {ideas N t76} {florecidas G t77}
+{en P t78} {explosión N t79} {de P t80} {cantos N t81} {y C t82} {en P t83} {floración N t84} {de P t85} {vidas N t86} {, O t87}
+{sois N t88} {mi D t89} {pecho N t90} {suave G t91} {, O t92} {mi D t93} {pensamiento N t94} {parco G t95} {. O t96}
+{Y C t97} {cuando C t98} {hayan V t99} {pasado V t100} {las D t101} {sedas N t102} {de P t103} {la D t104} {fiesta N t105} {, O t106}
+{decidme V t107} {los D t108} {sutiles G t109} {efluvios N t110} {de P t111} {la D t112} {orquesta N t113}
+{y C t114} {lo D t115} {que Q t116} {está V t117} {suspenso N t118} {entre P t119} {el D t120} {violín N t121} {y C t122} {el D t123} {arco N t124} {... O t125}

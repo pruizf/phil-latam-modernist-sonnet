@@ -1,0 +1,14 @@
+{Por P} {un D} {momento N} {, O} {oh C} {Cisne R} {, O} {juntaré V} {mis D} {anhelos N}	O		
+{a P} {los D} {de P} {tus D} {dos D} {alas N} {que Q} {abrazaron V} {a P} {Leda R} {, O}	O		
+{y C} {a P} {mi D} {maduro G} {ensueño N} {, O} {aun A} {vestido G} {de P} {seda N} {, O}	O		
+{dirás A} {, O} {por P} {los D} {Dioscuros R} {, O} {la D} {gloria N} {de P} {los D} {cielos N} {. O}	O		
+{Es V} {el D} {otoño N} {. O} {Ruedan V} {de P} {la D} {flauta N} {consuelos G} {. O}	O		
+{Por P} {un D} {instante N} {, O} {oh C} {Cisne R} {, O} {en P} {la D} {obscura N} {alameda G}	B	enlace_subj_verb	ld01
+{sorberé G} {entre P} {dos D} {labios N} {lo D} {que Q} {el D} {Pudor R} {me Q} {veda N} {, O}	I	enlace_subj_verb	ld01
+{y C} {dejaré V} {mordidos G} {Escrúpulos R} {y C} {Celos R} {. O}	O		
+{Cisne R} {, O} {tendré V} {tus D} {alas N} {blancas G} {, O} {por P} {un D} {instante N} {, O}	O		
+{y C} {el D} {corazn N} {de P} {rosa N} {que Q} {hay V} {en P} {tu D} {dulce G} {pecho N}	B	enlace_subj_verb	ld01
+{palpitará V} {en P} {el D} {mío D} {con P} {su D} {sangre N} {constante G} {. O}	I	enlace_subj_verb	ld01
+{Amor R} {será V} {dichoso G} {, O} {pues C} {estará V} {vibrante G}	B	enlace_subj_verb	ld01
+{el D} {júbilo N} {que Q} {pone V} {al P} {gran G} {Pan N} {en P} {acecho N}	I	enlace_subj_verb	ld01
+{mientras C} {su D} {ritmo N} {esconde V} {la D} {fuente N} {de P} {diamante N} {. O}	O		

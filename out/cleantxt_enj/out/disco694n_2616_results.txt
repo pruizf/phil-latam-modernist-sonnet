@@ -1,0 +1,13 @@
+{No A} {seas V} {caprichosa G} {ni C} {confusa G}	B	enlace_subj_verb	ld01
+{sé V} {dulce G} {, O} {sé V} {tranquila G} {, O} {sé V} {sincera G} {, O}	I	enlace_subj_verb	ld01
+{pues C} {tienes V} {un D} {poeta N} {, O} {sé V} {musa N} {, O}	O		
+{y C} {del P} {hombre N} {sé V} {tú Q} {la D} {compañera N} {! O}	O		
+{Sabe V} {hacer V} {lo D} {que Q} {importas N} {y C} {que C} {inspiras G}	O		
+{y C} {sabe V} {perpetuar V} {dulces G} {mañanas N} {. O}	O		
+{¡ O} {Dios R} {te Q} {de P} {el D} {son N} {rosado G} {de P} {las D} {liras O}	O		
+{y C} {la D} {alegría N} {azul G} {de P} {las D} {campanas N} {! O}	O		
+{Y C} {Dios R} {te Q} {de P} {tranquilidad N} {tan A} {pura G}	B	enlace_subj_verb	ld01
+{como C} {el D} {agua N} {clara G} {purifique V}	IB	enlace_subj_verb;enlace_od_verb	ld01;ld02
+{el D} {minuro N} {feliz G} {de P} {la D} {hora N} {obscura G} {! O}	I	enlace_od_verb	ld02
+{Y C} {que C} {la D} {mano N} {del P} {Señor N} {te Q} {indique V}	B	enlace_od_verb	ld02
+{senda N} {florida G} {en P} {esta D} {vida N} {dura G} {! O}	I	enlace_od_verb	ld02

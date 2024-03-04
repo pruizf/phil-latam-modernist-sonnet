@@ -1,0 +1,14 @@
+{En P} {el D} {mármol N} {que Q} {el D} {Arte R} {ha V} {cincelado V}	B	enlace_od_verb	ld02
+{vida N} {immortal G} {hallaron V} {tus D} {legiones N} {; O}	I	enlace_od_verb	ld02
+{y C} {hasta A} {el D} {humo N} {fugaz G} {de P} {tus D} {cañones N}	B	sirrem_noun_prep	pd02
+{para P} {siempre A} {quedó V} {petrificado G} {. O}	I	sirrem_noun_prep	pd02
+{Entre P} {el D} {hórrido N} {estruendo V} {, O} {que Q} {acallado G}	B	enlace_subj_verb	ld01
+{adivinase V} {en P} {gestos N} {y C} {expresiones N} {, O}	I	enlace_subj_verb	ld01
+{a P} {galope V} {se Q} {tienden V} {cien D} {bridones N}	O		
+{cual Q} {si C} {fueran V} {un D} {viento N} {huracanado G} {... O}	O		
+{A P} {la D} {cabeza N} {, O} {tú Q} {: O} {fiero N} {, O} {jadeante G} {, O}	O		
+{tendido G} {en P} {el D} {bridón N} {hacia P} {delante A} {, O}	O		
+{en P} {la D} {persecución N} {de P} {una D} {bandera N} {... O}	O		
+{¡ O} {Todo D} {el D} {que Q} {vio V} {, O} {de P} {pronto A} {, O} {tu D} {figura N} {, O}	O		
+{a P} {un D} {lado N} {se Q} {apartó V} {de P} {la D} {escultura N} {, O}	O		
+{para P} {verte V} {pasar V} {en P} {tu D} {carrera N} {! O} {... O}	O		

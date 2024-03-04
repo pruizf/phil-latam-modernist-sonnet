@@ -1,0 +1,14 @@
+{Miré V} {al P} {sentarme V} {a P} {la D} {mesa N} {, O}	O		
+{bañado G} {en P} {la D} {luz N} {del P} {día N}	O		
+{el D} {retrato N} {de P} {María R} {, O}	O		
+{la D} {cubana-japonesa N} {. O}	O		
+{El D} {aire N} {acaricia V} {y C} {besa V}	B	enlace_od_verb	ld02
+{como C} {un D} {amante N} {lo Q} {haría V} {, O}	I	enlace_od_verb	ld02
+{la D} {orgullosa G} {bizarría N}	B	sirrem_noun_prep	pp05
+{de P} {la D} {cabellera N} {espesa G} {. O}	I	sirrem_noun_prep	pp05
+{Diera V} {un D} {tesoro N} {el D} {Mikado R}	O		
+{por P} {sentirse V} {acariciado G}	O		
+{por P} {princesa N} {tan A} {gentil G} {, O}	O		
+{digna G} {de P} {que C} {un D} {gran G} {pintor N}	B	enlace_subj_verb	ld01
+{le Q} {pinte V} {junto G} {a P} {una D} {flor N}	I	enlace_subj_verb	ld01
+{en P} {un D} {vaso N} {de P} {marfil N} {. O}	O		

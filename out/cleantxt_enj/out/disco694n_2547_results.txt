@@ -1,0 +1,14 @@
+{Mira V} {el D} {signo N} {sutil G} {que Q} {los D} {dedos N} {del P} {viento N}	B	enlace_subj_verb	ld01
+{hacen V} {al P} {agitar V} {el D} {tallo N} {que Q} {se Q} {inclina V}	I	enlace_subj_verb	ld01
+{y C} {se Q} {alza N} {en P} {una D} {rítmica G} {virtud N} {de P} {movimiento N} {. O}	O		
+{Con P} {el D} {áureo G} {pincel N} {de P} {la D} {flor N} {de P} {la D} {harina N}	O		
+{trazan V} {sobre P} {la D} {tela N} {azul G} {del P} {firmamento N}	B	enlace_od_verb	ld02
+{el D} {misterio N} {inmortal G} {de P} {la D} {tierra N} {divina G}	I	enlace_od_verb	ld02
+{y C} {el D} {alma N} {de P} {las D} {cosas N} {que Q} {da V} {su D} {sacramento N}	O		
+{en P} {una D} {interminable G} {frescura N} {matutina G} {. O}	O		
+{Pues C} {en P} {la D} {paz N} {del P} {campo N} {la D} {faz N} {de P} {Dios R} {asoma V} {. O}	O		
+{De P} {las D} {floridas G} {urnas N} {místico N} {incienso G} {aroma N}	O		
+{el D} {vasto G} {altar N} {en P} {donde Q} {triunfa V} {la D} {azul G} {sonrisa N} {; O}	O		
+{aún A} {verde G} {está V} {y C} {cubierto G} {de P} {flores N} {el D} {madero N} {, O}	O		
+{bajo P} {sus D} {ramas N} {llenas G} {de P} {amor N} {pace V} {el D} {cordero N}	O		
+{y C} {en P} {la D} {espiga N} {de P} {oro N} {y C} {luz N} {duerme V} {la D} {misa N} {. O}	O		

@@ -1,0 +1,14 @@
+{Joven R t1} {asno G t2} {, O t3} {que Q t4} {trotas N t5} {y C t6} {te Q t7} {alejas V t8}
+{con P t9} {tu D t10} {carga N t11} {de P t12} {amor N t13} {, O t14} {oye V t15} {mi D t16} {acento N t17} {; O t18}
+{y C t19} {no A t20} {porque C t21} {te Q t22} {zumbe V t23} {alegre G t24} {el D t25} {viento N t26}
+{sacudas N t27} {tus D t28} {larguísimas G t29} {orejas N t30} {. O t31}
+{Óyeme N t32} {, O t33} {asno N t34} {cruel G t35} {, O t36} {¿ O t37} {por P t38} {qué Q t39} {no A t40} {cejas G t41} {? O t42} {... O t43}
+{¿ O t44} {Por P t45} {qué Q t46} {huyes V t47} {con P t48} {tu D t49} {aldeana N t50} {en P t51} {el D t52} {asiento N t53} {, O t54}
+{si C t55} {símbolos N t56} {de P t57} {dicha N t58} {son V t59} {, O t60} {jumento N t61} {, O t62}
+{las D t63} {herraduras N t64} {que Q t65} {estampadas G t66} {dejas N t67} {? O t68}
+{¡ O t69} {Joven R t70} {asno G t71} {, O t72} {oye V t73} {bien A t74} {! O t75} {Yo Q t76} {te Q t77} {daría V t78}
+{este D t79} {rincón N t80} {que Q t81} {es V t82} {el D t83} {mejor G t84} {del P t85} {prado N t86} {, O t87}
+{este D t88} {árbol N t89} {que Q t90} {hace V t91} {sombra N t92} {todo D t93} {el D t94} {día N t95} {, O t96}
+{este D t97} {arroyuelo N t98} {que Q t99} {temblando V t100} {arranca G t101} {... O t102}
+{¡ O t103} {por P t104} {ese D t105} {pie N t106} {que Q t107} {aprieta V t108} {tu D t109} {costado V t110} {, O t111}
+{por P t112} {esa D t113} {mano N t114} {que Q t115} {palmea V t116} {tu D t117} {anca G t118} {! O t119}

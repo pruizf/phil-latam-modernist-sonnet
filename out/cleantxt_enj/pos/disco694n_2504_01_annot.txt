@@ -1,0 +1,14 @@
+{Dulce V t1} {como C t2} {la D t3} {miel N t4} {de P t5} {los D t6} {panales N t7}
+{que Q t8} {en P t9} {las D t10} {ramas N t11} {del P t12} {árbol N t13} {gotas N t14} {deja V t15} {, O t16}
+{cuando C t17} {la D t18} {liba N t19} {zumbadora G t20} {abeja G t21}
+{que Q t22} {gira N t23} {sobre P t24} {juncos G t25} {y C t26} {gramales G t27} {; O t28}
+{sonora G t29} {cual Q t30} {las Q t31} {brisas N t32} {otoñales G t33}
+{que Q t34} {el D t35} {eco N t36} {vago G t37} {de P t38} {sentida G t39} {queja N t40}
+{parecen V t41} {derramar V t42} {, O t43} {cuando C t44} {se Q t45} {aleja V t46}
+{Véspero R t47} {entre P t48} {los D t49} {verdes G t50} {robledales N t51} {; O t52}
+{como C t53} {el D t54} {murmullo N t55} {de P t56} {la D t57} {fuente N t58} {suave G t59}
+{que Q t60} {se Q t61} {desliza V t62} {con P t63} {rumor N t64} {escaso G t65} {, O t66}
+{y C t67} {como C t68} {el D t69} {dulce G t70} {cántico N t71} {de P t72} {ave N t73} {: O t74}
+{así A t75} {en P t76} {la D t77} {Égloga N t78} {está V t79} {de P t80} {Garcilaso R t81} {, O t82}
+{llena G t83} {de P t84} {majestad N t85} {, O t86} {pura G t87} {y C t88} {galana G t89} {, O t90}
+{la D t91} {armoniosa G t92} {Poesía R t93} {Castellana R t94} {. O t95}

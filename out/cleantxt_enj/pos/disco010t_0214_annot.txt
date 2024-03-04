@@ -1,0 +1,14 @@
+{Se Q t1} {yergue V t2} {la D t3} {figura N t4} {del P t5} {Cid R t6} {embalsamado G t7} {, O t8}
+{de P t9} {espaldas N t10} {contra P t11} {el D t12} {muro N t13} {del P t14} {templo N t15} {silencioso G t16} {; O t17}
+{no A t18} {hay V t19} {nada Q t20} {en P t21} {el D t22} {silencio N t23} {que Q t24} {turbe V t25} {su D t26} {reposo N t27} {, O t28}
+{no A t29} {hay V t30} {nada Q t31} {en P t32} {tal D t33} {reposo N t34} {que Q t35} {mengüe V t36} {al P t37} {gran G t38} {soldado N t39} {. O t40}
+{Dijérase V t41} {que C t42} {el D t43} {tiempo N t44} {se Q t45} {duerme V t46} {fatigado G t47}
+{Hasta P t48} {el D t49} {mandoble N t50} {mismo G t51} {parece V t52} {ya A t53} {mohoso G t54} {; O t55}
+{y C t56} {sobre P t57} {la D t58} {armadura N t59} {del P t60} {ínclito N t61} {coloso G t62}
+{las D t63} {fúnebres G t64} {arañas G t65} {sus D t66} {telas N t67} {han V t68} {colgado V t69}
+{Impávido G t70} {judío G t71} {, O t72} {con P t73} {planta N t74} {retadora G t75} {, O t76}
+{entrando V t77} {en P t78} {aquel D t79} {templo N t80} {, O t81} {profana G t82} {aquella D t83} {hora N t84} {: O t85}
+{llega V t86} {hasta P t87} {el D t88} {héroe N t89} {, O t90} {y C t91} {prueba V t92} {tocar V t93} {su D t94} {faz N t95} {sagrada G t96} {. O t97}
+{Y C t98} {, O t99} {cual Q t100} {si C t101} {recobrase V t102} {la D t103} {vida N t104} {de P t105} {repente N t106} {, O t107}
+{fue V t108} {entonces A t109} {cuando C t110} {el D t111} {héroe N t112} {definitivamente A t113}
+{sacó V t114} {por P t115} {la D t116} {vez N t117} {última G t118} {un D t119} {palmo N t120} {de P t121} {su D t122} {espada N t123}

@@ -1,0 +1,14 @@
+{El D t1} {viejo G t2} {militar N t3} {endurecido G t4}
+{no A t5} {tantos D t6} {lances N t7} {ni C t8} {victorias N t9} {cuenta V t10} {, O t11}
+{como C t12} {el D t13} {buen G t14} {pescador N t15} {, O t16} {que Q t17} {en P t18} {la D t19} {tormenta N t20}
+{duérmese V t21} {al P t22} {son N t23} {de P t24} {tumultuoso G t25} {ruido N t26} {. O t27}
+{Él Q t28} {, O t29} {por P t30} {las D t31} {olas N t32} {trémulas G t33} {mecido G t34} {, O t35}
+{cuando C t36} {la D t37} {bronca N t38} {tempestad N t39} {revienta V t40} {, O t41}
+{piensa V t42} {en P t43} {su D t44} {hogar N t45} {y C t46} {en P t47} {su D t48} {familia N t49} {hambrienta N t50} {: O t51}
+{ave N t52} {que Q t53} {sufre V t54} {, O t55} {se Q t56} {dirige V t57} {al P t58} {nido N t59} {... O t60}
+{Cuando C t61} {alza N t62} {el D t63} {día N t64} {su D t65} {cantar V t66} {sonoro G t67} {, O t68}
+{recoge V t69} {alegre G t70} {el D t71} {pescador N t72} {sencillo G t73}
+{en P t74} {las D t75} {preñadas G t76} {redes N t77} {su D t78} {tesoro N t79} {; O t80}
+{¡ O t81} {y C t82} {, O t83} {en P t84} {medio D t85} {del P t86} {placer N t87} {con P t88} {que Q t89} {se Q t90} {inflama V t91} {, O t92}
+{de P t93} {las D t94} {monedas N t95} {adivina V t96} {el D t97} {brillo N t98}
+{sobre P t99} {eñ N t100} {plateado G t101} {lustre N t102} {de P t103} {la D t104} {escama N t105} {! O t106} {... O t107}

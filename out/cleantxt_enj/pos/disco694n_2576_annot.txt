@@ -1,0 +1,13 @@
+{De P t1} {una D t2} {juvenil G t3} {inocencia N t4}
+{¿ O t5} {qué Q t6} {conservar V t7} {, O t8} {sino C t9} {el D t10} {sutil G t11}
+{perfume N t12} {, O t13} {esencia N t14} {de P t15} {su D t16} {Abril R t17} {? O t18} {... O t19}
+{- O t20} {¡ O t21} {La D t22} {más A t23} {maravillosa G t24} {esencia N t25} {! O t26}
+{Por P t27} {lamentar V t28} {a P t29} {mi D t30} {conciencia N t31}
+{quedó V t32} {de P t33} {un D t34} {sonoro G t35} {marfil O t36}
+{un D t37} {cuento N t38} {que Q t39} {fue V t40} {de P t41} {las D t42} {Mil R t43}
+{y C t44} {una D t45} {noches N t46} {de P t47} {mi D t48} {existencia N t49} {.. O t50} {. O t51}
+{Scherezade R t52} {se Q t53} {entredurmió V t54} {.. O t55} {. O t56}
+{El D t57} {Visir R t58} {quedó V t59} {meditando V t60} {... O t61}
+{Dinarzada G t62} {el D t63} {día N t64} {olvidó V t65} {... O t66}
+{Mas R t67} {el D t68} {pájaro N t69} {azul G t70} {volvió V t71} {... O t72}
+{Pero C t73} {... O t74} {No A t75} {obstante G t76} {... O t77} {Siempre A t78} {... O t79} {Cuando C t80} {... O t81}

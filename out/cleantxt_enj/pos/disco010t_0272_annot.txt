@@ -1,0 +1,14 @@
+{Soberbio G t1} {mar. N t2} {Una D t3} {irritada G t4} {ola N t5}
+{abre V t6} {los D t7} {abanicos N t8} {de P t9} {su D t10} {espuma N t11} {; O t12}
+{y C t13} {palmetea V t14} {con P t15} {presteza N t16} {suma G t17}
+{sobre P t18} {una D t19} {peña N t20} {indiferente G t21} {y C t22} {sola G t23} {. O t24}
+{La D t25} {arena N t26} {se Q t27} {abrillanta V t28} {y C t29} {tornasola R t30} {, O t31}
+{al P t32} {halago N t33} {de P t34} {Febo R t35} {que Q t36} {se Q t37} {abruma V t38} {, O t39}
+{mientras C t40} {allá A t41} {... O t42} {leve G t43} {girón N t44} {de P t45} {bruma N t46}
+{ciñe V t47} {a P t48} {la D t49} {cumbre N t50} {espiritual G t51} {aureola N t52} {. O t53}
+{En P t54} {las D t55} {ondas N t56} {elásticas G t57} {, O t58} {las D t59} {yerbas N t60}
+{retozan V t61} {y C t62} {se Q t63} {entregan V t64} {a P t65} {la D t66} {orilla N t67} {, O t68}
+{entre P t69} {las D t70} {ansias N t71} {de P t72} {la D t73} {lucha N t74} {acerbas N t75} {. O t76}
+{De P t77} {pie N t78} {, O t79} {sobre P t80} {la D t81} {peña N t82} {, O t83} {álzase V t84} {un D t85} {viejo G t86} {, O t87}
+{que Q t88} {absorto G t89} {con P t90} {su D t91} {anzuelo N t92} {y C t93} {su D t94} {varilla N t95}
+{sólo A t96} {atina G t97} {a P t98} {pescar V t99} {un D t100} {gran G t101} {cangrejo N t102} {. O t103}

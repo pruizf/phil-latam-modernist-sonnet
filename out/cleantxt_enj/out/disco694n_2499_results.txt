@@ -1,0 +1,14 @@
+{Moisés R} {: O} {" O} {La D} {mano N} {del P} {Eterno R} {, O} {un D} {día N} {, O}	O		
+{los D} {orbes N} {creó V} {con P} {poderoso G} {aliento N} {. O} {" O}	O		
+{Laplace R} {: O} {" O} {Mentira V} {! O} {Que C} {este D} {gran G} {portento N} {, O}	O		
+{del P} {condensado N} {cosmos N} {nacería V} {. O} {" O}	O		
+{Josué R} {: O} {Tan A} {sólo A} {a P} {la D} {palabra N} {mía Q} {, O}	O		
+{detuvo V} {el D} {sol N} {su D} {paso N} {turbulento G} {. O} {" O}	O		
+{Galileo R} {: O} {" O} {No A} {tiene V} {movimiento N} {. O} {" O}	O		
+{Yo Q} {: O} {" O} {Mentía V} {Moisés R} {! O} {Josué R} {mentía V} {. O} {" O}	O		
+{¿ O} {Qué Q} {confusión N} {es V} {esta D} {? O} {Lucha D} {eterna G}	B	enlace_subj_verb	ld01
+{se Q} {entabla V} {entre P} {el D} {pasado N} {y C} {el D} {presente G} {. O}	I	enlace_subj_verb	ld01
+{Humilde R} {aquél O} {, O} {ante P} {este D} {se Q} {prosterna V}	B	enlace_od_verb	ld02
+{Este D} {sucumbe N} {miserablemente A}	I	enlace_od_verb	ld02
+{¡ O} {Por P} {fin N} {el D} {dogma N} {expira V} {ante P} {la D} {ciencia N} {! O}	O		
+{¿ O} {Quién Q} {vencerá V} {? O} {Responda V} {la D} {conciencia N} {. O}	O		

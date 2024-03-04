@@ -1,0 +1,14 @@
+{Debe V t1} {ser V t2} {un D t3} {antiguo G t4} {monje N t5} {que Q t6} {en P t7} {el D t8} {moderno G t9}
+{siglo N t10} {del P t11} {aeroplano N t12} {y C t13} {la D t14} {electricidad N t15} {, O t16}
+{descifra V t17} {áureos N t18} {problemas N t19} {con P t20} {un D t21} {rigor N t22} {eterno G t23}
+{de P t24} {fina G t25} {contextura N t26} {y C t27} {voluptuosidad N t28} {. O t29}
+{Evoca R t30} {a P t31} {Claudia R t32} {Frollo R t33} {, O t34} {y C t35} {vive V t36} {en P t37} {sempiterno N t38}
+{sigilo G t39} {sobre P t40} {un D t41} {viejo G t42} {libro N t43} {de P t44} {cristiandad N t45} {, O t46}
+{y C t47} {copia N t48} {garabatos N t49} {al P t50} {margen N t51} {de P t52} {un D t53} {infierno N t54}
+{de P t55} {lascivia N t56} {, O t57} {que Q t58} {tiene V t59} {en P t60} {su D t61} {alforja N t62} {de P t63} {Abad R t64} {. O t65}
+{Juzgo R t66} {, O t67} {que Q t68} {en P t69} {el D t70} {lejano G t71} {tiempo N t72} {se Q t73} {oirá V t74} {este D t75} {irónico G t76}
+{cantor N t77} {, O t78} {que Q t79} {supo V t80} {huirle V t81} {al P t82} {clavicordio N t83} {afónico G t84}
+{de P t85} {las D t86} {majaderías N t87} {del P t88} {frívolo N t89} {Stambul R t90} {; O t91}
+{pasarán V t92} {sus D t93} {canciones N t94} {como C t95} {un D t96} {rumor N t97} {oceánico G t98}
+{ante P t99} {los D t100} {ojos N t101} {agrios G t102} {donde Q t103} {hubo V t104} {puesto G t105} {pánico N t106}
+{el D t107} {aletear N t108} {sonoro G t109} {de P t110} {su D t111} {bandera N t112} {azul G t113} {. O t114}

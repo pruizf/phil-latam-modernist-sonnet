@@ -1,0 +1,14 @@
+{¡ O t1} {Oh O t2} {Dios R t3} {! O t4} {Jamás A t5} {yo Q t6} {pienso V t7}
+{en P t8} {este D t9} {vivir V t10} {asesino G t11} {, O t12}
+{hecho N t13} {con P t14} {la D t15} {mujer N t16} {y C t17} {el D t18} {vino N t19}
+{y C t20} {con P t21} {este D t22} {Dios R t23} {tan A t24} {inmenso G t25} {. O t26}
+{Este D t27} {camino N t28} {tan A t29} {extenso G t30} {, O t31}
+{que C t32} {ni C t33} {siquiera A t34} {lo Q t35} {adivino V t36} {; O t37}
+{esta D t38} {viña N t39} {aquí A t40} {, O t41} {y C t42} {este D t43} {pino N t44}
+{en P t45} {la D t46} {montaña N t47} {que Q t48} {yo Q t49} {pienso V t50} {: O t51}
+{y C t52} {esta D t53} {montaña N t54} {de P t55} {cristal N t56} {, O t57}
+{y C t58} {esa D t59} {reina N t60} {del P t61} {corazón N t62} {, O t63}
+{y C t64} {esa D t65} {princesa N t66} {del P t67} {coral G t68} {, O t69}
+{y C t70} {esa D t71} {novia N t72} {de P t73} {la D t74} {ilusión N t75} {, O t76}
+{si C t77} {son V t78} {del P t79} {bien N t80} {o C t81} {son V t82} {del P t83} {mal G t84} {... O t85}
+{Y C t86} {después A t87} {de P t88} {todo D t89} {... O t90} {, O t91} {¡ O t92} {si C t93} {son V t94} {! O t95} {... O t96}

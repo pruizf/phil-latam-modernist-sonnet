@@ -1,0 +1,14 @@
+{Al P} {entreabrir V} {los D} {ojos N} {, O} {flotando V} {ve V} {la D} {aurora N}	B	enlace_subj_verb	ld01
+{la D} {mágica G} {chinarnpa N} {del P} {lago N} {en P} {el D} {cristal N} {. O}	I	enlace_subj_verb	ld01
+{Rosas R} {, O} {mosquetas N} {, O} {dalias N} {... O} {, O} {¿ O} {es V} {el D} {bajel N} {de P} {Flora R} {? O}	O		
+{Emerge V} {de P} {las D} {ondas N} {olor N} {primaveral G} {. O}	O		
+{En P} {la D} {chinarnpa N} {una D} {india N} {gallarda G} {, O} {encantadora N} {, O}	O		
+{suspira N} {. O} {Hay V} {un D} {guerrero N} {magnífico G} {y C} {triunfal G}	O		
+{que C} {la D} {idolatra N} {ciego G} {de P} {amor N} {. O} {Ella Q} {le Q} {adora V} {. O}	O		
+{¡ O} {Un D} {beso N} {! O} {La D} {luz N} {bafia V} {la D} {tierra N} {tropical G} {. O}	O		
+{¿ O} {Qué Q} {alumbra V} {esa D} {apoteosis N} {? O} {La D} {amada N} {y C} {el D} {amado G} {. O}	O		
+{Ella Q} {ardorosa G} {y C} {tímida G} {, O} {y C} {él Q} {trémulo N} {a P} {su D} {lado N} {. O}	O		
+{Brazos N} {morenos G} {, O} {túnica G} {blanca G} {. O} {Y C} {el D} {vencedor N}	B	sirrem_noun_prep	pd02
+{con P} {un D} {corazón N} {de P} {oro N} {, O} {su D} {gran G} {manto N} {de P} {pluma N} {, O}	I	sirrem_noun_prep	pd02
+{el D} {casco N} {en P} {la D} {cabeza N} {- O} {las D} {fauces N} {de P} {una D} {puma- N} {; O}	O		
+{y C} {encima A} {tiembla V} {un D} {grueso G} {penacho N} {de P} {color N} {. O}	O		

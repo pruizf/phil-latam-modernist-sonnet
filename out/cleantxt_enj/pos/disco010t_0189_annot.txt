@@ -1,0 +1,14 @@
+{Viste V t1} {de P t2} {seda N t3} {: O t4} {alhajes N t5} {de P t6} {gran G t7} {tono N t8} {; O t9}
+{pechera G t10} {en P t11} {que C t12} {el D t13} {encaje N t14} {hace V t15} {una D t16} {ola N t17} {, O t18}
+{y C t19} {bajo P t20} {el D t21} {cinto N t22} {, O t23} {un D t24} {mango N t25} {de P t26} {pistola N t27} {, O t28}
+{que Q t29} {él Q t30} {aprieta V t31} {entre P t32} {el D t33} {puño N t34} {de P t35} {su D t36} {encono N t37} {. O t38}
+{Piramidal P t39} {sombrero N t40} {, O t41} {esbelto G t42} {cono N t43} {, O t44}
+{es V t45} {distintivo N t46} {en P t47} {su D t48} {figura N t49} {sola G t50} {, O t51}
+{que Q t52} {en P t53} {el D t54} {bridón N t55} {de P t56} {enjaezada G t57} {cola N t58}
+{no A t59} {cambiaría V t60} {su D t61} {silla N t62} {por P t63} {un D t64} {trono N t65}
+{Siéntase R t66} {a P t67} {firme G t68} {; O t69} {el D t70} {látigo N t71} {chasquea V t72} {; O t73}
+{restriega N t74} {el D t75} {bruto G t76} {su D t77} {chispeante G t78} {callo N t79} {, O t80}
+{y C t81} {vigorosamente A t82} {se Q t83} {pasea V t84} {. O t85}
+{Dudase V t86} {al P t87} {ver V t88} {la D t89} {olímpica G t90} {figura N t91}
+{si C t92} {es V t93} {el D t94} {triunfo N t95} {de P t96} {un D t97} {hombre N t98} {en P t99} {su D t100} {caballo N t101}
+{o C t102} {si C t103} {es V t104} {la D t105} {animación N t106} {de P t107} {una D t108} {escultura N t109}

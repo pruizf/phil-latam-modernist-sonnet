@@ -1,0 +1,14 @@
+{Pasan V} {por P} {mis D} {estrofas N} {los D} {virreyes N} {egregios G}	O		
+{y C} {las D} {líricas G} {damas N} {de P} {otros D} {tiempo N} {de P} {amor N} {; O}	O		
+{pero C} {, O} {en P} {verdad N} {, O} {si C} {entonces A} {canto N} {los D} {florilegios N}	O		
+{y C} {las D} {fiestas N} {galanas G} {, O} {canto N} {un D} {canto N} {mayor G} {, O}	O		
+{cuando C} {me Q} {dan V} {las D} {selvas N} {vírgenes G} {sus D} {arpegios N}	O		
+{y C} {su D} {orgullo N} {los Q} {incas N} {y C} {Pizarro R} {su D} {ardor N} {, O}	O		
+{y C} {así A} {soy V} {, O} {en P} {las D} {pompas N} {de P} {mis D} {cánticos N} {regios G} {, O}	O		
+{algo Q} {precolombino G} {y C} {algo Q} {conquistador G}	O		
+{Soy V} {épico G} {dos D} {veces N} {, O} {y C} {estoy V} {enamorado G}	B	sirrem_adj_prep	pp07
+{del P} {Sol R} {que Q} {hay V} {en P} {mi D} {fina G} {coraza N} {de P} {soldado N}	I	sirrem_adj_prep	pp07
+{y C} {del P} {león N} {rampante G} {que Q} {ilustra V} {mi D} {broquel N} {: O}	O		
+{tal Q} {el D} {verso N} {en P} {que Q} {canto N} {del P} {virrey N} {la D} {fortuna N}	O		
+{es V} {un D} {Sol R} {que Q} {en P} {las D} {tardes N} {le Q} {da V} {un D} {beso N} {a P} {la D} {Luna R}	O		
+{o C} {un D} {león N} {que Q} {en P} {los D} {labios N} {tiene V} {un D} {poco Q} {de P} {miel N}	O		

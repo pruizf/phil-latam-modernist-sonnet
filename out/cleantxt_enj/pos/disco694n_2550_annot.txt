@@ -1,0 +1,14 @@
+{Pues C t1} {la D t2} {anciana N t3} {me Q t4} {dijo V t5} {: O t6} {mira V t7} {esta D t8} {rosa N t9} {seca G t10}
+{que Q t11} {encantó V t12} {el D t13} {aparato N t14} {de P t15} {su D t16} {estación N t17} {un D t18} {día N t19} {: O t20}
+{el D t21} {tiempo N t22} {que Q t23} {los D t24} {muros N t25} {altísimos G t26} {derrueca G t27}
+{no A t28} {privará V t29} {este D t30} {libro N t31} {de P t32} {su D t33} {sabiduría N t34} {. O t35}
+{En P t36} {esos D t37} {secos N t38} {pétalos G t39} {hay V t40} {más A t41} {filosofía N t42}
+{que C t43} {la D t44} {que Q t45} {darte V t46} {pueda V t47} {tu D t48} {sabia G t49} {biblioteca N t50} {; O t51}
+{ella Q t52} {en P t53} {mis D t54} {labios N t55} {pone V t56} {la D t57} {mágica G t58} {armonía N t59}
+{con P t60} {que Q t61} {en P t62} {mi D t63} {torno N t64} {encarno V t65} {los D t66} {sueños N t67} {de P t68} {mi D t69} {rueca N t70} {. O t71}
+{" O t72} {Sois N t73} {un D t74} {hada G t75} {' O t76} {' O t77} {, O t78} {le Q t79} {dije V t80} {; O t81} {" O t82} {Soy V t83} {un D t84} {hada N t85} {, O t86} {me Q t87} {dijo V t88} {; O t89}
+{y C t90} {de P t91} {la D t92} {primavera N t93} {celebro V t94} {el D t95} {regocijo N t96}
+{dándoles V t97} {vida N t98} {y C t99} {vuelo N t100} {a P t101} {estas D t102} {hojas N t103} {de P t104} {rosa N t105} {. O t106} {" O t107}
+{Y C t108} {transfórmose V t109} {en P t110} {una D t111} {princesa N t112} {perfumada G t113} {, O t114}
+{y C t115} {en P t116} {el D t117} {aire N t118} {sutil G t119} {, O t120} {de P t121} {los D t122} {dedos N t123} {del P t124} {hada G t125}
+{voló V t126} {la D t127} {rosa N t128} {seca G t129} {como C t130} {una D t131} {mariposa G t132} {. O t133}

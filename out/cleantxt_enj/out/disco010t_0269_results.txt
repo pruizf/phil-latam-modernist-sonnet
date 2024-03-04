@@ -1,0 +1,14 @@
+{El D} {pilluelo N} {del P} {campo N} {es V} {el D} {pilluelo N}	B	sirrem_adj_noun	pp03
+{más A} {lleno G} {de P} {destreza N} {y C} {de P} {osadía N} {, O}	I	sirrem_adj_noun	pp03
+{que Q} {se Q} {despierta V} {cuando C} {el D} {nuevo G} {día N}	B	enlace_subj_verb	ld01
+{le Q} {despierta V} {también A} {allá A} {, O} {en P} {el D} {cielo N} {. O}	I	enlace_subj_verb	ld01
+{Métese R} {en P} {el D} {corral N} {. O} {Arroja V} {al P} {suelo N}	B	enlace_od_verb	ld02
+{el D} {árbol N} {más A} {amado G} {en P} {la D} {alquería N} {; O}	I	enlace_od_verb	ld02
+{y C} {escala N} {el D} {muro N} {, O} {y C} {rueda V} {por P} {la D} {vía N} {, O}	O		
+{y C} {cruza V} {el D} {monte N} {sobre P} {un D} {asno N} {en P} {pelo N} {. O}	O		
+{Sacudiendo V} {el D} {mechón N} {en P} {su D} {escondrijo N}	B	enlace_subj_verb	ld01
+{trépase V} {al P} {pino N} {o C} {se Q} {hunde V} {entre P} {las D} {yedras N}	I	enlace_subj_verb	ld01
+{con P} {su D} {rojo G} {pañuelo N} {al P} {cuello N} {fijo G} {. O}	O		
+{Y C} {allá A} {en P} {la D} {calina N} {de P} {sus D} {ocios D} {vagos N}	O		
+{busca V} {piedras N} {, O} {y C} {rompe V} {con P} {las D} {piedras N}	O		
+{¡ O} {todos D} {los D} {vidrios N} {de P} {los D} {tersos N} {lagos G} {! O} {... O}	O		

@@ -1,0 +1,14 @@
+{Los D t1} {que Q t2} {vieron V t3} {la D t4} {patria N t5} {bandera N t6}
+{empapada G t7} {en P t8} {la D t9} {sangre N t10} {de P t11} {Junio O t12} {; O t13}
+{los D t14} {que Q t15} {oyeron V t16} {vibrar V t17} {los D t18} {clarines N t19}
+{en P t20} {la D t21} {diana N t22} {del P t23} {lívido G t24} {triunfo N t25} {; O t26}
+{los D t27} {que Q t28} {al P t29} {vivo G t30} {relámpago N t31} {trágico G t32}
+{que Q t33} {recorre V t34} {la D t35} {historia N t36} {del P t37} {mundo N t38} {, O t39}
+{vieron V t40} {lleno G t41} {de P t42} {horror N t43} {a P t44} {Espartaco R t45}
+{y C t46} {del P t47} {duelo N t48} {al P t49} {espectro N t50} {de P t51} {Bruto R t52} {; O t53}
+{los D t54} {que Q t55} {miran V t56} {tu D t57} {límpido G t58} {nombre N t59}
+{como C t60} {enseña N t61} {de P t62} {honor N t63} {y C t64} {de P t65} {orgullo N t66} {, O t67}
+{hoy A t68} {presentan V t69} {las D t70} {armas N t71} {al P t72} {paso N t73}
+{del P t74} {arcángel N t75} {vestido G t76} {de P t77} {luto N t78}
+{que Q t79} {es V t80} {guardián N t81} {del P t82} {laurel N t83} {de P t84} {tu D t85} {gloria N t86}
+{en P t87} {la D t88} {tierra N t89} {en P t90} {que Q t91} {está V t92} {tu D t93} {sepulcro N t94} {. O t95}

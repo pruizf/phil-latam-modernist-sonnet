@@ -1,0 +1,14 @@
+{Suspirando V t1} {en P t2} {las D t3} {cuerdas N t4} {de P t5} {mi D t6} {lira N t7} {, O t8}
+{la D t9} {inspiración N t10} {a P t11} {torturarme V t12} {empieza V t13} {; O t14}
+{y C t15} {el D t16} {suspiro N t17} {-- O t18} {hecho V t19} {mundo N t20} {-- O t21} {en P t22} {mi D t23} {cabeza N t24}
+{por P t25} {los D t26} {abismos N t27} {de P t28} {la D t29} {mente N t30} {gira N t31} {. O t32}
+{¿ O t33} {Quién Q t34} {cuando C t35} {a P t36} {Venus R t37} {en P t38} {las D t39} {aguas N t40} {mira V t41} {, O t42}
+{no A t43} {suspira V t44} {al P t45} {mirar V t46} {tal D t47} {gentileza N t48} {? O t49}
+{Muda R t50} {es V t51} {la D t52} {admiración N t53} {a P t54} {la D t55} {belleza N t56} {; O t57}
+{y C t58} {el D t59} {verdadero G t60} {amor N t61} {-- O t62} {no A t63} {habla V t64} {-- O t65} {¡ O t66} {suspira O t67} {! O t68}
+{Con P t69} {vago N t70} {ideal G t71} {, O t72} {con P t73} {místicos N t74} {temblores G t75}
+{y C t76} {con P t77} {arrullos N t78} {de P t79} {apagado G t80} {acento N t81} {, O t82}
+{el D t83} {suspiro N t84} {disipa V t85} {los D t86} {dolores N t87} {; O t88}
+{y C t89} {es V t90} {, O t91} {dando V t92} {fuerzas N t93} {e C t94} {infundiendo V t95} {calma N t96} {, O t97}
+{jirón N t98} {del P t99} {alma N t100} {... O t101} {convertido G t102} {en P t103} {viento N t104} {, O t105}
+{jirón N t106} {del P t107} {viento N t108} {... O t109} {convertido G t110} {en P t111} {alma N t112} {. O t113}

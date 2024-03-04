@@ -1,0 +1,20 @@
+{Esta D} {casa N} {de P} {gracia N} {y C} {de P} {gloria N} {me Q} {augura V} {, O}	O		
+{en P} {tan A} {dulces D} {momentos N} {, O} {que Q} {son V} {de P} {Epifanía R} {, O}	O		
+{como C} {el D} {amanecer N} {de P} {un D} {encantado G} {día N}	B	oracional	cp01
+{que Q} {iniciase V} {las D} {horas N} {de P} {una D} {dicha N} {futura G} {. O}	I	oracional	cp01
+{Aquí A} {un D} {verbo N} {ha V} {brotado V} {que C} {anima V} {y C} {que Q} {perdura V} {, O}	O		
+{aquí A} {se Q} {ha V} {consagrado V} {a P} {la D} {eterna G} {Armonía R}	O		
+{por P} {las D} {rosas N} {de P} {idea N} {que Q} {han V} {dado V} {al P} {alma N} {mía Q} {, O}	O		
+{en P} {sus D} {pétalos N} {frescos G} {, O} {la D} {fragancia N} {más A} {pura G} {. O}	O		
+{Suaves V} {reminiscencias N} {de P} {los D} {primeros G} {años N}	B	enlace_subj_verb	ld01
+{me Q} {brindaron V} {consuelos N} {en P} {países N} {extraños G} {, O}	I	enlace_subj_verb	ld01
+{y C} {hoy A} {se Q} {, O} {por P} {el D} {Destino R} {prodigioso G} {y C} {fatal G} {, O}	O		
+{que C} {si C} {es V} {amarga G} {y C} {dulce G} {la D} {sal N} {de P} {que C} {habla V} {el D} {Dante R} {, O}	O		
+{no A} {hay V} {miel N} {tan A} {deleitosa G} {, O} {tan A} {firme G} {y C} {tan A} {fragante G}	O		
+{como C} {la D} {miel N} {divina G} {de P} {la D} {tierra N} {natal G} {. O}	O		
+{Y C} {para P} {Casimira R}	O		
+{el D} {oro N} {de P} {la D} {lira. N}	O		
+{y C} {las D} {flores N} {de P} {lis N}			
+{que Q} {junten V} {la D} {fragancia N}	IB	oracional;sirrem_noun_prep	cp01;pp06.1
+{de P} {Nicaragua R} {y C} {Francia R}	I	sirrem_noun_prep	pp06.1
+{por P} {su D} {adorado G} {Luis R} {. O}	O		

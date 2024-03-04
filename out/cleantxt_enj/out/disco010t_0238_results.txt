@@ -1,0 +1,14 @@
+{Indolente A} {y C} {gentil G} {como C} {Afrodita R}	O		
+{ensayas G} {las D} {más A} {lánguidas G} {posturas N} {; O}	O		
+{y C} {en P} {tu D} {diván N} {, O} {mirando V} {las D} {alturas N} {, O}	O		
+{eres V} {el D} {abandono N} {que Q} {medita V} {. O}	O		
+{Saltas R} {, O} {al P} {eco N} {de P} {tu D} {amor N} {que Q} {grita V} {; O}	O		
+{vibras N} {, O} {al P} {diapasón N} {de P} {tus D} {locuras N} {, O}	O		
+{que Q} {, O} {en P} {tus D} {formas N} {de P} {lira N} {, O} {hay V} {curvaturas N}	B	sirrem_noun_prep	pp06.1
+{de P} {la D} {sensualidad N} {más A} {exquisita G} {. O}	I	sirrem_noun_prep	pp06.1
+{El D} {voluble G} {abanico N} {, O} {que Q} {en P} {tu D} {mano N}	B	enlace_subj_verb	ld01
+{cándidamente A} {y C} {a P} {compás N} {se Q} {mece V} {, O}	I	enlace_subj_verb	ld01
+{te Q} {da V} {un D} {tinte N} {de P} {amor N} {extramundano G} {; O}	O		
+{y C} {, O} {bajo P} {de P} {la D} {túnica N} {, O} {el D} {pequeño G}	B	sirrem_adj_noun	pp02
+{pie N} {en P} {que Q} {termina V} {tu D} {beldad N} {parece V}	IB	sirrem_adj_noun;enlace_subj_verb	pp02;ld01
+{ser V} {el D} {punto N} {final G} {de P} {todo D} {un D} {sueño N} {... O}	I	enlace_subj_verb	ld01

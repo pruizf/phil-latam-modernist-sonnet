@@ -1,0 +1,14 @@
+{No A} {beberé V} {en P} {las D} {linfas N} {de P} {la D} {castalia N} {fuente N} {, O}	O		
+{ni C} {cruzaré V} {los D} {bosques N} {floridos G} {del P} {Parnaso R}	O		
+{ni C} {tras P} {las D} {nueve D} {hermanas N} {dirigiré V} {mi D} {paso N} {: O}	O		
+{pero C} {, O} {al P} {cantar V} {mis D} {himnos N} {, O} {levantaré V} {la D} {frente N} {. O}	O		
+{Mi D} {culto N} {no A} {es V} {el D} {culto N} {de P} {la D} {pasada G} {gente N} {, O}	O		
+{ni C} {me Q} {es V} {bastante A} {el D} {vuelo N} {solemne G} {del P} {Pegaso R} {: O}	O		
+{los D} {trópicos N} {avivan V} {la D} {flama N} {en P} {que Q} {me Q} {abraso V} {; O}	O		
+{y C} {en P} {mis D} {oídos N} {suenan V} {la D} {voz N} {de P} {un D} {Continente R} {. O}	O		
+{Yo Q} {beberé V} {en P} {las D} {aguas N} {de P} {caudalosos G} {ríos N} {; O}	O		
+{yo Q} {cruzare V} {otros D} {bosques N} {lozanos G} {y C} {bravíos G} {; O}	O		
+{yo Q} {buscaré V} {a P} {otra D} {Musa R} {que Q} {asombre V} {al P} {Universo R} {. O}	O		
+{Yo Q} {de P} {una D} {rima N} {fácil G} {haré V} {mi D} {carabela N} {; O}	O		
+{me Q} {sentaré V} {en P} {la D} {popa N} {; O} {desataré V} {la D} {vela N} {; O}	O		
+{y C} {zarparé V} {a P} {las D} {Indias R} {, O} {como C} {un D} {Colón R} {del P} {verso N} {. O}	O		

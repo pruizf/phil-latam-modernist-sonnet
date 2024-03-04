@@ -1,0 +1,14 @@
+{Manuel R} {: O} {el D} {resplandor N} {de P} {tu D} {palabra N}	B	enlace_subj_verb	ld01
+{ha V} {iluminado V} {la D} {montaña N} {obscura G} {, O}	I	enlace_subj_verb	ld01
+{en P} {donde Q} {, O} {hace V} {ya A} {tiempo N} {, O} {mi D} {figura N}	B	sirrem_adj_noun	pp02
+{vaga G} {entre P} {el D} {cielo N} {, O} {el D} {sátiro N} {y C} {la D} {cabra N} {. O}	I	sirrem_adj_noun	pp02
+{Sea V} {arado V} {de P} {oro N} {aquel D} {que Q} {abra V}	B	enlace_subj_verb	ld01
+{el D} {surco N} {en P} {la D} {divina G} {agricultura N} {, O}	I	enlace_subj_verb	ld01
+{y C} {que C} {pueda V} {extraer V} {de P} {tierra N} {impura G}	B	enlace_od_verb	ld02
+{el D} {mármol N} {blanco G} {que Q} {el D} {artista N} {labra V} {. O}	I	enlace_od_verb	ld02
+{Y C} {puesto V} {que C} {eres V} {lengua N} {de P} {mi D} {tierra N} {, O}	O		
+{la D} {cual Q} {se Q} {agita V} {con P} {rumor N} {de P} {palma N} {, O}	O		
+{y C} {es V} {tu D} {cráneo N} {depósito N} {que Q} {encierra V}	B	enlace_od_verb	ld02
+{ese D} {gran G} {fluido G} {propulsor N} {de P} {tu D} {alma N} {, O}	I	enlace_od_verb	ld02
+{sé V} {como C} {Castelar R} {, O} {cuyo Q} {rotundo G}	B	sirrem_adj_noun	pp02
+{verbo N} {aumentó V} {la D} {rotación N} {del P} {mundo N} {. O}	I	sirrem_adj_noun	pp02

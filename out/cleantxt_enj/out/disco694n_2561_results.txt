@@ -1,0 +1,14 @@
+{Que C} {el D} {champaña N} {de P} {oro N} {refleje V} {en P} {su D} {onda N}	B	enlace_od_verb	ld02
+{la D} {blanca G} {maravilla N} {que Q} {en P} {el D} {gran G} {Louvre R} {impera V} {, O}	I	enlace_od_verb	ld02
+{la D} {emperatriz N} {de P} {mármol N} {cuya Q} {mirada N} {ahonda A}	O		
+{el D} {armonioso G} {enigma N} {que Q} {es V} {ritmo N} {de P} {la D} {esfera N} {; O}	O		
+{el D} {bello G} {hermafrodita N} {de P} {cadera N} {redonda G} {, O}	O		
+{y C} {del P} {sublime N} {Sandro R} {la D} {núbil G} {Primavera N} {; O}	O		
+{y C} {sonriente A} {en P} {el D} {triunfo N} {de P} {su D} {gracia N} {hechicera G} {, O}	O		
+{la D} {perla N} {de P} {Leonardo R} {, O} {la D} {mágica G} {Gioconda R} {. O}	O		
+{Y C} {el D} {pórtico N} {del P} {templo N} {que Q} {habita V} {el D} {Numen R} {sacro G} {, O}	O		
+{el D} {altar N} {donde Q} {se Q} {alce V} {su D} {augusto G} {simulacro N} {, O}	O		
+{y C} {en P} {teoría N} {suave G} {, O} {canéforas N} {hermosas G} {. O}	O		
+{La D} {victoria N} {llenando V} {su D} {palma N} {de P} {oro N} {fino G} {, O}	O		
+{y C} {rompiendo V} {la D} {sombra N} {, O} {sobre P} {el D} {carro N} {divino G} {, O}	O		
+{Apolo R} {, O} {coronado N} {de P} {nubes N} {y C} {de P} {rosas N} {. O}	O		

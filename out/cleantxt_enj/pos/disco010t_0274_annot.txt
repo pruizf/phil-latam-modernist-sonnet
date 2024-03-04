@@ -1,0 +1,14 @@
+{En P t1} {la D t2} {playa N t3} {do G t4} {se Q t5} {rompen V t6} {los D t7} {oleajes N t8} {iracundos G t9} {, O t10}
+{en P t11} {la D t12} {tumba N t13} {do G t14} {se Q t15} {apaga V t16} {tanta D t17} {cólera N t18} {encendida G t19} {, O t20}
+{se Q t21} {columbra V t22} {el D t23} {horizonte N t24} {de P t25} {la D t26} {Tierra R t27} {Prometida R t28}
+{que Q t29} {se Q t30} {ensancha V t31} {ante P t32} {los D t33} {ojos N t34} {de P t35} {los D t36} {tristes G t37} {moribundos N t38} {. O t39}
+{Inflamándose V t40} {en P t41} {la D t42} {atmósfera N t43} {esos D t44} {gérmenes N t45} {fecundos G t46} {, O t47}
+{que Q t48} {celebran V t49} {el D t50} {consorcio N t51} {de P t52} {la D t53} {muerte N t54} {con P t55} {la D t56} {vida N t57} {, O t58}
+{hacen V t59} {sólo A t60} {al P t61} {Universo N t62} {breve G t63} {punto N t64} {de P t65} {partida N t66}
+{para P t67} {el D t68} {viaje N t69} {del P t70} {espíritu N t71} {a P t72} {través N t73} {de P t74} {eternos G t75} {mundos N t76} {... O t77}
+{Frío V t78} {el D t79} {mármol N t80} {vanidoso G t81} {, O t82} {tibio G t83} {el D t84} {seno N t85} {de P t86} {los D t87} {campos N t88} {, O t89}
+{preferible G t90} {es V t91} {dormir V t92} {siempre A t93} {dentro A t94} {el D t95} {hoyo N t96} {de P t97} {un D t98} {sendero N t99} {, O t100}
+{bajo P t101} {un D t102} {árbol N t103} {que Q t104} {acaricien V t105} {los D t106} {rocíos N t107} {y C t108} {los D t109} {lampos N t110} {. O t111}
+{¡ O t112} {La D t113} {Natura R t114} {en P t115} {sus D t116} {campiñas G t117} {brinda V t118} {a P t119} {su D t120} {hijo N t121} {abiertas G t122} {fosas N t123} {; O t124}
+{y C t125} {por P t126} {eso Q t127} {en P t128} {las D t129} {entrañas N t130} {de P t131} {la D t132} {Madre R t133} {dormir V t134} {quiero V t135} {, O t136}
+{la D t137} {mteria N t138} {hecha G t139} {gusanos G t140} {y C t141} {el D t142} {alma N t143} {hecha G t144} {mariposas G t145} {! O t146} {... O t147}

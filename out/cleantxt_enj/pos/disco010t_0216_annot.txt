@@ -1,0 +1,14 @@
+{Parto V t1} {yo Q t2} {este D t3} {soneto N t4} {para P t5} {decir V t6} {la D t7} {pena N t8}
+{que C t9} {me Q t10} {trae V t11} {tu D t12} {muerte N t13} {de P t14} {cacique N t15} {sonoro G t16} {, O t17}
+{cuya Q t18} {maza N t19} {de P t20} {roble V t21} {, O t22} {cuya Q t23} {flecha N t24} {de P t25} {oro N t26}
+{una D t27} {voz N t28} {despertaron V t29} {que C t30} {en P t31} {mi D t32} {lira N t33} {resuena G t34}
+{Parto R t35} {yo Q t36} {este D t37} {soneto N t38} {como C t39} {ante P t40} {sacra N t41} {pira G t42}
+{una D t43} {nerviosa G t44} {rama N t45} {, O t46} {que Q t47} {, O t48} {en P t49} {la D t50} {doliente G t51} {escena N t52} {, O t53}
+{se Q t54} {arquea V t55} {hasta P t56} {que C t57} {cruje V t58} {rompiéndose V t59} {de P t60} {ira N t61}
+{Y C t62} {así A t63} {es V t64} {como C t65} {el D t66} {soneto N t67} {por P t68} {el D t69} {dolor N t70} {partido N t71}
+{hace V t72} {pensar V t73} {que C t74} {, O t75} {en P t76} {este D t77} {momento N t78} {que Q t79} {me Q t80} {inspira V t81}
+{pongo V t82} {bajo P t83} {la D t84} {tuya N t85} {mi D t86} {septicorde N t87} {lira G t88} {, O t89}
+{para P t90} {que C t91} {los D t92} {dos D t93} {tengan V t94} {un D t95} {único G t96} {sonido N t97}
+{Nuestras D t98} {dos D t99} {liras O t100} {juntan V t101} {sus D t102} {cánticos N t103} {diversos G t104}
+{y C t105} {hacen V t106} {que C t107} {, O t108} {al P t109} {confundirse V t110} {, O t111} {pasen V t112} {como C t113} {un D t114} {rugido G t115}
+{por P t116} {las D t117} {catorce D t118} {cuerdas N t119} {de P t120} {estos D t121} {catorce D t122} {versos N t123}

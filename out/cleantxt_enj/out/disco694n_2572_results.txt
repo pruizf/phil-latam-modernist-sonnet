@@ -1,0 +1,14 @@
+{Cuando C} {iba V} {yo Q} {a P} {montar V} {ese D} {caballo N} {rudo G}	O		
+{y C} {tembloroso G} {, O} {dije V} {: O} {" O} {La D} {vida N} {es V} {pura G} {y C} {bella G} {' O} {' O} {, O}	O		
+{entre P} {sus D} {cejas N} {vivas G} {vi V} {brillar V} {una D} {estrella N} {. O}	O		
+{El D} {cielo N} {estaba V} {azul N} {y C} {yo Q} {estaba V} {desnudo G} {. O}	O		
+{Sobre P} {mi D} {frente N} {Apolo R} {hizo V} {brillar V} {su D} {escudo N}	O		
+{y C} {de P} {Belerofonte R} {logré V} {seguir V} {la D} {huella N} {. O}	O		
+{Toda D} {cima N} {es V} {ilustre G} {si C} {Pegaso R} {la D} {sella N} {, O}	O		
+{y C} {yo Q} {, O} {fuerte G} {, O} {he V} {subido V} {donde Q} {Pegaso R} {pudo V} {. O}	O		
+{Yo Q} {soy V} {el D} {caballero N} {de P} {la D} {humana G} {energía N} {, O}	O		
+{yo Q} {soy V} {el D} {que Q} {presenta V} {su D} {cabeza N} {triunfante G}	O		
+{coronada G} {con P} {el D} {laurel N} {del P} {Rey R} {del P} {día N} {; O}	O		
+{domador N} {del P} {corcel N} {de P} {cascos N} {de P} {diamante N} {, O}	O		
+{voy V} {en P} {un D} {gran G} {volar V} {, O} {con P} {la D} {aurora N} {por P} {guía N} {, O}	O		
+{adelante A} {en P} {el D} {vasto G} {azur N} {, O} {siempre A} {adelante A} {! O}	O		

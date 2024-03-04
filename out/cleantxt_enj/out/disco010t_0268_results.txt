@@ -1,0 +1,14 @@
+{No A} {es V} {el D} {corcel N} {, O} {que Q} {en P} {el D} {feral G} {combate N}	B	enlace_subj_verb	ld01
+{salpicándose V} {va V} {de P} {espuma N} {blanca G} {; O}	I	enlace_subj_verb	ld01
+{y C} {que C} {en P} {salto N} {veloz G} {se Q} {desbarranca V}	B	enlace_od_verb	ld02
+{al P} {empuje N} {viril G} {del P} {acicate N} {. O}	I	enlace_od_verb	ld02
+{Es V} {el D} {que Q} {trabajando V} {no A} {se Q} {abate V} {; O}	O		
+{que C} {a P} {la D} {fecunda G} {Ceres R} {lleva V} {al P} {anca N} {, O}	O		
+{y C} {que Q} {entre P} {el D} {polvo N} {que Q} {trotando V} {arranca A} {, O}	O		
+{remueve V} {el D} {grano N} {que Q} {en P} {el D} {surco N} {late G} {. O}	O		
+{Él Q} {no A} {ha V} {sentido V} {por P} {los D} {rojos N} {lampos G}	B	enlace_od_verb	ld02
+{impresionada G} {la D} {febril G} {pupila N} {; O}	I	enlace_od_verb	ld02
+{él Q} {vela N} {por P} {la D} {vida N} {de P} {los D} {campos N} {. O}	O		
+{Y C} {como C} {lejos A} {de P} {la D} {lucha N} {acerba V}	O		
+{es V} {enemigo G} {del P} {corcel N} {de P} {Atila R} {, O}	O		
+{donde Q} {pone V} {los D} {pies N} {... O} {¡ O} {brota V} {la D} {hierba N} {! O}	O		

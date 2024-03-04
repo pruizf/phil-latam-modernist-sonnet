@@ -1,0 +1,14 @@
+{Góngora N t1} {, O t2} {con P t3} {las D t4} {ondas N t5} {de P t6} {su D t7} {ingenio N t8} {, O t9}
+{antes A t10} {tranquilo G t11} {manantial N t12} {de P t13} {amores N t14} {, O t15}
+{derramó V t16} {de P t17} {su D t18} {mente N t19} {los D t20} {fulgores N t21}
+{de P t22} {la D t23} {española G t24} {musa N t25} {en P t26} {el D t27} {proscenio N t28} {. O t29}
+{Mas R t30} {, O t31} {¡ O t32} {ay O t33} {! O t34} {, O t35} {la D t36} {ruda G t37} {tempestad N t38} {del P t39} {genio N t40}
+{con P t41} {sus D t42} {horrendos N t43} {rayos N t44} {vibradores G t45} {, O t46}
+{de P t47} {su D t48} {alma N t49} {en P t50} {el D t51} {vergel N t52} {, O t53} {trochó V t54} {las D t55} {flores N t56}
+{que Q t57} {aromaron V t58} {su D t59} {dulce G t60} {prigenio N t61} {. O t62}
+{No A t63} {de P t64} {otro D t65} {modo N t66} {a P t67} {la D t68} {risueña N t69} {Hecate R t70} {, O t71}
+{cada D t72} {en P t73} {los D t74} {aires N t75} {nubarrón G t76} {sombrío N t77}
+{cuando C t78} {Aquilón R t79} {sañoso G t80} {al P t81} {roble V t82} {abate N t83} {, O t84}
+{la D t85} {dulce G t86} {faz N t87} {enturbia G t88} {. O t89} {El D t90} {murmurío N t91}
+{del P t92} {de P t93} {su D t94} {numen N t95} {manantial N t96} {rïente G t97} {, O t98}
+{trócose V t99} {en P t100} {el D t101} {rugido N t102} {del P t103} {torrente N t104} {. O t105}

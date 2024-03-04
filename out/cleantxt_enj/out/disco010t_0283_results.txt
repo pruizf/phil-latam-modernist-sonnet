@@ -1,0 +1,14 @@
+{Tu D} {alma N} {no A} {está V} {, O} {como C} {tu D} {cuerpo N} {, O} {inerte G} {. O}	O		
+{Cuando C} {te Q} {veo V} {muda G} {y C} {pensativa G} {, O}	O		
+{con P} {la D} {dureza N} {de P} {una D} {estatua N} {viva G} {, O}	O		
+{me Q} {pareces N} {el D} {Ángel N} {de P} {la D} {Muerte R} {... O}	O		
+{Eres V} {, O} {fingiendo V} {, O} {por P} {contraria G} {suerte N} {, O}	O		
+{dócil G} {, O} {flexible G} {y C} {a P} {la D} {vez N} {esquiva G} {: O}	O		
+{si C} {dócil G} {como C} {el D} {junco N} {eres V} {altiva G} {, O}	O		
+{flexible G} {como C} {el D} {látigo N} {eres V} {fuerte G} {. O}	O		
+{Sé V} {que C} {me Q} {amas N} {y C} {finges N} {que Q} {no A} {me Q} {amas N} {. O}	O		
+{¿ O} {Cuál Q} {pensamiento N} {entre P} {tu D} {mente N} {gira N}	B	oracional	cp01
+{que Q} {bajo N} {de P} {la D} {nieve N} {oculta G} {llamas N} {? O}	I	oracional	cp01
+{Lo Q} {sé V} {: O} {finges V} {desdén N} {, O} {me Q} {muestras N} {duda V} {, O}	O		
+{mientes N} {, O} {sí A} {; O} {porque C} {a P} {veces N} {la D} {mentira N}	B	enlace_subj_verb	ld01
+{es V} {el D} {rubor N} {de P} {la D} {Verdad R} {desnuda G} {! O} {... O}	I	enlace_subj_verb	ld01

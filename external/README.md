@@ -1,0 +1,1 @@
+Copy Jumper (`jumper.py`) here from its GitHub repo: https://github.com/grmarco/jumper/blob/master/jumper.py here, so that it can be imported by the [`jumper_scansion`](../jumper_scansion.py) module, which tags with Jumper.

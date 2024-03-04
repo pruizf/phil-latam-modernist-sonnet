@@ -1,0 +1,14 @@
+{Tú Q t1} {sabes V t2} {que C t3} {tu D t4} {afán N t5} {es V t6} {prematuro G t7} {; O t8}
+{tú Q t9} {sabes V t10} {que C t11} {no A t12} {es V t13} {tiempo N t14} {todavía A t15}
+{de P t16} {que C t17} {derrame N t18} {el D t19} {suspirado G t20} {día N t21}
+{luz N t22} {de P t23} {justicia N t24} {sobre P t25} {el D t26} {antro N t27} {obscuro G t28} {. O t29}
+{Si C t30} {el D t31} {porvenir N t32} {es V t33} {sordo G t34} {a P t35} {tu D t36} {conjuro N t37} {, O t38}
+{si C t39} {es V t40} {inútil G t41} {tu D t42} {ardor N t43} {en P t44} {la D t45} {porfía N t46} {, O t47}
+{calla N t48} {y C t49} {contempla V t50} {con P t51} {mirada N t52} {fría G t53}
+{las D t54} {penumbras N t55} {inquietas G t56} {del P t57} {futuro N t58} {... O t59}
+{Canta V t60} {al P t61} {sol N t62} {, O t63} {cuando C t64} {el D t65} {sol N t66} {bese V t67} {la D t68} {cumbre N t69} {, O t70}
+{pero C t71} {hoy A t72} {, O t73} {sumido G t74} {en P t75} {ti Q t76} {, O t77} {sella G t78} {tu D t79} {boca N t80} {: O t81}
+{¡ O t82} {y C t83} {que C t84} {ruede V t85} {a P t86} {tus D t87} {pies N t88} {la D t89} {muchedumbre N t90} {! O t91}
+{¡ O t92} {Más A t93} {vale V t94} {ser V t95} {, O t96} {guardando V t97} {el D t98} {pensamiento N t99} {, O t100}
+{mudo G t101} {y C t102} {firme G t103} {a P t104} {la D t105} {vez N t106} {como C t107} {una D t108} {roca N t109} {, O t110}
+{que Q t111} {hablador G t112} {y C t113} {voluble G t114} {como C t115} {el D t116} {viento N t117} {! O t118}

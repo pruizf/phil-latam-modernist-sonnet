@@ -1,0 +1,14 @@
+{A P t1} {la D t2} {vista N t3} {del P t4} {blanco N t5} {lucero G t6} {matutino G t7}
+{a P t8} {tu D t9} {amistad N t10} {envío N t11} {mi D t12} {saludo N t13} {cordial G t14} {, O t15}
+{pues C t16} {tus D t17} {dedos N t18} {despiertan V t19} {el D t20} {alambre N t21} {divino G t22} {, O t23}
+{sobre P t24} {la D t25} {lira N t26} {, O t27} {sobre P t28} {el D t29} {tímpano N t30} {inmortal G t31} {. O t32}
+{Tu D t33} {Suiza R t34} {, O t35} {coronada G t36} {de P t37} {un D t38} {halo N t39} {diamantino G t40} {, O t41}
+{circundada G t42} {en P t43} {abismos N t44} {de P t45} {torres N t46} {de P t47} {cristal N t48} {, O t49}
+{alzará V t50} {un D t51} {día N t52} {, O t53} {para P t54} {tu D t55} {numen D t56} {peregrino N t57} {, O t58}
+{un D t59} {busto N t60} {blanco G t61} {y C t62} {fino G t63} {de P t64} {firme G t65} {pedestal N t66} {. O t67}
+{Compañero V t68} {que C t69} {traes V t70} {en P t71} {tu D t72} {lira N t73} {extranjera G t74}
+{caras N t75} {rosas N t76} {nativas G t77} {a P t78} {nuestra D t79} {primavera N t80} {, O t81}
+{y C t82} {que C t83} {tu D t84} {Ranz R t85} {nos Q t86} {cantas N t87} {en P t88} {el D t89} {modo N t90} {español G t91} {, O t92}
+{que Q t93} {la Q t94} {América R t95} {escuche V t96} {tu D t97} {noble G t98} {melodía N t99} {, O t100}
+{y C t101} {a P t102} {Suiza R t103} {, O t104} {Buenos R t105} {Aires R t106} {pueda V t107} {enviar V t108} {algún D t109} {día N t110}
+{tu D t111} {cabeza N t112} {lunática G t113} {coronada G t114} {de P t115} {sol N t116} {! O t117}

@@ -1,0 +1,14 @@
+{Como C t1} {el D t2} {que Q t3} {lucha V t4} {hasta P t5} {el D t6} {postrer N t7} {instante N t8}
+{y C t9} {no A t10} {como C t11} {el D t12} {que Q t13} {tiembla V t14} {y C t15} {se Q t16} {intimida V t17} {, O t18}
+{caí V t19} {, O t20} {pero C t21} {no A t22} {a P t23} {plomo N t24} {: O t25} {mi D t26} {caída N t27}
+{describió V t28} {una D t29} {parábola N t30} {gigante G t31} {... O t32}
+{Fui V t33} {el D t34} {más A t35} {amado G t36} {de P t37} {tu D t38} {pecho N t39} {amante N t40}
+{y C t41} {fue V t42} {el D t43} {alma N t44} {entre P t45} {todas D t46} {escogida G t47} {: O t48}
+{mas A t49} {quise V t50} {hacerte V t51} {vida N t52} {de P t53} {mi D t54} {vida N t55} {: O t56}
+{y C t57} {entonces A t58} {la D t59} {Beatriz R t60} {huyó V t61} {del P t62} {Dante R t63} {. O t64}
+{Volví V t65} {al P t66} {infierno N t67} {. O t68} {En P t69} {el D t70} {infierno N t71} {ahora A t72}
+{sueño N t73} {con P t74} {que Q t75} {tu D t76} {mano N t77} {protectora G t78}
+{me Q t79} {levante V t80} {a P t81} {las D t82} {cumbres N t83} {del P t84} {pasado G t85} {; O t86}
+{debe V t87} {de P t88} {ser V t89} {hermoso G t90} {y C t91} {elocuente G t92} {, O t93}
+{ver V t94} {entrar V t95} {a P t96} {los D t97} {cielos N t98} {nuevamente A t99}
+{a P t100} {Satán R t101} {redimido G t102} {y C t103} {perdonado V t104} {. O t105}

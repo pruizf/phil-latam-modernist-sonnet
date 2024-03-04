@@ -1,0 +1,14 @@
+{Andreve R} {, O} {el D} {alma N} {que Q} {se Q} {dulcifica V}	O		
+{con P} {el D} {contacto N} {de P} {las D} {cosas N} {bellas G} {, O}	O		
+{tiene V} {una D} {suave G} {irradiacin N} {de P} {estrellas N}	O		
+{y C} {un D} {don N} {de P} {sol N} {que Q} {todo Q} {magnifica G} {. O}	O		
+{La D} {idea N} {alumbra G} {y C} {la D} {palabra N} {explica V}	B	enlace_od_verb	ld02
+{lo D} {que Q} {al P} {pensar V} {dan V} {las D} {Nuevas R} {Doncellas R} {; O}	I	enlace_od_verb	ld02
+{se Q} {anuncia V} {amor N} {y C} {se Q} {borran V} {querellas N}	O		
+{si C} {Eros R} {levanta V} {cátedra N} {y C} {explica V} {. O}	O		
+{Amor R} {y C} {Sol R} {y C} {Amor R} {y C} {Sol R} {. O} {¡ O} {Que C} {al P} {viento N}	O		
+{den V} {la D} {ilusin N} {para P} {la D} {dicha N} {humana G} {, O}	O		
+{pues C} {al P} {viento N} {van V} {verbo N} {y C} {pensamiento N} {! O}	O		
+{Y C} {luz N} {y C} {vida N} {para P} {el D} {alma N} {hermana N}	B	oracional	cp01
+{que Q} {hace V} {brotar V} {mi D} {puro G} {sentimiento N}	IB	oracional;sirrem_noun_prep	cp01;pd02
+{por P} {noble G} {, O} {pura G} {, O} {consecuente G} {y C} {sana G} {. O}	I	sirrem_noun_prep	pd02

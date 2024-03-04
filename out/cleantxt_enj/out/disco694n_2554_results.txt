@@ -1,0 +1,14 @@
+{¡ O} {Dafne O} {, O} {divina G} {Dafne R} {! O} {Buscar R} {quiero V} {la D} {leve G}	B	sirrem_adj_noun	pp02
+{cafía N} {que Q} {corresponda V} {a P} {tus D} {labios N} {esquivos G} {; O}	I	sirrem_adj_noun	pp02
+{haré V} {de P} {ella Q} {mi D} {flauta N} {e C} {inventaré V} {motivos N}	B	oracional	cp01
+{que Q} {extasiarán V} {de P} {amor N} {a P} {los D} {cisnes N} {de P} {nieve N} {. O}	I	oracional	cp01
+{Al P} {canto N} {mío D} {el D} {tiempo N} {parecerá V} {más A} {breve G} {; O}	O		
+{como C} {Pan N} {en P} {el D} {campo N} {haré V} {danzar V} {los D} {chivos N} {; O}	O		
+{como C} {Orfeo R} {tendré V} {los D} {leones N} {cautivos N} {, O}	O		
+{y C} {moveré V} {el D} {imperio N} {de P} {Amor R} {que Q} {todo Q} {mueve V} {. O}	O		
+{Y C} {todo D} {será V} {, O} {Dafne R} {, O} {por P} {la D} {virtud N} {secreta G}	B	oracional	cp01
+{que Q} {en P} {la D} {fibra N} {sutil G} {de P} {la D} {cafía N} {coloca V}	IB	oracional;enlace_od_verb	cp01;ld02
+{con P} {la D} {pasin N} {del P} {dios N} {el D} {suefío N} {del P} {poeta N} {; O}	I	enlace_od_verb	ld02
+{porque C} {si C} {de P} {la D} {flauta N} {la D} {boca N} {mía Q} {toca V}	B	enlace_subj_verb	ld01
+{el D} {sonoro G} {carrizo N} {, O} {su D} {misterio N} {interpreta V}	I	enlace_subj_verb	ld01
+{y C} {la D} {armonía N} {nace V} {del P} {beso N} {de P} {tu D} {boca N} {. O}	O		

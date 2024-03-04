@@ -1,0 +1,14 @@
+{El D t1} {hermoso G t2} {Hilarión R t3}
+{sobre P t4} {un D t5} {fondo N t6} {de P t7} {añil N t8} {, O t9}
+{pinta V t10} {el D t11} {raro G t12} {perfil N t13}
+{del P t14} {cuerpo N t15} {de P t16} {un D t17} {dragón N t18} {. O t19}
+{Un D t20} {lirio N t21} {de P t22} {Sión R t23} {, O t24}
+{de P t25} {cáliz N t26} {de P t27} {marfil N t28} {, O t29}
+{flor N t30} {de P t31} {un D t32} {divino G t33} {abril O t34} {, O t35}
+{corona N t36} {la D t37} {ilusión N t38} {. O t39}
+{En P t40} {el D t41} {salmo N t42} {triunfal G t43}
+{un D t44} {símbolo N t45} {inmortal G t46}
+{inicia V t47} {de P t48} {Israel R t49} {. O t50}
+{La D t51} {victoria N t52} {marcial G t53}
+{en P t54} {la D t55} {pálida G t56} {piel N t57}
+{del P t58} {libro N t59} {medioeval G t60} {. O t61}

@@ -1,0 +1,14 @@
+{Ninfa R} {del P} {prado N} {, O} {que Q} {a P} {la D} {vega N} {sales G}	B	enlace_subj_verb	ld01
+{vertiendo V} {aromas N} {y C} {regando V} {flores N} {; O}	I	enlace_subj_verb	ld01
+{que C} {te Q} {meces V} {en P} {juncos G} {tembladores N}	O		
+{a P} {la D} {orilla N} {de P} {plácidos N} {raudales G} {; O}	O		
+{que C} {te Q} {bañas N} {en P} {líquidos N} {cristales N}	O		
+{al P} {son N} {del P} {aire N} {que Q} {murmura V} {amores N} {, O}	O		
+{respóndeme V} {: O} {¿ O} {has V} {probado V} {los D} {dulzores N}	B	sirrem_noun_prep	pp06.1
+{de P} {la D} {miel N} {que Q} {se Q} {guarda V} {en P} {los D} {panales N} {? O}	I	sirrem_noun_prep	pp06.1
+{Ninfa R} {del P} {prado N} {: O} {si C} {probaste V} {un D} {día N}	B	enlace_od_verb	ld02
+{la D} {miel N} {de P} {los D} {panales N} {regalada G} {, O}	I	enlace_od_verb	ld02
+{¿ O} {no A} {es V} {verdad N} {que C} {esa D} {miel N} {es V} {ambrosía N} {? O}	O		
+{Pues C} {para P} {el D} {alma N} {ardiente G} {, O} {enamorada G} {, O}	O		
+{hay V} {una D} {miel N} {más A} {dulce G} {todavía A} {, O}	O		
+{y C} {es V} {el D} {sí Q} {de P} {los D} {labios N} {de P} {una D} {amada N} {. O}	O		

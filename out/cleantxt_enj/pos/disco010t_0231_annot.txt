@@ -1,0 +1,14 @@
+{Poeta R t1} {: O t2} {¡ O t3} {sacrifícate V t4} {al P t5} {Derecho R t6} {! O t7}
+{Cuando C t8} {lancearlo V t9} {quieran V t10} {, O t11} {con P t12} {tu D t13} {mano N t14}
+{junta G t15} {las D t16} {lanzas N t17} {, O t18} {como C t19} {el D t20} {gran G t21} {romano G t22} {; O t23}
+{y C t24} {dirígelas N t25} {todas D t26} {a P t27} {tu D t28} {pecho N t29} {. O t30}
+{Tu D t31} {verbo N t32} {sea V t33} {temporal G t34} {desecho N t35} {, O t36}
+{que Q t37} {obscurezca V t38} {los D t39} {días N t40} {del P t41} {tirano N t42} {; O t43}
+{y C t44} {por P t45} {las D t46} {noches N t47} {, O t48} {cual Q t49} {fantasma N t50} {insano G t51} {, O t52}
+{vela N t53} {en P t54} {la D t55} {cabecera N t56} {de P t57} {su D t58} {lecho N t59} {... O t60}
+{Bruto R t61} {es V t62} {tan A t63} {héroe N t64} {cuando C t65} {a P t66} {César R t67} {mata V t68}
+{como C t69} {cuando C t70} {la D t71} {vida N t72} {se Q t73} {arrebata V t74} {: O t75}
+{si C t76} {el D t77} {odio N t78} {es V t79} {justo G t80} {, O t81} {el D t82} {crimen N t83} {dignifica G t84} {... O t85}
+{Poeta R t86} {: O t87} {el D t88} {criminal G t89} {tiene V t90} {su D t91} {aureola N t92} {; O t93}
+{¡ O t94} {porque C t95} {, O t96} {si C t97} {es V t98} {héroe N t99} {quien Q t100} {su D t101} {vida N t102} {inmola V t103} {, O t104}
+{es V t105} {más A t106} {héroe N t107} {quien Q t108} {su D t109} {honra N t110} {sacrifica V t111} {! O t112} {... O t113}

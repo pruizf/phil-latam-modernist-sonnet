@@ -1,0 +1,14 @@
+{Para P t1} {el D t2} {varón N t3} {eximio G t4} {que Q t5} {proclama V t6}
+{la D t7} {ley N t8} {de P t9} {la D t10} {verdad N t11} {; O t12} {para P t13} {el D t14} {severo G t15}
+{vate N t16} {que Q t17} {halla V t18} {en P t19} {luz N t20} {rico G t21} {minero G t22}
+{y C t23} {a P t24} {sublimes N t25} {regiones N t26} {se Q t27} {encarama V t28} {; O t29}
+{para P t30} {el D t31} {que Q t32} {siente V t33} {la D t34} {divina G t35} {llama N t36}
+{de P t37} {inmensa G t38} {inspiraci6n O t39} {, O t40} {y C t41} {el D t42} {santo G t43} {fuero N t44}
+{de P t45} {la D t46} {virtud N t47} {defiende V t48} {, O t49} {y C t50} {pregonero V t51}
+{de P t52} {la D t53} {razón N t54} {, O t55} {su D t56} {mejestad N t57} {proclama V t58} {; O t59}
+{para P t60} {ése Q t61} {tiene V t62} {Historia R t63} {excelsa G t64} {lumbre N t65} {, O t66}
+{Humanidad R t67} {un D t68} {lauro N t69} {relumbrante G t70} {, O t71}
+{y C t72} {Patria R t73} {una D t74} {guirnalda N t75} {de P t76} {victoria N t77} {; O t78}
+{un D t79} {eterno G t80} {clamor N t81} {la D t82} {muchedumbre N t83} {, O t84}
+{y C t85} {el D t86} {Poeta R t87} {una D t88} {lira N t89} {resonante G t90}
+{para P t91} {contar V t92} {antífonas N t93} {de P t94} {gloria N t95} {. O t96}
