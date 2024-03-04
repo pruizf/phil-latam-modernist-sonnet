@@ -81,7 +81,7 @@ First the per-author TEI were created with `txt2tei.py`. Then based on that, the
 
 Then enjambment annotations are obtained based on the per-sonnet text versions. Then the procedure was run again to inject the enjambment results into the per-author files, and the per-sonnet files are generated again.
 
-For ANJA, the following command was run:
+For [ANJA](https://github.com/pruizf/anja), the following command was run:
 
 ```
 python2 run_anja.py -b ame-001 -i 'out/cleantxt' -n 'out/cleantxt_enj/nlp' -p 'out/cleantxt_enj/pos' -o 'out/cleantxt_enj/out' -l 'out/cleantxt_enj/logs' -e 'out/cleantxt_enj/prepro'
@@ -101,7 +101,7 @@ Tags were translated to English with `scripts/translate_anja_tags.py` at the too
 
 The files were reannotated for metrics, as follows:
 
-- The scansion tool originally chosen was Rantanplan, but it became clear that Jumper performs better with this corpus (given the large proprotion of complex meter, with ≥ 12 metrical syllables). So we did the following:
+- The scansion tool originally chosen was [Rantanplan](https://github.com/linhd-postdata/rantanplan), but it became clear that [Jumper](https://github.com/grmarco/jumper) performs better with this corpus (given the large proprotion of complex meter, with ≥ 12 metrical syllables). So we did the following:
     - Reannotate with Jumper, in two ways:
         - Giving entire subcorpora to the tool (Latin American vs. Filipino), with `jumper_scansion.py` preceded by `collect_filipino_text.sh`.
         - Doing per-poem scansion; it is configurable in `ameconfig.py` whether Rantanplan or Jumper will be used, and scansion takes place per poem, when generating the TEI with `txt2tei.py`
