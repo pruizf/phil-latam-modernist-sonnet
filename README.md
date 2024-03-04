@@ -109,7 +109,7 @@ The files were reannotated for metrics, as follows:
 
 ### Corpus splits
 
-As regards the creation of the different ways to present the content in this corpus (`per-author` and `per-sonnet` splits), the paragraphs below describe each script, but `create_corpus.sh` already automates most of the workflow, with options to select which parts to run.
+The data were integrated in the [DISCO](https://github.com/pruizf/disco) corpus. As regards the different ways to organize data in DISCO (`per-author` and `per-sonnet` splits), the paragraphs below describe each script, but `create_corpus.sh` already automates most of the workflow, with options to select which parts to run.
 
 #### TEI Per-author files
 
@@ -137,7 +137,7 @@ Both take the per-sonnet TEI directories as their input.
 
 ### Other processing
 
-Some textual errors were corrected by Clara in the dataframe with the metrics results, these corrections were reflected back into the TEI corpus with `source_corrections.py`.
+Besides correcting prosodic annotations, some textual errors were corrected by Clara in the dataframe with the metrics results. These corrections were reflected back into the TEI corpus with `source_corrections.py`.
 
 ### Public versions
 
