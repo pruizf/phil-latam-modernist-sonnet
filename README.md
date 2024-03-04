@@ -84,7 +84,6 @@ Then enjambment annotations are obtained based on the per-sonnet text versions. 
 For ANJA, the following command was run:
 
 ```
-
 python2 run_anja.py -b ame-001 -i 'out/cleantxt' -n 'out/cleantxt_enj/nlp' -p 'out/cleantxt_enj/pos' -o 'out/cleantxt_enj/out' -l 'out/cleantxt_enj/logs' -e 'out/cleantxt_enj/prepro'
 ```
 
@@ -142,7 +141,7 @@ Some textual errors were corrected by Clara in the dataframe with the metrics re
 
 ### Public versions
 
-- The TEI were copied to the public repository, but the author ID for Chocano was modified prior to that (which affects file names for this author, their content and the content of metadata tables). This was done to maintain the same practice as in earlier releases, where authors some of whose production takes place up to 1936 are kept together with other 19th-century authors. Given this, his ID was changed to `592n` (a 19th-century ID in this corpus) instead of `010t` and (in `create_corpus.sh`) the files were copied to the `19th` directories.
+- The TEI were copied to the [public DISCO repository](https://github.com/pruizf/disco), but the author ID for Chocano was modified prior to that (which affects file names for this author, their content and the content of metadata tables). This was done to maintain the same practice as in earlier releases, where authors some of whose production takes place up to 1936 are kept together with other 19th-century authors. Given this, his ID was changed to `592n` (a 19th-century ID in this corpus) instead of `010t` and (in `create_corpus.sh`) the files were copied to the `19th` directories.
 - Other modifications done directly in the public repo:
     - Changing last name for Chocano to "Santos Chocano" in the relevant `teiHeader` elements and in the metadata tables like `poem_metadata.tsv`
     - Adding schema declaration to individual sonnets (so far it was only there in the per-author sonnets that the individual sonnets are generated from), with `add_schema_declaration_to_indiv_sonnets.sh`
