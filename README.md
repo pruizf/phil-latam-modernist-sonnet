@@ -1,6 +1,8 @@
 Data and code for distant analysis of Hispano-Filipino Modernism vs. Latin-American Modernism
 ========================
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10782495.svg)](https://doi.org/10.5281/zenodo.10782495)
+
 This repository contains data and code for the following paper:
 
 > Martínez Cantón, C., Ortuño Casanova, R., & Ruiz Fabo, P. (accepted) ¿Es el modernismo hispanofilipino una simple copia del latinoamericano? Un análisis distante de la forma y el contenido de dos corpus de sonetos [Is Hispano-Filipino Modernism a Mere Copy of Latin American Modernism? A Distant Analysis of the Form and Content of Two Sonnet Corpora], accepted in February 2024 to appear at [*Ogigia*](https://revistas.uva.es/index.php/ogigia).
@@ -101,7 +103,7 @@ Tags were translated to English with `scripts/translate_anja_tags.py` at the too
 
 The files were reannotated for metrics, as follows:
 
-- The scansion tool originally chosen was [Rantanplan](https://github.com/linhd-postdata/rantanplan), but it became clear that [Jumper](https://github.com/grmarco/jumper) performs better with this corpus (given the large proprotion of complex meter, with ≥ 12 metrical syllables). So we did the following:
+- The scansion tool originally chosen was [Rantanplan](https://pypi.org/project/rantanplan/), but it became clear that [Jumper](https://github.com/grmarco/jumper) performs better with this corpus (given the large proprotion of complex meter, with ≥ 12 metrical syllables). So we did the following:
     - Reannotate with Jumper, in two ways:
         - Giving entire subcorpora to the tool (Latin American vs. Filipino), with `jumper_scansion.py` preceded by `collect_filipino_text.sh`.
         - Doing per-poem scansion; it is configurable in `ameconfig.py` whether Rantanplan or Jumper will be used, and scansion takes place per poem, when generating the TEI with `txt2tei.py`
